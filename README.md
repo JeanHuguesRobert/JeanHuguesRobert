@@ -51,16 +51,15 @@ The model: the sun belongs to everyone who lives under it.
 
 ---
 
-## Recent publications
+## Recent working papers
 
 **April 2026 — *The Generalized Tocqueville Law***  
-*Submitted to European Journal of Social Theory*  
-In any progressing society, the perception of residual defects grows faster than their objective reduction. The paper formalises this as a structural law with four constitutive mechanisms, introduces a *perceived severity index* S(t) = Δ(t)/(1 − Q(t)) shown to increase monotonically as quality approaches perfection, and develops three case studies: aviation safety, digital content moderation, and Corsican nationalist mobilisation. Working paper first posted October 2025.
+In any progressing society, the perception of residual defects grows faster than their objective reduction. Formalises this as a structural law with four constitutive mechanisms, introduces a *perceived severity index* S(t) = Δ(t)/(1 − Q(t)) shown to increase monotonically as quality approaches perfection, and develops three case studies: aviation safety, digital content moderation, and Corsican nationalist mobilisation. First posted October 2025.
 
 → [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) · [Interactive figures](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html) · [All research](https://github.com/JeanHuguesRobert/barons-Mariani)
 
-**June 2026 — *Constellia*** *(with Guillermo Valdes)*  
-*Submitted to ICOME'26, Corte, June 10–12, 2026*  
+**2026 — *Constellia*** *(with Guillermo Valdes)*  
+*Submitted to ICOME'26, Corte, June 10–12, 2026 — response pending*  
 → [MareNostrum repository](https://github.com/JeanHuguesRobert/marenostrum)
 
 **2025–2026 — *Democratic Humans in the Loop* (DHITL)**  
