@@ -22,10 +22,10 @@ I am not an academic. I hold no institutional affiliation and consider this an a
 
 **1995 — C.O.R.S.I.C.A.**  
 *Corse Organisant la Réunion Sur Internet de Compétences Autonomes*  
-Founded in Corte in late 1995 — before blogs, before wikis, before the term "open source" was coined — and registered at the Corte sub-prefecture. An association dedicated to internet-based coordination of autonomous competencies. The question it was asking then is the same question I am asking now: how do distributed, autonomous agents coordinate without a center that can be captured?
+Founded in Corte in late 1995 — before blogs, before wikis, before the term "open source" was coined (February 1998) — and registered at the Corte sub-prefecture. An association dedicated to internet-based coordination of autonomous competencies. The question it was asking then is the same question I am asking now: how do distributed, autonomous agents coordinate without a center that can be captured?
 
 **1998–2001 — Odisei**  
-Co-founder of Odisei, a French VoIP startup acquired by 8x8 Inc. (NASDAQ: EGHT) in 1999. Named inventor on US patent [US7606221B2](https://patents.google.com/patent/US7606221B2/en) — *Network communications having endpoint device with automatic connection to IPBX* — an autodiscover protocol enabling endpoint devices to autonomously locate and connect to distributed server infrastructure.
+Employee #1, CTO, then CEO of the French subsidiary after acquisition. Odisei was a VoIP startup acquired by 8x8 Inc. (NASDAQ: EGHT) in 1999. Named inventor on US patent [US7606221B2](https://patents.google.com/patent/US7606221B2/en) — *Network communications having endpoint device with automatic connection to IPBX* — an autodiscover protocol enabling endpoint devices to autonomously locate and connect to distributed server infrastructure.
 
 The architectural question has simply changed scale since then.
 
@@ -48,6 +48,26 @@ The model: the sun belongs to everyone who lives under it.
 
 → [Full working paper and governance documents](https://github.com/JeanHuguesRobert/marenostrum)  
 → [Substack](https://jeanhugues.substack.com)
+
+---
+
+## Recent publications
+
+**April 2026 — *The Generalized Tocqueville Law***  
+*Submitted to European Journal of Social Theory*  
+In any progressing society, the perception of residual defects grows faster than their objective reduction. The paper formalises this as a structural law with four constitutive mechanisms, introduces a *perceived severity index* S(t) = Δ(t)/(1 − Q(t)) shown to increase monotonically as quality approaches perfection, and develops three case studies: aviation safety, digital content moderation, and Corsican nationalist mobilisation. Working paper first posted October 2025.
+
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) · [Interactive figures](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html) · [All research](https://github.com/JeanHuguesRobert/barons-Mariani)
+
+**June 2026 — *Constellia*** *(with Guillermo Valdes)*  
+*Submitted to ICOME'26, Corte, June 10–12, 2026*  
+→ [MareNostrum repository](https://github.com/JeanHuguesRobert/marenostrum)
+
+**2025–2026 — *Democratic Humans in the Loop* (DHITL)**  
+*Why Infrastructure Is All You Need for AI Safety*  
+Five-layer architecture for democratic AI governance. Introduces the Compute eXergy Unit (CXU = E × η_hw × η_sys × η_sla) as a thermodynamically grounded unit of account for AI compute, and a Compute Exergy Concentration Index as a structural measure of systemic AI risk.
+
+→ [DHITL.md](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
 
 ---
 
@@ -74,7 +94,8 @@ But the desert has good light.
 **Email:** jhr@baronsmariani.org · institutmariani@gmail.com  
 **GitHub:** [github.com/JeanHuguesRobert](https://github.com/JeanHuguesRobert) · [github.com/virteal](https://github.com/virteal)  
 **Substack:** [jeanhugues.substack.com](https://jeanhugues.substack.com)  
-**MareNostrum:** [github.com/JeanHuguesRobert/marenostrum](https://github.com/JeanHuguesRobert/marenostrum)
+**MareNostrum:** [github.com/JeanHuguesRobert/marenostrum](https://github.com/JeanHuguesRobert/marenostrum)  
+**Research:** [github.com/JeanHuguesRobert/barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani)
 
 ---
 
