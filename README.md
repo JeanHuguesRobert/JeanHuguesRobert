@@ -12,9 +12,33 @@ I was born on December 25, 1965, at noon precisely, in Nîmes — a Roman city b
 
 I have spent thirty years doing more or less the same thing.
 
-The thread running through all of it: **how do autonomous agents coordinate without a capturable centre?**
-
 I am not an academic. I hold no institutional affiliation and consider this an advantage. My method is what I call **Possibilisme**: the joyful exploration of what is potentially possible, valuing the discovery itself regardless of outcome. I follow the counsel of Georges Brassens, who said of dying for ideas: *"Yes — but slowly."*
+
+---
+
+## The project
+
+One question, thirty years, five scales.
+
+**How do autonomous agents coordinate without a capturable centre?**
+
+This is not a metaphor. It is the same architectural question asked simultaneously at the level of a programming language, a sensor network, an energy grid, a governance institution, and a political territory.
+
+| Scale | Response |
+|---|---|
+| Language | [Inox](https://github.com/virteal/Inox) — stack VM with strict control/data plane separation |
+| Network | [Patent US7606221B2](https://patents.google.com/patent/US7606221B2/en) — autodiscover protocol, no capturable server |
+| Territory | [VIGILIA](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md) — distributed animal/vehicle detection, no central infrastructure |
+| Governance | [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum) · [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) · Kudocracy — anti-capture commons |
+| Politics | [Plan 2038](https://github.com/JeanHuguesRobert/barons-Mariani) · C.O.R.S.I.C.A. · Mariani Village |
+
+The social science research is not separate from this — it is the **diagnostic that makes the architecture necessary**:
+
+- The [**Generalized Tocqueville Law**](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) explains why residual centralisation becomes structurally intolerable as institutions improve — the theoretical engine that makes distributed governance not merely desirable but inevitable.
+- [***Invidia***](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/invidia.md) explains why concentrated success is destroyed in dense social networks — which is why distributing success structurally is the only stable equilibrium.
+- [***Protection responsable***](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/protection_responsable.md) shows that siloed institutions fail at transitions — the same argument as DHITL, applied to social protection law.
+
+**Corsica is not the subject. It is the laboratory** — small enough to be legible, peripheral enough to be less captured than the centre, Mediterranean enough to generalise.
 
 ---
 
@@ -22,7 +46,7 @@ I am not an academic. I hold no institutional affiliation and consider this an a
 
 **1995 — C.O.R.S.I.C.A.**  
 *Corse Organisant la Réunion Sur Internet de Compétences Autonomes*  
-Founded in Corte in late 1995 — before blogs, before wikis, before the term "open source" was coined (February 1998) — and registered at the Corte sub-prefecture. An association dedicated to internet-based coordination of autonomous competencies. The question it was asking then is the same question I am asking now: how do distributed, autonomous agents coordinate without a center that can be captured?
+Founded in Corte in late 1995 — before blogs, before wikis, before the term "open source" was coined (February 1998). An association dedicated to internet-based coordination of autonomous competencies. The question it was asking then is the same question I am asking now.
 
 **1998–2001 — Odisei**  
 Employee #1, CTO, then CEO of the French subsidiary after acquisition. Odisei was a VoIP startup acquired by 8x8 Inc. (NASDAQ: EGHT) in 1999. Named inventor on US patent [US7606221B2](https://patents.google.com/patent/US7606221B2/en) — *Network communications having endpoint device with automatic connection to IPBX* — an autodiscover protocol enabling endpoint devices to autonomously locate and connect to distributed server infrastructure.
@@ -30,9 +54,7 @@ Employee #1, CTO, then CEO of the French subsidiary after acquisition. Odisei wa
 The architectural question has simply changed scale since then.
 
 **2021–present — Inox** *(alias: [virteal](https://github.com/virteal/Inox))*  
-A concatenative script language for edge computing, IoT, and ML-era distributed systems. Forth/Smalltalk/Erlang-inspired stack-based VM. Named values, reactive sets, actors, multiple dialects, strict separation of control plane from data plane. Targets nodejs, WASM, ESP32. The grand plan: an AI-driven distributed system that evolves according to the law of evolution. 1,524-line specification. WIP — started June 2021.
-
-The control/data plane separation is the same architectural idea as the three-layer MareNostrum framework, asked at the language level.
+A concatenative script language for edge computing, IoT, and ML-era distributed systems. Forth/Smalltalk/Erlang-inspired stack-based VM. Named values, reactive sets, actors, multiple dialects, strict control/data plane separation. Targets nodejs, WASM, ESP32. The grand plan: an AI-driven distributed system that evolves according to the law of evolution. 1,524-line specification. WIP — started June 2021.
 
 **2022–present — Serra · Gabriel · Ubikial · Mailai**  
 AI-assisted coordination tools: reactive dashboards generated from natural language (Serra), personal AI assistant framework (Gabriel), multi-persona social media coordination (Ubikial), email AI assistant (Mailai).
@@ -46,27 +68,27 @@ The thesis: *infrastructure is all you need.*
 The territory: Corsica, Sardinia, Sicily, Tunisia.  
 The model: the sun belongs to everyone who lives under it.
 
-→ [Full working paper and governance documents](https://github.com/JeanHuguesRobert/marenostrum)  
-→ [Substack](https://jeanhugues.substack.com)
+→ [Full working paper and governance documents](https://github.com/JeanHuguesRobert/marenostrum)
 
 ---
 
 ## Recent working papers
 
 **April 2026 — *The Generalized Tocqueville Law***  
-In any progressing society, the perception of residual defects grows faster than their objective reduction. Formalises this as a structural law with four constitutive mechanisms, introduces a *perceived severity index* S(t) = Δ(t)/(1 − Q(t)) shown to increase monotonically as quality approaches perfection, and develops three case studies: aviation safety, digital content moderation, and Corsican nationalist mobilisation. First posted October 2025.
-
-→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) · [Interactive figures](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html) · [All research](https://github.com/JeanHuguesRobert/barons-Mariani)
+In any progressing society, the perception of residual defects grows faster than their objective reduction. Formalises this as a structural law with four constitutive mechanisms and a *perceived severity index* S(t) = Δ(t)/(1 − Q(t)), shown to increase monotonically as quality approaches perfection. Three case studies: aviation safety, digital content moderation, Corsican nationalist mobilisation. First posted October 2025.  
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) · [Figures](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html)
 
 **2026 — *Constellia*** *(with Guillermo Valdes)*  
-*Submitted to ICOME'26, Corte, June 10–12, 2026 — response pending*  
+Submitted to ICOME'26, Corte, June 10–12, 2026 — response pending.  
 → [MareNostrum repository](https://github.com/JeanHuguesRobert/marenostrum)
 
 **2025–2026 — *Democratic Humans in the Loop* (DHITL)**  
 *Why Infrastructure Is All You Need for AI Safety*  
-Five-layer architecture for democratic AI governance. Introduces the Compute eXergy Unit (CXU = E × η_hw × η_sys × η_sla) as a thermodynamically grounded unit of account for AI compute, and a Compute Exergy Concentration Index as a structural measure of systemic AI risk.
-
+Five-layer architecture for democratic AI governance. Introduces the Compute eXergy Unit (CXU = E × η_hw × η_sys × η_sla) as a thermodynamically grounded unit of account for AI compute, and a Compute Exergy Concentration Index as a structural measure of systemic AI risk.  
 → [DHITL.md](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
+
+*All research published in the open as it develops:*  
+→ [github.com/JeanHuguesRobert/barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani) · [Les Carnets du Baron Mariani](https://jeanhugues.substack.com)
 
 ---
 
