@@ -120,5 +120,5 @@ But the desert has good light.
 
 ---
 
-*© 2026 Jean Hugues Noël Robert, baron Mariani — C.O.R.S.I.C.A. / Institut Mariani R&D, Corte*  
+*© 2026 Jean Hugues Noël Robert, baron Mariani — C.O.R.S.I.C.A. / Institut Mariani, 1 cours Paoli, F-20250, Corte*  
 *Published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
