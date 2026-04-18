@@ -12,7 +12,7 @@ I was born on December 25, 1965, at noon precisely, in Nîmes — a Roman city b
 
 I have spent thirty years doing more or less the same thing.
 
-I am not an academic. I hold no institutional affiliation and consider this an advantage. My method is what I call **Possibilisme**: the joyful exploration of what is potentially possible, valuing the discovery itself regardless of outcome. I follow the counsel of Georges Brassens, who said of dying for ideas: *"Yes — but slowly."*
+I am not an academic. I hold no institutional affiliation and consider this an advantage. My method is what I call **Possibilism**: the joyful exploration of what is potentially possible, valuing the discovery itself regardless of outcome. I follow the counsel of Georges Brassens, who said of dying for ideas: *"Yes — but slowly."*
 
 ---
 
