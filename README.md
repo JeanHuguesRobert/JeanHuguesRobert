@@ -29,12 +29,14 @@ This is not a metaphor. It is the same architectural question asked simultaneous
 | Language | [Inox](https://github.com/virteal/Inox) — stack VM with strict control/data plane separation |
 | Network | [Patent US7606221B2](https://patents.google.com/patent/US7606221B2/en) — autodiscover protocol, no capturable server |
 | Territory | [VIGILIA](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md) — distributed animal/vehicle detection, no central infrastructure |
+| Individual | [Cogentia](https://github.com/JeanHuguesRobert/cogentia) — sovereign digital twin (Cogentigram / Cogentiscope), Layer 4 of DHITL |
 | Governance | [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum) · [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) · Kudocracy — anti-capture commons |
 | Politics | [Plan 2038](https://github.com/JeanHuguesRobert/barons-Mariani) · C.O.R.S.I.C.A. · Mariani Village |
 
 The social science research is not separate from this — it is the **diagnostic that makes the architecture necessary**:
 
 - The [**Generalized Tocqueville Law**](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) explains why residual centralisation becomes structurally intolerable as institutions improve — the theoretical engine that makes distributed governance not merely desirable but inevitable.
+- [**Cogentia**](https://github.com/JeanHuguesRobert/cogentia) — the sovereign digital twin — shows why genuine personal AI alignment requires knowing yourself first, and why that knowledge must be owned by the individual, not the platform. Layer 4 of DHITL: without self-knowing participants, collective governance has no epistemic ground.
 - [***Invidia***](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/invidia.md) explains why concentrated success is destroyed in dense social networks — which is why distributing success structurally is the only stable equilibrium.
 - [***Protection responsable***](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/protection_responsable.md) shows that siloed institutions fail at transitions — the same argument as DHITL, applied to social protection law.
 
