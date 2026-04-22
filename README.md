@@ -72,6 +72,10 @@ The model: the sun belongs to everyone who lives under it.
 
 → [Full working paper and governance documents](https://github.com/JeanHuguesRobert/marenostrum)
 
+The companion research repository — institutional economics, administrative law,  
+political anthropology, uchronian museology — is at  
+[barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani).
+
 ---
 
 ## Recent working papers
