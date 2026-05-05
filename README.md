@@ -93,6 +93,12 @@ Submitted to ICOME'26, Corte, June 10–12, 2026 — response pending.
 Five-layer architecture for democratic AI governance. Introduces the Compute eXergy Unit (CXU = E × η_hw × η_sys × η_sla) as a thermodynamically grounded unit of account for AI compute, and a Compute Exergy Concentration Index as a structural measure of systemic AI risk.  
 → [DHITL.md](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
 
+## Publications académiques (en cours)
+
+- [From Sun to Sovereignty](https://github.com/JeanHuguesRobert/marenostrum/blob/main/PAPER_SUN_TO_SOVEREIGNTY.md)
+  Communal Sovereign Funds, chaîne photons→inférences, étude de cas Corse.
+  Institut Mariani, 2026. (dépôt : `marenostrum`, licence CC BY-SA 4.0)
+
 *All research published in the open as it develops:*  
 → [github.com/JeanHuguesRobert/barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani) · [Les Carnets du Baron Mariani](https://jeanhugues.substack.com)
 
