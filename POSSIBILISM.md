@@ -73,6 +73,22 @@ It tends to distrust:
 
 ---
 
+## Democratic Invariant
+
+Possibilism assumes that legitimate political sovereignty ultimately belongs to biological human beings.
+
+Its democratic invariant is therefore:
+
+> One Human, One Voice.
+
+Artificial intelligence may assist, augment, advise, simulate or help coordinate human societies.
+
+But it must not become a substitute for human political sovereignty.
+
+Personal AI systems (“digital twins”, cognitive assistants, “Angel Gabriel” systems) are therefore conceived as instruments of cognitive symmetrization intended to preserve meaningful democratic participation in the age of industrialized cognition.
+
+---
+
 ## Artificial Intelligence
 
 Artificial intelligence is neither inherently liberating nor inherently oppressive.
