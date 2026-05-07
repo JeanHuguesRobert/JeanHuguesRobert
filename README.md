@@ -51,7 +51,25 @@ This is why I favor:
 
 ## The project
 
-One question, thirty years, five scales.
+### Quick Orientation
+
+This ecosystem combines:
+- distributed systems engineering,
+- democratic governance research,
+- AI safety infrastructure,
+- energy sovereignty,
+- cognitive augmentation,
+- and transmissible memory systems.
+
+Its central objective is:
+
+> preserving humanity’s capacity to explore possible futures in the age of artificial intelligence.
+
+Its democratic invariant is:
+
+> One Human, One Voice.
+
+## One question, thirty years, five scales.
 
 **How can humanity preserve its capacity to explore possible futures in the age of industrialized cognition?**
 
