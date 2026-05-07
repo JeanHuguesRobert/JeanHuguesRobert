@@ -107,6 +107,26 @@ Possibilism is the common philosophical framework connecting these problems.
 
 ---
 
+## Why Corsica?
+
+Corsica is not merely a subject of study.
+It is a strategic laboratory.
+
+It is:
+- small enough to remain legible,
+- politically semi-peripheral,
+- culturally resilient,
+- energetically constrained,
+- and sufficiently bounded to experiment with sovereignty architectures.
+
+Many systems become observable at Corsican scale before they become visible at continental scale.
+
+The objective is not Corsican exceptionalism.
+
+The objective is to explore governance, infrastructure and cognitive architectures in a territory small enough to remain understandable while still large enough to matter.
+
+---
+
 ## Repository Map
 
 | Repo | Purpose | Branch |
