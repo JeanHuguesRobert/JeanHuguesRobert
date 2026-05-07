@@ -202,4 +202,52 @@ GitHub Pages active on barons-Mariani: `https://jeanhuguesrobert.github.io/baron
 
 ---
 
+## Reality Anchors
+
+The ecosystem is intentionally grounded in real-world constraints and deployments.
+
+This is not a purely speculative framework.
+
+Key reality anchors include:
+
+- Physical territory:
+  - Corte,
+  - Minesteggio,
+  - Corsica,
+  - Mediterranean island systems.
+
+- Existing institutions:
+  - C.O.R.S.I.C.A. (1995),
+  - Institut Mariani,
+  - DRAC Corse interactions,
+  - academic conference submissions,
+  - local political campaigns.
+
+- Operational constraints:
+  - limited financial resources,
+  - low-cost infrastructure,
+  - incremental deployment,
+  - public transparency.
+
+- Existing technical systems:
+  - LoRaWAN deployments,
+  - weather stations,
+  - distributed sensing,
+  - GitHub-based workflows,
+  - edge-computing experiments,
+  - mobile energy concepts.
+
+- Human continuity:
+  - family history,
+  - transmission problems,
+  - institutional memory,
+  - democratic participation,
+  - cognitive augmentation.
+
+The purpose is not to build an abstract utopia.
+
+The purpose is to explore viable anti-capture infrastructures under real-world conditions.
+
+---
+
 *Maintained by Jean Hugues Noël Robert in collaboration with Claude (Anthropic). CC BY 4.0.*
