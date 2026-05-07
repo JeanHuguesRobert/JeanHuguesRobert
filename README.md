@@ -117,6 +117,17 @@ The thesis: *infrastructure is all you need.*
 The territory: Corsica, Sardinia, Sicily, Tunisia.  
 The model: the sun belongs to everyone who lives under it.
 
+The primary AI risk is not machine rebellion.
+
+The primary risk is irreversible techno-political lock-in:
+- concentrated compute,
+- opaque algorithmic governance,
+- cognitive dependency,
+- behavioral shaping,
+- and democratic irreversibility.
+
+The objective is therefore not to stop AI, but to distribute cognitive power symmetrically enough to preserve democracy.
+
 → [Full working paper and governance documents](https://github.com/JeanHuguesRobert/marenostrum)
 
 The companion research repository — institutional economics, administrative law,  
