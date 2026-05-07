@@ -134,6 +134,7 @@ The objective is to explore governance, infrastructure and cognitive architectur
 | [JeanHuguesRobert/JeanHuguesRobert](https://github.com/JeanHuguesRobert/JeanHuguesRobert) | Profile — entry point to the ecosystem | main |
 | [JeanHuguesRobert/barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani) | Social science research + campaign + family | main |
 | [JeanHuguesRobert/marenostrum](https://github.com/JeanHuguesRobert/marenostrum) | AI governance + energy sovereignty framework | main |
+| [JeanHuguesRobert/FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta) | Distributed photon-to-inference infrastructure | main |
 | [JeanHuguesRobert/cogentia](https://github.com/JeanHuguesRobert/cogentia) | Sovereign digital twin MVP | main |
 | [virteal/Inox](https://github.com/virteal/Inox) | Concatenative language — edge runtime | master |
 
