@@ -12,6 +12,49 @@ Everything else in this repository ecosystem is an answer to this question at a 
 
 ---
 
+## Core Philosophical Position
+
+The underlying doctrine is Possibilism.
+
+A society is free insofar as it preserves and expands the space of accessible futures for individuals and communities.
+
+The central civilizational risk of the AI era is irreversible cognitive concentration:
+- concentration of compute,
+- concentration of influence,
+- concentration of memory,
+- concentration of coordination capacity.
+
+All projects in this ecosystem are therefore attempts to design anti-capture infrastructures preserving:
+- democratic sovereignty,
+- cognitive sovereignty,
+- and civilizational optionality.
+
+---
+
+## Civilizational Threat Model
+
+The primary risk is not AI rebellion.
+
+The primary risk is stable techno-political lock-in:
+- opaque infrastructures,
+- centralized cognition,
+- algorithmic dependency,
+- concentrated compute,
+- reduction of democratic reversibility,
+- and gradual loss of humanity’s exploratory capacity.
+
+The objective is therefore not to prevent AI, but to distribute cognitive power symmetrically enough to preserve democracy.
+
+This is why the ecosystem systematically favors:
+- open source,
+- auditability,
+- traceability,
+- distributed infrastructure,
+- local autonomy,
+- and democratic governance.
+
+---
+
 ## Current Priorities (April 2026)
 
 1. **ICOME'26** — waiting for acceptance of *Constellia* (co-authored with Guillermo Valdes). Conference in Corte, June 10–12, 2026. This is the first formal academic step.
