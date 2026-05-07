@@ -45,6 +45,8 @@ This is why I favor:
 - traceability,
 - and transmissible memory.
 
+→ [Possibilism.md](./POSSIBILISM.md)
+
 ---
 
 ## The project
