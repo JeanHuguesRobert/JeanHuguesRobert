@@ -49,7 +49,11 @@ This is why I favor:
 
 One question, thirty years, five scales.
 
-**How do autonomous agents coordinate without a capturable centre?**
+**How can humanity preserve its capacity to explore possible futures in the age of industrialized cognition?**
+
+The anti-capture architecture described throughout this repository ecosystem is my current answer.
+
+At each scale, the same problem appears again: how to coordinate autonomous agents without creating a capturable centre.
 
 This is not a metaphor. It is the same architectural question asked simultaneously at the level of a programming language, a sensor network, an energy grid, a governance institution, and a political territory.
 
