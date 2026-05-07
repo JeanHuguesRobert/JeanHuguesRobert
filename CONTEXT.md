@@ -90,6 +90,23 @@ The social science research is the **diagnostic** that makes the architecture ne
 
 ---
 
+## Great Problems
+
+The projects in this ecosystem are different attacks against a shared set of long-term problems:
+
+1. Preserve human cognitive sovereignty in the age of AI.
+2. Prevent irreversible concentrations of power.
+3. Build distributed infrastructures for energy, compute and coordination.
+4. Preserve humanity’s ability to explore alternative futures.
+5. Create democratic systems compatible with machine-scale cognition.
+6. Build institutions capable of surviving biological mortality.
+7. Transform heritage into living civilizational infrastructure.
+8. Preserve inspectability of the systems governing reality.
+
+Possibilism is the common philosophical framework connecting these problems.
+
+---
+
 ## Repository Map
 
 | Repo | Purpose | Branch |
