@@ -66,6 +66,20 @@ This is not a metaphor. It is the same architectural question asked simultaneous
 | Governance | [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum) · [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) · Kudocracy — anti-capture commons |
 | Politics | [Plan 2038](https://github.com/JeanHuguesRobert/barons-Mariani) · C.O.R.S.I.C.A. · Mariani Village |
 
+Each project addresses the same civilizational problem at a different layer:
+
+| Project | Function |
+|---|---|
+| Inox | uncapturable computational substrate |
+| Patent US7606221B2 | decentralized network discovery |
+| VIGILIA | distributed territorial sensing |
+| Cogentia | personal cognitive sovereignty |
+| DHITL | democratic AI governance |
+| MareNostrum | energy and compute sovereignty |
+| FractaVolta | distributed photon-to-inference infrastructure |
+| Kudocracy | democratic coordination at scale |
+| Fondation Barons Mariani | transmissible cultural memory |
+
 The social science research is not separate from this — it is the **diagnostic that makes the architecture necessary**:
 
 - The [**Generalized Tocqueville Law**](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) explains why residual centralisation becomes structurally intolerable as institutions improve — the theoretical engine that makes distributed governance not merely desirable but inevitable.
