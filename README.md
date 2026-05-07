@@ -1,7 +1,9 @@
 # Jean Hugues Noël Robert, baron Mariani
 
 *Independent researcher · Entrepreneur · Possibilist*  
+
 *1 cours Paoli, F-20250 Corte, Corsica, France*  
+
 *jhr@baronsmariani.org*
 
 ---
