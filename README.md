@@ -16,6 +16,35 @@ I am not an academic. I hold no institutional affiliation and consider this an a
 
 ---
 
+## Possibilism
+
+My underlying philosophical position is what I call **Possibilism**.
+
+Freedom is not merely the absence of constraints.
+Freedom is the effective capacity — individually and collectively — to explore possible futures.
+
+Civilizations become dangerous when concentrations of:
+- power,
+- computation,
+- memory,
+- coordination,
+- or influence
+
+reduce humanity’s ability to bifurcate toward alternative trajectories.
+
+The purpose of the projects presented here is therefore not technological progress for its own sake.
+It is the preservation and expansion of humanity’s exploratory capacity.
+
+This is why I favor:
+- distributed infrastructures,
+- open systems,
+- democratic reversibility,
+- cognitive sovereignty,
+- traceability,
+- and transmissible memory.
+
+---
+
 ## The project
 
 One question, thirty years, five scales.
