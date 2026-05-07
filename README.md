@@ -180,6 +180,30 @@ But the desert has good light.
 
 ---
 
+## Why Open Source?
+
+Open source is not merely an engineering preference.
+
+It is a civilizational anti-capture mechanism.
+
+Opaque infrastructures naturally concentrate power because they cannot be:
+- inspected,
+- audited,
+- forked,
+- or democratically contested.
+
+Open systems preserve humanity’s ability to:
+- understand,
+- modify,
+- reproduce,
+- and reorganize
+its own technical substrate.
+
+In possibilist terms:
+open systems preserve the space of accessible futures.
+
+---
+
 ## Contact
 
 **Email:** jhr@baronsmariani.org · institutmariani@gmail.com  
