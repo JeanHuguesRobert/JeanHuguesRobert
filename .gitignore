@@ -1,0 +1,5 @@
+# cogentia.js runtime queue — typed continuations created by `cogentia.js continuation`.
+# These are working-session state (task definitions, dormant chains, predecessors).
+# The persistent audit trail lives in .cogentia/audit.jsonl, which IS tracked.
+# Continuations are intentionally ephemeral; the audit log is the source of truth.
+.cogentia/continuations/
