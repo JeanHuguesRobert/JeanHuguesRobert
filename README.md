@@ -84,9 +84,9 @@ This is not a metaphor. It is the same architectural question asked simultaneous
 | Language | [Inox](https://github.com/virteal/Inox) — stack VM with strict control/data plane separation |
 | Network | [Patent US7606221B2](https://patents.google.com/patent/US7606221B2/en) — autodiscover protocol, no capturable server |
 | Territory | [VIGILIA](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md) — distributed animal/vehicle detection, no central infrastructure |
-| Individual | [Cogentia](https://github.com/JeanHuguesRobert/cogentia) — sovereign digital twin (Cogentigram / Cogentiscope), Layer 4 of DHITL |
+| Individual | [Cogentia](https://github.com/JeanHuguesRobert/cogentia) — sovereign digital twin, Layer 4 of DHITL |
 | Governance | [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum) · [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) · Kudocracy — anti-capture commons |
-| Politics | [Plan 2038](https://github.com/JeanHuguesRobert/barons-Mariani) · C.O.R.S.I.C.A. · Mariani Village |
+| Politics | [Autonomia](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) · Plan 2038 · [Test 1755](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md) · C.O.R.S.I.C.A. · Mariani Village |
 
 Each project addresses the same civilizational problem at a different layer:
 
@@ -160,6 +160,16 @@ political anthropology, uchronian museology — is at
 
 ## Recent working papers
 
+**May 2026 — *Autonomia***  
+*Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse.*  
+A theory of **autonomy of capacity** — what a territory becomes able to do, beyond formal sovereignty. The central doctrine of my senatorial campaign. §2.6 announces the first public auto-application: the 1755 test (international recognition of the Corsican Republic), conducted with or without electoral mandate as a logical condition of the thesis itself.  
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) · [1755 journal](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md)
+
+**May 2026 — *Democratic AI Safety***  
+*Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons.*  
+The political layer of AI Safety. Technical alignment is layer-incomplete: a model controllable by its deployer may still accelerate AI-augmented legal persons against the demos. Companion paper to DHITL.  
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md)
+
 **April 2026 — *The Generalized Tocqueville Law***  
 In any progressing society, the perception of residual defects grows faster than their objective reduction. Formalises this as a structural law with four constitutive mechanisms and a *perceived severity index* S(t) = Δ(t)/(1 − Q(t)), shown to increase monotonically as quality approaches perfection. Three case studies: aviation safety, digital content moderation, Corsican nationalist mobilisation. First posted October 2025.  
 → [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) · [Figures](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html)
@@ -189,6 +199,8 @@ Five-layer architecture for democratic AI governance. Introduces the Compute eXe
 I am a candidate for the French Senate, Haute-Corse, September 2026.
 
 The campaign is a continuation of the research by other means. The Plan 2038 — two senatorial mandates, a sovereign energy fund for Corsica, a universal basic income funded entirely from Corsican solar assets — is not a political programme bolted onto an intellectual project. It is the same project, finally at the right scale.
+
+The doctrine of the campaign — **autonomie de capacité** — is not a slogan. It claims that a territory increases its autonomy more surely by verifiable experimentations than by waiting for institutional grants. The first such experimentation, the 1755 test, is conducted now, with or without the mandate. That independence is not a tactical concession: it is a logical condition of the thesis.
 
 John the Baptist announced what was coming, then stepped aside.  
 Brassens said: die for ideas, yes — but slowly.  
