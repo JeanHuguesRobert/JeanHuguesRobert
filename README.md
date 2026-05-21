@@ -125,7 +125,7 @@ Employee #1, CTO, then CEO of the French subsidiary after acquisition. Odisei wa
 
 The architectural question has simply changed scale since then.
 
-**2021–present — Inox** *(alias: [virteal](https://github.com/virteal/Inox))*  
+**2021–present — Inox** *([real](https://github.com/JeanHuguesRobert/Inox), archive: [virteal](https://github.com/virteal/Inox))*  
 A concatenative script language for edge computing, IoT, and ML-era distributed systems. Forth/Smalltalk/Erlang-inspired stack-based VM. Named values, reactive sets, actors, multiple dialects, strict control/data plane separation. Targets nodejs, WASM, ESP32. The grand plan: an AI-driven distributed system that evolves according to the law of evolution. 1,524-line specification. WIP — started June 2021.
 
 **2022–present — Serra · Gabriel · Ubikial · Mailai**  
