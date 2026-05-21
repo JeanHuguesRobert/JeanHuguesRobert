@@ -165,6 +165,11 @@ A "digital hospitality" brick for sharing mobile data and battery between proxim
 
 ## Recent working papers
 
+**May 2026 — *La méthode des terrains féconds***  
+*Dépolariser par reconfiguration préalable des oppositions.*  
+A pre-deliberative protocol for depolarizing conflicts of ideas. Instead of compromise or rhetorical victory, identify the partial truths each side legitimately protects, detect their pathologies of absolutization, and relocate each truth to the layer where it becomes legitimate, limited, and composable. Founding example: capitalism/collectivism reconfigured as **common protocol, free operations**.  
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/methode_terrains_feconds.md)
+
 **May 2026 — *Kudocracy***  
 *Recommandation civique traçable, votations et démocratie liquide assistée par agents.*  
 A traceable civic-recommendation layer for votations, complementary to liquid democracy and adjacent to representative mandates. Distinguishes votation from election, recommendation from delegation, human from artificial agents — and locates a personal AI agent in that grid.  
