@@ -69,7 +69,7 @@ Its democratic invariant is:
 
 > One Human, One Voice.
 
-## One question, thirty years, five scales.
+## One question, thirty years, six scales.
 
 **How can humanity preserve its capacity to explore possible futures in the age of industrialized cognition?**
 
@@ -81,7 +81,7 @@ This is not a metaphor. It is the same architectural question asked simultaneous
 
 | Scale | Response |
 |---|---|
-| Language | [Inox](https://github.com/virteal/Inox) — stack VM with strict control/data plane separation |
+| Language | [Inox](https://github.com/JeanHuguesRobert/Inox) — concatenative stack VM with strict control/data plane separation, runtime substrate for the future *Fractanet* |
 | Network | [Patent US7606221B2](https://patents.google.com/patent/US7606221B2/en) — autodiscover protocol, no capturable server |
 | Territory | [VIGILIA](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md) — distributed animal/vehicle detection, no central infrastructure |
 | Individual | [Cogentia](https://github.com/JeanHuguesRobert/cogentia) — sovereign digital twin, Layer 4 of DHITL |
