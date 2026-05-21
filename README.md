@@ -81,7 +81,7 @@ This is not a metaphor. It is the same architectural question asked simultaneous
 
 | Scale | Response |
 |---|---|
-| Language | [Inox](https://github.com/virteal/Inox) — stack VM with strict control/data plane separation |
+| Language | [Inox](https://github.com/JeanHuguesRobert/Inox) — stack VM with strict control/data plane separation |
 | Network | [Patent US7606221B2](https://patents.google.com/patent/US7606221B2/en) — autodiscover protocol, no capturable server |
 | Territory | [VIGILIA](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md) — distributed animal/vehicle detection, no central infrastructure |
 | Individual | [Cogentia](https://github.com/JeanHuguesRobert/cogentia) — sovereign digital twin (Cogentigram / Cogentiscope), Layer 4 of DHITL |
@@ -124,7 +124,7 @@ Employee #1, CTO, then CEO of the French subsidiary after acquisition. Odisei wa
 
 The architectural question has simply changed scale since then.
 
-**2021–present — Inox** *(alias: [virteal](https://github.com/virteal/Inox))*  
+**2021–present — Inox** *([real](https://github.com/JeanHuguesRobert/Inox), archive: [virteal](https://github.com/virteal/Inox))*  
 A concatenative script language for edge computing, IoT, and ML-era distributed systems. Forth/Smalltalk/Erlang-inspired stack-based VM. Named values, reactive sets, actors, multiple dialects, strict control/data plane separation. Targets nodejs, WASM, ESP32. The grand plan: an AI-driven distributed system that evolves according to the law of evolution. 1,524-line specification. WIP — started June 2021.
 
 **2022–present — Serra · Gabriel · Ubikial · Mailai**  
