@@ -85,7 +85,7 @@ This is not a metaphor. It is the same architectural question asked simultaneous
 | Network | [Patent US7606221B2](https://patents.google.com/patent/US7606221B2/en) — autodiscover protocol, no capturable server |
 | Territory | [VIGILIA](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md) — distributed animal/vehicle detection, no central infrastructure |
 | Individual | [Cogentia](https://github.com/JeanHuguesRobert/cogentia) — sovereign digital twin, Layer 4 of DHITL |
-| Governance | [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum) · [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) · Kudocracy — anti-capture commons |
+| Governance | [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum) · [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) · [Kudocracy](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudocracy.md) · [Kudos](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudos.md) — anti-capture commons |
 | Politics | [Autonomia](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) · Plan 2038 · [Test 1755](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md) · C.O.R.S.I.C.A. · Mariani Village |
 
 Each project addresses the same civilizational problem at a different layer:
@@ -108,6 +108,7 @@ The social science research is not separate from this — it is the **diagnostic
 - [**Cogentia**](https://github.com/JeanHuguesRobert/cogentia) — the sovereign digital twin — shows why genuine personal AI alignment requires knowing yourself first, and why that knowledge must be owned by the individual, not the platform. Layer 4 of DHITL: without self-knowing participants, collective governance has no epistemic ground.
 - [***Invidia***](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/invidia.md) explains why concentrated success is destroyed in dense social networks — which is why distributing success structurally is the only stable equilibrium.
 - [***Protection responsable***](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/protection_responsable.md) shows that siloed institutions fail at transitions — the same argument as DHITL, applied to social protection law.
+- [***La pathologie du secret***](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/pathologie_du_secret.md) extends the human-imputability requirement that courts and patent offices already enforce for private rights to public acts and administrative decisions — showing why algorithmic opacity is a democratic pathology in itself, not merely an inconvenience.
 
 **Corsica is not the subject. It is the laboratory** — small enough to be legible, peripheral enough to be less captured than the centre, Mediterranean enough to generalise.
 
@@ -156,9 +157,33 @@ The companion research repository — institutional economics, administrative la
 political anthropology, uchronian museology — is at  
 [barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani).
 
+**2026 — *Auxilia* (Inseme platform)**  
+A "digital hospitality" brick for sharing mobile data and battery between proximate phones — the human instantiation of FractaVolta's *store-and-forward*. Composable module inside the [Inseme](https://github.com/JeanHuguesRobert/inseme) platform; concrete deliverable showing that the corpus moves from theory to artefact.  
+→ [Spec](https://github.com/JeanHuguesRobert/inseme/blob/main/packages/brique-auxilia/AUXILIA.md)
+
 ---
 
 ## Recent working papers
+
+**May 2026 — *Kudocracy***  
+*Recommandation civique traçable, votations et démocratie liquide assistée par agents.*  
+A traceable civic-recommendation layer for votations, complementary to liquid democracy and adjacent to representative mandates. Distinguishes votation from election, recommendation from delegation, human from artificial agents — and locates a personal AI agent in that grid.  
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudocracy.md)
+
+**May 2026 — *Kudos***  
+*A Maussian complementary currency, euro-backed, designed to reveal obstacles to the rational exploration of the possible.*  
+Superposition rather than substitution: the euro closes the transaction; Kudos opens the counter-gift — public, voluntary, nominative, transparent, traceable, and partially convertible.  
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudos.md)
+
+**May 2026 — *La pathologie du secret***  
+*Imputabilité humaine, traçabilité démocratique et refus de l'irresponsabilité artificielle.*  
+The legal-doctrinal companion to *Democratic AI Safety*, anchored in French and European positive law. Argues that the human-imputability requirement courts and patent offices already enforce for private rights must apply, more strongly, to public acts and administrative decisions. Case study: DataJust.  
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/pathologie_du_secret.md)
+
+**May 2026 — *Cognitive Packets***  
+*A Minimal Continuation Payload for Human–AI and Multi-Agent Cooperation.*  
+A typed, provider-neutral payload that lets a judgment be suspended and resumed by another agent — human or machine — without coupling. The transport layer for `cogentia.continuation.v1`.  
+→ [Paper](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md) · [Operational prompt](https://github.com/JeanHuguesRobert/cogentia/blob/main/prompts/cognitive_packet.md)
 
 **May 2026 — *Autonomia***  
 *Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse.*  
