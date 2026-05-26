@@ -190,10 +190,25 @@ The legal-doctrinal companion to *Democratic AI Safety*, anchored in French and 
 A typed, provider-neutral payload that lets a judgment be suspended and resumed by another agent — human or machine — without coupling. The transport layer for `cogentia.continuation.v1`.  
 → [Paper](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md) · [Operational prompt](https://github.com/JeanHuguesRobert/cogentia/blob/main/prompts/cognitive_packet.md)
 
+**May 2026 — *Pipeline***  
+*From cognitive packets to source documents and derived products.*  
+The corpus's operational method note (v0.4). Crystallises a working method that emerged in practice: *pipeline on the surface, packet network in depth* — intuitions become cognitive packets, packets become versioned source documents, source documents derive into audience-specific products (papers, blogposts, parliamentary notes, dashboards), public feedback reintegrates into the corpus. The document follows the method it describes (assisted genesis: ChatGPT + Grok critique loop). Operational counterpart of *Discours de la seconde méthode*.  
+→ [Paper](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
+
+**May 2026 — *Derived Products***  
+*Versioned Source Corpora, Situated Forms, and Publication Agents.*  
+The companion to *Pipeline*. Argues against the classical hierarchy that treats an academic paper as the sovereign source and all other publications as simplified descendants; proposes instead a source-first architecture where the corpus carries the substance and academic papers, public essays, social posts, video scripts, parliamentary notes are *derived forms* adapted to a specific scene. *Do not popularize from the academic paper; derive from the corpus.*  
+→ [Paper](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md)
+
+**May 2026 — *Projet #1755***  
+*Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne.*  
+The substantive source document of the 1755 test (v0.13) — early-stage evidentiary dossier proposing a transnational scientific programme on the Corsican constitutional sequence (Révolution 1729, roi Théodore 1736, République de Paoli 1755, Boswell, Rousseau, Napoléon, Code civil). Cadre institutionnel : Institut Mariani — émanation R&D de C.O.R.S.I.C.A. Public dashboard derives from it.  
+→ [Source document](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md) · [Public dashboard](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md)
+
 **May 2026 — *Autonomia***  
 *Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse.*  
-A theory of **autonomy of capacity** — what a territory becomes able to do, beyond formal sovereignty. The central doctrine of my senatorial campaign. §2.6 announces the first public auto-application: the 1755 test (international recognition of the Corsican Republic), conducted with or without electoral mandate as a logical condition of the thesis itself.  
-→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) · [1755 journal](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md)
+A theory of **autonomy of capacity** — what a territory becomes able to do, beyond formal sovereignty. The central doctrine of my senatorial campaign. §2.6 announces the first public auto-application: the 1755 test (international recognition of the Corsican Republic), conducted with or without electoral mandate as a logical condition of the thesis itself. The test now has its own source/derived couple — see *Projet #1755* above.  
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) · [Projet #1755 (source)](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md) · [Public dashboard](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md)
 
 **May 2026 — *Democratic AI Safety***  
 *Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons.*  
