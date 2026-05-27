@@ -171,7 +171,7 @@ GitHub Pages active on barons-Mariani: `https://jeanhuguesrobert.github.io/baron
 
 ## Constraints and Context
 
-**Financial:** significant cash flow gap currently. Claude Code (paid) not available. Working with Claude.ai web interface + git via PAT tokens.
+**Financial:** significant cash flow gap currently. Claude Code (paid) not available. Working with Claude.ai web interface + git via PAT tokens. Grok (xAI) is now configured as a deliberate second agent inside the same workspace (see GROK.md + .grok/ at C:/tweesic root and GROK_COOPERATION.md). Handoffs use the existing cogentia continuation / cognitive packet infrastructure.
 
 **Institutional:** no university affiliation — deliberate, considered an advantage philosophically, but creates friction for academic publication. C.O.R.S.I.C.A. (loi 1901, Corte 1995) and Institut Mariani R&D are the institutional anchors.
 
@@ -191,6 +191,9 @@ GitHub Pages active on barons-Mariani: `https://jeanhuguesrobert.github.io/baron
 - Generating interactive figures (Chart.js, SVG)
 - Critical analysis of drafts (identifying weaknesses, missing references, scope conditions)
 - Position papers and conceptual documents
+- Multi-agent cooperation via cogentia continuations and cognitive packets (Claude + Grok handoff, manual human dispatcher)
+
+*See GROK_COOPERATION.md for the current protocol (May 2026).*
 
 ## What Requires Human Action
 
