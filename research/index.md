@@ -58,6 +58,20 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 
 ---
 
+## Interaction Register
+
+*Operational traces — public, traceable records of interactions of general interest. The generic method lives in [`cogentia/interaction_packets/`](https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets); the live traces reside here, attached to the person (see [archive policy](../interaction_packets/archive_policy.md) for disclosure levels D0–D4).*
+
+| Title | Location | Date |
+|---|---|---|
+| [Interaction Packets — Dashboard](../interaction_packets/dashboard.md) *(tableau de bord — current traced cases)* | this repo | 2026-05-25 |
+| [Registre des interactions](../interaction_packets/mail_trace.md) *(tabular register)* | this repo | 2026-05-25 |
+| [Politique d’archivage des interactions](../interaction_packets/archive_policy.md) *(copy forms, disclosure levels D0–D4, redaction rules)* | this repo | 2026-05-04 |
+| [Session MareNostrum / Université de Corse — copie lisible](../interaction_packets/readable/2026/2026-05-04-session_marenostrum.md) *(human-readable copy, D3)* | this repo | 2026-05-04 |
+| [Session MareNostrum / Université de Corse — copie quasi brute masquée](../interaction_packets/raw/2026/2026-05-04-session_marenostrum_redacted.eml.md) *(near-raw redacted copy, D3)* | this repo | 2026-05-04 |
+
+---
+
 ## Open Possibilities
 
 *Ideas that trotte — no commitment, no deadline.*
@@ -74,4 +88,15 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 <!-- END_AUTO: trails -->
 
 <!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Project Context — Jean Hugues Noël Robert, baron Mariani](../CONTEXT.md)
+- [Possibilism](../POSSIBILISM.md)
+- [Project Ecosystem](../PROJECTS.md)
+- [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md)
+- [Concept Index — JeanHuguesRobert](concepts.md)
+- [Corpus Status — JeanHuguesRobert](corpus-status.md)
+- [Timeline](../TIMELINE.md)
+
 <!-- END_AUTO: backlinks -->

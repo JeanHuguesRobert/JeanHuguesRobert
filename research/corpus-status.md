@@ -27,7 +27,7 @@ last_modified_at: 2026-05-28
 | barons-Mariani | ✅ | main | 2026-05-27 |
 | inseme | ✅ | main | 2026-05-27 |
 | Inox | ✅ | master | 2026-05-27 |
-| JeanHuguesRobert | ✅ | main | 2026-05-27 |
+| JeanHuguesRobert | ✅ | main | 2026-05-28 |
 <!-- END_AUTO: registered_repos -->
 
 ---
@@ -163,7 +163,13 @@ graph LR
 ### Backlinks
 
 *These documents link to this file:*
+- [Project Context — Jean Hugues Noël Robert, baron Mariani](../CONTEXT.md)
+- [Possibilism](../POSSIBILISM.md)
+- [Project Ecosystem](../PROJECTS.md)
+- [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md)
+- [Concept Index — JeanHuguesRobert](concepts.md)
 - [Corpus Status — JeanHuguesRobert](corpus-status.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
+- [Timeline](../TIMELINE.md)
 
 <!-- END_AUTO: backlinks -->

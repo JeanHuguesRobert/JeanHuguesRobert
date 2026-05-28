@@ -1,3 +1,14 @@
+---
+title: "Interaction Packets — Tableau de bord (JHR)"
+description: "Public, traceable dashboard of interactions of general interest initiated by JHR in his open, volunteer, non-profit activities."
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-05-25"
+status: "journal"
+license: "CC BY 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/dashboard.md"
+---
+
 # Jean Hugues Robert — Tableau de bord Interaction Packets
 
 ## Objet
@@ -52,7 +63,7 @@ Politique d’archivage :
 | ID | Date | Sujet | Interlocuteur | Statut | Divulgation | Paquet | Copie lisible | Copie brute |
 |---|---:|---|---|---|---|---|---|---|
 | 2026-05-04-001 | 2026-05-04 | Session MareNostrum | Université de Corse | Réponse reçue : négative | D3 | [YAML](./packets/2026/2026-05-04-session_marenostrum.yaml) | [lisible](./readable/2026/2026-05-04-session_marenostrum.md) | [quasi brute masquée](./raw/2026/2026-05-04-session_marenostrum_redacted.eml.md) |
-| 2026-05-25-001 | 2026-05-25 | Demande d’audience — processus constitutionnel Corse | Florent Boudié / Commission des lois | Aucune réponse détectée à ce stade | D3 | à créer | à créer | à créer |
+| 2026-05-25-001 | 2026-05-25 | Demande d’audience — processus constitutionnel Corse | Florent Boudié / Commission des lois | Aucune réponse détectée à ce stade | D3 | [YAML](./packets/2026/2026-05-25-demande_audience_boudie.yaml) | à créer | à créer |
 
 ## Cas 2026-05-04-001 — MareNostrum / Université de Corse
 
@@ -176,3 +187,13 @@ Les faits d’abord.
 Les interprétations ensuite.
 
 Les corrections doivent rester visibles lorsqu’elles sont importantes.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Interaction lisible — Session MareNostrum / Université de Corse](readable/2026/2026-05-04-session_marenostrum.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)
+
+<!-- END_AUTO: backlinks -->

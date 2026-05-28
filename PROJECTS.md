@@ -87,6 +87,7 @@ Open source is treated here not merely as a software methodology, but as a civil
 ### Backlinks
 
 *These documents link to this file:*
+- [Possibilism](POSSIBILISM.md)
 - [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
 - [Corpus Status — JeanHuguesRobert](research/corpus-status.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)

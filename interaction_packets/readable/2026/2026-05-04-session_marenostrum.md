@@ -1,3 +1,14 @@
+---
+title: "Interaction lisible — Session MareNostrum / Université de Corse"
+description: "Human-readable copy (disclosure D3) of the 2026-05-04 MareNostrum room-request interaction with the Université de Corse and its negative reply."
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-05-04"
+status: "journal"
+license: "CC BY 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/readable/2026/2026-05-04-session_marenostrum.md"
+---
+
 # Interaction lisible — Session MareNostrum / Université de Corse
 
 ## Identification
@@ -73,3 +84,13 @@ Il devient cependant un cas tracé, comparable à d’autres interactions future
 - [Tableau de bord](../../dashboard.md)
 - [Paquet YAML](../../packets/2026/2026-05-04-session_marenostrum.yaml)
 - [Copie quasi brute masquée](../../raw/2026/2026-05-04-session_marenostrum_redacted.eml.md)
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Interaction Packets — Tableau de bord (JHR)](../../dashboard.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../../../research/index.md)
+
+<!-- END_AUTO: backlinks -->

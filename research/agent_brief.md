@@ -222,7 +222,10 @@ This is a living brief. Update it when objectives, dates, positions or constrain
 
 *These documents link to this file:*
 - [Project Context — Jean Hugues Noël Robert, baron Mariani](../CONTEXT.md)
+- [Possibilism](../POSSIBILISM.md)
+- [Project Ecosystem](../PROJECTS.md)
 - [Corpus Status — JeanHuguesRobert](corpus-status.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
+- [Timeline](../TIMELINE.md)
 
 <!-- END_AUTO: backlinks -->

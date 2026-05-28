@@ -1,3 +1,14 @@
+---
+title: "Copie quasi brute masquée — Session MareNostrum / Université de Corse"
+description: "Near-raw redacted email copy (disclosure D3) of the 2026-05-04 MareNostrum interaction with the Université de Corse; sensitive elements masked."
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-05-04"
+status: "journal"
+license: "CC BY 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/raw/2026/2026-05-04-session_marenostrum_redacted.eml.md"
+---
+
 # Copie quasi brute masquée — Session MareNostrum / Université de Corse
 
 ## Statut
@@ -67,3 +78,14 @@ Cordialement,
 - éléments non nécessaires à la compréhension publique du cas.
 
 Les coupes sont signalées explicitement.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Interaction Packets — Tableau de bord (JHR)](../../dashboard.md)
+- [Interaction lisible — Session MareNostrum / Université de Corse](../../readable/2026/2026-05-04-session_marenostrum.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../../../research/index.md)
+
+<!-- END_AUTO: backlinks -->

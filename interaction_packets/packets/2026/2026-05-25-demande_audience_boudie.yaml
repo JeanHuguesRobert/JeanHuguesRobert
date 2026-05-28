@@ -1,0 +1,34 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Schéma de référence : interaction_packets/archive_policy.md
+
+id: "2026-05-25-001"
+date_envoi: "2026-05-25"
+date_reponse: null
+canal: "email (voie officielle)"
+interlocuteur: "Florent Boudié, rapporteur du projet constitutionnel relatif à la Corse / secrétariat de la Commission des lois"
+sujet: "Demande d'audience — contribution associative sur l'Autonomie de Capacité"
+contexte: >
+  Dans un entretien publié par Corse-Matin le 25 mai 2026, F. Boudié indiquait vouloir
+  échanger avec les institutions, la Collectivité, l'État, les acteurs socio-économiques,
+  associatifs et culturels, y compris des sensibilités non représentées à l'Assemblée de Corse.
+demande: >
+  Audience pour présenter une contribution associative et citoyenne autour de
+  l'Autonomie de Capacité : distinction entre autonomie institutionnelle et capacité
+  réelle d'agir, place des acteurs associatifs, expérimentation territoriale, approche
+  ouverte, documentée, vérifiable et non partisane. Adressée strictement par voie
+  officielle (adresse parlementaire ; copie au secrétariat de la commission des lois ;
+  copie à l'Institut Mariani) et annoncée publiquement.
+statut: "aucune réponse détectée à ce stade"
+niveau_divulgation: "D3"
+resume_public: >
+  Demande d'audience officielle et publiquement annoncée le 25 mai 2026. À ce stade,
+  aucune réponse détectée dans le fil. Requalification possible en « demande d'audience
+  non retenue » si la visite en Corse s'achève sans retour.
+note_methodologique: >
+  Aucun procès d'intention. Trois faits documentables sont mis en relation : une
+  déclaration publique d'ouverture aux acteurs associatifs, une demande officielle et
+  publiquement annoncée, et l'absence de continuation détectée à ce stade.
+copies:
+  lisible: "à créer"
+  brute_masquee: "à créer"

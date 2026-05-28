@@ -1,3 +1,14 @@
+---
+title: "Politique d’archivage des interactions"
+description: "Disclosure and archival policy for interaction traces — copy forms (YAML/readable/raw), default publicity, disclosure levels D0–D4, redaction rules."
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-05-04"
+status: "working-note"
+license: "CC BY 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/archive_policy.md"
+---
+
 # Politique d’archivage des interactions
 
 ## Principe
@@ -111,3 +122,13 @@ Exemples :
 - `[pièce jointe non publiée]`
 
 La transparence exige aussi la traçabilité des coupes.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Interaction Packets — Tableau de bord (JHR)](dashboard.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)
+
+<!-- END_AUTO: backlinks -->
