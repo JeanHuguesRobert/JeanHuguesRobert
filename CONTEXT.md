@@ -1,6 +1,19 @@
+---
+title: "Project Context — Jean Hugues Noël Robert, baron Mariani"
+description: "Living collaborator briefing: current state, priorities, people and constraints of the project ecosystem."
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-05-26"
+status: "working-note"
+license: "CC BY 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/CONTEXT.md"
+---
+
 # Project Context — Jean Hugues Noël Robert, baron Mariani
 
 *This file exists to help any collaborator — human or AI — get up to speed quickly on the current state of the project. It is a living document, updated as the project evolves. Last updated: April 2026.*
+
+> **AI agents:** if you have been asked to prepare or draft a response on the author's behalf, read [`research/agent_brief.md`](research/agent_brief.md) first — the operating brief governing *how to represent him* (mandate and its limits, positions, voice, red lines). This file gives you the project's **state**; that file gives you **representation**.
 
 ---
 
@@ -254,3 +267,14 @@ The purpose is to explore viable anti-capture infrastructures under real-world c
 ---
 
 *Maintained by Jean Hugues Noël Robert in collaboration with Claude (Anthropic). CC BY 4.0.*
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
+- [Corpus Status — JeanHuguesRobert](research/corpus-status.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)
+
+<!-- END_AUTO: backlinks -->

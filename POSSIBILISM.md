@@ -1,3 +1,14 @@
+---
+title: "Possibilism"
+description: "The underlying doctrine of the ecosystem: a civilization's worth measured by its capacity to preserve and expand the space of accessible futures."
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-05-09"
+status: "published"
+license: "CC BY 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md"
+---
+
 # Possibilism
 
 ## Definition
@@ -164,3 +175,15 @@ Its method is:
 - and explicitly evolutionary.
 
 Design in the open.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Project Ecosystem](PROJECTS.md)
+- [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
+- [Corpus Status — JeanHuguesRobert](research/corpus-status.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)
+
+<!-- END_AUTO: backlinks -->

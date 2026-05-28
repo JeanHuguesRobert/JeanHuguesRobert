@@ -1,3 +1,14 @@
+---
+title: "Project Ecosystem"
+description: "Map of the projects in the ecosystem, grouped by function — infrastructure, governance, territory, memory, research."
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-05-09"
+status: "working-note"
+license: "CC BY 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/PROJECTS.md"
+---
+
 # Project Ecosystem
 
 This repository ecosystem explores a single civilizational question across multiple scales:
@@ -70,3 +81,14 @@ The common philosophical framework connecting the ecosystem is:
 → [Possibilism](./POSSIBILISM.md)
 
 Open source is treated here not merely as a software methodology, but as a civilizational anti-capture mechanism preserving humanity’s ability to inspect, modify and reorganize its own infrastructure.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
+- [Corpus Status — JeanHuguesRobert](research/corpus-status.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)
+
+<!-- END_AUTO: backlinks -->

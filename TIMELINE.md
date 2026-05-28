@@ -1,3 +1,14 @@
+---
+title: "Timeline"
+description: "Long-term evolution of the project ecosystem, from C.O.R.S.I.C.A. (1995) to Possibilism (2026)."
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-05-09"
+status: "working-note"
+license: "CC BY 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/TIMELINE.md"
+---
+
 # Timeline
 
 This document summarizes the long-term evolution of the project ecosystem.
@@ -177,3 +188,14 @@ The work remains intentionally:
 The objective is not prediction.
 
 The objective is preserving humanity’s capacity to choose.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
+- [Corpus Status — JeanHuguesRobert](research/corpus-status.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)
+
+<!-- END_AUTO: backlinks -->
