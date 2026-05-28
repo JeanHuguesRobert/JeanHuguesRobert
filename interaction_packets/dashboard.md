@@ -14,18 +14,28 @@ Chaque interaction peut être documentée sous forme :
 
 - d’entrée dans un registre Markdown ;
 - de paquet interactionnel YAML ;
-- de note publique lisible ;
+- de copie lisible ;
+- de copie brute ou quasi brute, éventuellement masquée ;
 - de correction lorsque l’interprétation initiale était incomplète ou erronée.
 
 L’objectif est de tracer :
 
 - demandes ;
 - réponses ;
-- refus ;
+- refus explicites ;
+- refus de fait ;
 - délais ;
 - silences ;
 - relances ;
 - corrections.
+
+## Principe de divulgation
+
+La publicité est le principe par défaut.
+
+Les masquages restent possibles lorsqu’ils sont nécessaires : données personnelles, éléments sensibles, sécurité, informations concernant des tiers, obligations juridiques ou confidentialité explicite.
+
+Lorsqu’une coupe est effectuée, elle doit être signalée.
 
 ## Registre actuel
 
@@ -33,11 +43,16 @@ Registre principal :
 
 - [mail_trace.md](./mail_trace.md)
 
+Politique d’archivage :
+
+- [archive_policy.md](./archive_policy.md)
+
 ## Cas actuellement tracés
 
-| ID | Date | Sujet | Interlocuteur | Statut | Divulgation | Paquet |
-|---|---:|---|---|---|---|---|
-| 2026-05-04-001 | 2026-05-04 | Session MareNostrum | Université de Corse | Réponse reçue : négative | D2 | [YAML](./packets/2026/2026-05-04-session_marenostrum.yaml) |
+| ID | Date | Sujet | Interlocuteur | Statut | Divulgation | Paquet | Copie lisible | Copie brute |
+|---|---:|---|---|---|---|---|---|---|
+| 2026-05-04-001 | 2026-05-04 | Session MareNostrum | Université de Corse | Réponse reçue : négative | D3 | [YAML](./packets/2026/2026-05-04-session_marenostrum.yaml) | [lisible](./readable/2026/2026-05-04-session_marenostrum.md) | [quasi brute masquée](./raw/2026/2026-05-04-session_marenostrum_redacted.eml.md) |
+| 2026-05-25-001 | 2026-05-25 | Demande d’audience — processus constitutionnel Corse | Florent Boudié / Commission des lois | Aucune réponse détectée à ce stade | D3 | à créer | à créer | à créer |
 
 ## Cas 2026-05-04-001 — MareNostrum / Université de Corse
 
@@ -73,7 +88,7 @@ La réponse indiquait que :
 
 ### Correction
 
-Ce cas avait initialement été interprété comme `Aucune réponse détectée`.
+Ce cas avait initialement été interprété comme `aucune réponse détectée`.
 
 L’inspection du fil a montré qu’une réponse avait bien été reçue.
 
@@ -81,25 +96,78 @@ Le registre a été corrigé en conséquence.
 
 Cette correction est méthodologiquement importante : le système doit tracer les faits, et non simplement confirmer des impressions.
 
-## Couche interprétative
+## Cas 2026-05-25-001 — Demande d’audience / processus constitutionnel Corse
 
-Ce cas peut illustrer une difficulté plus générale à établir des coopérations locales autour d’initiatives ouvertes, bénévoles et d’intérêt général en Corse.
+### Contexte public
 
-Il ne démontre pas, à lui seul, une thèse générale.
+Dans un entretien publié par Corse-Matin le 25 mai 2026, Florent Boudié, rapporteur du projet constitutionnel relatif à la Corse à l’Assemblée nationale, indiquait vouloir échanger avec :
 
-Il constitue un cas documenté parmi d’autres, destiné à être accumulé, comparé et corrigé dans le temps.
+- les institutions ;
+- la Collectivité ;
+- l’État ;
+- les acteurs socio-économiques ;
+- les acteurs associatifs ;
+- les acteurs culturels.
+
+Il indiquait également vouloir aller au contact de chacun, y compris de sensibilités non représentées à l’Assemblée de Corse.
+
+### Demande
+
+Le 25 mai 2026, une demande d’audience a été adressée strictement par la voie officielle :
+
+- adresse parlementaire de M. Boudié ;
+- copie au secrétariat de la commission des lois ;
+- copie à l’Institut Mariani.
+
+Cette demande avait également été annoncée publiquement.
+
+L’objet était de présenter une contribution associative et citoyenne autour de l’Autonomie de Capacité :
+
+- distinction entre autonomie institutionnelle et capacité réelle d’agir ;
+- place des acteurs associatifs ;
+- expérimentation territoriale ;
+- approche ouverte, documentée, vérifiable et non partisane.
+
+### Statut actuel
+
+À ce stade, aucune réponse n’a été détectée dans le fil Gmail.
+
+Le statut reste donc : `aucune réponse détectée à ce stade`.
+
+Si la visite en Corse s’achève sans retour, le cas pourra être requalifié en : `demande d’audience non retenue`.
+
+### Point méthodologique
+
+Ce cas ne justifie aucun procès d’intention.
+
+Il met cependant en relation trois faits documentables :
+
+1. une déclaration publique d’ouverture aux acteurs associatifs ;
+2. une demande officielle et publiquement annoncée ;
+3. aucune continuation détectée à ce stade.
+
+Ces faits interrogent la distance possible entre discours public d’ouverture et actes concrets de coopération.
+
+## Couche interprétative générale
+
+Ces cas peuvent illustrer une difficulté plus générale à établir des coopérations locales ou institutionnelles autour d’initiatives ouvertes, bénévoles et d’intérêt général.
+
+Ils ne démontrent pas, à eux seuls, une thèse générale.
+
+Ils constituent des cas documentés, destinés à être accumulés, comparés, corrigés et discutés dans le temps.
 
 ## Documents liés
 
 Méthode générique :
 
 - [Interaction Packets dans cogentia](https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets)
+- [Architecture de la méthode](https://github.com/JeanHuguesRobert/cogentia/blob/main/interaction_packets/architecture.md)
 - [Package réutilisable](https://github.com/JeanHuguesRobert/cogentia/blob/main/interaction_packets/PACKAGE.md)
 
 Traces personnelles :
 
 - [Registre personnel](./mail_trace.md)
-- [Paquet MareNostrum](./packets/2026/2026-05-04-session_marenostrum.yaml)
+- [Politique d’archivage](./archive_policy.md)
 
 ## Règle
 
