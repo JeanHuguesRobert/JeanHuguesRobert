@@ -1,0 +1,153 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Schéma de référence : interaction_packets/archive_policy.md
+
+id: "2026-05-25-001"
+type: "interaction_packet"
+status: "active"
+created: "2026-05-25"
+last_updated: "2026-05-28"
+disclosure: "D2"
+
+# Compatibilité avec les premiers paquets du registre
+date_envoi: "2026-05-25"
+date_reponse: "2026-05-28"
+canal: "email (voie officielle)"
+interlocuteur: "Florent Boudié / service de la Commission des Lois"
+sujet: "Autonomie de capacité — contribution écrite à la Commission des Lois"
+niveau_divulgation: "D2"
+verifie_le: "2026-05-28"
+
+title: "Autonomie de capacité / Commission des Lois"
+short_title: "Contribution Commission des Lois — Autonomie de Capacité"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "Président de l'association C.O.R.S.I.C.A."
+  affiliation:
+    - "C.O.R.S.I.C.A."
+    - "Institut Mariani"
+
+institution:
+  name: "Assemblée nationale"
+  body: "Commission des Lois"
+  country: "France"
+
+contacts:
+  primary_request_recipient:
+    name: "Florent Boudié"
+    role: "Président de la commission des Lois"
+  response_sender:
+    role: "Administrateur, service de la commission des Lois"
+  note: "Adresses et copies non reproduites dans ce paquet public D2."
+
+subject_tags:
+  - "Projet de loi constitutionnelle relatif à la Corse"
+  - "Autonomie de capacité"
+  - "Contribution associative et citoyenne"
+  - "Traçabilité des actes"
+  - "Usage responsable de l'IA"
+
+contexte: >
+  Interaction institutionnelle engagée dans le cadre du processus constitutionnel relatif
+  à la Corse. Une demande d'audience adressée à la Commission des Lois a été transformée,
+  après réponse du service compétent, en transmission d'une contribution écrite publique.
+
+demande: >
+  Présenter une contribution associative et citoyenne autour de l'Autonomie de Capacité :
+  distinction entre autonomie institutionnelle et capacité réelle d'agir, prévention d'une
+  autonomie seulement formelle ou procédurale, place des acteurs associatifs et territoriaux,
+  expérimentation territoriale, approche ouverte, documentée, vérifiable et non partisane.
+
+timeline:
+  - date: "2026-05-25"
+    time: "09:44"
+    direction: "outbound"
+    channel: "email"
+    event: "Demande d'audience"
+    summary: >
+      Demande d'audience adressée à Florent Boudié dans le cadre du processus constitutionnel
+      relatif à la Corse. La demande présente l'Autonomie de Capacité comme distinction entre
+      autonomie institutionnelle et capacité réelle d'action.
+    status: "sent"
+
+  - date: "2026-05-28"
+    time: "19:35"
+    direction: "inbound"
+    channel: "email"
+    event: "Réponse de la commission des Lois"
+    summary: >
+      Réponse indiquant que le cycle d'auditions est terminé, mais proposant l'envoi d'une
+      contribution écrite pouvant être mentionnée dans le rapport sur le projet de loi
+      constitutionnelle, au même titre que les auditions réalisées.
+    status: "received"
+
+  - date: "2026-05-28"
+    time: "23:44"
+    direction: "outbound"
+    channel: "email"
+    event: "Transmission de la contribution écrite"
+    summary: >
+      Contribution écrite transmise avec lien GitHub public. Le message précise que la rédaction
+      a été structurée avec l'aide d'outils d'intelligence artificielle, sous arbitrage et
+      responsabilité exclusive de Jean Hugues Noël Robert.
+    status: "sent"
+
+documents:
+  contribution:
+    repository: "JeanHuguesRobert/barons-Mariani"
+    path: "research/contribution_commission_lois_autonomie_capacite.md"
+    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md"
+  existing_trace:
+    readable: "../../readable/2026/2026-05-25-demande_audience_boudie.md"
+    raw_redacted: "../../raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md"
+
+core_claims:
+  - "L'autonomie juridique ne suffit pas si elle ne produit pas de capacité réelle d'action."
+  - "L'autonomie reconnue à la Corse doit répondre aux déséquilibres spécifiques du territoire."
+  - "L'IA peut aider à structurer une contribution, mais la responsabilité de l'acte reste humaine."
+  - "Une contribution publique doit rester traçable, vérifiable et corrigeable."
+
+statut: "contribution transmise"
+resume_public: >
+  Demande d'audience officielle envoyée le 25 mai 2026. Le 28 mai 2026, le service de la
+  Commission des Lois a indiqué que le cycle d'auditions était terminé, mais qu'une contribution
+  écrite pouvait être transmise et éventuellement mentionnée dans le rapport. Une contribution
+  publique sur l'Autonomie de Capacité a été envoyée le même jour, avec mention explicite de
+  l'aide de l'IA comme outil de structuration placé sous responsabilité humaine exclusive.
+
+current_status:
+  label: "Contribution transmise"
+  details:
+    - "Accusé de réception spécifique non encore détecté."
+    - "Mention dans le rapport possible, non confirmée."
+    - "Effet probable : doctrinal, lexical et documentaire avant d'être normatif."
+
+next_watch:
+  - "Accusé de réception éventuel"
+  - "Publication du rapport de la commission des Lois"
+  - "Mention éventuelle de la contribution"
+  - "Amendements ou débats en commission"
+  - "Débats en séance publique"
+  - "Préparation ultérieure de la loi organique"
+
+interpretation:
+  level: "cautious"
+  text: >
+    Ce cas ne prouve pas une prise en compte politique ou normative de l'Autonomie de Capacité.
+    Il établit en revanche qu'une contribution écrite documentée a été transmise dans le canal
+    institutionnel pertinent, après transformation d'une demande d'audience impossible en trace
+    parlementaire potentiellement mentionnable.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: >
+    La mention explicite de l'aide de l'IA dans le message d'envoi illustre la doctrine de
+    traçabilité des actes : l'IA assiste, structure et clarifie, mais ne porte pas la
+    responsabilité de l'acte.
+
+copies:
+  lisible: "../../readable/2026/2026-05-25-demande_audience_boudie.md"
+  brute_masquee: "../../raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md"
