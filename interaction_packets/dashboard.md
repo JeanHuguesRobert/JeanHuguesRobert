@@ -3,7 +3,7 @@ title: "Interaction Packets — Tableau de bord (JHR)"
 description: "Public, traceable dashboard of interactions of general interest initiated by JHR in his open, volunteer, non-profit activities."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-05-25"
+date: "2026-05-28"
 status: "journal"
 license: "CC BY 4.0"
 canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/dashboard.md"
@@ -63,7 +63,7 @@ Politique d’archivage :
 | ID | Date | Sujet | Interlocuteur | Statut | Divulgation | Paquet | Copie lisible | Copie brute |
 |---|---:|---|---|---|---|---|---|---|
 | 2026-05-04-001 | 2026-05-04 | Session MareNostrum | Université de Corse | Réponse reçue : négative | D3 | [YAML](./packets/2026/2026-05-04-session_marenostrum.yaml) | [lisible](./readable/2026/2026-05-04-session_marenostrum.md) | [quasi brute masquée](./raw/2026/2026-05-04-session_marenostrum_redacted.eml.md) |
-| 2026-05-25-001 | 2026-05-25 | Demande d’audience — processus constitutionnel Corse | Florent Boudié / Commission des lois | Aucune réponse détectée à ce stade | D3 | [YAML](./packets/2026/2026-05-25-demande_audience_boudie.yaml) | [lisible](./readable/2026/2026-05-25-demande_audience_boudie.md) | [quasi brute masquée](./raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md) |
+| 2026-05-25-001 | 2026-05-25 | Autonomie de capacité — contribution Commission des Lois | Florent Boudié / Commission des Lois | Contribution transmise après réponse de la Commission | D2 | [YAML](./packets/2026/2026-05-25-autonomie-capacite-commission-lois.yaml) | [lisible](./readable/2026/2026-05-25-demande_audience_boudie.md) | [quasi brute masquée](./raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md) |
 
 ## Cas 2026-05-04-001 — MareNostrum / Université de Corse
 
@@ -107,7 +107,7 @@ Le registre a été corrigé en conséquence.
 
 Cette correction est méthodologiquement importante : le système doit tracer les faits, et non simplement confirmer des impressions.
 
-## Cas 2026-05-25-001 — Demande d’audience / processus constitutionnel Corse
+## Cas 2026-05-25-001 — Autonomie de capacité / Commission des Lois
 
 ### Contexte public
 
@@ -122,42 +122,74 @@ Dans un entretien publié par Corse-Matin le 25 mai 2026, Florent Boudié, rappo
 
 Il indiquait également vouloir aller au contact de chacun, y compris de sensibilités non représentées à l’Assemblée de Corse.
 
-### Demande
+### Demande initiale
 
-Le 25 mai 2026, une demande d’audience a été adressée strictement par la voie officielle :
+Le 25 mai 2026 à 09:44, une demande d’audience a été adressée par la voie officielle à Florent Boudié, avec copie au secrétariat de la commission des Lois et à l’Institut Mariani.
 
-- adresse parlementaire de M. Boudié ;
-- copie au secrétariat de la commission des lois ;
-- copie à l’Institut Mariani.
-
-Cette demande avait également été annoncée publiquement.
-
-L’objet était de présenter une contribution associative et citoyenne autour de l’Autonomie de Capacité :
+Cette demande présentait une contribution associative et citoyenne autour de l’Autonomie de Capacité :
 
 - distinction entre autonomie institutionnelle et capacité réelle d’agir ;
-- place des acteurs associatifs ;
+- nécessité d’éviter une autonomie seulement formelle ou procédurale ;
+- place des acteurs associatifs et territoriaux ;
 - expérimentation territoriale ;
 - approche ouverte, documentée, vérifiable et non partisane.
 
+Formule centrale :
+
+> L’autonomie juridique ne produira ses effets que si elle devient une véritable autonomie de capacité, c’est-à-dire une capacité effective d’agir, de produire, de protéger, d’expérimenter et de transmettre.
+
+### Réponse de la Commission
+
+Le 28 mai 2026 à 19:35, le service de la commission des Lois a répondu que :
+
+- le cycle d’auditions était terminé ;
+- le texte devait être débattu prochainement en commission ;
+- aucun créneau supplémentaire ne pouvait être ajouté ;
+- une contribution écrite pouvait néanmoins être transmise ;
+- cette contribution pourrait être mentionnée dans le rapport sur le projet de loi constitutionnelle, au même titre que les auditions réalisées ;
+- le format était libre ;
+- l’envoi était souhaité d’ici la fin de la semaine suivante afin d’être pris en compte avant les débats en séance publique.
+
+### Contribution transmise
+
+Le 28 mai 2026 à 23:44, une contribution écrite a été transmise avec un lien GitHub public :
+
+- [Contribution Commission des Lois — Autonomie de Capacité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md)
+
+Le message précisait que la contribution :
+
+- faisait suite à la réponse du service de la commission des Lois ;
+- concernait le projet de loi constitutionnelle pour une Corse autonome au sein de la République ;
+- proposait un point d’amélioration ciblé ;
+- visait à préciser que l’autonomie reconnue à la Corse doit être orientée vers une capacité effective de réponse aux déséquilibres spécifiques du territoire ;
+- était issue de travaux associatifs et citoyens ouverts, conduits dans le cadre de C.O.R.S.I.C.A. et de l’Institut Mariani ;
+- avait été structurée avec l’aide d’outils d’intelligence artificielle ;
+- restait placée sous l’arbitrage et la responsabilité exclusive de Jean Hugues Noël Robert.
+
+Formule méthodologique :
+
+> Sa rédaction a été structurée avec l'aide d'outils d'intelligence artificielle, sous mon arbitrage et ma responsabilité exclusive. Cette transparence méthodologique est volontaire : elle illustre la possibilité d'utiliser l'IA comme outil de clarification sans lui transférer la responsabilité de l'acte.
+
 ### Statut actuel
 
-À ce stade, aucune réponse n’a été détectée dans le fil Gmail.
+Le statut est désormais : `contribution transmise`.
 
-Le statut reste donc : `aucune réponse détectée à ce stade`.
+Points à surveiller :
 
-Si la visite en Corse s’achève sans retour, le cas pourra être requalifié en : `demande d’audience non retenue`.
+- accusé de réception éventuel ;
+- publication du rapport de la commission des Lois ;
+- mention éventuelle de la contribution ;
+- amendements ou débats en commission ;
+- débats en séance publique ;
+- préparation ultérieure de la loi organique.
 
 ### Point méthodologique
 
-Ce cas ne justifie aucun procès d’intention.
+Ce cas ne prouve pas une prise en compte politique ou normative de l’Autonomie de Capacité.
 
-Il met cependant en relation trois faits documentables :
+Il établit en revanche qu’une contribution écrite documentée a été transmise dans le canal institutionnel pertinent, après transformation d’une demande d’audience impossible en trace parlementaire potentiellement mentionnable.
 
-1. une déclaration publique d’ouverture aux acteurs associatifs ;
-2. une demande officielle et publiquement annoncée ;
-3. aucune continuation détectée à ce stade.
-
-Ces faits interrogent la distance possible entre discours public d’ouverture et actes concrets de coopération.
+La mention explicite de l’aide de l’IA illustre la doctrine de traçabilité des actes : l’IA assiste, structure et clarifie, mais ne porte pas la responsabilité de l’acte.
 
 ## Couche interprétative générale
 
