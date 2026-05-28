@@ -19,17 +19,22 @@ demande: >
   ouverte, documentée, vérifiable et non partisane. Adressée strictement par voie
   officielle (adresse parlementaire ; copie au secrétariat de la commission des lois ;
   copie à l'Institut Mariani) et annoncée publiquement.
-statut: "aucune réponse détectée à ce stade"
+statut: "superseded"
 verifie_le: "2026-05-28"
 niveau_divulgation: "D3"
+superseded_by: "interaction_packets/packets/2026/2026-05-25-autonomie-capacite-commission-lois.yaml"
+superseded_reason: >
+  Ce paquet documentait la demande initiale d'audience. Le cas a ensuite évolué
+  après réponse de la commission des Lois et transmission d'une contribution écrite.
 resume_public: >
-  Demande d'audience officielle et publiquement annoncée le 25 mai 2026. À ce stade,
-  aucune réponse détectée dans le fil. Requalification possible en « demande d'audience
-  non retenue » si la visite en Corse s'achève sans retour.
+  Demande d'audience officielle et publiquement annoncée le 25 mai 2026. Ce paquet
+  conserve l'état initial du suivi. Il est remplacé, pour l'état consolidé du cas,
+  par le paquet documentant la réponse de la commission des Lois et la transmission
+  de la contribution écrite.
 note_methodologique: >
-  Aucun procès d'intention. Trois faits documentables sont mis en relation : une
-  déclaration publique d'ouverture aux acteurs associatifs, une demande officielle et
-  publiquement annoncée, et l'absence de continuation détectée à ce stade.
+  Aucun procès d'intention. Ce paquet est conservé comme trace historique de l'état
+  initial du cas. L'état courant doit être lu dans le paquet consolidé indiqué par
+  superseded_by.
 copies:
   lisible: "../../readable/2026/2026-05-25-demande_audience_boudie.md"
   brute_masquee: "../../raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md"
