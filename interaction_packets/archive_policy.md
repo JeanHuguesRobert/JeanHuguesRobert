@@ -3,7 +3,7 @@ title: "Politique d’archivage des interactions"
 description: "Disclosure and archival policy for interaction traces — copy forms (YAML/readable/raw), default publicity, disclosure levels D0–D4, redaction rules."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-05-04"
+date: "2026-05-29"
 status: "working-note"
 license: "CC BY 4.0"
 canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/archive_policy.md"
@@ -108,6 +108,60 @@ interaction_packets/
   raw/
     2026/
       2026-05-04-session_marenostrum_redacted.eml.md
+```
+
+## Évolution d’un même cas
+
+Un même cas peut évoluer après sa première documentation : réponse tardive, refus explicite, transformation d’une demande initiale en contribution écrite, relance, publication d’un rapport, correction d’une interprétation initiale, etc.
+
+Dans ce cas, il faut éviter deux erreurs symétriques :
+
+- supprimer trop vite la première trace, ce qui efface l’historique réel du dossier ;
+- laisser coexister plusieurs paquets actifs portant le même identifiant ou le même cas, ce qui crée une ambiguïté.
+
+La règle recommandée est donc la conservation avec remplacement explicite.
+
+Lorsqu’un paquet initial est dépassé par un paquet consolidé, l’ancien paquet doit être conservé mais marqué comme remplacé :
+
+```yaml
+statut: "superseded"
+superseded_by: "interaction_packets/packets/YYYY/YYYY-MM-DD-nouveau-paquet.yaml"
+superseded_reason: >
+  Ce paquet documentait l’état initial du cas. Le cas a ensuite évolué après
+  un événement nouveau documenté dans le paquet consolidé.
+```
+
+Le paquet remplacé conserve sa valeur historique. Le paquet consolidé devient la source à lire pour l’état courant du cas.
+
+Le tableau de bord (`dashboard.md`) et le registre principal (`mail_trace.md`) doivent pointer vers le paquet consolidé, non vers le paquet remplacé.
+
+### Cas où une fusion peut être préférable
+
+La fusion avec suppression de l’ancien paquet ne doit être envisagée que si :
+
+- l’ancien paquet contient une erreur matérielle sans valeur historique ;
+- le paquet a été créé par doublon accidentel ;
+- aucune lecture future utile ne dépend de la distinction entre état initial et état consolidé ;
+- la suppression ne réduit pas la traçabilité du processus.
+
+Dans le doute, conserver et marquer `superseded`.
+
+### Cas type
+
+Lorsqu’une demande initiale évolue selon la séquence :
+
+```text
+demande d’audience → refus ou impossibilité procédurale → contribution écrite recevable
+```
+
+il est préférable de conserver le paquet de demande initiale comme trace historique, puis de créer ou mettre à jour un paquet consolidé documentant la séquence complète.
+
+Le statut courant doit alors refléter l’état institutionnel réel, par exemple :
+
+```yaml
+statut: "contribution transmise"
+current_status:
+  label: "Contribution transmise"
 ```
 
 ## Règle importante
