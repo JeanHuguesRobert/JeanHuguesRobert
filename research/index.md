@@ -69,6 +69,8 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 | [Politique d’archivage des interactions](../interaction_packets/archive_policy.md) *(copy forms, disclosure levels D0–D4, redaction rules)* | this repo | 2026-05-04 |
 | [Session MareNostrum / Université de Corse — copie lisible](../interaction_packets/readable/2026/2026-05-04-session_marenostrum.md) *(human-readable copy, D3)* | this repo | 2026-05-04 |
 | [Session MareNostrum / Université de Corse — copie quasi brute masquée](../interaction_packets/raw/2026/2026-05-04-session_marenostrum_redacted.eml.md) *(near-raw redacted copy, D3)* | this repo | 2026-05-04 |
+| [Demande d’audience Boudié / processus constitutionnel — copie lisible](../interaction_packets/readable/2026/2026-05-25-demande_audience_boudie.md) *(readable copy, D3 — open case, no reply detected)* | this repo | 2026-05-25 |
+| [Demande d’audience Boudié / processus constitutionnel — copie quasi brute masquée](../interaction_packets/raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md) *(near-raw redacted copy, D3 — verified 2026-05-28, no reply)* | this repo | 2026-05-25 |
 
 ---
 
@@ -92,6 +94,12 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 
 *These documents link to this file:*
 - [Project Context — Jean Hugues Noël Robert, baron Mariani](../CONTEXT.md)
+- [Politique d’archivage des interactions](../interaction_packets/archive_policy.md)
+- [Interaction Packets — Tableau de bord (JHR)](../interaction_packets/dashboard.md)
+- [Registre des interactions](../interaction_packets/mail_trace.md)
+- [Copie quasi brute masquée — Session MareNostrum / Université de Corse](../interaction_packets/raw/2026/2026-05-04-session_marenostrum_redacted.eml.md)
+- [Interaction lisible — Session MareNostrum / Université de Corse](../interaction_packets/readable/2026/2026-05-04-session_marenostrum.md)
+- [Interaction lisible — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](../interaction_packets/readable/2026/2026-05-25-demande_audience_boudie.md)
 - [Possibilism](../POSSIBILISM.md)
 - [Project Ecosystem](../PROJECTS.md)
 - [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md)

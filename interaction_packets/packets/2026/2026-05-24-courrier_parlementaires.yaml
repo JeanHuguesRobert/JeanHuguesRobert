@@ -1,0 +1,38 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Schéma de référence : interaction_packets/archive_policy.md
+
+id: "2026-05-24-001"
+date_envoi: "2026-05-24"
+date_reponse: null
+verifie_le: "2026-05-28"
+canal: "email (adresses officielles)"
+interlocuteurs:
+  - "Michel Castellani (député)"
+  - "François-Xavier Ceccoli (député)"
+  - "Paul-André Colombani (député)"
+  - "Laurent Marcangeli (député)"
+  - "J.-J. Panunzi (sénateur)"
+  - "P.-T. Parigi (sénateur)"
+sujet: "Courrier public relatif au projet de loi constitutionnelle sur la Corse"
+contexte: >
+  Démarche publique, en amont de la visite du rapporteur, dans le cadre du processus
+  parlementaire sur le projet de loi constitutionnelle relatif à la Corse.
+demande: >
+  Transmission, par voie officielle, d'un courrier public accompagné d'une note
+  synthétique, sur l'Autonomie de Capacité : l'autonomie juridique ne produit ses
+  effets que si elle devient une capacité effective d'agir, de produire, de protéger,
+  d'expérimenter et de transmettre. Approche ouverte, documentée, vérifiable, non partisane.
+pieces_jointes:
+  - "courrier_public_six_parlementaires_corse.pdf"
+  - "note_synthetique_autonomie_capacite_corse.pdf"
+statut: "aucune réponse détectée à ce stade"
+niveau_divulgation: "D3"
+resume_public: >
+  Courrier public adressé le 2026-05-24 aux six parlementaires corses (4 députés,
+  2 sénateurs), avec courrier + note synthétique en pièces jointes. À ce stade,
+  aucune réponse détectée (vérifié 2026-05-28). Le texte source a vocation à être
+  publié dans un dépôt ouvert.
+copies:
+  lisible: "../../readable/2026/2026-05-24-courrier_parlementaires.md"
+  brute_masquee: "../../raw/2026/2026-05-24-courrier_parlementaires_redacted.eml.md"

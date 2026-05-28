@@ -63,7 +63,7 @@ Politique d’archivage :
 | ID | Date | Sujet | Interlocuteur | Statut | Divulgation | Paquet | Copie lisible | Copie brute |
 |---|---:|---|---|---|---|---|---|---|
 | 2026-05-04-001 | 2026-05-04 | Session MareNostrum | Université de Corse | Réponse reçue : négative | D3 | [YAML](./packets/2026/2026-05-04-session_marenostrum.yaml) | [lisible](./readable/2026/2026-05-04-session_marenostrum.md) | [quasi brute masquée](./raw/2026/2026-05-04-session_marenostrum_redacted.eml.md) |
-| 2026-05-25-001 | 2026-05-25 | Demande d’audience — processus constitutionnel Corse | Florent Boudié / Commission des lois | Aucune réponse détectée à ce stade | D3 | [YAML](./packets/2026/2026-05-25-demande_audience_boudie.yaml) | à créer | à créer |
+| 2026-05-25-001 | 2026-05-25 | Demande d’audience — processus constitutionnel Corse | Florent Boudié / Commission des lois | Aucune réponse détectée à ce stade | D3 | [YAML](./packets/2026/2026-05-25-demande_audience_boudie.yaml) | [lisible](./readable/2026/2026-05-25-demande_audience_boudie.md) | [quasi brute masquée](./raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md) |
 
 ## Cas 2026-05-04-001 — MareNostrum / Université de Corse
 
@@ -193,7 +193,11 @@ Les corrections doivent rester visibles lorsqu’elles sont importantes.
 ### Backlinks
 
 *These documents link to this file:*
+- [Politique d’archivage des interactions](archive_policy.md)
+- [Registre des interactions](mail_trace.md)
+- [Copie quasi brute masquée — Session MareNostrum / Université de Corse](raw/2026/2026-05-04-session_marenostrum_redacted.eml.md)
 - [Interaction lisible — Session MareNostrum / Université de Corse](readable/2026/2026-05-04-session_marenostrum.md)
+- [Interaction lisible — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](readable/2026/2026-05-25-demande_audience_boudie.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)
 
 <!-- END_AUTO: backlinks -->

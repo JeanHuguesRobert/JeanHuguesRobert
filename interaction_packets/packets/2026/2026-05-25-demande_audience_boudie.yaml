@@ -20,6 +20,7 @@ demande: >
   officielle (adresse parlementaire ; copie au secrétariat de la commission des lois ;
   copie à l'Institut Mariani) et annoncée publiquement.
 statut: "aucune réponse détectée à ce stade"
+verifie_le: "2026-05-28"
 niveau_divulgation: "D3"
 resume_public: >
   Demande d'audience officielle et publiquement annoncée le 25 mai 2026. À ce stade,
@@ -30,5 +31,5 @@ note_methodologique: >
   déclaration publique d'ouverture aux acteurs associatifs, une demande officielle et
   publiquement annoncée, et l'absence de continuation détectée à ce stade.
 copies:
-  lisible: "à créer"
-  brute_masquee: "à créer"
+  lisible: "../../readable/2026/2026-05-25-demande_audience_boudie.md"
+  brute_masquee: "../../raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md"
