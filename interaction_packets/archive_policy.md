@@ -110,6 +110,49 @@ interaction_packets/
       2026-05-04-session_marenostrum_redacted.eml.md
 ```
 
+## Mode d’emploi rapide
+
+### 1. Créer ou mettre à jour le registre
+
+Le registre `mail_trace.md` doit rester synthétique.
+
+Il sert à répondre rapidement à la question :
+
+> Quels cas sont actuellement suivis, avec quel statut et quel niveau de divulgation ?
+
+Il ne doit pas devenir le lieu principal du récit détaillé.
+
+### 2. Créer ou mettre à jour le paquet YAML
+
+Le paquet YAML est la source structurée principale.
+
+Il doit contenir :
+
+- l’identifiant du cas ;
+- le statut courant ;
+- la chronologie principale ;
+- les suites éventuelles dans `follow_up` ;
+- les documents liés ;
+- l’interprétation prudente ;
+- les points à surveiller.
+
+### 3. Mettre à jour le tableau de bord
+
+Le tableau de bord `dashboard.md` doit rester lisible par un lecteur humain.
+
+Il peut inclure un résumé narratif, mais il ne doit pas répéter toute la matière du paquet YAML.
+
+### 4. Documenter les règles nouvelles dans cette politique
+
+Lorsqu’un cas révèle une règle réutilisable, la règle doit être documentée ici comme mode d’emploi.
+
+Exemples :
+
+- comment traiter un paquet remplacé ;
+- comment documenter une suite post-envoi ;
+- quand mettre l’Institut Mariani en copie ;
+- comment corriger un oubli de copie sans re-solliciter inutilement les destinataires initiaux.
+
 ## Évolution d’un même cas
 
 Un même cas peut évoluer après sa première documentation : réponse tardive, refus explicite, transformation d’une demande initiale en contribution écrite, relance, publication d’un rapport, correction d’une interprétation initiale, etc.
@@ -124,7 +167,8 @@ La règle recommandée est donc la conservation avec remplacement explicite.
 Lorsqu’un paquet initial est dépassé par un paquet consolidé, l’ancien paquet doit être conservé mais marqué comme remplacé :
 
 ```yaml
-statut: "superseded"
+status: "superseded"
+statut: "superseded" # optionnel, pour compatibilité avec d’anciens paquets bilingues
 superseded_by: "interaction_packets/packets/YYYY/YYYY-MM-DD-nouveau-paquet.yaml"
 superseded_reason: >
   Ce paquet documentait l’état initial du cas. Le cas a ensuite évolué après
@@ -196,11 +240,46 @@ follow_up:
     status: "sent"
 ```
 
+### Critère pratique
+
+Avant de créer un nouveau paquet, poser la question :
+
+> Le nouvel événement change-t-il l’objet du suivi, ou prolonge-t-il simplement le même dossier ?
+
+Si le nouvel événement prolonge le même dossier, utiliser `follow_up`.
+
+Si le nouvel événement crée une demande distincte, un nouvel interlocuteur principal ou une temporalité autonome, créer un nouveau paquet.
+
 ## Règle personnelle — Institut Mariani
 
 Lorsque l’interaction relève des travaux associatifs, citoyens, doctrinaux, territoriaux ou patrimoniaux portés dans le cadre de C.O.R.S.I.C.A. ou de l’Institut Mariani, l’Institut Mariani doit être mis en copie lorsque c’est pertinent.
 
 Cette règle ne doit pas conduire à multiplier les destinataires sans nécessité. Elle sert à préserver la traçabilité des actes rattachés à l’écosystème associatif et intellectuel concerné.
+
+### Quand mettre l’Institut Mariani en copie
+
+Mettre l’Institut Mariani en copie lorsque l’échange concerne notamment :
+
+- C.O.R.S.I.C.A. ;
+- l’Institut Mariani ;
+- l’Autonomie de Capacité ;
+- Barons Mariani ;
+- Cogentia ;
+- #1755 ;
+- FractaVolta ;
+- un dossier institutionnel, public ou documentaire relevant de l’écosystème.
+
+### Quand ne pas le faire automatiquement
+
+Ne pas mettre l’Institut Mariani en copie si cela risque :
+
+- d’exposer inutilement une personne privée ;
+- de créer une confusion juridique ;
+- d’alourdir un échange sensible ;
+- de rendre institutionnel un échange qui doit rester strictement personnel ;
+- de produire un effet de pression disproportionné sur le destinataire.
+
+### Correction d’un oubli
 
 Si l’oubli est détecté après envoi, il doit être corrigé par un message d’archive sobre, adressé à l’Institut Mariani, sans solliciter inutilement à nouveau les destinataires institutionnels.
 
@@ -220,6 +299,20 @@ follow_up:
       corrigeant l'absence de copie lors d'un message précédent.
     status: "sent"
 ```
+
+## Checklist avant archivage
+
+Avant de finaliser une interaction importante, vérifier :
+
+- le statut courant dans `mail_trace.md` ;
+- le lien du tableau de bord vers le paquet actif ;
+- l’absence de paquet concurrent resté actif par erreur ;
+- la présence de `superseded_by` si un paquet initial a été remplacé ;
+- le niveau de divulgation ;
+- les coupes ou masquages nécessaires ;
+- les suites post-envoi à placer dans `follow_up` ;
+- la mise en copie de l’Institut Mariani lorsque pertinent ;
+- les points à surveiller dans `next_watch`.
 
 ## Règle importante
 
