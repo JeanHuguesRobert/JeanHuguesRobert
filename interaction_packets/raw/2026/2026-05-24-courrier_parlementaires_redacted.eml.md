@@ -23,13 +23,12 @@ canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/i
 ```text
 Date: 2026-05-24
 From: Jean Hugues Noël Robert <jeanhuguesrobert@gmail.com>
-To: [6 parlementaires corses — adresses officielles masquées]
-    – Michel Castellani (député)
-    – François-Xavier Ceccoli (député)
-    – Paul-André Colombani (député)
-    – Laurent Marcangeli (député)
-    – J.-J. Panunzi (sénateur)
-    – P.-T. Parigi (sénateur)
+To: michel.castellani@assemblee-nationale.fr (Michel Castellani, député) ;
+    francois-xavier.ceccoli@assemblee-nationale.fr (François-Xavier Ceccoli, député) ;
+    paul-andre.colombani@assemblee-nationale.fr (Paul-André Colombani, député) ;
+    laurent.marcangeli@assemblee-nationale.fr (Laurent Marcangeli, député) ;
+    jj.panunzi@senat.fr (J.-J. Panunzi, sénateur) ;
+    pt.parigi@senat.fr (P.-T. Parigi, sénateur)
 Subject: Courrier public relatif au projet de loi constitutionnelle sur la Corse
 Pièces jointes : courrier_public_six_parlementaires_corse.pdf ; note_synthetique_autonomie_capacite_corse.pdf
 
@@ -75,11 +74,10 @@ Le fil Gmail, vérifié le 2026-05-28, ne contient que le message d'envoi du 202
 
 Éléments volontairement masqués ou réduits :
 
-- adresses email des destinataires (tiers) ;
 - bloc de signature (image et liens de suivi `about.me`) réduit ;
 - contenu des pièces jointes non transcrit.
 
-Éléments conservés (publics) : le nom, l'adresse email, le numéro de téléphone et l'adresse postale de l'auteur (entièrement publics, à sa demande) ; sa qualité ; les noms des parlementaires destinataires (acteurs publics ; courrier explicitement public) ; le lien vers les travaux ouverts.
+Éléments conservés (publics) : le nom, l'adresse email, le numéro de téléphone et l'adresse postale de l'auteur (entièrement publics, à sa demande) ; sa qualité ; les noms **et adresses email officielles** des six parlementaires destinataires — données publiques diffusées par les sites de l'Assemblée nationale et du Sénat, s'agissant d'un courrier lui-même explicitement public ; le lien vers les travaux ouverts.
 
 Les coupes sont signalées explicitement.
 
