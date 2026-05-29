@@ -23,6 +23,9 @@ status: "superseded"
 statut: "superseded"
 verifie_le: "2026-05-28"
 niveau_divulgation: "D3"
+note_divulgation: >
+  Le paquet initial conserve son niveau historique de divulgation. Le paquet consolidé
+  courant est classé D2 et doit être utilisé pour lire l'état actuel du cas.
 superseded_by: "interaction_packets/packets/2026/2026-05-25-autonomie-capacite-commission-lois.yaml"
 superseded_reason: >
   Ce paquet documentait la demande initiale d'audience adressée à Florent Boudié.
