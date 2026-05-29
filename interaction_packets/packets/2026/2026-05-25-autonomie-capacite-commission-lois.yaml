@@ -38,7 +38,13 @@ contacts:
     name: "Florent Boudié"
     role: "Président de la commission des Lois"
   response_sender:
+    name: "Lucas Fournier"
     role: "Administrateur, service de la commission des Lois"
+  informed_representatives:
+    note: "Les parlementaires corses et des contacts institutionnels de la Collectivité de Corse ont été informés le 2026-05-29. Les adresses ne sont pas reproduites dans ce paquet public D2."
+  archive_correction:
+    name: "Institut Mariani"
+    purpose: "Archive corrective après absence de copie dans le message d'information institutionnelle."
   note: "Adresses et copies non reproduites dans ce paquet public D2."
 
 subject_tags:
@@ -130,7 +136,7 @@ core_claims:
   - "L'IA peut aider à structurer une contribution, mais la responsabilité de l'acte reste humaine."
   - "Une contribution publique doit rester traçable, vérifiable et corrigeable."
 
-statut: "contribution transmise ; représentants corses informés ; attente du rapport"
+statut: "contribution transmise ; représentants corses informés ; archive Institut Mariani effectuée ; attente du rapport"
 resume_public: >
   Demande d'audience officielle envoyée le 25 mai 2026. Le 28 mai 2026, le service de la
   Commission des Lois a indiqué que le cycle d'auditions était terminé, mais qu'une contribution
@@ -142,7 +148,7 @@ resume_public: >
   à l'Institut Mariani pour corriger la trace documentaire.
 
 current_status:
-  label: "Contribution transmise ; représentants corses informés ; attente du rapport"
+  label: "Contribution transmise ; représentants corses informés ; archive Institut Mariani effectuée ; attente du rapport"
   details:
     - "Contribution écrite transmise à la commission des Lois."
     - "Parlementaires corses et contacts institutionnels de la Collectivité de Corse informés."
