@@ -3,7 +3,7 @@ title: "Interaction Packets — Tableau de bord (JHR)"
 description: "Public, traceable dashboard of interactions of general interest initiated by JHR in his open, volunteer, non-profit activities."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-05-28"
+date: "2026-05-29"
 status: "journal"
 license: "CC BY 4.0"
 canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/dashboard.md"
@@ -63,7 +63,7 @@ Politique d’archivage :
 | ID | Date | Sujet | Interlocuteur | Statut | Divulgation | Paquet | Copie lisible | Copie brute |
 |---|---:|---|---|---|---|---|---|---|
 | 2026-05-04-001 | 2026-05-04 | Session MareNostrum | Université de Corse | Réponse reçue : négative | D3 | [YAML](./packets/2026/2026-05-04-session_marenostrum.yaml) | [lisible](./readable/2026/2026-05-04-session_marenostrum.md) | [quasi brute masquée](./raw/2026/2026-05-04-session_marenostrum_redacted.eml.md) |
-| 2026-05-25-001 | 2026-05-25 | Autonomie de capacité — contribution Commission des Lois | Florent Boudié / Commission des Lois | Contribution transmise après réponse de la Commission | D2 | [YAML](./packets/2026/2026-05-25-autonomie-capacite-commission-lois.yaml) | [lisible](./readable/2026/2026-05-25-demande_audience_boudie.md) | [quasi brute masquée](./raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md) |
+| 2026-05-25-001 | 2026-05-25 | Autonomie de capacité — contribution Commission des Lois | Florent Boudié / Commission des Lois | Contribution transmise ; représentants corses informés ; archive Institut Mariani effectuée | D2 | [YAML](./packets/2026/2026-05-25-autonomie-capacite-commission-lois.yaml) | [lisible](./readable/2026/2026-05-25-demande_audience_boudie.md) | [quasi brute masquée](./raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md) |
 
 ## Cas 2026-05-04-001 — MareNostrum / Université de Corse
 
@@ -170,9 +170,17 @@ Formule méthodologique :
 
 > Sa rédaction a été structurée avec l'aide d'outils d'intelligence artificielle, sous mon arbitrage et ma responsabilité exclusive. Cette transparence méthodologique est volontaire : elle illustre la possibilité d'utiliser l'IA comme outil de clarification sans lui transférer la responsabilité de l'acte.
 
+### Suites du 29 mai 2026
+
+Le 29 mai 2026 à 06:32, les parlementaires corses et des contacts institutionnels de la Collectivité de Corse ont été informés de la contribution transmise à la commission des Lois.
+
+Le 29 mai 2026 à 06:40, un message d’archive a été envoyé à l’Institut Mariani afin de corriger l’absence de copie dans l’envoi précédent.
+
+Ces deux suites ne constituent pas des cas autonomes : elles prolongent le même dossier institutionnel et sont donc suivies dans le paquet consolidé.
+
 ### Statut actuel
 
-Le statut est désormais : `contribution transmise`.
+Le statut est désormais : `contribution transmise ; représentants corses informés ; archive Institut Mariani effectuée`.
 
 Points à surveiller :
 
