@@ -164,6 +164,63 @@ current_status:
   label: "Contribution transmise"
 ```
 
+## Continuations post-envoi
+
+Une interaction principale ne s’arrête pas nécessairement au premier envoi, à la première réponse ou à la transmission du document attendu.
+
+Lorsqu’un événement ultérieur reste attaché au même cas sans ouvrir une interaction autonome, il doit d’abord être ajouté au paquet consolidé dans une section `follow_up`.
+
+Exemples de continuations post-envoi :
+
+- information d’élus, d’acteurs territoriaux ou de parties concernées ;
+- copie corrective à une structure de rattachement ;
+- transmission pour archive ;
+- annonce publique documentant une démarche déjà réalisée ;
+- relance sobre fondée sur un événement nouveau ;
+- vérification ultérieure d’un accusé de réception, d’un rapport ou d’une mention.
+
+Un nouveau paquet ne doit être créé que si le nouvel échange ouvre un cas autonome : nouvel interlocuteur principal, nouvel objet, nouveau résultat attendu ou nouvelle temporalité de suivi.
+
+Exemple de structure :
+
+```yaml
+follow_up:
+  - date: "YYYY-MM-DD"
+    time: "HH:MM"
+    direction: "outbound"
+    channel: "email"
+    event: "Information des parties concernées"
+    summary: >
+      Information transmise à des acteurs concernés au sujet d'une interaction
+      principale déjà documentée.
+    status: "sent"
+```
+
+## Règle personnelle — Institut Mariani
+
+Lorsque l’interaction relève des travaux associatifs, citoyens, doctrinaux, territoriaux ou patrimoniaux portés dans le cadre de C.O.R.S.I.C.A. ou de l’Institut Mariani, l’Institut Mariani doit être mis en copie lorsque c’est pertinent.
+
+Cette règle ne doit pas conduire à multiplier les destinataires sans nécessité. Elle sert à préserver la traçabilité des actes rattachés à l’écosystème associatif et intellectuel concerné.
+
+Si l’oubli est détecté après envoi, il doit être corrigé par un message d’archive sobre, adressé à l’Institut Mariani, sans solliciter inutilement à nouveau les destinataires institutionnels.
+
+Cette correction doit être tracée comme `follow_up` du paquet consolidé, sauf si elle ouvre elle-même un nouveau cas autonome.
+
+Exemple :
+
+```yaml
+follow_up:
+  - date: "YYYY-MM-DD"
+    time: "HH:MM"
+    direction: "outbound"
+    channel: "email"
+    event: "Archive corrective Institut Mariani"
+    summary: >
+      Message adressé à l'Institut Mariani pour archive et traçabilité,
+      corrigeant l'absence de copie lors d'un message précédent.
+    status: "sent"
+```
+
 ## Règle importante
 
 Une copie masquée doit l’indiquer clairement.
