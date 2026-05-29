@@ -6,7 +6,7 @@ id: "2026-05-25-001"
 type: "interaction_packet"
 status: "active"
 created: "2026-05-25"
-last_updated: "2026-05-28"
+last_updated: "2026-05-29"
 disclosure: "D2"
 
 # Compatibilité avec les premiers paquets du registre
@@ -16,7 +16,7 @@ canal: "email (voie officielle)"
 interlocuteur: "Florent Boudié / service de la Commission des Lois"
 sujet: "Autonomie de capacité — contribution écrite à la Commission des Lois"
 niveau_divulgation: "D2"
-verifie_le: "2026-05-28"
+verifie_le: "2026-05-29"
 
 title: "Autonomie de capacité / Commission des Lois"
 short_title: "Contribution Commission des Lois — Autonomie de Capacité"
@@ -93,6 +93,28 @@ timeline:
       responsabilité exclusive de Jean Hugues Noël Robert.
     status: "sent"
 
+follow_up:
+  - date: "2026-05-29"
+    time: "06:32"
+    direction: "outbound"
+    channel: "email"
+    event: "Information des parlementaires corses et de la Collectivité de Corse"
+    summary: >
+      Information transmise aux parlementaires corses et aux contacts institutionnels
+      de la Collectivité de Corse au sujet de la contribution déjà envoyée à la
+      commission des Lois.
+    status: "sent"
+
+  - date: "2026-05-29"
+    time: "06:40"
+    direction: "outbound"
+    channel: "email"
+    event: "Archive corrective Institut Mariani"
+    summary: >
+      Message adressé à l'Institut Mariani pour archive et traçabilité, corrigeant
+      l'absence de copie lors du message d'information institutionnelle précédent.
+    status: "sent"
+
 documents:
   contribution:
     repository: "JeanHuguesRobert/barons-Mariani"
@@ -108,17 +130,23 @@ core_claims:
   - "L'IA peut aider à structurer une contribution, mais la responsabilité de l'acte reste humaine."
   - "Une contribution publique doit rester traçable, vérifiable et corrigeable."
 
-statut: "contribution transmise"
+statut: "contribution transmise ; représentants corses informés ; attente du rapport"
 resume_public: >
   Demande d'audience officielle envoyée le 25 mai 2026. Le 28 mai 2026, le service de la
   Commission des Lois a indiqué que le cycle d'auditions était terminé, mais qu'une contribution
   écrite pouvait être transmise et éventuellement mentionnée dans le rapport. Une contribution
   publique sur l'Autonomie de Capacité a été envoyée le même jour, avec mention explicite de
   l'aide de l'IA comme outil de structuration placé sous responsabilité humaine exclusive.
+  Le 29 mai 2026, les parlementaires corses et des contacts institutionnels de la Collectivité
+  de Corse ont été informés de cette transmission. Un message d'archive a ensuite été adressé
+  à l'Institut Mariani pour corriger la trace documentaire.
 
 current_status:
-  label: "Contribution transmise"
+  label: "Contribution transmise ; représentants corses informés ; attente du rapport"
   details:
+    - "Contribution écrite transmise à la commission des Lois."
+    - "Parlementaires corses et contacts institutionnels de la Collectivité de Corse informés."
+    - "Trace documentaire corrigée auprès de l'Institut Mariani."
     - "Accusé de réception spécifique non encore détecté."
     - "Mention dans le rapport possible, non confirmée."
     - "Effet probable : doctrinal, lexical et documentaire avant d'être normatif."
@@ -137,7 +165,8 @@ interpretation:
     Ce cas ne prouve pas une prise en compte politique ou normative de l'Autonomie de Capacité.
     Il établit en revanche qu'une contribution écrite documentée a été transmise dans le canal
     institutionnel pertinent, après transformation d'une demande d'audience impossible en trace
-    parlementaire potentiellement mentionnable.
+    parlementaire potentiellement mentionnable. Le suivi ultérieur informe les représentants
+    corses concernés et corrige la trace documentaire auprès de l'Institut Mariani.
 
 methodological_note:
   ai_assistance: true
