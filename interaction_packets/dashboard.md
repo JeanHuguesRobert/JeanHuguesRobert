@@ -236,7 +236,9 @@ Les corrections doivent rester visibles lorsqu’elles sont importantes.
 - [Politique d’archivage des interactions](archive_policy.md)
 - [Registre des interactions](mail_trace.md)
 - [Copie quasi brute masquée — Session MareNostrum / Université de Corse](raw/2026/2026-05-04-session_marenostrum_redacted.eml.md)
+- [Copie quasi brute masquée — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md)
 - [Interaction lisible — Session MareNostrum / Université de Corse](readable/2026/2026-05-04-session_marenostrum.md)
+- [Interaction lisible — Courrier public aux parlementaires corses (projet de loi constitutionnelle)](readable/2026/2026-05-24-courrier_parlementaires.md)
 - [Interaction lisible — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](readable/2026/2026-05-25-demande_audience_boudie.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)
 

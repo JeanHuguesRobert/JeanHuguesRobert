@@ -82,4 +82,9 @@ Le fil Gmail, vérifié le 2026-05-28, ne contient que le message d'envoi du 202
 Les coupes sont signalées explicitement.
 
 <!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Interaction lisible — Courrier public aux parlementaires corses (projet de loi constitutionnelle)](../../readable/2026/2026-05-24-courrier_parlementaires.md)
+
 <!-- END_AUTO: backlinks -->

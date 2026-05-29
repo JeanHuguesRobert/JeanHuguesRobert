@@ -200,6 +200,16 @@ The corpus's operational method note (v0.4). Crystallises a working method that 
 The companion to *Pipeline*. Argues against the classical hierarchy that treats an academic paper as the sovereign source and all other publications as simplified descendants; proposes instead a source-first architecture where the corpus carries the substance and academic papers, public essays, social posts, video scripts, parliamentary notes are *derived forms* adapted to a specific scene. *Do not popularize from the academic paper; derive from the corpus.*  
 → [Paper](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md)
 
+**May 2026 — *Traçabilité des actes***  
+*Mandat, imputabilité et contrôle des actes engageants dans les régimes humains, institutionnels et algorithmiques.*  
+A governance doctrine: delegated capacity is legitimate only while it stays tied to an effective chain of imputability — trace, imputation, justification, correction, revocation. Engaging acts must be traceable, contestable and revocable; an AI may assist deliberation but must not absorb imputability. The operational counterpart of *autonomie de capacité* — and the doctrine the corpus now applies to its own public démarches.  
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md)
+
+**May 2026 — *Traçabilité symétrique et capture relationnelle***  
+*Email, portails propriétaires, preuve opposable et rééquilibrage du rapport de force entre individus et personnes morales.*  
+Names *capture relationnelle par architecture de canal*: when an organisation imposes a proprietary channel and controls the trace, status, history and proof, it transforms the balance of power. Symmetric traceability — a complete, exportable, opposable record held by each party — is a minimal condition of capacity, evidence and practical freedom. *Filtrer, oui. Capturer, non.*  
+→ [Paper](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/tracabilite_symetrique_capture_relationnelle.md)
+
 **May 2026 — *Projet #1755***  
 *Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne.*  
 The substantive source document of the 1755 test (v0.13) — early-stage evidentiary dossier proposing a transnational scientific programme on the Corsican constitutional sequence (Révolution 1729, roi Théodore 1736, République de Paoli 1755, Boswell, Rousseau, Napoléon, Code civil). Cadre institutionnel : Institut Mariani — émanation R&D de C.O.R.S.I.C.A. Public dashboard derives from it.  
