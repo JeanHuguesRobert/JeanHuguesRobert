@@ -24,8 +24,8 @@ last_stamped_at: 2026-06-01
 | Repository | research/index.md | Branch | Last commit |
 |---|---|---|---|
 | cogentia | ✅ | main | 2026-06-01 |
-| FractaVolta | ✅ | main | 2026-05-31 |
-| marenostrum | ✅ | main | 2026-05-31 |
+| FractaVolta | ✅ | main | 2026-06-01 |
+| marenostrum | ✅ | main | 2026-06-01 |
 | barons-Mariani | ✅ | main | 2026-06-01 |
 | inseme | ✅ | main | 2026-06-01 |
 | Inox | ✅ | master | 2026-06-01 |
