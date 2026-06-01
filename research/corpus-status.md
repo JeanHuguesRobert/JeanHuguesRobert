@@ -3,7 +3,7 @@ title: "Corpus Status — JeanHuguesRobert"
 description: "Current state of the JeanHuguesRobert knowledge corpus — what is proved, what is open, what remains possible"
 layout: default
 nav_order: 2
-last_modified_at: 2026-05-31
+last_modified_at: 2026-06-01
 ---
 
 # Corpus Status — JeanHuguesRobert
@@ -21,13 +21,13 @@ last_modified_at: 2026-05-31
 <!-- BEGIN_AUTO: registered_repos -->
 | Repository | research/index.md | Branch | Last commit |
 |---|---|---|---|
-| cogentia | ✅ | main | 2026-05-31 |
+| cogentia | ✅ | main | 2026-06-01 |
 | FractaVolta | ✅ | main | 2026-05-31 |
 | marenostrum | ✅ | main | 2026-05-31 |
-| barons-Mariani | ✅ | main | 2026-05-31 |
-| inseme | ✅ | main | 2026-05-31 |
-| Inox | ✅ | master | 2026-05-31 |
-| JeanHuguesRobert | ✅ | main | 2026-05-31 |
+| barons-Mariani | ✅ | main | 2026-06-01 |
+| inseme | ✅ | main | 2026-06-01 |
+| Inox | ✅ | master | 2026-06-01 |
+| JeanHuguesRobert | ✅ | main | 2026-06-01 |
 <!-- END_AUTO: registered_repos -->
 
 ---
