@@ -14,6 +14,12 @@ I was born on December 25, 1965, at noon precisely, in Nîmes — a Roman city b
 
 I have spent thirty years doing more or less the same thing.
 
+A sentence from my godmother gives the patrimonial rule behind the work:
+
+> Quand on a beaucoup reçu, on doit beaucoup rendre.
+
+The Mariani name, Minesteggio, family memory and available time are not claims to status. They are obligations of transmission.
+
 I am not an academic. I hold no institutional affiliation and consider this an advantage. My method is what I call **Possibilism**: the joyful exploration of what is potentially possible, valuing the discovery itself regardless of outcome. I follow the counsel of Georges Brassens, who said of dying for ideas: *"Yes — but slowly."*
 
 ---
