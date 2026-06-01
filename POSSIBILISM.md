@@ -6,7 +6,8 @@ affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Pao
 date: "2026-05-09"
 status: "published"
 license: "CC BY 4.0"
-canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md"
+canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md
+last_stamped_at: 2026-06-01
 ---
 
 # Possibilism

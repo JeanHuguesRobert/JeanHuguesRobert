@@ -6,7 +6,8 @@ affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Pao
 date: "2026-05-24"
 status: "journal"
 license: "CC BY 4.0"
-canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/raw/2026/2026-05-24-courrier_parlementaires_redacted.eml.md"
+canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/raw/2026/2026-05-24-courrier_parlementaires_redacted.eml.md
+last_stamped_at: 2026-06-01
 ---
 
 # Copie quasi brute masquée — Courrier public aux parlementaires corses (projet de loi constitutionnelle)

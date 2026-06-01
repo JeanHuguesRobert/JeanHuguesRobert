@@ -4,6 +4,8 @@ description: "Current state of the JeanHuguesRobert knowledge corpus — what is
 layout: default
 nav_order: 2
 last_modified_at: 2026-06-01
+canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-status.md
+last_stamped_at: 2026-06-01
 ---
 
 # Corpus Status — JeanHuguesRobert

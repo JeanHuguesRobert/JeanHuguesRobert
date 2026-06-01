@@ -9,7 +9,7 @@ status: "working-note — v0.2"
 version: "0.2"
 license: "CC BY 4.0"
 intended_path: "research/agent_brief.md"
-canonical_url: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md"
+canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md
 audience: "personal AI agents and any collaborator preparing responses on the author's behalf"
 ai_assisted_by:
   - "Claude (Anthropic) — drafting and synthesis"
@@ -25,6 +25,7 @@ tags:
   - human-in-the-loop
   - anti-capture
   - possibilism
+last_stamped_at: 2026-06-01
 ---
 
 # Agent Brief — Representing Jean Hugues Noël Robert

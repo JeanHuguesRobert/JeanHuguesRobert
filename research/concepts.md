@@ -4,6 +4,8 @@ description: "Typed concept registry for humans and AI agents; structure only, n
 layout: default
 nav_order: 3
 last_modified_at: 2026-05-28
+canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/concepts.md
+last_stamped_at: 2026-06-01
 ---
 
 # Concept Index — JeanHuguesRobert
