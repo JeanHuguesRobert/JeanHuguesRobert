@@ -71,6 +71,8 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 | [Session MareNostrum / Université de Corse — copie quasi brute masquée](../interaction_packets/raw/2026/2026-05-04-session_marenostrum_redacted.eml.md) *(near-raw redacted copy, D3)* | this repo | 2026-05-04 |
 | [Demande d’audience Boudié / processus constitutionnel — copie lisible](../interaction_packets/readable/2026/2026-05-25-demande_audience_boudie.md) *(readable copy, D3 — open case, no reply detected)* | this repo | 2026-05-25 |
 | [Demande d’audience Boudié / processus constitutionnel — copie quasi brute masquée](../interaction_packets/raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md) *(near-raw redacted copy, D3 — verified 2026-05-28, no reply)* | this repo | 2026-05-25 |
+| [Courrier public aux parlementaires corses (projet de loi constitutionnelle) — copie lisible](../interaction_packets/readable/2026/2026-05-24-courrier_parlementaires.md) *(human-readable copy)* | this repo | 2026-05-24 |
+| [Courrier public aux parlementaires corses (projet de loi constitutionnelle) — copie quasi brute masquée](../interaction_packets/raw/2026/2026-05-24-courrier_parlementaires_redacted.eml.md) *(near-raw redacted copy)* | this repo | 2026-05-24 |
 
 ---
 
