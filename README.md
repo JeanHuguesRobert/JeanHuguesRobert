@@ -171,6 +171,41 @@ A "digital hospitality" brick for sharing mobile data and battery between proxim
 
 ## Recent working papers
 
+**June 2026 — *Cognitive Packet Switching***  
+*A Protocol Layer for Routable Ideas, Continuations, and Agent Orchestration.*  
+Extends the cognitive packets envelope/payload model into a switching/routing layer. Treats ideas, continuations and agent calls as routable packets across humans, AI agents and tools — the same abstraction that took information networks from circuit-switched to packet-switched, applied to cognition. Published source document v1.0. Companion derived products: a Hacker News–optimised piece (*TCP/IP for Ideas*) and a Concept Situation Brief that situates the idea in its origin, lineage, neighborhood, current relevance and use.  
+→ [Source paper](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_switching.md) · [HN-optimised form](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products/tcp_ip_for_ideas_hacker_news.md) · [Concept Situation Brief](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products/concept_situation_brief_cognitive_packet_switching.md)
+
+**June 2026 — *Impunité par obscurité***  
+*Le cas corse comme révélateur d'un déficit d'imputabilité institutionnelle.*  
+The Corsican case as revealing a structural accountability deficit at the boundary between public offices, agencies, European funds and politico-administrative networks. Argues that opacity is not a neutral state but an active generator of impunity, and that *autonomie de capacité* must not become a transfer of opacity to the autonomous level. Published working paper v0.5 (academic symmetric source) + blogpost derived form v0.1 (Substack draft). Companion to *Traçabilité des actes* and to the *Autonomia* dossier.  
+→ [Source paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/impunite_par_obscurite_cas_corse.md) · [Blogpost](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/impunite_par_obscurite_blogpost.md)
+
+**May 2026 — *La seconde méthode comme généralisation prudente de l'agile***  
+*Régimes d'erreur, expérimentation traçable et apprentissage collectif sous complexité.*  
+Places agile inside a larger grammar of methods of action under complexity, distinguishing error regimes (reversible / costly / catastrophic) and the conditions for collective learning each regime allows. The *second method* does not break with agile: it prudently generalises its invariants — traceable experimentation, short iteration, recoverable failure signal — to the domains where agile becomes incompetent, notably public acts and long-lived infrastructures. Working paper v0.5.  
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/agile.md)
+
+**May 2026 — *Test du critère Rossignol***  
+*A doctrinal criterion applied to four candidate dispositifs.*  
+Formalises the operational condition for a procedural stabilizer: it must be able to produce a **Rossignol** — a point of attestation *exposable outside its own frame*, physical preferred, cryptographic acceptable, metaphorical rejected. Applied to four candidate dispositifs (Cogentia, symmetric traceability, FractaVolta, Kudocracy) with trinary maturity (native / attested / to-produce), layered for composite devices. Working note v0.1. Inox is tested separately, in its own application note — and reveals that a layered dispositif carries multiple superposed Rossignols.  
+→ [Test on four dispositifs](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/test_critere_rossignol.md) · [Application to Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/test_critere_rossignol_inox.md)
+
+**May 2026 — *Mauvaise calibration métacognitive face aux intelligences xénoformes***  
+*For a post-anthropocentric AI Safety and a democratic governance of hybrid intelligences.*  
+Argues that mainstream AI Safety miscalibrates its metacognition vis-à-vis non-human intelligences — projecting anthropomorphic structures onto systems whose cognition obeys other laws. Proposes a post-anthropocentric AI Safety framework anchored in the literary figures of xenoform intelligences (notably *Alien*), and a democratic governance of hybrid intelligences that does not evacuate radical cognitive otherness. Working paper v0.7 (academic) + blog derived form v0.2. Companion to *Democratic AI Safety*.  
+→ [Academic paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/alien_academic.md) · [Blog form](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/alien_blogpost.md)
+
+**May 2026 — *Verticalisation de la Chrétienté***  
+*Du Dieu-à-côté au Dieu-au-dessus : esquisse historique, politique et symbolique.*  
+Reconstructs the trajectory by which Christianity moved from a Dieu **à-côté** — a familiar, neighbouring presence, the world inhabited *with* God and not under Him — to a Dieu **au-dessus** — hierarchical verticality, surplombing abstraction, closure of the commons by transcendence. Reads this shift as a political operation of vertical capture, with persistent effects on how modern institutions think authority. Working paper v0.4. The blogpost derived form — *Dieu au-dessus, Dieu à côté : pourquoi l'âne compte politiquement* — articulates the thesis around the donkey as a practical procedural stabilizer.  
+→ [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization.md) · [Blog form](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization_blogpost.md)
+
+**May 2026 — *Des bleus de travail aux bleus de mémoire***  
+*Bleu de Chine corse, denim nîmois et patrimonialisation méditerranéenne des textiles populaires.*  
+A prudent comparison between two blue textile objects associated with Mediterranean territories — the Bleu de Chine reactivated in Corsica as popular/identity garment, and the denim associated with the Nîmois textile narrative through the formula *serge de Nîmes*. Does not establish direct filiation; rather, interrogates how work garments become supports for territorial memory, and proposes to think patrimony as a capacity for re-appropriation, transmission and symbolic requalification rather than pure origin. Academic draft v0.1 + research protocol v0.2 + annotated sources + critical chronology.  
+→ [Academic article](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_article_academique.md) · [Research protocol v0.2](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_nimes_corse_v0.2.md) · [Chronology](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_chronologie.md) · [Annotated sources](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_sources_annotees.md)
+
 **May 2026 — *La méthode des terrains féconds***  
 *Dépolariser par reconfiguration préalable des oppositions.*  
 A pre-deliberative protocol for depolarizing conflicts of ideas. Instead of compromise or rhetorical victory, identify the partial truths each side legitimately protects, detect their pathologies of absolutization, and relocate each truth to the layer where it becomes legitimate, limited, and composable. Founding example: capitalism/collectivism reconfigured as **common protocol, free operations**.  
