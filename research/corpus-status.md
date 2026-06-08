@@ -3,7 +3,7 @@ title: "Corpus Status — JeanHuguesRobert"
 description: "Current state of the JeanHuguesRobert knowledge corpus — what is proved, what is open, what remains possible"
 layout: default
 nav_order: 2
-last_modified_at: 2026-06-02
+last_modified_at: 2026-06-08
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-status.md
 last_stamped_at: 2026-06-01
 ---
@@ -23,13 +23,13 @@ last_stamped_at: 2026-06-01
 <!-- BEGIN_AUTO: registered_repos -->
 | Repository | research/index.md | Branch | Last commit |
 |---|---|---|---|
-| cogentia | ✅ | main | 2026-06-02 |
-| FractaVolta | ✅ | main | 2026-06-02 |
-| marenostrum | ✅ | main | 2026-06-02 |
-| barons-Mariani | ✅ | main | 2026-06-02 |
-| inseme | ✅ | main | 2026-06-02 |
-| Inox | ✅ | master | 2026-06-02 |
-| JeanHuguesRobert | ✅ | main | 2026-06-02 |
+| cogentia | ✅ | main | 2026-06-08 |
+| FractaVolta | ✅ | main | 2026-06-08 |
+| marenostrum | ✅ | main | 2026-06-08 |
+| barons-Mariani | ✅ | main | 2026-06-08 |
+| inseme | ✅ | main | 2026-06-08 |
+| Inox | ✅ | master | 2026-06-08 |
+| JeanHuguesRobert | ✅ | main | 2026-06-08 |
 <!-- END_AUTO: registered_repos -->
 
 ---
@@ -106,6 +106,7 @@ graph LR
 | Title | Location | Date |
 |---|---|---|
 | [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md) *(operating brief for personal AI agents — mandate, positions, voice, red lines)* | this repo | 2026-05-28 |
+| [C.O.R.S.I.C.A., Institut Mariani et corpus personnel](acorsica-et-corpus.md) *(corpus-level institutional boundary note)* | this repo | 2026-06-03 |
 | [Project Context](../CONTEXT.md) *(living collaborator briefing — state, priorities, people, constraints)* | this repo | 2026-05-26 |
 | [Possibilism](../POSSIBILISM.md) *(the underlying doctrine)* | this repo | 2026-05-09 |
 | [Project Ecosystem](../PROJECTS.md) *(map of projects by function)* | this repo | 2026-05-09 |
