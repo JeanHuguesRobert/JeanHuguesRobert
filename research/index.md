@@ -3,7 +3,7 @@ title: "Research Index — Jean Hugues Noël Robert (Profile / Entry Point)"
 description: "The profile repository — entry point and meta-node to the six-repo Cogentia corpus; home of the registry and of the briefings that orient human and AI collaborators."
 layout: default
 nav_order: 1
-last_modified_at: 2026-05-28
+last_modified_at: 2026-06-08
 license: CC BY 4.0
 affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: 2026-05-28
@@ -68,6 +68,7 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 | [Interaction Packets — Dashboard](../interaction_packets/dashboard.md) *(tableau de bord — current traced cases)* | this repo | 2026-05-25 |
 | [Registre des interactions](../interaction_packets/mail_trace.md) *(tabular register)* | this repo | 2026-05-25 |
 | [Politique d’archivage des interactions](../interaction_packets/archive_policy.md) *(copy forms, disclosure levels D0–D4, redaction rules)* | this repo | 2026-05-04 |
+| [Dossier patrimonial — chaise à porteur](../interaction_packets/readable/2026/2026-06-05-chaise-porteur.md) *(copie lisible publique, D3 — dossier patrimonial actif)* | this repo | 2026-06-05 |
 | [Session MareNostrum / Université de Corse — copie lisible](../interaction_packets/readable/2026/2026-05-04-session_marenostrum.md) *(human-readable copy, D3)* | this repo | 2026-05-04 |
 | [Session MareNostrum / Université de Corse — copie quasi brute masquée](../interaction_packets/raw/2026/2026-05-04-session_marenostrum_redacted.eml.md) *(near-raw redacted copy, D3)* | this repo | 2026-05-04 |
 | [Demande d’audience Boudié / processus constitutionnel — copie lisible](../interaction_packets/readable/2026/2026-05-25-demande_audience_boudie.md) *(readable copy, D3 — open case, no reply detected)* | this repo | 2026-05-25 |

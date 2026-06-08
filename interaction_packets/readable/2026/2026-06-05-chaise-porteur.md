@@ -36,3 +36,12 @@ La chaise à porteur est suivie comme objet patrimonial distinct, à protéger, 
 Ce document est D3 : copie lisible publique avec masquages éventuels.
 
 Il ne contient pas les éléments privés, juridiques ou personnels détaillés du dossier.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../../../research/index.md)
+
+<!-- END_AUTO: backlinks -->

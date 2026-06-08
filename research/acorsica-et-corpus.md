@@ -116,3 +116,14 @@ Tant que le fonds n’a pas acquis sa personnalité juridique, sa préfiguration
 Les documents institutionnels de C.O.R.S.I.C.A. et de l’Institut Mariani sont rédigés en français, langue de référence de l’association de droit français.
 
 Des produits déclinés peuvent être traduits ou adaptés dans d’autres langues.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [C.O.R.S.I.C.A., Institut Mariani et corpus personnel](../acorsica-et-corpus.md)
+- [Corpus Status — JeanHuguesRobert](corpus-status.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
+
+<!-- END_AUTO: backlinks -->
