@@ -117,6 +117,19 @@ Les documents institutionnels de C.O.R.S.I.C.A. et de l’Institut Mariani sont 
 
 Des produits déclinés peuvent être traduits ou adaptés dans d’autres langues.
 
+## Notes locales de clarification
+
+État consolidé au 2026-06-09 : ce document est la note transversale. Les notes locales suivantes précisent l'application de la séparation institutionnelle dans chaque dépôt sans remplacer la présente clarification globale :
+
+- [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/acorsica-institut-mariani.md)
+- [Barons Mariani](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/acorsica-institut-mariani.md)
+- [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/acorsica-institut-mariani.md)
+- [Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/acorsica-institut-mariani.md)
+- [Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/acorsica-institut-mariani.md)
+- [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/acorsica-institut-mariani.md)
+
+Continuation : quand un nouveau dépôt entre dans le corpus ou quand le statut juridique d'une initiative change, mettre à jour d'abord cette note transversale, puis seulement les notes locales concernées.
+
 
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
