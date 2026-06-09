@@ -46,19 +46,19 @@ graph LR
   r_inseme["inseme"]
   r_inox["Inox"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
-  r_jeanhuguesrobert -->|208| r_barons_mariani
-  r_jeanhuguesrobert -->|146| r_cogentia
+  r_jeanhuguesrobert -->|149| r_barons_mariani
   r_cogentia -->|104| r_barons_mariani
-  r_jeanhuguesrobert -->|68| r_marenostrum
-  r_jeanhuguesrobert -->|65| r_fractavolta
-  r_jeanhuguesrobert -->|62| r_inseme
-  r_jeanhuguesrobert -->|57| r_inox
+  r_jeanhuguesrobert -->|91| r_cogentia
+  r_jeanhuguesrobert -->|40| r_marenostrum
+  r_jeanhuguesrobert -->|34| r_fractavolta
   r_fractavolta -->|33| r_marenostrum
+  r_jeanhuguesrobert -->|33| r_inox
   r_fractavolta -->|32| r_cogentia
   r_barons_mariani -->|29| r_cogentia
   r_cogentia -->|21| r_inseme
   r_cogentia -->|20| r_marenostrum
   r_fractavolta -->|18| r_barons_mariani
+  r_jeanhuguesrobert -->|17| r_inseme
   r_inseme -->|14| r_cogentia
   r_barons_mariani -->|13| r_marenostrum
   r_marenostrum -->|13| r_fractavolta
@@ -99,6 +99,7 @@ graph LR
 | Title | Location | Date |
 |---|---|---|
 | [Carte globale du Corpus](corpus-map.md) *(orientation transversale — dépôts, documents pivots, chemins de lecture, fiche standard pour humains et agents IA)* | this repo | 2026-06-09 |
+| [Continuation Triage](continuations.md) *(operational dashboard — active continuation priorities, resolved triage, next execution order)* | this repo | 2026-06-09 |
 | [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md) *(operating brief for personal AI agents — mandate, positions, voice, red lines)* | this repo | 2026-05-28 |
 | [C.O.R.S.I.C.A., Institut Mariani et corpus personnel](acorsica-et-corpus.md) *(corpus-level institutional boundary note)* | this repo | 2026-06-03 |
 | [Project Context](../CONTEXT.md) *(living collaborator briefing — state, priorities, people, constraints)* | this repo | 2026-05-26 |

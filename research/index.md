@@ -33,6 +33,7 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 | Title | Location | Date |
 |---|---|---|
 | [Carte globale du Corpus](corpus-map.md) *(orientation transversale — dépôts, documents pivots, chemins de lecture, fiche standard pour humains et agents IA)* | this repo | 2026-06-09 |
+| [Continuation Triage](continuations.md) *(operational dashboard — active continuation priorities, resolved triage, next execution order)* | this repo | 2026-06-09 |
 | [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md) *(operating brief for personal AI agents — mandate, positions, voice, red lines)* | this repo | 2026-05-28 |
 | [C.O.R.S.I.C.A., Institut Mariani et corpus personnel](acorsica-et-corpus.md) *(corpus-level institutional boundary note)* | this repo | 2026-06-03 |
 | [Project Context](../CONTEXT.md) *(living collaborator briefing — state, priorities, people, constraints)* | this repo | 2026-05-26 |
