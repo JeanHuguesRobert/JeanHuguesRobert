@@ -46,48 +46,48 @@ graph LR
   r_inseme["inseme"]
   r_inox["Inox"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
-  r_jeanhuguesrobert -->|195| r_barons_mariani
-  r_jeanhuguesrobert -->|135| r_cogentia
-  r_cogentia -->|102| r_barons_mariani
-  r_jeanhuguesrobert -->|63| r_marenostrum
-  r_jeanhuguesrobert -->|62| r_fractavolta
-  r_jeanhuguesrobert -->|60| r_inseme
-  r_jeanhuguesrobert -->|55| r_inox
+  r_jeanhuguesrobert -->|208| r_barons_mariani
+  r_jeanhuguesrobert -->|146| r_cogentia
+  r_cogentia -->|104| r_barons_mariani
+  r_jeanhuguesrobert -->|68| r_marenostrum
+  r_jeanhuguesrobert -->|65| r_fractavolta
+  r_jeanhuguesrobert -->|62| r_inseme
+  r_jeanhuguesrobert -->|57| r_inox
+  r_fractavolta -->|33| r_marenostrum
   r_fractavolta -->|32| r_cogentia
-  r_fractavolta -->|31| r_marenostrum
+  r_barons_mariani -->|29| r_cogentia
   r_cogentia -->|21| r_inseme
-  r_barons_mariani -->|20| r_cogentia
   r_cogentia -->|20| r_marenostrum
   r_fractavolta -->|18| r_barons_mariani
   r_inseme -->|14| r_cogentia
-  r_barons_mariani -->|12| r_marenostrum
+  r_barons_mariani -->|13| r_marenostrum
+  r_marenostrum -->|13| r_fractavolta
   r_fractavolta -->|12| r_inseme
-  r_marenostrum -->|12| r_fractavolta
+  r_marenostrum -->|12| r_barons_mariani
   r_inox -->|11| r_barons_mariani
   r_inox -->|11| r_cogentia
-  r_marenostrum -->|10| r_barons_mariani
-  r_inox -->|9| r_fractavolta
-  r_marenostrum -->|9| r_cogentia
-  r_inox -->|7| r_marenostrum
+  r_inox -->|10| r_fractavolta
+  r_marenostrum -->|10| r_cogentia
+  r_inox -->|8| r_marenostrum
   r_inox -->|7| r_inseme
   r_inseme -->|7| r_inox
+  r_barons_mariani -->|6| r_fractavolta
   r_cogentia -->|6| r_fractavolta
-  r_barons_mariani -->|5| r_fractavolta
+  r_cogentia -->|5| r_jeanhuguesrobert
   r_barons_mariani -->|4| r_inox
+  r_barons_mariani -->|4| r_jeanhuguesrobert
   r_fractavolta -->|4| r_inox
-  r_cogentia -->|3| r_jeanhuguesrobert
   r_inseme -->|3| r_barons_mariani
   r_inseme -->|3| r_jeanhuguesrobert
-  r_barons_mariani -->|2| r_jeanhuguesrobert
   r_barons_mariani -->|2| r_inseme
   r_cogentia -->|2| r_inox
+  r_fractavolta -->|2| r_jeanhuguesrobert
+  r_inox -->|2| r_jeanhuguesrobert
   r_inseme -->|2| r_marenostrum
   r_inseme -->|2| r_fractavolta
+  r_marenostrum -->|2| r_jeanhuguesrobert
   r_marenostrum -->|2| r_inseme
   r_marenostrum -->|2| r_inox
-  r_fractavolta -->|1| r_jeanhuguesrobert
-  r_inox -->|1| r_jeanhuguesrobert
-  r_marenostrum -->|1| r_jeanhuguesrobert
 ```
 <!-- END_AUTO: graph -->
 
@@ -98,6 +98,7 @@ graph LR
 <!-- BEGIN_AUTO: published -->
 | Title | Location | Date |
 |---|---|---|
+| [Carte globale du Corpus](corpus-map.md) *(orientation transversale — dépôts, documents pivots, chemins de lecture, fiche standard pour humains et agents IA)* | this repo | 2026-06-09 |
 | [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md) *(operating brief for personal AI agents — mandate, positions, voice, red lines)* | this repo | 2026-05-28 |
 | [C.O.R.S.I.C.A., Institut Mariani et corpus personnel](acorsica-et-corpus.md) *(corpus-level institutional boundary note)* | this repo | 2026-06-03 |
 | [Project Context](../CONTEXT.md) *(living collaborator briefing — state, priorities, people, constraints)* | this repo | 2026-05-26 |
@@ -146,7 +147,7 @@ graph LR
 
 <!-- BEGIN_AUTO: possibilities -->
 - A generated "who-cites-whom" map of the corpus, derived from the registry.
-- A single onboarding trail that walks a newcomer from this node through the six repos in reading order.
+- Des parcours dérivés plus courts depuis la carte globale : "lire le corpus en 30 minutes", "reprendre comme agent IA", "comprendre la Corse comme laboratoire".
 - [Project Context — Jean Hugues Noël Robert, baron Mariani](../CONTEXT.md)
 - [Politique d’archivage des interactions](../interaction_packets/archive_policy.md)
 - [Interaction Packets — Tableau de bord (JHR)](../interaction_packets/dashboard.md)

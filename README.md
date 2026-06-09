@@ -59,6 +59,8 @@ This is why I favor:
 
 ### Quick Orientation
 
+For navigating the full multi-repository corpus, start with the [Carte globale du Corpus](./research/corpus-map.md).
+
 This ecosystem combines:
 - distributed systems engineering,
 - democratic governance research,
