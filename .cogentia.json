@@ -37,6 +37,18 @@
       "added": "2026-05-21T16:49:46.207Z"
     },
     {
+      "name": "registre-mariani",
+      "path": "C:\\tweesic\\registre-mariani",
+      "branch": "main",
+      "added": "2026-06-13T21:00:00.000Z"
+    },
+    {
+      "name": "ubikia",
+      "path": "C:\\tweesic\\ubikia",
+      "branch": "main",
+      "added": "2026-06-13T21:00:00.000Z"
+    },
+    {
       "name": "JeanHuguesRobert",
       "path": "C:\\tweesic\\JeanHuguesRobert",
       "branch": "main",
@@ -44,5 +56,5 @@
     }
   ],
   "version": 1,
-  "updated": "2026-05-28T05:41:14.426Z"
+  "updated": "2026-06-13T21:00:00.000Z"
 }
