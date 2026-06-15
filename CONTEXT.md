@@ -163,7 +163,7 @@ GitHub Pages active on barons-Mariani: `https://jeanhuguesrobert.github.io/baron
 | *The Generalized Tocqueville Law* | Ready, not yet submitted | [barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) |
 | *Constellia* (with G. Valdes) | Submitted to ICOME'26, response pending | marenostrum |
 | *DHITL* | Working paper | [marenostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) |
-| *Cogentia Digital Twin* | Position paper | [cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/cogentia-digital-twin.md) |
+| *Cogentia Digital Twin* | Position paper | [cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia-digital-twin.md) |
 | *Invidia* | Working paper | [barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/invidia.md) |
 | *Protection responsable* | Working paper | [barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/protection_responsable.md) |
 
@@ -275,7 +275,8 @@ The purpose is to explore viable anti-capture infrastructures under real-world c
 
 *These documents link to this file:*
 - [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
-- [Corpus Status — JeanHuguesRobert](research/corpus-status.md)
+- [Carte globale du Corpus](research/corpus-map.md)
+- [Documents - All Tracked Repos](research/documents.md)
+- [Jean Hugues Noël Robert, baron Mariani](README.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)
-
 <!-- END_AUTO: backlinks -->
