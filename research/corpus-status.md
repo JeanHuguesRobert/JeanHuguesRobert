@@ -21,15 +21,17 @@ last_stamped_at: 2026-06-01
 ## Registered Repositories
 
 <!-- BEGIN_AUTO: registered_repos -->
-| Repository | research/index.md | Branch | Policy |
-|---|---|---|---|
-| cogentia | yes | main | all |
-| FractaVolta | yes | main | all |
-| marenostrum | yes | main | all |
-| barons-Mariani | yes | main | all |
-| inseme | yes | main | research |
-| Inox | yes | master | all |
-| JeanHuguesRobert | yes | main | all |
+| Repository | research/index.md | Branch | Policy | Visibility | Public presence |
+|---|---|---|---|---|---|
+| cogentia | yes | main | all | public | full |
+| FractaVolta | yes | main | all | public | full |
+| marenostrum | yes | main | all | public | full |
+| barons-Mariani | yes | main | all | public | full |
+| inseme | yes | main | research | public | full |
+| Inox | yes | master | all | public | full |
+| registre-mariani | yes | main | all | private | stub |
+| ubikia | yes | main | all | public | full |
+| JeanHuguesRobert | yes | main | all | public | full |
 <!-- END_AUTO: registered_repos -->
 
 ---
@@ -45,38 +47,41 @@ graph LR
   r_barons_mariani["barons-Mariani"]
   r_inseme["inseme"]
   r_inox["Inox"]
+  r_registre_mariani["registre-mariani"]
+  r_ubikia["ubikia"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
-  r_jeanhuguesrobert -->|149| r_barons_mariani
-  r_cogentia -->|104| r_barons_mariani
-  r_jeanhuguesrobert -->|91| r_cogentia
-  r_jeanhuguesrobert -->|40| r_marenostrum
-  r_jeanhuguesrobert -->|34| r_fractavolta
-  r_fractavolta -->|33| r_marenostrum
-  r_jeanhuguesrobert -->|33| r_inox
-  r_fractavolta -->|32| r_cogentia
-  r_barons_mariani -->|29| r_cogentia
-  r_cogentia -->|21| r_inseme
-  r_cogentia -->|20| r_marenostrum
+  r_jeanhuguesrobert -->|143| r_barons_mariani
+  r_cogentia -->|101| r_barons_mariani
+  r_jeanhuguesrobert -->|99| r_cogentia
+  r_jeanhuguesrobert -->|43| r_marenostrum
+  r_fractavolta -->|40| r_cogentia
+  r_fractavolta -->|37| r_marenostrum
+  r_jeanhuguesrobert -->|36| r_fractavolta
+  r_jeanhuguesrobert -->|30| r_inox
+  r_barons_mariani -->|27| r_cogentia
+  r_cogentia -->|22| r_inseme
+  r_cogentia -->|19| r_marenostrum
+  r_fractavolta -->|18| r_inseme
   r_fractavolta -->|18| r_barons_mariani
   r_jeanhuguesrobert -->|17| r_inseme
   r_inseme -->|14| r_cogentia
-  r_barons_mariani -->|13| r_marenostrum
-  r_marenostrum -->|13| r_fractavolta
-  r_fractavolta -->|12| r_inseme
-  r_marenostrum -->|12| r_barons_mariani
+  r_marenostrum -->|12| r_fractavolta
+  r_marenostrum -->|12| r_cogentia
+  r_barons_mariani -->|11| r_marenostrum
   r_inox -->|11| r_barons_mariani
   r_inox -->|11| r_cogentia
+  r_marenostrum -->|11| r_barons_mariani
   r_inox -->|10| r_fractavolta
-  r_marenostrum -->|10| r_cogentia
+  r_fractavolta -->|8| r_inox
   r_inox -->|8| r_marenostrum
   r_inox -->|7| r_inseme
   r_inseme -->|7| r_inox
   r_barons_mariani -->|6| r_fractavolta
-  r_cogentia -->|6| r_fractavolta
-  r_cogentia -->|5| r_jeanhuguesrobert
+  r_cogentia -->|5| r_fractavolta
+  r_jeanhuguesrobert -->|5| r_ubikia
   r_barons_mariani -->|4| r_inox
   r_barons_mariani -->|4| r_jeanhuguesrobert
-  r_fractavolta -->|4| r_inox
+  r_cogentia -->|4| r_jeanhuguesrobert
   r_inseme -->|3| r_barons_mariani
   r_inseme -->|3| r_jeanhuguesrobert
   r_barons_mariani -->|2| r_inseme
@@ -149,20 +154,8 @@ graph LR
 <!-- BEGIN_AUTO: possibilities -->
 - A generated "who-cites-whom" map of the corpus, derived from the registry.
 - Des parcours dérivés plus courts depuis la carte globale : "lire le corpus en 30 minutes", "reprendre comme agent IA", "comprendre la Corse comme laboratoire".
-- [Project Context — Jean Hugues Noël Robert, baron Mariani](../CONTEXT.md)
-- [Politique d’archivage des interactions](../interaction_packets/archive_policy.md)
-- [Interaction Packets — Tableau de bord (JHR)](../interaction_packets/dashboard.md)
-- [Registre des interactions](../interaction_packets/mail_trace.md)
-- [Copie quasi brute masquée — Session MareNostrum / Université de Corse](../interaction_packets/raw/2026/2026-05-04-session_marenostrum_redacted.eml.md)
-- [Copie quasi brute masquée — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](../interaction_packets/raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md)
-- [Interaction lisible — Session MareNostrum / Université de Corse](../interaction_packets/readable/2026/2026-05-04-session_marenostrum.md)
-- [Interaction lisible — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](../interaction_packets/readable/2026/2026-05-25-demande_audience_boudie.md)
-- [Possibilism](../POSSIBILISM.md)
-- [Project Ecosystem](../PROJECTS.md)
-- [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md)
-- [Concept Index — JeanHuguesRobert](concepts.md)
-- [Corpus Status — JeanHuguesRobert](corpus-status.md)
-- [Timeline](../TIMELINE.md)
+- [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
+- [Documents - All Tracked Repos](documents.md)
 <!-- END_AUTO: possibilities -->
 
 ---
@@ -175,13 +168,7 @@ graph LR
 ### Backlinks
 
 *These documents link to this file:*
-- [Project Context — Jean Hugues Noël Robert, baron Mariani](../CONTEXT.md)
-- [Possibilism](../POSSIBILISM.md)
-- [Project Ecosystem](../PROJECTS.md)
-- [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md)
-- [Concept Index — JeanHuguesRobert](concepts.md)
-- [Corpus Status — JeanHuguesRobert](corpus-status.md)
+- [Carte globale du Corpus](corpus-map.md)
+- [Documents - All Tracked Repos](documents.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
-- [Timeline](../TIMELINE.md)
-
 <!-- END_AUTO: backlinks -->

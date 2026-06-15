@@ -55,6 +55,14 @@
       "added": "2026-05-28T05:41:14.424Z"
     }
   ],
+  "repo_policies": {
+    "registre-mariani": {
+      "visibility": "private",
+      "public_presence": "stub",
+      "trace_level": "high",
+      "note": "private repository: public views may mention the repository boundary but must not link to private contents"
+    }
+  },
   "version": 1,
   "updated": "2026-06-13T21:00:00.000Z"
 }
