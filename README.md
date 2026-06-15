@@ -109,6 +109,7 @@ Each project addresses the same civilizational problem at a different layer:
 | FractaVolta | distributed photon-to-inference infrastructure |
 | Kudocracy | democratic coordination at scale |
 | Fondation Barons Mariani | transmissible cultural memory |
+| Ubikia | source-first editorial derivation and publication traceability |
 
 The social science research is not separate from this — it is the **diagnostic that makes the architecture necessary**:
 

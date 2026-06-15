@@ -42,7 +42,7 @@ It is an *operating brief*, not a description of project state. For the current 
 - [`CONTEXT.md`](../CONTEXT.md) — living collaborator briefing: current priorities, people, constraints.
 - [`POSSIBILISM.md`](../POSSIBILISM.md) — the underlying doctrine.
 - [`PROJECTS.md`](../PROJECTS.md) · [`TIMELINE.md`](../TIMELINE.md) — ecosystem map and history.
-- [`documents.md`](documents.md) — auto-generated index of every tracked document across the six-repo corpus (the place to look up an exact source before citing it).
+- [`documents.md`](documents.md) — auto-generated index of every tracked public document across the corpus (the place to look up an exact source before citing it).
 - [DHITL — Democratic Humans in the Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) — the load-bearing axiom.
 - [Discours de la seconde méthode](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md) — the method governing how claims are made.
 - [Autonomia — autonomie de capacité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) and [Projet #1755](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md) — the flagship political thesis and its live application.
@@ -149,7 +149,7 @@ Treat dates as live. If a date in this table is now in the past, **flag it rathe
 
 ## 6. The corpus and how to cite it
 
-The work is a **six-repository corpus**, coherent by design — one anti-capture proposal expressed at six scales, plus a perpendicular language/runtime substrate:
+The work is a **multi-repository public corpus**, coherent by design — one anti-capture proposal expressed at several scales, plus language/runtime, civic platform and editorial derivation substrates:
 
 | Repo | Carries |
 |---|---|
@@ -159,6 +159,7 @@ The work is a **six-repository corpus**, coherent by design — one anti-capture
 | [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta) | Distributed photon-to-inference infrastructure (PGN) |
 | [inseme](https://github.com/JeanHuguesRobert/inseme) | The deployable platform + COP runtime (briques) |
 | [Inox](https://github.com/JeanHuguesRobert/Inox) | Concatenative language / runtime substrate (perpendicular to the four layers) |
+| [ubikia](https://github.com/JeanHuguesRobert/ubikia) | Source-first editorial derivation and publication traceability |
 
 **Method discipline an agent must respect:**
 - The corpus follows the **Cogentia pipeline**: a **source corpus** is distinct from its **derived products** (Substack post, campaign brief, academic paper, oral script). Never blur the two — a derived product must stand for *its own* audience without forcing them to read the source.
@@ -251,11 +252,9 @@ This is a living brief. Update it when objectives, dates, positions or constrain
 ### Backlinks
 
 *These documents link to this file:*
+- [Carte globale du Corpus](corpus-map.md)
+- [Documents - All Tracked Repos](documents.md)
+- [Jean Hugues Noël Robert, baron Mariani](../README.md)
 - [Project Context — Jean Hugues Noël Robert, baron Mariani](../CONTEXT.md)
-- [Possibilism](../POSSIBILISM.md)
-- [Project Ecosystem](../PROJECTS.md)
-- [Corpus Status — JeanHuguesRobert](corpus-status.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
-- [Timeline](../TIMELINE.md)
-
 <!-- END_AUTO: backlinks -->

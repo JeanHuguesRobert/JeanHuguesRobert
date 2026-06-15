@@ -1,9 +1,9 @@
 ---
 title: "Research Index — Jean Hugues Noël Robert (Profile / Entry Point)"
-description: "The profile repository — entry point and meta-node to the six-repo Cogentia corpus; home of the registry and of the briefings that orient human and AI collaborators."
+description: "The profile repository — entry point and meta-node to the public Cogentia corpus; home of the registry and of the briefings that orient human and AI collaborators."
 layout: default
 nav_order: 1
-last_modified_at: 2026-06-08
+last_modified_at: 2026-06-15
 license: CC BY 4.0
 affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: 2026-05-28
@@ -15,14 +15,14 @@ canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/re
 
 ## Foundation
 
-This repository is my **profile** and the **entry point** to the work. It is the *meta-node* of the corpus: it carries no doctrine of its own. The doctrine, methodology, runtime and political theses live in the **six-repo Cogentia corpus** — `barons-Mariani`, `marenostrum`, `cogentia`, `FractaVolta`, `inseme`, `Inox`. This node exists to **orient** a reader — human or AI — and to **host the registry** (`.cogentia.json`) that ties the corpus together.
+This repository is my **profile** and the **entry point** to the work. It is the *meta-node* of the corpus: it carries no doctrine of its own. The doctrine, methodology, runtime, editorial derivation layer and political theses live in the public Cogentia corpus — `barons-Mariani`, `marenostrum`, `cogentia`, `FractaVolta`, `inseme`, `Inox`, `ubikia`. This node exists to **orient** a reader — human or AI — and to **host the registry** (`.cogentia.json`) that ties the corpus together.
 
 A collaborator arriving here should read, in order: [`README.md`](../README.md) (who I am), [`CONTEXT.md`](../CONTEXT.md) (current state), [`POSSIBILISM.md`](../POSSIBILISM.md) (the doctrine), and — if asked to prepare or draft a response on my behalf — [`research/agent_brief.md`](agent_brief.md) (how to represent me).
 
 ---
 
 *A map of the entry point, and of the corpus it opens onto.*
-*See the six corpus indexes in [cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md), [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md), [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md), [barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/index.md), [Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md), [Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md).*
+*See the public corpus indexes in [cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md), [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md), [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md), [barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/index.md), [Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md), [Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md), [Ubikia](https://github.com/JeanHuguesRobert/ubikia/blob/main/research/index.md).*
 
 ---
 
@@ -48,7 +48,7 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 
 ## Referenced
 
-*The six-repo Cogentia corpus this node opens onto — hosted elsewhere, intellectually anchored here.*
+*The public Cogentia corpus this node opens onto — hosted elsewhere, intellectually anchored here.*
 
 | Title | Location |
 |---|---|
@@ -58,6 +58,7 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 | [FractaVolta — research index](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md) *(distributed photon-to-inference infrastructure, [PGN](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/PGN.md))* | FractaVolta |
 | [Inseme — research index](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md) *(the deployable platform + COP runtime, briques)* | inseme |
 | [Inox — research index](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md) *(concatenative language / runtime substrate, perpendicular to the four layers)* | Inox |
+| [Ubikia — research index](https://github.com/JeanHuguesRobert/ubikia/blob/main/research/index.md) *(source-first editorial derivation and publication traceability)* | ubikia |
 
 ---
 
@@ -90,7 +91,7 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 ---
 
 *Priority established by first public commit. License: CC BY 4.0 (this node).*
-*This node is the entry point, not a seventh member of the doctrinal corpus.*
+*This node is the entry point and registry host, not a doctrinal member of the corpus.*
 
 <!-- BEGIN_AUTO: trails -->
 <!-- END_AUTO: trails -->
@@ -99,19 +100,6 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 ### Backlinks
 
 *These documents link to this file:*
-- [Project Context — Jean Hugues Noël Robert, baron Mariani](../CONTEXT.md)
-- [Politique d’archivage des interactions](../interaction_packets/archive_policy.md)
-- [Interaction Packets — Tableau de bord (JHR)](../interaction_packets/dashboard.md)
-- [Registre des interactions](../interaction_packets/mail_trace.md)
-- [Copie quasi brute masquée — Session MareNostrum / Université de Corse](../interaction_packets/raw/2026/2026-05-04-session_marenostrum_redacted.eml.md)
-- [Copie quasi brute masquée — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](../interaction_packets/raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md)
-- [Interaction lisible — Session MareNostrum / Université de Corse](../interaction_packets/readable/2026/2026-05-04-session_marenostrum.md)
-- [Interaction lisible — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](../interaction_packets/readable/2026/2026-05-25-demande_audience_boudie.md)
-- [Possibilism](../POSSIBILISM.md)
-- [Project Ecosystem](../PROJECTS.md)
-- [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md)
-- [Concept Index — JeanHuguesRobert](concepts.md)
-- [Corpus Status — JeanHuguesRobert](corpus-status.md)
-- [Timeline](../TIMELINE.md)
-
+- [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
+- [Documents - All Tracked Repos](documents.md)
 <!-- END_AUTO: backlinks -->
