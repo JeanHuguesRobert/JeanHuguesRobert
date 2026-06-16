@@ -10,6 +10,7 @@ affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paol
 date: 2026-06-09
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/continuations.md
+last_reviewed_at: 2026-06-15
 ---
 
 # Continuation Triage
@@ -63,6 +64,20 @@ Lower priority means:
 |---|---|---|
 | `ctn_256919ef` | `request_specifics` | The objection "This proposal seems unrealistic" is not falsifiable without a measurable claim, affected predicate or evidence threshold. |
 | `ctn_d41afe9b` | `addressed` | The proposed Inox Rossignol work is already present in pushed history as commit `6658cdc`; later commits supersede the stale file hashes. |
+
+## GitHub Issue Snapshot
+
+Checked on 2026-06-15 with `gh issue list --state open`. The continuation
+objects still carry older issue counts in their titles/questions; process the
+live GitHub list before resolving any `issues_open` continuation.
+
+| Repository | Open issues | Continuation | Reconciliation note |
+|---|---:|---|---|
+| `JeanHuguesRobert/cogentia` | 20 | `ctn_092374da` | Priority remains high; issue #19 ("Integrate `ubikia` as an official corpus repository") is now partly addressed by the corpus-navigation pass but is still open on GitHub. |
+| `JeanHuguesRobert/barons-Mariani` | 7 | `ctn_ebcd475e` | The issue continuation title says 3; live backlog is broader and includes recent research issues #7 and #8. |
+| `JeanHuguesRobert/marenostrum` | 1 | `ctn_76d2e69f` | Count still matches; issue #1 remains the pre-submission review RFC. |
+| `JeanHuguesRobert/FractaVolta` | 3 | `ctn_6d6bf741` | The continuation title says 1; issue #6 tracks site follow-up after the EN-first / FR-operational restructure and should be considered with the website continuation. |
+| `JeanHuguesRobert/inseme` | 7 | `ctn_426a7406` | The continuation title says 3; keep deferred until the local repository is intentionally stabilized. |
 
 ## Next Execution Order
 
