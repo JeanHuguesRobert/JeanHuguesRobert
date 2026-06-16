@@ -50,7 +50,7 @@ graph LR
   r_registre_mariani["registre-mariani"]
   r_ubikia["ubikia"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
-  r_jeanhuguesrobert -->|153| r_barons_mariani
+  r_jeanhuguesrobert -->|155| r_barons_mariani
   r_jeanhuguesrobert -->|110| r_cogentia
   r_cogentia -->|101| r_barons_mariani
   r_barons_mariani -->|62| r_cogentia
@@ -171,6 +171,5 @@ graph LR
 
 *These documents link to this file:*
 - [Carte globale du Corpus](corpus-map.md)
-- [Documents - All Tracked Repos](documents.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
 <!-- END_AUTO: backlinks -->
