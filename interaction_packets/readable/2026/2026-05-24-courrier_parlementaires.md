@@ -61,8 +61,5 @@ Il documente simplement un acte public et vérifiable : un courrier adressé par
 ### Backlinks
 
 *These documents link to this file:*
-- [Interaction Packets — Tableau de bord (JHR)](../../dashboard.md)
-- [Copie quasi brute masquée — Courrier public aux parlementaires corses (projet de loi constitutionnelle)](../../raw/2026/2026-05-24-courrier_parlementaires_redacted.eml.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../../../research/index.md)
-
 <!-- END_AUTO: backlinks -->

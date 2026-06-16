@@ -234,13 +234,10 @@ Les corrections doivent rester visibles lorsqu’elles sont importantes.
 ### Backlinks
 
 *These documents link to this file:*
-- [Politique d’archivage des interactions](archive_policy.md)
-- [Registre des interactions](mail_trace.md)
-- [Copie quasi brute masquée — Session MareNostrum / Université de Corse](raw/2026/2026-05-04-session_marenostrum_redacted.eml.md)
-- [Copie quasi brute masquée — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md)
-- [Interaction lisible — Session MareNostrum / Université de Corse](readable/2026/2026-05-04-session_marenostrum.md)
+- [Test du critère Rossignol](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/test_critere_rossignol.md)
+- [Individual and Collective Digital Twins](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/individual_and_collective_digital_twins.md)
 - [Interaction lisible — Courrier public aux parlementaires corses (projet de loi constitutionnelle)](readable/2026/2026-05-24-courrier_parlementaires.md)
 - [Interaction lisible — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](readable/2026/2026-05-25-demande_audience_boudie.md)
+- [Interaction lisible — Session MareNostrum / Université de Corse](readable/2026/2026-05-04-session_marenostrum.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)
-
 <!-- END_AUTO: backlinks -->

@@ -88,5 +88,4 @@ Les coupes sont signalées explicitement.
 *These documents link to this file:*
 - [Interaction lisible — Courrier public aux parlementaires corses (projet de loi constitutionnelle)](../../readable/2026/2026-05-24-courrier_parlementaires.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../../../research/index.md)
-
 <!-- END_AUTO: backlinks -->

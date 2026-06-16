@@ -43,5 +43,4 @@ Il ne contient pas les éléments privés, juridiques ou personnels détaillés 
 
 *These documents link to this file:*
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../../../research/index.md)
-
 <!-- END_AUTO: backlinks -->

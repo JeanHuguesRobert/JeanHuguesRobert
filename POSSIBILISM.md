@@ -182,9 +182,9 @@ Design in the open.
 ### Backlinks
 
 *These documents link to this file:*
-- [Project Ecosystem](PROJECTS.md)
 - [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
-- [Corpus Status — JeanHuguesRobert](research/corpus-status.md)
+- [Documents - All Tracked Repos](research/documents.md)
+- [Jean Hugues Noël Robert, baron Mariani](README.md)
+- [Project Ecosystem](PROJECTS.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)
-
 <!-- END_AUTO: backlinks -->

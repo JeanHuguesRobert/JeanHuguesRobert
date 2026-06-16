@@ -196,7 +196,6 @@ The objective is preserving humanity’s capacity to choose.
 
 *These documents link to this file:*
 - [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
-- [Corpus Status — JeanHuguesRobert](research/corpus-status.md)
+- [Documents - All Tracked Repos](research/documents.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)
-
 <!-- END_AUTO: backlinks -->

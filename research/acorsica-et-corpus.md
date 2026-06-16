@@ -135,8 +135,14 @@ Continuation : quand un nouveau dépôt entre dans le corpus ou quand le statut 
 ### Backlinks
 
 *These documents link to this file:*
+- [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/acorsica-institut-mariani.md)
+- [Lien avec C.O.R.S.I.C.A., l’Institut Mariani et PrivAI](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/acorsica-institut-mariani.md)
+- [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/acorsica-institut-mariani.md)
+- [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](https://github.com/JeanHuguesRobert/Inox/blob/master/research/acorsica-institut-mariani.md)
+- [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](https://github.com/JeanHuguesRobert/inseme/blob/main/research/acorsica-institut-mariani.md)
 - [C.O.R.S.I.C.A., Institut Mariani et corpus personnel](../acorsica-et-corpus.md)
-- [Corpus Status — JeanHuguesRobert](corpus-status.md)
+- [Carte globale du Corpus](corpus-map.md)
+- [Documents - All Tracked Repos](documents.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
-
+- [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/acorsica-institut-mariani.md)
 <!-- END_AUTO: backlinks -->

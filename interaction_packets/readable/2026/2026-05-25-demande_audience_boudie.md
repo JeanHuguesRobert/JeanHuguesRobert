@@ -85,7 +85,5 @@ Ces faits interrogent la distance possible entre discours public d'ouverture et 
 
 *These documents link to this file:*
 - [Interaction Packets — Tableau de bord (JHR)](../../dashboard.md)
-- [Copie quasi brute masquée — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](../../raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../../../research/index.md)
-
 <!-- END_AUTO: backlinks -->

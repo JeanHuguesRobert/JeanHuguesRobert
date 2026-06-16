@@ -335,5 +335,4 @@ La transparence exige aussi la traçabilité des coupes.
 *These documents link to this file:*
 - [Interaction Packets — Tableau de bord (JHR)](dashboard.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)
-
 <!-- END_AUTO: backlinks -->

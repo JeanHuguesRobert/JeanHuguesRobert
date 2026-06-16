@@ -85,8 +85,7 @@ Les coupes sont signalées explicitement.
 ### Backlinks
 
 *These documents link to this file:*
-- [Interaction Packets — Tableau de bord (JHR)](../../dashboard.md)
 - [Interaction lisible — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](../../readable/2026/2026-05-25-demande_audience_boudie.md)
+- [Interaction Packets — Tableau de bord (JHR)](../../dashboard.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../../../research/index.md)
-
 <!-- END_AUTO: backlinks -->

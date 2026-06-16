@@ -92,7 +92,5 @@ Il devient cependant un cas tracé, comparable à d’autres interactions future
 
 *These documents link to this file:*
 - [Interaction Packets — Tableau de bord (JHR)](../../dashboard.md)
-- [Copie quasi brute masquée — Session MareNostrum / Université de Corse](../../raw/2026/2026-05-04-session_marenostrum_redacted.eml.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../../../research/index.md)
-
 <!-- END_AUTO: backlinks -->

@@ -85,8 +85,7 @@ Les coupes sont signalées explicitement.
 ### Backlinks
 
 *These documents link to this file:*
-- [Interaction Packets — Tableau de bord (JHR)](../../dashboard.md)
 - [Interaction lisible — Session MareNostrum / Université de Corse](../../readable/2026/2026-05-04-session_marenostrum.md)
+- [Interaction Packets — Tableau de bord (JHR)](../../dashboard.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../../../research/index.md)
-
 <!-- END_AUTO: backlinks -->
