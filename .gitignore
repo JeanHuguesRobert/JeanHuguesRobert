@@ -3,3 +3,4 @@
 # The persistent audit trail lives in .cogentia/audit.jsonl, which IS tracked.
 # Continuations are intentionally ephemeral; the audit log is the source of truth.
 .cogentia/continuations/
+.cogentia/cache/
