@@ -3,7 +3,7 @@ title: "Research Index — Jean Hugues Noël Robert (Profile / Entry Point)"
 description: "The profile repository — entry point and meta-node to the public Cogentia corpus; home of the registry and of the briefings that orient human and AI collaborators."
 layout: default
 nav_order: 1
-last_modified_at: 2026-06-15
+last_modified_at: 2026-06-16
 license: CC BY 4.0
 affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: 2026-05-28

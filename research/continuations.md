@@ -10,7 +10,7 @@ affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paol
 date: 2026-06-09
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/continuations.md
-last_reviewed_at: 2026-06-15
+last_reviewed_at: 2026-06-16
 ---
 
 # Continuation Triage
@@ -67,7 +67,7 @@ Lower priority means:
 
 ## GitHub Issue Snapshot
 
-Checked on 2026-06-15 with `gh issue list --state open`. The continuation
+Checked on 2026-06-16 with `gh issue list --state open`. The continuation
 objects still carry older issue counts in their titles/questions; process the
 live GitHub list before resolving any `issues_open` continuation.
 
