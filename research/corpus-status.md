@@ -57,7 +57,7 @@ graph LR
   r_fractavolta -->|41| r_cogentia
   r_barons_mariani -->|39| r_cogentia
   r_fractavolta -->|37| r_marenostrum
-  r_jeanhuguesrobert -->|34| r_fractavolta
+  r_jeanhuguesrobert -->|36| r_fractavolta
   r_jeanhuguesrobert -->|24| r_inox
   r_cogentia -->|22| r_inseme
   r_cogentia -->|19| r_marenostrum
@@ -157,7 +157,6 @@ graph LR
 - A generated "who-cites-whom" map of the corpus, derived from the registry.
 - Des parcours dérivés plus courts depuis la carte globale : "lire le corpus en 30 minutes", "reprendre comme agent IA", "comprendre la Corse comme laboratoire".
 - [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
-- [Documents - All Tracked Repos](documents.md)
 <!-- END_AUTO: possibilities -->
 
 ---

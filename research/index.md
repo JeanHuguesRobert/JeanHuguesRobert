@@ -101,5 +101,4 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 
 *These documents link to this file:*
 - [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
-- [Documents - All Tracked Repos](documents.md)
 <!-- END_AUTO: backlinks -->
