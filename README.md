@@ -61,7 +61,7 @@ This is why I favor:
 
 For navigating the full multi-repository corpus, start with:
 
-- [Carte globale du Corpus](./research/corpus-map.md) — top-level map of repositories and themes
+- [Corpus Start Here — Carte globale du Corpus](./research/corpus-map.md) — top-level map for human readers and AI agents
 - [research/index.md](./research/index.md) — generated document catalog for this repository
 - [research/corpus-status.md](./research/corpus-status.md) — generated status, backlinks, and navigation checks
 - [POSSIBILISM.md](./POSSIBILISM.md) — shortest statement of the philosophical invariant
@@ -344,7 +344,7 @@ open systems preserve the space of accessible futures.
 
 ## For collaborators and AI agents
 
-This repository is the entry point to the ecosystem. Collaborators — human or AI — should start with [`CONTEXT.md`](./CONTEXT.md) for the current state of the work, and [`research/agent_brief.md`](./research/agent_brief.md) for how to prepare or draft responses on my behalf (mandate and limits, positions, voice, red lines).
+This repository is the entry point to the ecosystem. Collaborators — human or AI — should start with [`research/corpus-map.md`](./research/corpus-map.md) for corpus navigation, [`CONTEXT.md`](./CONTEXT.md) for the current state of the work, and [`research/agent_brief.md`](./research/agent_brief.md) for how to prepare or draft responses on my behalf (mandate and limits, positions, voice, red lines).
 
 ## Source orientation
 

@@ -48,7 +48,7 @@ graph LR
   r_ubikia["ubikia"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
   r_jeanhuguesrobert -->|159| r_barons_mariani
-  r_jeanhuguesrobert -->|106| r_cogentia
+  r_jeanhuguesrobert -->|107| r_cogentia
   r_cogentia -->|98| r_barons_mariani
   r_barons_mariani -->|62| r_cogentia
   r_jeanhuguesrobert -->|46| r_marenostrum
@@ -101,7 +101,7 @@ graph LR
 <!-- BEGIN_AUTO: published -->
 | Title | Location | Date |
 |---|---|---|
-| [Carte globale du Corpus](corpus-map.md) *(orientation transversale — dépôts, documents pivots, chemins de lecture, fiche standard pour humains et agents IA)* | this repo | 2026-06-09 |
+| [Corpus Start Here — Carte globale du Corpus](corpus-map.md) *(orientation transversale — dépôts, documents pivots, chemins de lecture, public/privé, fiche standard pour humains et agents IA)* | this repo | 2026-06-18 |
 | [Continuation Triage](continuations.md) *(operational dashboard — active continuation priorities, resolved triage, next execution order)* | this repo | 2026-06-09 |
 | [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md) *(operating brief for personal AI agents — mandate, positions, voice, red lines)* | this repo | 2026-05-28 |
 | [C.O.R.S.I.C.A., Institut Mariani et corpus personnel](acorsica-et-corpus.md) *(corpus-level institutional boundary note)* | this repo | 2026-06-03 |
@@ -159,7 +159,7 @@ graph LR
 ### Backlinks
 
 *These documents link to this file:*
-- [Carte globale du Corpus](corpus-map.md)
+- [Corpus Start Here — Carte globale du Corpus](corpus-map.md)
 - [Jean Hugues Noël Robert, baron Mariani](../README.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
 <!-- END_AUTO: backlinks -->

@@ -3,7 +3,7 @@ title: "Research Index — Jean Hugues Noël Robert (Profile / Entry Point)"
 description: "The profile repository — entry point and meta-node to the public Cogentia corpus; home of the registry and of the briefings that orient human and AI collaborators."
 layout: default
 nav_order: 1
-last_modified_at: 2026-06-16
+last_modified_at: 2026-06-18
 license: CC BY 4.0
 affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: 2026-05-28
@@ -17,7 +17,7 @@ canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/re
 
 This repository is my **profile** and the **entry point** to the work. It is the *meta-node* of the corpus: it carries no doctrine of its own. The doctrine, methodology, runtime, editorial derivation layer and political theses live in the public Cogentia corpus — `barons-Mariani`, `marenostrum`, `cogentia`, `FractaVolta`, `inseme`, `Inox`, `ubikia`. This node exists to **orient** a reader — human or AI — and to **host the registry** (`.cogentia.json`) that ties the corpus together.
 
-A collaborator arriving here should read, in order: [`README.md`](../README.md) (who I am), [`CONTEXT.md`](../CONTEXT.md) (current state), [`POSSIBILISM.md`](../POSSIBILISM.md) (the doctrine), and — if asked to prepare or draft a response on my behalf — [`research/agent_brief.md`](agent_brief.md) (how to represent me).
+A collaborator arriving here should read, in order: [`research/corpus-map.md`](corpus-map.md) (start here for corpus navigation), [`README.md`](../README.md) (who I am), [`CONTEXT.md`](../CONTEXT.md) (current state), [`POSSIBILISM.md`](../POSSIBILISM.md) (the doctrine), and — if asked to prepare or draft a response on my behalf — [`research/agent_brief.md`](agent_brief.md) (how to represent me).
 
 ---
 
@@ -32,7 +32,7 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 
 | Title | Location | Date |
 |---|---|---|
-| [Carte globale du Corpus](corpus-map.md) *(orientation transversale — dépôts, documents pivots, chemins de lecture, fiche standard pour humains et agents IA)* | this repo | 2026-06-09 |
+| [Corpus Start Here — Carte globale du Corpus](corpus-map.md) *(orientation transversale — dépôts, documents pivots, chemins de lecture, public/privé, fiche standard pour humains et agents IA)* | this repo | 2026-06-18 |
 | [Continuation Triage](continuations.md) *(operational dashboard — active continuation priorities, resolved triage, next execution order)* | this repo | 2026-06-09 |
 | [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md) *(operating brief for personal AI agents — mandate, positions, voice, red lines)* | this repo | 2026-05-28 |
 | [C.O.R.S.I.C.A., Institut Mariani et corpus personnel](acorsica-et-corpus.md) *(corpus-level institutional boundary note)* | this repo | 2026-06-03 |

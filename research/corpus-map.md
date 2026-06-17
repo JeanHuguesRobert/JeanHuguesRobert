@@ -1,22 +1,31 @@
 ---
-title: "Carte globale du Corpus"
-description: "Carte d'orientation du Living Corpus Cogentia Commons pour lecteurs humains et agents IA."
+title: "Corpus Start Here — Carte globale du Corpus"
+description: "Point d'entrée court du Living Corpus Cogentia Commons pour lecteurs humains et agents IA."
 layout: default
 nav_order: 0
 document_role: index
 status: "living map"
 license: CC BY 4.0
 affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-date: 2026-06-09
+date: 2026-06-18
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md
 ---
 
-# Carte globale du Corpus
+# Corpus Start Here — Carte globale du Corpus
 
 Cette carte est le point d'entrée court du **Living Corpus Cogentia Commons**. Elle sert à rendre le corpus digérable par un lecteur humain, mais aussi par un agent IA qui doit reprendre le travail sans réinventer la structure.
 
 Le corpus n'est pas une bibliothèque plate. C'est un ensemble de dépôts Git reliés par des documents source, des produits dérivés, des index vivants, des continuations et des décisions humaines traçables.
+
+## À quoi sert cette page
+
+Cette page répond à quatre questions pratiques :
+
+1. **Où commencer ?** Lire les documents pivots avant de fouiller les catalogues.
+2. **Quel dépôt sert à quoi ?** Ne pas confondre méthode, plateforme, politique, infrastructure et publication.
+3. **Que peut faire un agent IA ?** Naviguer, proposer, structurer, vérifier et préparer ; ne pas décider à la place de l'auteur.
+4. **Qu'est-ce qui est public ou privé ?** Le corpus public est navigable ; les registres privés ne doivent apparaître publiquement que sous forme de stubs ou de références structurelles.
 
 ## Lecture en trente minutes
 
@@ -34,13 +43,25 @@ Pour comprendre l'ensemble sans se perdre :
 
 | Dépôt | Fonction principale | À ouvrir quand |
 |---|---|---|
-| [JeanHuguesRobert](https://github.com/JeanHuguesRobert/JeanHuguesRobert) | Point d'entrée, profil public, registre, carte transversale | comprendre qui parle, quel corpus est suivi, quel état est public |
+| [JeanHuguesRobert](https://github.com/JeanHuguesRobert/JeanHuguesRobert) | Point d'entrée, profil public, registry Cogentia, carte transversale | comprendre qui parle, quel corpus est suivi, quel état est public |
 | [barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani) | Recherche sociale, politique, patrimoniale et méthodologique | comprendre la seconde méthode, l'autonomie de capacité, les diagnostics de capture |
 | [marenostrum](https://github.com/JeanHuguesRobert/marenostrum) | Souveraineté énergétique, compute, DHITL | comprendre l'axiome démocratique et l'infrastructure de gouvernance |
 | [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta) | Photon-to-inference, PGN, EPN/IPN | comprendre la couche physique et distribuée de l'inférence |
 | [cogentia](https://github.com/JeanHuguesRobert/cogentia) | Outillage, pipeline, continuations, mémoire opérationnelle | naviguer, vérifier, consolider, reprendre un travail agentique |
 | [inseme](https://github.com/JeanHuguesRobert/inseme) | Plateforme civique, COP runtime, briques | comprendre la mise en artefact logiciel et multi-instance |
 | [Inox](https://github.com/JeanHuguesRobert/Inox) | Langage et runtime distribués | comprendre le substrat d'exécution envisagé pour Fractanet |
+| [ubikia](https://github.com/JeanHuguesRobert/ubikia) | Dérivation éditoriale source-first, publication, personas, ledger | comprendre comment un corpus source devient produit situé sans perdre la provenance |
+| `registre-mariani` *(privé)* | Registre privé, informations personnelles, continuité patrimoniale et opérationnelle | ne pas explorer publiquement ; ne citer que la fonction structurelle et les liens internes autorisés |
+
+## Public, privé, source, généré
+
+Règles minimales de navigation :
+
+- **Public par défaut, privé par exception.** La règle source est dans [Cogentia Commons — Public by Default, Private by Exception](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_visibility_and_private_modes.md).
+- **Aucun lien public ne doit pointer vers un contenu privé.** Un dépôt privé peut pointer vers du public ; l'inverse doit rester structurel, stub ou interne.
+- **Un document source porte une thèse ou une méthode.** Un produit dérivé adapte une source à un public ou une scène.
+- **Un index ou un `corpus-status.md` est une vue générée ou semi-générée.** Il aide à naviguer ; il n'est pas souverain doctrinalement.
+- **Un agent prépare et vérifie.** L'auteur humain arbitre les doctrines, publications, actes juridiques, engagements institutionnels et décisions sensibles.
 
 ## Documents pivots
 
@@ -123,12 +144,13 @@ Cette fiche n'est pas une formalité. Elle sert de poignée de reprise pour un a
 
 ### Reprendre le travail comme agent IA
 
-1. Vérifier l'état local avec `node scripts/cogentia.js git verify --json`.
-2. Lister les gaps avec `node scripts/cogentia.js docs gaps --json`.
-3. Lire les documents récents avec `node scripts/cogentia.js docs query all --sort updated --limit 20 --json`.
-4. Lister les continuations avec `node scripts/cogentia.js continuation queue --status active --json`.
-5. Avant modification, identifier si le document est source, dérivé, index ou opérationnel.
-6. Après modification, régénérer les vues pertinentes, vérifier, committer et pousser dépôt par dépôt.
+1. Depuis `cogentia`, lancer `node scripts/cogentia.js agent start --json` avec `COGENTIA_REGISTRY` pointant vers `JeanHuguesRobert/.cogentia.json`.
+2. Si le worktree est sale, lancer `node scripts/cogentia.js git noise plan --json` pour distinguer scratch, généré et substantif.
+3. Lire les gaps avec `node scripts/cogentia.js docs gaps --json`.
+4. Lire les documents récents avec `node scripts/cogentia.js docs query all --sort updated --limit 20 --json`.
+5. Lister les continuations avec `node scripts/cogentia.js continuation list --status active --json`.
+6. Avant modification, identifier si le document est source, dérivé, index, opérationnel, public, privé ou restreint.
+7. Après modification, lancer `corpus plan`, `corpus apply`, `corpus verify`, puis `corpus commit-generated --dry-run` quand des vues générées sont prêtes.
 
 ## Continuations
 
@@ -137,7 +159,7 @@ Les continuations sont les chemins d'exploration rationnelle du possible qui res
 La file active se lit avec :
 
 ```text
-node scripts/cogentia.js continuation queue --status active --json
+node scripts/cogentia.js continuation list --status active --json
 ```
 
 Priorité de digestion :
@@ -156,8 +178,13 @@ Priorité de digestion :
 - Ne pas produire un dérivé sans citer ses sources.
 - Ne pas fermer une continuation sans dire ce qui a été fait ou pourquoi elle devient caduque.
 
-## État au 2026-06-09
+## État au 2026-06-18
 
-Le corpus est techniquement synchronisé sur GitHub. Les principaux dépôts sont intégrés dans la registry Cogentia. Le problème prioritaire n'est plus la réparation des liens, mais la digestion : cartes, fiches d'orientation, continuations priorisées, concepts canoniques.
+Le corpus est techniquement synchronisé sur GitHub. Les principaux dépôts publics et le registre privé sont intégrés dans la registry Cogentia. Les vues générées, backlinks, gaps, trails, privacy checks et continuations actives sont propres au dernier passage de consolidation.
 
-Prochaine consolidation recommandée : ajouter la fiche d'orientation standard aux documents pivots listés ci-dessus, en commençant par les sources souveraines les plus longues.
+Prochaine consolidation recommandée : créer des trails supplémentaires pour les humains et agents IA :
+
+1. **Public / privé / visibilité** — de cette carte vers la doctrine Cogentia Commons et les règles de registre privé.
+2. **Cogentia → Ubikia** — de la source corpus vers la dérivation éditoriale et la publication.
+3. **COP / Inseme** — de la méthode Cogentia vers le runtime de coopération.
+4. **Autonomie de capacité / École Mariani** — de la seconde méthode vers les terrains pilotes.
