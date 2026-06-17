@@ -19,7 +19,6 @@ last_stamped_at: 2026-06-01
 ---
 
 ## Registered Repositories
-
 <!-- BEGIN_AUTO: registered_repos -->
 | Repository | research/index.md | Branch | Policy | Visibility | Public presence |
 |---|---|---|---|---|---|
@@ -33,11 +32,9 @@ last_stamped_at: 2026-06-01
 | ubikia | yes | main | all | public | full |
 | JeanHuguesRobert | yes | main | all | public | full |
 <!-- END_AUTO: registered_repos -->
-
 ---
 
 ## Cross-Reference Graph
-
 <!-- BEGIN_AUTO: graph -->
 ```mermaid
 graph LR
@@ -52,9 +49,9 @@ graph LR
   r_jeanhuguesrobert["JeanHuguesRobert"]
   r_jeanhuguesrobert -->|155| r_barons_mariani
   r_jeanhuguesrobert -->|110| r_cogentia
-  r_cogentia -->|101| r_barons_mariani
+  r_cogentia -->|98| r_barons_mariani
   r_barons_mariani -->|62| r_cogentia
-  r_jeanhuguesrobert -->|45| r_marenostrum
+  r_jeanhuguesrobert -->|46| r_marenostrum
   r_fractavolta -->|41| r_cogentia
   r_fractavolta -->|37| r_marenostrum
   r_jeanhuguesrobert -->|36| r_fractavolta
@@ -68,10 +65,10 @@ graph LR
   r_barons_mariani -->|16| r_inseme
   r_inseme -->|15| r_cogentia
   r_marenostrum -->|13| r_cogentia
-  r_jeanhuguesrobert -->|12| r_inseme
   r_marenostrum -->|12| r_fractavolta
   r_inox -->|11| r_barons_mariani
   r_inox -->|11| r_cogentia
+  r_jeanhuguesrobert -->|11| r_inseme
   r_marenostrum -->|11| r_barons_mariani
   r_inox -->|10| r_fractavolta
   r_jeanhuguesrobert -->|9| r_ubikia
@@ -82,10 +79,10 @@ graph LR
   r_barons_mariani -->|5| r_inox
   r_barons_mariani -->|5| r_jeanhuguesrobert
   r_cogentia -->|5| r_fractavolta
+  r_barons_mariani -->|4| r_ubikia
   r_cogentia -->|4| r_jeanhuguesrobert
   r_inseme -->|3| r_barons_mariani
   r_inseme -->|3| r_jeanhuguesrobert
-  r_barons_mariani -->|2| r_ubikia
   r_cogentia -->|2| r_inox
   r_fractavolta -->|2| r_jeanhuguesrobert
   r_inox -->|2| r_jeanhuguesrobert
@@ -98,11 +95,9 @@ graph LR
   r_ubikia -->|1| r_cogentia
 ```
 <!-- END_AUTO: graph -->
-
 ---
 
 ## Published in this repo
-
 <!-- BEGIN_AUTO: published -->
 | Title | Location | Date |
 |---|---|---|
@@ -118,18 +113,15 @@ graph LR
 | [Corpus Status](corpus-status.md) *(living view — auto-refreshed by `cogentia.js corpus-status`)* | this repo | refreshable |
 | [Concept Index](concepts.md) *(typed concept registry — mapped by `cogentia.js concepts`)* | this repo | refreshable |
 <!-- END_AUTO: published -->
-
 ---
 
 ## Concept Status
-
 <!-- BEGIN_AUTO: concepts -->
 | Concept | Scope | Status | Type |
 |---|---|---|---|
 | [Cogentia](./concepts.md#cogentia) | Global | Working | abstract concept / agentivity class |
 | [Cogentigram](./concepts.md#cogentigram) | Global | Working | representation / map |
 <!-- END_AUTO: concepts -->
-
 ---
 
 ## What Is Proved
@@ -153,23 +145,21 @@ graph LR
 ---
 
 ## What Remains Possible
-
 <!-- BEGIN_AUTO: possibilities -->
 - A generated "who-cites-whom" map of the corpus, derived from the registry.
 - Des parcours dérivés plus courts depuis la carte globale : "lire le corpus en 30 minutes", "reprendre comme agent IA", "comprendre la Corse comme laboratoire".
 - [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
+- [Jean Hugues Noël Robert, baron Mariani](../README.md)
 <!-- END_AUTO: possibilities -->
-
 ---
 
 *Generated with `cogentia.js corpus-status` — [scripts/cogentia.js](https://github.com/JeanHuguesRobert/cogentia/blob/main/scripts/cogentia.js)*
 *Challenge via issues. Fork to explore alternatives.*
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
 *These documents link to this file:*
 - [Carte globale du Corpus](corpus-map.md)
+- [Jean Hugues Noël Robert, baron Mariani](../README.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
 <!-- END_AUTO: backlinks -->

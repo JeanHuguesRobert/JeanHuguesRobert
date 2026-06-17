@@ -92,13 +92,13 @@ A collaborator arriving here should read, in order: [`README.md`](../README.md) 
 
 *Priority established by first public commit. License: CC BY 4.0 (this node).*
 *This node is the entry point and registry host, not a doctrinal member of the corpus.*
-
 <!-- BEGIN_AUTO: trails -->
-<!-- END_AUTO: trails -->
 
+<!-- END_AUTO: trails -->
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
 *These documents link to this file:*
 - [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
+- [Jean Hugues Noël Robert, baron Mariani](../README.md)
 <!-- END_AUTO: backlinks -->

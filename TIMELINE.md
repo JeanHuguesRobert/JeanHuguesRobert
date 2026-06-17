@@ -189,13 +189,12 @@ The work remains intentionally:
 The objective is not prediction.
 
 The objective is preserving humanity’s capacity to choose.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
 *These documents link to this file:*
 - [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
 - [Documents - All Tracked Repos](research/documents.md)
+- [Jean Hugues Noël Robert, baron Mariani](README.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)
 <!-- END_AUTO: backlinks -->

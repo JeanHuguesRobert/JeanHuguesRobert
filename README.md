@@ -59,7 +59,12 @@ This is why I favor:
 
 ### Quick Orientation
 
-For navigating the full multi-repository corpus, start with the [Carte globale du Corpus](./research/corpus-map.md).
+For navigating the full multi-repository corpus, start with:
+
+- [Carte globale du Corpus](./research/corpus-map.md) — top-level map of repositories and themes
+- [research/index.md](./research/index.md) — generated document catalog for this repository
+- [research/corpus-status.md](./research/corpus-status.md) — generated status, backlinks, and navigation checks
+- [POSSIBILISM.md](./POSSIBILISM.md) — shortest statement of the philosophical invariant
 
 This ecosystem combines:
 - distributed systems engineering,
@@ -340,6 +345,10 @@ open systems preserve the space of accessible futures.
 ## For collaborators and AI agents
 
 This repository is the entry point to the ecosystem. Collaborators — human or AI — should start with [`CONTEXT.md`](./CONTEXT.md) for the current state of the work, and [`research/agent_brief.md`](./research/agent_brief.md) for how to prepare or draft responses on my behalf (mandate and limits, positions, voice, red lines).
+
+## Source orientation
+
+This public profile is a human-facing orientation derived from the repository's own entry-point documents: [`research/index.md`](./research/index.md), [`research/agent_brief.md`](./research/agent_brief.md), [`CONTEXT.md`](./CONTEXT.md), [`POSSIBILISM.md`](./POSSIBILISM.md), [`PROJECTS.md`](./PROJECTS.md), and [`TIMELINE.md`](./TIMELINE.md). The detailed doctrine lives in the linked corpus repositories; this page should remain a readable doorway, not a mechanical catalog.
 
 ---
 
