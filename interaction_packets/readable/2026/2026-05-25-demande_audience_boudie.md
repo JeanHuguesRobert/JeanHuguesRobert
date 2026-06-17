@@ -79,7 +79,6 @@ Ces faits interrogent la distance possible entre discours public d'ouverture et 
 - [Tableau de bord](../../dashboard.md)
 - [Paquet YAML](../../packets/2026/2026-05-25-demande_audience_boudie.yaml)
 - [Copie quasi brute masquée](../../raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md)
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

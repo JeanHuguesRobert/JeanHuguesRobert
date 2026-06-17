@@ -85,8 +85,6 @@ Il devient cependant un cas tracé, comparable à d’autres interactions future
 - [Tableau de bord](../../dashboard.md)
 - [Paquet YAML](../../packets/2026/2026-05-04-session_marenostrum.yaml)
 - [Copie quasi brute masquée](../../raw/2026/2026-05-04-session_marenostrum_redacted.eml.md)
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

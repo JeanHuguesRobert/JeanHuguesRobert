@@ -327,8 +327,6 @@ Exemples :
 - `[pièce jointe non publiée]`
 
 La transparence exige aussi la traçabilité des coupes.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

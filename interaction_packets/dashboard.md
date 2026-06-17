@@ -228,8 +228,6 @@ Les faits d’abord.
 Les interprétations ensuite.
 
 Les corrections doivent rester visibles lorsqu’elles sont importantes.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

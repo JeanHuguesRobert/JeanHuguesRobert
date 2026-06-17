@@ -16,8 +16,6 @@ last_stamped_at: 2026-06-01
 |---|---:|---|---|---:|---:|---|---|
 | 2026-05-04-001 | 2026-05-04 | Session MareNostrum | Université de Corse | 0 | 1 | Réponse reçue : négative | D3 |
 | 2026-05-25-001 | 2026-05-25 | Autonomie de capacité — contribution Commission des Lois | Florent Boudié / Commission des Lois | 0 | 4 | Contribution transmise ; représentants corses informés ; archive Institut Mariani effectuée | D2 |
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

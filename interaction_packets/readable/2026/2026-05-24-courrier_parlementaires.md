@@ -56,7 +56,6 @@ Il documente simplement un acte public et vérifiable : un courrier adressé par
 - [Tableau de bord](../../dashboard.md)
 - [Paquet YAML](../../packets/2026/2026-05-24-courrier_parlementaires.yaml)
 - [Copie quasi brute masquée](../../raw/2026/2026-05-24-courrier_parlementaires_redacted.eml.md)
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -80,7 +80,6 @@ Le fil Gmail, vérifié le 2026-05-28, ne contient que le message d'envoi du 202
 Éléments conservés (publics) : le nom, l'adresse email, le numéro de téléphone et l'adresse postale de l'auteur (entièrement publics, à sa demande) ; sa qualité (président de C.O.R.S.I.C.A.) ; le nom du rapporteur (acteur public, déjà cité publiquement) ; le lien vers les travaux ouverts.
 
 Les coupes sont signalées explicitement.
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

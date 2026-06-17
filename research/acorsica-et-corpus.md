@@ -129,8 +129,6 @@ Des produits déclinés peuvent être traduits ou adaptés dans d’autres langu
 - [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/acorsica-institut-mariani.md)
 
 Continuation : quand un nouveau dépôt entre dans le corpus ou quand le statut juridique d'une initiative change, mettre à jour d'abord cette note transversale, puis seulement les notes locales concernées.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

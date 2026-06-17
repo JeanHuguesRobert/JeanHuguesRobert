@@ -79,8 +79,6 @@ Cordialement,
 - éléments non nécessaires à la compréhension publique du cas.
 
 Les coupes sont signalées explicitement.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

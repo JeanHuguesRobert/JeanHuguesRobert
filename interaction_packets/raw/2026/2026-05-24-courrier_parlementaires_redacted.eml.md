@@ -81,7 +81,6 @@ Le fil Gmail, vérifié le 2026-05-28, ne contient que le message d'envoi du 202
 Éléments conservés (publics) : le nom, l'adresse email, le numéro de téléphone et l'adresse postale de l'auteur (entièrement publics, à sa demande) ; sa qualité ; les noms **et adresses email officielles** des six parlementaires destinataires — données publiques diffusées par les sites de l'Assemblée nationale et du Sénat, s'agissant d'un courrier lui-même explicitement public ; le lien vers les travaux ouverts.
 
 Les coupes sont signalées explicitement.
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -65,8 +65,6 @@ A cogentigram is a structured, partial, auditable and revisable representation o
 - Map vs territory
 - Operational memory
 - Traceable agency
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -246,8 +246,6 @@ GitHub Pages activation · PAT-token generation · physical meetings with *grand
 ## Maintenance
 
 This is a living brief. Update it when objectives, dates, positions or constraints change — and prune what is stale rather than letting it accumulate. Keep it consistent with [`CONTEXT.md`](../CONTEXT.md) (state) and [`README.md`](../README.md) (voice); this file governs *representation*, those govern *state* and *self-presentation*. When a fact here is overtaken by events, correct it here first, then let the change propagate.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

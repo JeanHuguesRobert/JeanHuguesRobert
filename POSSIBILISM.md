@@ -176,8 +176,6 @@ Its method is:
 - and explicitly evolutionary.
 
 Design in the open.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -268,8 +268,6 @@ The purpose is to explore viable anti-capture infrastructures under real-world c
 ---
 
 *Maintained by Jean Hugues Noël Robert in collaboration with Claude (Anthropic). CC BY 4.0.*
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
