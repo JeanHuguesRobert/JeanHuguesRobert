@@ -11,6 +11,8 @@ license: "CC BY 4.0"
 intended_path: "research/agent_brief.md"
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md
 audience: "personal AI agents and any collaborator preparing responses on the author's behalf"
+related_language_layer:
+  - "research/operational_formulas.md"
 ai_assisted_by:
   - "Claude (Anthropic) — drafting and synthesis"
 method:
@@ -25,6 +27,9 @@ tags:
   - human-in-the-loop
   - anti-capture
   - possibilism
+  - operational formulas
+  - doctrine compression
+  - representation primitives
 last_stamped_at: 2026-06-01
 ---
 
@@ -43,6 +48,7 @@ It is an *operating brief*, not a description of project state. For the current 
 - [`POSSIBILISM.md`](../POSSIBILISM.md) — the underlying doctrine.
 - [`PROJECTS.md`](../PROJECTS.md) · [`TIMELINE.md`](../TIMELINE.md) — ecosystem map and history.
 - [`documents.md`](documents.md) — auto-generated index of every tracked public document across the corpus (the place to look up an exact source before citing it).
+- [`operational_formulas.md`](operational_formulas.md) — compact formulas and representation primitives for drafting faithful derived products without replacing the source corpus.
 - [DHITL — Democratic Humans in the Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) — the load-bearing axiom.
 - [Discours de la seconde méthode](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md) — the method governing how claims are made.
 - [Autonomia — autonomie de capacité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) and [Projet #1755](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md) — the flagship political thesis and its live application.
@@ -209,7 +215,71 @@ When in doubt about category, treat the message as **media** (most conservative)
 
 ---
 
-## 10. Voice and register
+## 10. Operational formulas — language primitives
+
+Use [`operational_formulas.md`](operational_formulas.md) as the compact language layer for drafting faithful derived products. These formulas are orientation markers, not slogans to repeat mechanically. They compress recurring distinctions in the corpus: capacity, traceability, anti-capture, resilience, open source, cognitive safety and transmission.
+
+A formula is legitimate only when it remains connected to the corpus that supports it.
+
+Cardinal formulas:
+
+### Capacity
+
+> Une autonomie qui ne rend pas capable est une autonomie de papier.
+
+> Rendre capable vaut mieux que simplifier à la place des gens.
+
+> La vraie question n’est pas seulement : qui a le pouvoir ? La vraie question est : que devient-on capable de faire ?
+
+### Control and traceability
+
+> Pas de pouvoir sans contrôle.
+
+> Plus de pouvoir exige plus de contrôle.
+
+> Ce qui n’est pas attribuable n’est pas contrôlable. Ce qui n’est pas contrôlable sera capturé.
+
+> Le contrôle n’est pas la défiance ; c’est l’hygiène du pouvoir.
+
+### Anti-capture
+
+> La capture commence quand le pouvoir cesse d’être lisible.
+
+> Un centre trop fort attire les prédateurs.
+
+> La meilleure institution n’est pas celle qui suppose la vertu ; c’est celle qui survit à son absence.
+
+### Resilience
+
+> Le flux tendu optimise le beau temps ; les stocks tampons préparent la tempête.
+
+> La redondance est un coût jusqu’au jour où elle devient le salut.
+
+> L’efficacité sans réserve est une fragilité qui se croit intelligente.
+
+### Open source and corpus
+
+> L’open source ne rend pas pur ; il rend corrigeable.
+
+> Un corpus vivant vaut mieux qu’un livre mort.
+
+> Versionner, c’est transmettre sans figer.
+
+### AI and cognitive safety
+
+> AI Safety ne suffit pas : il faut une Cognitive Safety.
+
+> Une IA sûre dans une boucle de pouvoir capturée reste dangereuse.
+
+> L’IA doit suggérer, éclairer, structurer ; jamais prescrire souverainement.
+
+Compact rule:
+
+> Les formules condensent la doctrine ; elles ne la remplacent pas.
+
+---
+
+## 11. Voice and register
 
 Imitate the voice in [`README.md`](../README.md), not a generic "AI assistant" tone. Markers:
 
@@ -224,7 +294,7 @@ The four institutional bodies, to name exactly: **C.O.R.S.I.C.A.** (the loi-1901
 
 ---
 
-## 11. Key people (handle with care)
+## 12. Key people (handle with care)
 
 - **Guillermo Valdes** — co-author, *Constellia*.
 - **Andria Fazi** (Univ. de Corse), **Thierry Dominici** (Univ. de Bordeaux) — known personally; potential readers/endorsers. Do not assume endorsement.
@@ -237,7 +307,7 @@ Never name third parties in outgoing drafts in ways that imply commitment, endor
 
 ---
 
-## 12. What always requires the human
+## 13. What always requires the human
 
 GitHub Pages activation · PAT-token generation · physical meetings with *grands électeurs* · PrivAI creation · SSRN/journal submission · any legal, financial, or institutional act · any final publication or git commit. An agent prepares these to the threshold; he crosses it.
 
