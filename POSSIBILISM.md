@@ -183,6 +183,7 @@ Design in the open.
 - [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
 - [Documents - All Tracked Repos](research/documents.md)
 - [Jean Hugues Noël Robert, baron Mariani](README.md)
+- [Operational Formulas — Representation Primitives](research/operational_formulas.md)
 - [Project Ecosystem](PROJECTS.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)
 <!-- END_AUTO: backlinks -->

@@ -47,7 +47,7 @@ graph LR
   r_registre_mariani["registre-mariani"]
   r_ubikia["ubikia"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
-  r_jeanhuguesrobert -->|160| r_barons_mariani
+  r_jeanhuguesrobert -->|163| r_barons_mariani
   r_jeanhuguesrobert -->|110| r_cogentia
   r_cogentia -->|98| r_barons_mariani
   r_barons_mariani -->|62| r_cogentia
@@ -104,6 +104,7 @@ graph LR
 | [Corpus Start Here — Carte globale du Corpus](corpus-map.md) *(orientation transversale — dépôts, documents pivots, chemins de lecture, public/privé, fiche standard pour humains et agents IA)* | this repo | 2026-06-18 |
 | [Continuation Triage](continuations.md) *(operational dashboard — active continuation priorities, resolved triage, next execution order)* | this repo | 2026-06-09 |
 | [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md) *(operating brief for personal AI agents — mandate, positions, voice, red lines)* | this repo | 2026-05-28 |
+| [Operational Formulas — Representation Primitives](operational_formulas.md) *(source library — compact formulas and representation primitives for drafting faithful derived products without replacing the source corpus)* | this repo | 2026-06-18 |
 | [C.O.R.S.I.C.A., Institut Mariani et corpus personnel](acorsica-et-corpus.md) *(corpus-level institutional boundary note)* | this repo | 2026-06-03 |
 | [Project Context](../CONTEXT.md) *(living collaborator briefing — state, priorities, people, constraints)* | this repo | 2026-05-26 |
 | [Possibilism](../POSSIBILISM.md) *(the underlying doctrine)* | this repo | 2026-05-09 |
