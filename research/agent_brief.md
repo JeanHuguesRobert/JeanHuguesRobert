@@ -31,6 +31,14 @@ tags:
   - doctrine compression
   - representation primitives
 last_stamped_at: 2026-06-01
+document_role: "source"
+document_kind: "working-note"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "working-note"
+classification_confidence: "medium"
 ---
 
 # Agent Brief — Representing Jean Hugues Noël Robert

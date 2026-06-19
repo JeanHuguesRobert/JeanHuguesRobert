@@ -9,6 +9,14 @@ affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paol
 date: 2026-05-28
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/index.md
+document_role: "index"
+document_kind: "research-index"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-index"
+classification_confidence: "strong"
 ---
 
 # Research Index — Jean Hugues Noël Robert (Profile / Entry Point)

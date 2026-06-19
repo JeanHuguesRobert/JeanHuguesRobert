@@ -11,6 +11,13 @@ date: 2026-06-09
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/continuations.md
 last_reviewed_at: 2026-06-16
+document_kind: "dashboard"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "dashboard"
+classification_confidence: "medium"
 ---
 
 # Continuation Triage

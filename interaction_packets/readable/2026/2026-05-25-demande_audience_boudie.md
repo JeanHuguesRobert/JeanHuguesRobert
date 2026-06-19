@@ -8,6 +8,14 @@ status: "journal"
 license: "CC BY 4.0"
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/readable/2026/2026-05-25-demande_audience_boudie.md
 last_stamped_at: 2026-06-01
+document_role: "operational"
+document_kind: "continuation-packet"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "continuation-packet"
+classification_confidence: "strong"
 ---
 
 # Interaction lisible — Demande d'audience / processus constitutionnel Corse (Florent Boudié)

@@ -6,6 +6,14 @@ nav_order: 3
 last_modified_at: 2026-05-28
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/concepts.md
 last_stamped_at: 2026-06-01
+document_role: "index"
+document_kind: "concept-index"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "concept-index"
+classification_confidence: "strong"
 ---
 
 # Concept Index — JeanHuguesRobert

@@ -4,6 +4,14 @@ date: "2026-06-05"
 status: "active"
 disclosure: "D3"
 related_packet: "../../packets/2026/2026-06-05-chaise-porteur.yaml"
+document_role: "operational"
+document_kind: "continuation-packet"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "continuation-packet"
+classification_confidence: "strong"
 ---
 
 # Dossier patrimonial — chaise à porteur

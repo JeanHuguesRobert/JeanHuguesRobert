@@ -10,6 +10,13 @@ affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paol
 date: 2026-06-18
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md
+document_kind: "navigation"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-index"
+classification_confidence: "medium"
 ---
 
 # Corpus Start Here — Carte globale du Corpus

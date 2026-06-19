@@ -8,6 +8,14 @@ status: "published"
 license: "CC BY 4.0"
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md
 last_stamped_at: 2026-06-01
+document_role: "source"
+document_kind: "concept-note"
+visibility: "public"
+lifecycle_state: "stable"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "concept-note"
+classification_confidence: "medium"
 ---
 
 # Possibilism
