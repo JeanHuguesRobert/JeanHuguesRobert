@@ -137,6 +137,20 @@
       "trace_level": "standard",
       "added": "2026-06-19T09:25:40.281Z",
       "mandate": "C.O.R.S.I.C.A. association corpus"
+    },
+    {
+      "name": "acorsica.org",
+      "path": "C:\\tweesic\\acorsica.org",
+      "branch": "main",
+      "github": "acorsica/acorsica.org",
+      "owner": "acorsica",
+      "owner_kind": "non_profit_organization",
+      "ownership": "mandate",
+      "visibility": "public",
+      "public_presence": "full",
+      "trace_level": "standard",
+      "added": "2026-06-19T10:46:47.400Z",
+      "mandate": "C.O.R.S.I.C.A. public website"
     }
   ],
   "repo_policies": {
@@ -148,5 +162,5 @@
     }
   },
   "version": 1,
-  "updated": "2026-06-19T09:25:40.281Z"
+  "updated": "2026-06-19T10:46:47.400Z"
 }
