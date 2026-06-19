@@ -53,6 +53,90 @@
       "path": "C:\\tweesic\\JeanHuguesRobert",
       "branch": "main",
       "added": "2026-05-28T05:41:14.424Z"
+    },
+    {
+      "name": "privai",
+      "path": "C:\\tweesic\\privai",
+      "branch": "main",
+      "github": "acorsica/privai",
+      "owner": "acorsica",
+      "owner_kind": "non_profit_organization",
+      "ownership": "mandate",
+      "visibility": "public",
+      "public_presence": "full",
+      "trace_level": "standard",
+      "added": "2026-06-19T09:25:40.281Z",
+      "mandate": "C.O.R.S.I.C.A. association corpus"
+    },
+    {
+      "name": "gouvernance",
+      "path": "C:\\tweesic\\gouvernance",
+      "branch": "main",
+      "github": "acorsica/gouvernance",
+      "owner": "acorsica",
+      "owner_kind": "non_profit_organization",
+      "ownership": "mandate",
+      "visibility": "public",
+      "public_presence": "full",
+      "trace_level": "standard",
+      "added": "2026-06-19T09:25:40.281Z",
+      "mandate": "C.O.R.S.I.C.A. association corpus"
+    },
+    {
+      "name": "marianivillage",
+      "path": "C:\\tweesic\\marianivillage",
+      "branch": "main",
+      "github": "acorsica/marianivillage",
+      "owner": "acorsica",
+      "owner_kind": "non_profit_organization",
+      "ownership": "mandate",
+      "visibility": "public",
+      "public_presence": "full",
+      "trace_level": "standard",
+      "added": "2026-06-19T09:25:40.281Z",
+      "mandate": "C.O.R.S.I.C.A. association corpus"
+    },
+    {
+      "name": "institut-mariani",
+      "path": "C:\\tweesic\\institut-mariani",
+      "branch": "main",
+      "github": "acorsica/institut-mariani",
+      "owner": "acorsica",
+      "owner_kind": "non_profit_organization",
+      "ownership": "mandate",
+      "visibility": "public",
+      "public_presence": "full",
+      "trace_level": "standard",
+      "added": "2026-06-19T09:25:40.281Z",
+      "mandate": "C.O.R.S.I.C.A. association corpus"
+    },
+    {
+      "name": "Kudos",
+      "path": "C:\\tweesic\\Kudos",
+      "branch": "main",
+      "github": "acorsica/Kudos",
+      "owner": "acorsica",
+      "owner_kind": "non_profit_organization",
+      "ownership": "mandate",
+      "visibility": "public",
+      "public_presence": "full",
+      "trace_level": "standard",
+      "added": "2026-06-19T09:25:40.281Z",
+      "mandate": "C.O.R.S.I.C.A. association corpus"
+    },
+    {
+      "name": ".github",
+      "path": "C:\\tweesic\\.github",
+      "branch": "main",
+      "github": "acorsica/.github",
+      "owner": "acorsica",
+      "owner_kind": "non_profit_organization",
+      "ownership": "mandate",
+      "visibility": "public",
+      "public_presence": "full",
+      "trace_level": "standard",
+      "added": "2026-06-19T09:25:40.281Z",
+      "mandate": "C.O.R.S.I.C.A. association corpus"
     }
   ],
   "repo_policies": {
@@ -64,5 +148,5 @@
     }
   },
   "version": 1,
-  "updated": "2026-06-13T21:00:00.000Z"
+  "updated": "2026-06-19T09:25:40.281Z"
 }
