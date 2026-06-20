@@ -65,6 +65,7 @@ For navigating the full multi-repository corpus, start with:
 - [research/index.md](./research/index.md) — generated document catalog for this repository
 - [research/corpus-status.md](./research/corpus-status.md) — generated status, backlinks, and navigation checks
 - [POSSIBILISM.md](./POSSIBILISM.md) — shortest statement of the philosophical invariant
+- [Personal Intent Kernel](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/identity/INTENT_KERNEL.md) — operational personal intent kernel for human collaborators and AI agents
 
 This ecosystem combines:
 - distributed systems engineering,
@@ -344,7 +345,7 @@ open systems preserve the space of accessible futures.
 
 ## For collaborators and AI agents
 
-This repository is the entry point to the ecosystem. Collaborators — human or AI — should start with [`research/corpus-map.md`](./research/corpus-map.md) for corpus navigation, [`CONTEXT.md`](./CONTEXT.md) for the current state of the work, and [`research/agent_brief.md`](./research/agent_brief.md) for how to prepare or draft responses on my behalf (mandate and limits, positions, voice, red lines).
+This repository is the entry point to the ecosystem. Collaborators — human or AI — should start with [`research/corpus-map.md`](./research/corpus-map.md) for corpus navigation, [`CONTEXT.md`](./CONTEXT.md) for the current state of the work, [`research/agent_brief.md`](./research/agent_brief.md) for how to prepare or draft responses on my behalf (mandate and limits, positions, voice, red lines), and the [Personal Intent Kernel](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/identity/INTENT_KERNEL.md) for the operational intention that should guide corpus continuation.
 
 ## Source orientation
 
