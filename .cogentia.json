@@ -2,61 +2,61 @@
   "repos": [
     {
       "name": "cogentia",
-      "path": "C:\\tweesic\\cogentia",
+      "path": "../cogentia",
       "branch": "main",
       "added": "2026-05-09T19:42:58.050Z"
     },
     {
       "name": "FractaVolta",
-      "path": "C:\\tweesic\\FractaVolta",
+      "path": "../FractaVolta",
       "branch": "main",
       "added": "2026-05-09T19:42:58.330Z"
     },
     {
       "name": "marenostrum",
-      "path": "C:\\tweesic\\marenostrum",
+      "path": "../marenostrum",
       "branch": "main",
       "added": "2026-05-09T19:42:58.633Z"
     },
     {
       "name": "barons-Mariani",
-      "path": "C:\\tweesic\\barons-Mariani",
+      "path": "../barons-Mariani",
       "branch": "main",
       "added": "2026-05-09T19:42:58.961Z"
     },
     {
       "name": "inseme",
-      "path": "C:\\tweesic\\inseme",
+      "path": "../inseme",
       "branch": "main",
       "added": "2026-05-13T04:54:19.207Z"
     },
     {
       "name": "Inox",
-      "path": "C:\\tweesic\\Inox",
+      "path": "../Inox",
       "branch": "master",
       "added": "2026-05-21T16:49:46.207Z"
     },
     {
       "name": "registre-mariani",
-      "path": "C:\\tweesic\\registre-mariani",
+      "path": "../registre-mariani",
       "branch": "main",
       "added": "2026-06-13T21:00:00.000Z"
     },
     {
       "name": "ubikia",
-      "path": "C:\\tweesic\\ubikia",
+      "path": "../ubikia",
       "branch": "main",
       "added": "2026-06-13T21:00:00.000Z"
     },
     {
       "name": "JeanHuguesRobert",
-      "path": "C:\\tweesic\\JeanHuguesRobert",
+      "path": ".",
       "branch": "main",
       "added": "2026-05-28T05:41:14.424Z"
     },
     {
       "name": "privai",
-      "path": "C:\\tweesic\\privai",
+      "path": "../privai",
       "branch": "main",
       "github": "acorsica/privai",
       "owner": "acorsica",
@@ -70,7 +70,7 @@
     },
     {
       "name": "gouvernance",
-      "path": "C:\\tweesic\\gouvernance",
+      "path": "../gouvernance",
       "branch": "main",
       "github": "acorsica/gouvernance",
       "owner": "acorsica",
@@ -84,7 +84,7 @@
     },
     {
       "name": "marianivillage",
-      "path": "C:\\tweesic\\marianivillage",
+      "path": "../marianivillage",
       "branch": "main",
       "github": "acorsica/marianivillage",
       "owner": "acorsica",
@@ -98,7 +98,7 @@
     },
     {
       "name": "institut-mariani",
-      "path": "C:\\tweesic\\institut-mariani",
+      "path": "../institut-mariani",
       "branch": "main",
       "github": "acorsica/institut-mariani",
       "owner": "acorsica",
@@ -112,7 +112,7 @@
     },
     {
       "name": "Kudos",
-      "path": "C:\\tweesic\\Kudos",
+      "path": "../Kudos",
       "branch": "main",
       "github": "acorsica/Kudos",
       "owner": "acorsica",
@@ -126,7 +126,7 @@
     },
     {
       "name": ".github",
-      "path": "C:\\tweesic\\.github",
+      "path": "../.github",
       "branch": "main",
       "github": "acorsica/.github",
       "owner": "acorsica",
@@ -140,7 +140,7 @@
     },
     {
       "name": "acorsica.org",
-      "path": "C:\\tweesic\\acorsica.org",
+      "path": "../acorsica.org",
       "branch": "main",
       "github": "acorsica/acorsica.org",
       "owner": "acorsica",
@@ -161,6 +161,6 @@
       "note": "private repository: public views may mention the repository boundary but must not link to private contents"
     }
   },
-  "version": 1,
+  "version": 2,
   "updated": "2026-06-19T10:46:47.400Z"
 }
