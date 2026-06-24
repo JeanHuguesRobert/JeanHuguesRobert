@@ -49,6 +49,19 @@
       "added": "2026-06-13T21:00:00.000Z"
     },
     {
+      "name": "operium",
+      "path": "../operium",
+      "branch": "main",
+      "github": "JeanHuguesRobert/operium",
+      "owner": "JeanHuguesRobert",
+      "owner_kind": "individual",
+      "ownership": "unknown",
+      "visibility": "public",
+      "public_presence": "full",
+      "trace_level": "standard",
+      "added": "2026-06-24T16:40:27.8878854+02:00"
+    },
+    {
       "name": "JeanHuguesRobert",
       "path": ".",
       "branch": "main",
