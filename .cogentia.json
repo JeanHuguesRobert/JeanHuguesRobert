@@ -4,49 +4,237 @@
       "name": "cogentia",
       "path": "../cogentia",
       "branch": "main",
-      "added": "2026-05-09T19:42:58.050Z"
+      "added": "2026-05-09T19:42:58.050Z",
+      "kind": "tooling",
+      "navigation": {
+        "public_role": "pipeline_and_memory",
+        "reader_primary": "agent",
+        "read_priority": 2,
+        "start_here": "README.md",
+        "public_index": "research/index.md",
+        "site_home": null,
+        "canonical_reading_path": [
+          "README.md",
+          "research/cogentia_commons_living_corpus.md",
+          "research/agent_resumable_cli.md",
+          "docs/knowledge_mesh.md"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "JeanHuguesRobert",
+          "barons-Mariani",
+          "marenostrum",
+          "FractaVolta",
+          "inseme",
+          "ubikia"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
     },
     {
       "name": "FractaVolta",
       "path": "../FractaVolta",
       "branch": "main",
-      "added": "2026-05-09T19:42:58.330Z"
+      "added": "2026-05-09T19:42:58.330Z",
+      "kind": "site_facing",
+      "navigation": {
+        "public_role": "public_site_and_infrastructure",
+        "reader_primary": "human",
+        "read_priority": 4,
+        "start_here": "README.md",
+        "public_index": "research/index.md",
+        "site_home": "/",
+        "canonical_reading_path": [
+          "README.md",
+          "PGN.md",
+          "research/index.md"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "cogentia",
+          "marenostrum",
+          "inseme"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
     },
     {
       "name": "marenostrum",
       "path": "../marenostrum",
       "branch": "main",
-      "added": "2026-05-09T19:42:58.633Z"
+      "added": "2026-05-09T19:42:58.633Z",
+      "kind": "doctrine",
+      "navigation": {
+        "public_role": "anti_capture_axiom",
+        "reader_primary": "human",
+        "read_priority": 3,
+        "start_here": "README.md",
+        "public_index": "research/index.md",
+        "site_home": null,
+        "canonical_reading_path": [
+          "README.md",
+          "DHITL.md",
+          "infrastructure_is_all_you_need.md"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "cogentia",
+          "FractaVolta",
+          "inseme"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
     },
     {
       "name": "barons-Mariani",
       "path": "../barons-Mariani",
       "branch": "main",
-      "added": "2026-05-09T19:42:58.961Z"
+      "added": "2026-05-09T19:42:58.961Z",
+      "kind": "source",
+      "navigation": {
+        "public_role": "political_method_and_research",
+        "reader_primary": "human",
+        "read_priority": 2,
+        "start_here": "README.md",
+        "public_index": "research/index.md",
+        "site_home": null,
+        "canonical_reading_path": [
+          "README.md",
+          "research/second_method.md",
+          "research/autonomia.md",
+          "research/autonomia/corsica2038_contre_rapport_pruspettiva2050.md"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "marenostrum",
+          "cogentia"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
     },
     {
       "name": "inseme",
       "path": "../inseme",
       "branch": "main",
-      "added": "2026-05-13T04:54:19.207Z"
+      "added": "2026-05-13T04:54:19.207Z",
+      "kind": "platform",
+      "navigation": {
+        "public_role": "deployable_platform_runtime",
+        "reader_primary": "mixed",
+        "read_priority": 5,
+        "start_here": "README.md",
+        "public_index": "research/index.md",
+        "site_home": null,
+        "canonical_reading_path": [
+          "README.md",
+          "research/index.md",
+          "AGENTS.md"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "cogentia",
+          "marenostrum",
+          "FractaVolta",
+          "ubikia"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
     },
     {
       "name": "Inox",
       "path": "../Inox",
       "branch": "master",
-      "added": "2026-05-21T16:49:46.207Z"
+      "added": "2026-05-21T16:49:46.207Z",
+      "kind": "runtime",
+      "navigation": {
+        "public_role": "language_and_runtime_substrate",
+        "reader_primary": "human",
+        "read_priority": 7,
+        "start_here": "README.md",
+        "public_index": "research/index.md",
+        "site_home": null,
+        "canonical_reading_path": [
+          "README.md",
+          "research/inox-spec.md"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "FractaVolta",
+          "inseme"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
     },
     {
       "name": "registre-mariani",
       "path": "../registre-mariani",
       "branch": "main",
-      "added": "2026-06-13T21:00:00.000Z"
+      "added": "2026-06-13T21:00:00.000Z",
+      "kind": "private_registry",
+      "navigation": {
+        "public_role": "private_registry_stub",
+        "reader_primary": "human",
+        "read_priority": 99,
+        "start_here": null,
+        "public_index": null,
+        "site_home": null,
+        "canonical_reading_path": []
+      },
+      "relations": {
+        "cites": [
+          "JeanHuguesRobert"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": true
+      }
     },
     {
       "name": "ubikia",
       "path": "../ubikia",
       "branch": "main",
-      "added": "2026-06-13T21:00:00.000Z"
+      "added": "2026-06-13T21:00:00.000Z",
+      "kind": "publication",
+      "navigation": {
+        "public_role": "source_first_derivation_and_publication",
+        "reader_primary": "human",
+        "read_priority": 6,
+        "start_here": "README.md",
+        "public_index": "research/index.md",
+        "site_home": null,
+        "canonical_reading_path": [
+          "README.md",
+          "docs/publication_layer.md",
+          "research/index.md"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "cogentia",
+          "JeanHuguesRobert"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
     },
     {
       "name": "operium",
@@ -59,13 +247,66 @@
       "visibility": "public",
       "public_presence": "full",
       "trace_level": "standard",
-      "added": "2026-06-24T16:40:27.8878854+02:00"
+      "added": "2026-06-24T16:40:27.8878854+02:00",
+      "kind": "methodology",
+      "navigation": {
+        "public_role": "generic_method_and_public_view",
+        "reader_primary": "human",
+        "read_priority": 8,
+        "start_here": "README.md",
+        "public_index": "docs/public-private-split.md",
+        "site_home": null,
+        "canonical_reading_path": [
+          "README.md",
+          "docs/public-private-split.md",
+          "research/index.md"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "JeanHuguesRobert",
+          "cogentia"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
     },
     {
       "name": "JeanHuguesRobert",
       "path": ".",
       "branch": "main",
-      "added": "2026-05-28T05:41:14.424Z"
+      "added": "2026-05-28T05:41:14.424Z",
+      "kind": "entry_point",
+      "navigation": {
+        "public_role": "profile_entry",
+        "reader_primary": "human",
+        "read_priority": 1,
+        "start_here": "research/corpus-map.md",
+        "public_index": "research/index.md",
+        "site_home": null,
+        "canonical_reading_path": [
+          "research/corpus-map.md",
+          "README.md",
+          "CONTEXT.md",
+          "POSSIBILISM.md"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "barons-Mariani",
+          "marenostrum",
+          "cogentia",
+          "FractaVolta",
+          "inseme",
+          "Inox",
+          "ubikia",
+          "operium"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
     },
     {
       "name": "privai",
@@ -175,5 +416,5 @@
     }
   },
   "version": 2,
-  "updated": "2026-06-19T10:46:47.400Z"
+  "updated": "2026-06-25T00:00:00.000Z"
 }
