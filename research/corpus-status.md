@@ -30,7 +30,7 @@ last_stamped_at: 2026-06-01
 | Inox | yes | master | all | public | full |
 | registre-mariani | yes | main | all | private | stub |
 | ubikia | yes | main | all | public | full |
-| operium | no | main | all | public | full |
+| operium | yes | main | all | public | full |
 | JeanHuguesRobert | yes | main | all | public | full |
 | privai | yes | main | all | public | full |
 | gouvernance | yes | main | all | public | full |
@@ -63,26 +63,26 @@ graph LR
   r_kudos["Kudos"]
   r_github[".github"]
   r_acorsica_org["acorsica.org"]
-  r_jeanhuguesrobert -->|179| r_barons_mariani
+  r_jeanhuguesrobert -->|175| r_barons_mariani
+  r_jeanhuguesrobert -->|142| r_cogentia
   r_cogentia -->|98| r_barons_mariani
-  r_jeanhuguesrobert -->|90| r_cogentia
-  r_barons_mariani -->|62| r_cogentia
-  r_jeanhuguesrobert -->|44| r_fractavolta
-  r_fractavolta -->|41| r_cogentia
+  r_barons_mariani -->|63| r_cogentia
+  r_fractavolta -->|45| r_cogentia
   r_jeanhuguesrobert -->|41| r_marenostrum
   r_fractavolta -->|37| r_marenostrum
-  r_jeanhuguesrobert -->|26| r_inseme
+  r_jeanhuguesrobert -->|34| r_fractavolta
   r_barons_mariani -->|23| r_marenostrum
   r_cogentia -->|22| r_inseme
+  r_jeanhuguesrobert -->|20| r_inox
   r_cogentia -->|19| r_marenostrum
-  r_jeanhuguesrobert -->|19| r_inox
-  r_jeanhuguesrobert -->|19| r_kudos
   r_fractavolta -->|18| r_inseme
   r_fractavolta -->|18| r_barons_mariani
+  r_jeanhuguesrobert -->|18| r_kudos
   r_barons_mariani -->|17| r_fractavolta
+  r_inseme -->|17| r_cogentia
   r_barons_mariani -->|16| r_inseme
-  r_inseme -->|15| r_cogentia
-  r_marenostrum -->|13| r_cogentia
+  r_jeanhuguesrobert -->|15| r_inseme
+  r_marenostrum -->|14| r_cogentia
   r_marenostrum -->|12| r_fractavolta
   r_inox -->|11| r_barons_mariani
   r_inox -->|11| r_cogentia
@@ -92,20 +92,18 @@ graph LR
   r_inox -->|8| r_marenostrum
   r_inox -->|7| r_inseme
   r_inseme -->|7| r_inox
-  r_jeanhuguesrobert -->|6| r_gouvernance
   r_jeanhuguesrobert -->|6| r_ubikia
   r_barons_mariani -->|5| r_inox
   r_barons_mariani -->|5| r_jeanhuguesrobert
   r_cogentia -->|5| r_fractavolta
-  r_jeanhuguesrobert -->|5| r_privai
+  r_jeanhuguesrobert -->|5| r_gouvernance
   r_barons_mariani -->|4| r_ubikia
   r_cogentia -->|4| r_jeanhuguesrobert
+  r_jeanhuguesrobert -->|4| r_privai
   r_marianivillage -->|4| r_fractavolta
   r_github -->|3| r_gouvernance
   r_inseme -->|3| r_barons_mariani
   r_inseme -->|3| r_jeanhuguesrobert
-  r_jeanhuguesrobert -->|3| r_institut_mariani
-  r_jeanhuguesrobert -->|3| r_marianivillage
   r_kudos -->|3| r_barons_mariani
   r_cogentia -->|2| r_inox
   r_fractavolta -->|2| r_jeanhuguesrobert
@@ -116,10 +114,15 @@ graph LR
   r_inseme -->|2| r_fractavolta
   r_institut_mariani -->|2| r_barons_mariani
   r_institut_mariani -->|2| r_fractavolta
+  r_jeanhuguesrobert -->|2| r_operium
+  r_jeanhuguesrobert -->|2| r_institut_mariani
+  r_jeanhuguesrobert -->|2| r_marianivillage
   r_marenostrum -->|2| r_jeanhuguesrobert
   r_marenostrum -->|2| r_inseme
   r_marenostrum -->|2| r_inox
+  r_operium -->|2| r_cogentia
   r_privai -->|2| r_institut_mariani
+  r_ubikia -->|2| r_cogentia
   r_github -->|1| r_institut_mariani
   r_gouvernance -->|1| r_jeanhuguesrobert
   r_gouvernance -->|1| r_cogentia
@@ -140,7 +143,6 @@ graph LR
   r_jeanhuguesrobert -->|1| r_acorsica_org
   r_kudos -->|1| r_institut_mariani
   r_marianivillage -->|1| r_institut_mariani
-  r_ubikia -->|1| r_cogentia
 ```
 <!-- END_AUTO: graph -->
 ---
@@ -150,6 +152,7 @@ graph LR
 | Title | Location | Date |
 |---|---|---|
 | [Corpus Start Here — Carte globale du Corpus](corpus-map.md) *(orientation transversale — dépôts, documents pivots, chemins de lecture, public/privé, fiche standard pour humains et agents IA)* | this repo | 2026-06-18 |
+| [Public Corpus Navigation](public-navigation.md) *(short ranked entry map for humans, agents, and site visitors)* | this repo | 2026-06-25 |
 | [Continuation Triage](continuations.md) *(operational dashboard — active continuation priorities, resolved triage, next execution order)* | this repo | 2026-06-09 |
 | [Agent Brief — Representing Jean Hugues Noël Robert](agent_brief.md) *(operating brief for personal AI agents — mandate, positions, voice, red lines)* | this repo | 2026-05-28 |
 | [Operational Formulas — Representation Primitives](operational_formulas.md) *(source library — compact formulas and representation primitives for drafting faithful derived products without replacing the source corpus)* | this repo | 2026-06-18 |
@@ -199,6 +202,7 @@ graph LR
 - Des parcours dérivés plus courts depuis la carte globale : "lire le corpus en 30 minutes", "reprendre comme agent IA", "comprendre la Corse comme laboratoire".
 - [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
 - [Jean Hugues Noël Robert, baron Mariani](../README.md)
+- [Public Corpus Navigation](public-navigation.md)
 <!-- END_AUTO: possibilities -->
 ---
 
@@ -209,7 +213,7 @@ graph LR
 
 *These documents link to this file:*
 - [Corpus Start Here — Carte globale du Corpus](corpus-map.md)
-- [Documents - All Tracked Repos](documents.md)
 - [Jean Hugues Noël Robert, baron Mariani](../README.md)
+- [Public Corpus Navigation](public-navigation.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
 <!-- END_AUTO: backlinks -->

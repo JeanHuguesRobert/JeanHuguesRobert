@@ -117,6 +117,7 @@ Each project addresses the same civilizational problem at a different layer:
 | Kudocracy | democratic coordination at scale |
 | Fondation Barons Mariani | transmissible cultural memory |
 | Ubikia | source-first editorial derivation and publication traceability |
+| Operium | versioned operational environment registry: current state, intended evolutions, health, risks, dependencies, incidents and decisions; Operia is only the future assistant layer, not the authority |
 
 The social science research is not separate from this — it is the **diagnostic that makes the architecture necessary**:
 
