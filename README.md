@@ -62,6 +62,7 @@ This is why I favor:
 For navigating the full multi-repository corpus, start with:
 
 - [Corpus Start Here — Carte globale du Corpus](./research/corpus-map.md) — top-level map for human readers and AI agents
+- [Public Corpus Navigation](./research/public-navigation.md) — short ranked entry map for humans, agents, and site visitors
 - [research/index.md](./research/index.md) — generated document catalog for this repository
 - [research/corpus-status.md](./research/corpus-status.md) — generated status, backlinks, and navigation checks
 - [POSSIBILISM.md](./POSSIBILISM.md) — shortest statement of the philosophical invariant

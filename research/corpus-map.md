@@ -39,12 +39,13 @@ Cette page répond à quatre questions pratiques :
 Pour comprendre l'ensemble sans se perdre :
 
 1. Lire cette carte.
-2. Lire le [README du profil](../README.md) pour l'identité publique, le fil historique et l'intuition générale.
-3. Lire [Cogentia Commons Living Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_living_corpus.md) pour le comportement attendu du corpus vivant.
-4. Lire [Discours de la seconde méthode](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md) pour la méthode d'exploration rationnelle du possible.
-5. Lire [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) pour l'axiome démocratique et l'architecture anti-capture.
-6. Lire [COGENTIA.md](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md) pour le rôle concret de l'outil et du pipeline.
-7. Consulter [Documents — All Tracked Repos](documents.md) ou [Corpus Status](corpus-status.md) seulement ensuite, quand il faut chercher précisément.
+2. Lire [Public Corpus Navigation](public-navigation.md) pour obtenir un ordre de lecture plus court et plus explicite.
+3. Lire le [README du profil](../README.md) pour l'identité publique, le fil historique et l'intuition générale.
+4. Lire [Cogentia Commons Living Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_living_corpus.md) pour le comportement attendu du corpus vivant.
+5. Lire [Discours de la seconde méthode](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md) pour la méthode d'exploration rationnelle du possible.
+6. Lire [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) pour l'axiome démocratique et l'architecture anti-capture.
+7. Lire [COGENTIA.md](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md) pour le rôle concret de l'outil et du pipeline.
+8. Consulter [Documents — All Tracked Repos](documents.md) ou [Corpus Status](corpus-status.md) seulement ensuite, quand il faut chercher précisément.
 
 ## Les dépôts
 
