@@ -77,5 +77,6 @@ A cogentigram is a structured, partial, auditable and revisable representation o
 ### Backlinks
 
 *These documents link to this file:*
+- [Documents - All Tracked Repos](documents.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
 <!-- END_AUTO: backlinks -->
