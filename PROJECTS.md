@@ -95,7 +95,6 @@ Open source is treated here not merely as a software methodology, but as a civil
 
 *These documents link to this file:*
 - [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
-- [Documents - All Tracked Repos](research/documents.md)
 - [Jean Hugues Noël Robert, baron Mariani](README.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)
 <!-- END_AUTO: backlinks -->

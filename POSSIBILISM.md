@@ -189,7 +189,6 @@ Design in the open.
 
 *These documents link to this file:*
 - [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
-- [Documents - All Tracked Repos](research/documents.md)
 - [Jean Hugues Noël Robert, baron Mariani](README.md)
 - [Operational Formulas — Representation Primitives](research/operational_formulas.md)
 - [Project Ecosystem](PROJECTS.md)

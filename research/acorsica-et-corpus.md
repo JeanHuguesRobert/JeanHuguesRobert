@@ -148,7 +148,6 @@ Continuation : quand un nouveau dépôt entre dans le corpus ou quand le statut 
 - [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](https://github.com/JeanHuguesRobert/inseme/blob/main/research/acorsica-institut-mariani.md)
 - [C.O.R.S.I.C.A., Institut Mariani et corpus personnel](../acorsica-et-corpus.md)
 - [Corpus Start Here — Carte globale du Corpus](corpus-map.md)
-- [Documents - All Tracked Repos](documents.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
 - [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/acorsica-institut-mariani.md)
 <!-- END_AUTO: backlinks -->
