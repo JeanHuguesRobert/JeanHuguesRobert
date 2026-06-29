@@ -6,3 +6,4 @@
 .cogentia/cache/
 .cogentia/index/
 .cogentia/embeddings_result_*.json
+.cogentia/semantic_search_result_*.json
