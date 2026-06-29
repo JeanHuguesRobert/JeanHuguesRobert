@@ -1,0 +1,72 @@
+# Broad Cogentia corpus index policy.
+# This file controls what is worth indexing for retrieval. It does not control
+# Git tracking and does not replace per-repository publication/navigation rules.
+
+exclude:
+  - .cogentia/**
+  - node_modules/**
+  - dist/**
+  - build/**
+  - builds/**
+  - coverage/**
+  - .next/**
+  - .netlify/**
+  - .vercel/**
+  - .serverless/**
+  - .wrangler/**
+  - vendor/**
+  - generated/**
+  - "*.min.js"
+  - package-lock.json
+  - pnpm-lock.yaml
+  - yarn.lock
+  - "*.sqlite"
+  - "*.db"
+  - "*.gguf"
+  - "*.pdf"
+  - "*.png"
+  - "*.jpg"
+  - "*.jpeg"
+  - "*.gif"
+  - "*.webp"
+  - "*.zip"
+
+archive:
+  - "**/archive/**"
+  - "**/archives/**"
+  - "**/legacy/**"
+  - "**/history/**"
+  - "*v1-history*"
+  - "*.bak"
+
+tool_only:
+  - "*.log"
+  - "*.trace"
+  - logs/**
+  - trace.log
+
+fts_only:
+  - "*.csv"
+  - "*.jsonl"
+
+semantic:
+  - README.md
+  - docs/*.md
+  - docs/**/*.md
+  - research/*.md
+  - research/**/*.md
+  - scripts/*.js
+  - scripts/**/*.js
+  - packages/*.ts
+  - packages/**/*.ts
+  - packages/*.js
+  - packages/**/*.js
+
+metadata_only:
+  frontmatter_fields:
+    - generated_at
+    - last_modified_at
+    - last_reviewed
+    - reviewed_at
+    - status_checked_at
+    - last_stamped_at
