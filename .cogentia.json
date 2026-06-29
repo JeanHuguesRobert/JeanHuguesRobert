@@ -407,6 +407,21 @@
       "mandate": "C.O.R.S.I.C.A. public website"
     }
   ],
+  "embeddings": {
+    "default_profile": "openai",
+    "profiles": {
+      "openai": {
+        "provider": "openai",
+        "model_name": "text-embedding-3-small",
+        "dimensions": 1536,
+        "policy": "cogentia-openai-text-embedding-3-small-1536-v1",
+        "credentials": {
+          "env_file": "../inseme/.env",
+          "api_key_env": "OPENAI_API_KEY"
+        }
+      }
+    }
+  },
   "repo_policies": {
     "registre-mariani": {
       "visibility": "private",
