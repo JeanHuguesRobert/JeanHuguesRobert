@@ -5,3 +5,4 @@
 .cogentia/continuations/
 .cogentia/cache/
 .cogentia/index/
+.cogentia/embeddings_result_*.json
