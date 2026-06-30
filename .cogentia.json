@@ -156,6 +156,42 @@
       }
     },
     {
+      "name": "survey",
+      "path": "../survey",
+      "branch": "main",
+      "github": "JeanHuguesRobert/survey",
+      "owner": "JeanHuguesRobert",
+      "owner_kind": "individual",
+      "ownership": "owned",
+      "visibility": "public",
+      "public_presence": "full",
+      "trace_level": "standard",
+      "added": "2026-06-30T11:20:00+02:00",
+      "kind": "legacy_platform",
+      "navigation": {
+        "public_role": "legacy_runtime_for_ophelia",
+        "reader_primary": "agent",
+        "read_priority": 9,
+        "start_here": "README.md",
+        "public_index": "docs/plan-ophelia.md",
+        "site_home": "https://lepp.fr",
+        "canonical_reading_path": [
+          "docs/plan-ophelia.md",
+          "docs/API-OPHELIA.md",
+          "hf-space/README.md"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "inseme",
+          "cogentia"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
+    },
+    {
       "name": "Inox",
       "path": "../Inox",
       "branch": "master",
@@ -299,6 +335,7 @@
           "cogentia",
           "FractaVolta",
           "inseme",
+          "survey",
           "Inox",
           "ubikia",
           "operium"
@@ -431,5 +468,5 @@
     }
   },
   "version": 2,
-  "updated": "2026-06-25T00:00:00.000Z"
+  "updated": "2026-06-30T11:20:00+02:00"
 }
