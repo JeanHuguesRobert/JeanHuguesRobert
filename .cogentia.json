@@ -309,6 +309,46 @@
       }
     },
     {
+      "name": "serra",
+      "path": "../serra",
+      "branch": "main",
+      "github": "JeanHuguesRobert/serra",
+      "owner": "JeanHuguesRobert",
+      "owner_kind": "individual",
+      "ownership": "owned",
+      "visibility": "public",
+      "public_presence": "full",
+      "trace_level": "standard",
+      "added": "2026-07-08T00:00:00+02:00",
+      "kind": "interface_system",
+      "navigation": {
+        "public_role": "ai_mediated_interfaces_and_reactive_dashboards",
+        "reader_primary": "mixed",
+        "read_priority": 10,
+        "start_here": "README.md",
+        "public_index": "docs/public-corpus.md",
+        "site_home": null,
+        "canonical_reading_path": [
+          "README.md",
+          "docs/public-corpus.md",
+          "docs/ARCHITECTURE.md",
+          "docs/FORMULA.md",
+          "docs/ELEMENTS.md",
+          "docs/MCP.md",
+          "docs/NETWORK.md"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "cogentia",
+          "operium"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
+    },
+    {
       "name": "JeanHuguesRobert",
       "path": ".",
       "branch": "main",
@@ -338,7 +378,8 @@
           "survey",
           "Inox",
           "ubikia",
-          "operium"
+          "operium",
+          "serra"
         ],
         "derived_from": [],
         "public_view_of": null,
@@ -468,5 +509,5 @@
     }
   },
   "version": 2,
-  "updated": "2026-06-30T11:20:00+02:00"
+  "updated": "2026-07-08T00:00:00+02:00"
 }
