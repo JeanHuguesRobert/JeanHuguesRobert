@@ -184,6 +184,18 @@ Its method is:
 - and explicitly evolutionary.
 
 Design in the open.
+
+---
+
+## Extended Documentation
+
+The possibilism framework is developed in depth across the corpus:
+
+- **Possibilism: Notes Toward a Research Program** — [Academic paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/possibilism_04_2026.md) covering terrain configuration theory, the correctability thesis, and pathological attractors
+- **Applied Possibilism: The Joyful Exploration of the Possible** — [Practice companion](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/applied_possibilism.md) covering daily practice, digital twins, and stigmergic coordination
+- **Musée Mariani des Possibles** — [Muséological application](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/doctrine_musee_mariani_des_possibles.md) as capacity laboratory
+
+This document provides the condensed doctrinal statement. The linked documents develop the theory, practice, and applications in detail.
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
