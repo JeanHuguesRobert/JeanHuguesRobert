@@ -57,6 +57,60 @@ This is why I favor:
 
 ## The project
 
+### Sun & Inferences
+
+I am a candidate for the French Senate in Haute-Corse in September 2026.
+
+I do not know whether this candidacy can win, and I do not confuse possibility
+with probability. I am running because some possibilities deserve to be
+explored publicly before they can be judged realistic.
+
+**Sun & Inferences** is one of them: using Corsica's solar resource not only to
+produce electricity, but to build locally governed computational capacity and
+transform photons into useful inferences, economic value and greater collective
+autonomy.
+
+```text
+Corsican sun
+    ↓
+locally governed energy
+    ↓
+distributed computing capacity
+    ↓
+useful AI inferences
+    ↓
+economic and cognitive value
+    ↓
+shared benefits for Corsicans
+```
+
+The election is an opportunity to submit this proposal to public scrutiny. It
+gives the work a concrete democratic occasion, a deadline and an audience; it
+does not define its lifespan. Whatever the electoral result, I will continue to
+improve, document and test the proposal.
+
+A candidacy can fail to obtain a seat and still succeed in making a valuable
+future more thinkable, more precise and more achievable.
+
+### What exists now
+
+This is no longer only a collection of papers and prospective projects. It is a
+source-first public corpus whose doctrine, software and operational tools are
+beginning to function as one system:
+
+- **MareNostrum and DHITL** describe the energy, compute and democratic-governance architecture.
+- **FractaVolta, FractaNet and Inox** explore the photon-to-inference and distributed-computing substrate.
+- **Cogentia** maintains the governed corpus, its indexes, continuations and agent-resumable workflows.
+- **Operium** records operational reality: nodes, intended evolutions, health, risks, incidents and decisions.
+- **Inseme and Auxilia** turn store-and-forward and digital hospitality into concrete edge artefacts.
+- **Serra** is a tested but non-production experimental interface for reactive, AI-assisted coordination.
+- **Applied Possibilism** connects the philosophical position to verifiable experiments, public proposals and revisable implementations.
+
+These components have different maturity levels. Some are operational tools,
+some are tested prototypes, and some remain active research. Their unity lies
+not in pretending that they are finished, but in making their claims traceable,
+contestable and progressively testable.
+
 ### Quick Orientation
 
 For navigating the full multi-repository corpus, start with:
@@ -282,7 +336,10 @@ In any progressing society, the perception of residual defects grows faster than
 → [Paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) · [Figures](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html)
 
 **2026 — *Constellia*** *(with Guillermo Valdes)*
-Submitted to ICOME'26, Corte, June 10–12, 2026 — response pending.
+Submitted to ICOME'26, Corte, June 10–12, 2026. No decision notice was received;
+the conference concluded without our participation. The submission is therefore
+treated operationally as not accepted, without claiming that a formal rejection
+was issued.
 → [MareNostrum repository](https://github.com/JeanHuguesRobert/marenostrum)
 
 **2025–2026 — *Democratic Humans in the Loop* (DHITL)**
@@ -305,9 +362,19 @@ Five-layer architecture for democratic AI governance. Introduces the Compute eXe
 
 I am a candidate for the French Senate, Haute-Corse, September 2026.
 
-The campaign is a continuation of the research by other means. The Plan 2038 — two senatorial mandates, a sovereign energy fund for Corsica, a universal basic income funded entirely from Corsican solar assets — is not a political programme bolted onto an intellectual project. It is the same project, finally at the right scale.
+I do not consider victory certain or even probable. The candidacy is a
+Possibilist experiment: a way to explore publicly whether an ambitious proposal
+can become intelligible, discussable and actionable.
 
-The doctrine of the campaign — **autonomie de capacité** — is not a slogan. It claims that a territory increases its autonomy more surely by verifiable experimentations than by waiting for institutional grants. The first such experimentation, the 1755 test, is conducted now, with or without the mandate. That independence is not a tactical concession: it is a logical condition of the thesis.
+The campaign is a continuation of the research by other means. The Plan 2038 — two senatorial mandates, a sovereign energy fund for Corsica, and shared benefits funded from Corsican solar and computational assets — is not a political programme bolted onto an intellectual project. It is the same project, finally tested at the political scale.
+
+Its central proposal is **Sun & Inferences**: treat the Corsican sun as the
+starting point of a democratically governed chain from photons to energy, from
+energy to computation, and from computation to useful inferences. The objective
+is not merely to host data centres or sell electricity. It is to increase what
+Corsicans can collectively afford, understand, decide and build.
+
+The doctrine of the campaign — **autonomie de capacité** — is not a slogan. It claims that a territory increases its autonomy more surely by verifiable experimentations than by waiting for institutional grants. The first such experimentation, the 1755 test, is conducted now, with or without the mandate. Sun & Inferences will likewise continue to be improved regardless of the election result. That independence is not a tactical concession: it is a logical condition of the thesis.
 
 John the Baptist announced what was coming, then stepped aside.
 Brassens said: die for ideas, yes — but slowly.

@@ -151,7 +151,7 @@ When an agent must take a stance "as him," these are the defensible positions. S
 | Commitment | Horizon | Notes for an agent |
 |---|---|---|
 | **Senatorial campaign**, Haute-Corse | **27 September 2026** (Plan 2038, two-mandate strategy) | Apply *autonomie de capacité* as concept. Physical meetings with *grands électeurs* (August, rural communes). No privileged media; *Corse Matin* hostile. Strategy: academic credibility + direct contact, bypass hostile local media. |
-| **ICOME'26 / *Constellia*** (with Guillermo Valdes) | Conference Corte, 10–12 June 2026 | First formal academic step; acceptance was pending. |
+| **ICOME'26 / *Constellia*** (with Guillermo Valdes) | Conference held in Corte, 10–12 June 2026 | No decision notice received; conference concluded without participation; operationally not accepted, with no formal rejection evidenced. |
 | **Academic record** as independent researcher | ongoing | *The Generalized Tocqueville Law* ready; **SSRN posting** is the near-term move (free, citable DOI, dates priority). |
 | **Test #1755** | ongoing, mandate-independent | Source doc `projet_1755.md`; public dashboard `1755.md`. The flagship live application of the thesis. |
 | **Cogentia MVP** | ongoing | Copy-paste workflow, GitHub-Pages target (no server, no storage). PrivAI governance is a prerequisite for any deployment beyond experiment; **PrivAI does not yet exist.** |

@@ -79,7 +79,7 @@ This is why the ecosystem systematically favors:
 
 ## Current Priorities (April 2026)
 
-1. **ICOME'26** — waiting for acceptance of *Constellia* (co-authored with Guillermo Valdes). Conference in Corte, June 10–12, 2026. This is the first formal academic step.
+1. **ICOME'26** — *Constellia* (co-authored with Guillermo Valdes) was submitted, but no decision notice was received. The conference took place in Corte on June 10–12, 2026 without our participation. Treat the submission operationally as not accepted, while preserving the fact that no formal rejection was received.
 
 2. **Academic credibility** — consolidating a publication record as an independent researcher without institutional affiliation. The Tocqueville paper is ready for submission; SSRN posting is the immediate next step (free, creates a citable DOI, dates priority publicly). Target journal: *European Journal of Social Theory* or *Archives européennes de sociologie*.
 
@@ -169,7 +169,7 @@ GitHub Pages active on barons-Mariani: `https://jeanhuguesrobert.github.io/baron
 | Paper | Status | Location |
 |---|---|---|
 | *The Generalized Tocqueville Law* | Ready, not yet submitted | [barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) |
-| *Constellia* (with G. Valdes) | Submitted to ICOME'26, response pending | marenostrum |
+| *Constellia* (with G. Valdes) | Submitted to ICOME'26; no decision notice; conference concluded without participation; operationally not accepted | marenostrum |
 | *DHITL* | Working paper | [marenostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) |
 | *Cogentia Digital Twin* | Position paper | [cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia-digital-twin.md) |
 | *Invidia* | Working paper | [barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/invidia.md) |
