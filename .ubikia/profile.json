@@ -1,0 +1,39 @@
+{
+  "schema": "ubikia.user-profile.v0.1",
+  "account": "JeanHuguesRobert",
+  "displayName": "Jean Hugues Noël Robert",
+  "defaultLanguage": "fr",
+  "instructionFiles": [
+    ".ubikia/instructions.md"
+  ],
+  "audio": {
+    "defaultProvider": "gradium",
+    "voiceReference": "env:GRADIUM_VOICE_ID",
+    "syntheticVoiceDisclosure": "Cette édition audio utilise une voix synthétique personnalisée créée et autorisée par l’auteur.",
+    "defaultFormats": [
+      "mp3",
+      "opus"
+    ]
+  },
+  "series": [
+    {
+      "id": "carnets-baron-mariani-audio",
+      "title": "Les Carnets du baron Mariani — édition audio",
+      "language": "fr",
+      "author": "Jean Hugues Noël Robert",
+      "writtenPlatform": "substack",
+      "audioPlatform": "youtube",
+      "defaultVisibility": "private"
+    }
+  ],
+  "publicationPolicy": {
+    "humanReviewRequired": true,
+    "automaticPublicPublicationAllowed": false,
+    "firstUploadVisibility": "private",
+    "sourceLinkRequired": true,
+    "syntheticVoiceDisclosureRequired": true
+  },
+  "secretReferences": {
+    "gradiumApiKey": "env:GRADIUM_API_KEY"
+  }
+}
