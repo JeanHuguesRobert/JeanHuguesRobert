@@ -1,0 +1,30 @@
+{
+  "schema": "ubikia.derived-product.v0.1",
+  "id": "carnets-baron-mariani-audio/on-nest-jamais-si-bien-servi",
+  "status": "draft_unreviewed",
+  "language": "fr",
+  "form": "spoken_audio_script",
+  "seriesId": "carnets-baron-mariani-audio",
+  "title": "On n’est jamais si bien servi que par soi-même ; demain, cela fera beaucoup de monde",
+  "author": "Jean Hugues Noël Robert",
+  "personaId": "authorial-public-intellectual",
+  "audience": "general_public_cultivated",
+  "platformTargets": ["youtube"],
+  "source": {
+    "repository": "JeanHuguesRobert/barons-Mariani",
+    "path": "research/se_demultiplier_pour_explorer_le_possible_blogpost.md",
+    "ref": "main",
+    "blobSha": "377217a4ead2d949a4ad6453510cb3d6eb897cd5"
+  },
+  "adaptationFile": "spoken.draft.md",
+  "review": {
+    "required": true,
+    "status": "pending"
+  },
+  "publicationPolicy": {
+    "firstUploadVisibility": "private",
+    "automaticPublicPublicationAllowed": false,
+    "sourceLinkRequired": true,
+    "syntheticVoiceDisclosureRequired": true
+  }
+}
