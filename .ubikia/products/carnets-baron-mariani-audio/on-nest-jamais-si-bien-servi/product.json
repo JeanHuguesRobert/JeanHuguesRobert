@@ -1,30 +1,80 @@
 {
-  "schema": "ubikia.derived-product.v0.1",
+  "schema": "ubikia.derived-product.v0.2",
   "id": "carnets-baron-mariani-audio/on-nest-jamais-si-bien-servi",
-  "status": "draft_unreviewed",
+  "status": "published",
   "language": "fr",
-  "form": "spoken_audio_script",
+  "form": "youtube_audio_essay",
   "seriesId": "carnets-baron-mariani-audio",
   "title": "On n’est jamais si bien servi que par soi-même ; demain, cela fera beaucoup de monde",
   "author": "Jean Hugues Noël Robert",
   "personaId": "authorial-public-intellectual",
   "audience": "general_public_cultivated",
-  "platformTargets": ["youtube"],
+  "platformTargets": [
+    "youtube"
+  ],
   "source": {
     "repository": "JeanHuguesRobert/barons-Mariani",
     "path": "research/se_demultiplier_pour_explorer_le_possible_blogpost.md",
     "ref": "main",
     "blobSha": "377217a4ead2d949a4ad6453510cb3d6eb897cd5"
   },
-  "adaptationFile": "spoken.draft.md",
+  "adaptationFile": "spoken.reviewed.md",
   "review": {
     "required": true,
-    "status": "pending"
+    "status": "approved",
+    "reviewer": "Jean Hugues Noël Robert",
+    "reviewedAt": "2026-07-14T04:14:42.670Z",
+    "spokenSha256": "298ec65d8b5e99330a969afa66e530449be6d1f9a2768b4156aeefa9b2f025b1"
+  },
+  "outputs": {
+    "durationSeconds": 869.92,
+    "audio": [
+      {
+        "filename": "on-nest-jamais-si-bien-servi.wav",
+        "bytes": 83512398,
+        "sha256": "db72d20e34272fe6a8bd359e10c158ad12368e8a956a7cad9906c227bf4280f1"
+      },
+      {
+        "filename": "on-nest-jamais-si-bien-servi.mp3",
+        "bytes": 13919660,
+        "sha256": "241cd7d0ba1b4cb6fa8542213cf57fc031fa479b4349773628daf394d8001945"
+      },
+      {
+        "filename": "on-nest-jamais-si-bien-servi.opus",
+        "bytes": 6909849,
+        "sha256": "acdb66fd0b762f0f184db2349f5d911df7a73e05fd4701b83b0b07acec6084e6"
+      }
+    ],
+    "youtubeVideo": {
+      "filename": "on-nest-jamais-si-bien-servi.youtube.mp4",
+      "bytes": 131454171,
+      "width": 1920,
+      "height": 1080,
+      "frameRate": 30,
+      "sha256": "7be96b20a335f0cb23819f28c2bf99172f0f11643efe740c27a17d7a52bbea65"
+    }
   },
   "publicationPolicy": {
-    "firstUploadVisibility": "private",
+    "defaultFirstUploadVisibility": "private",
     "automaticPublicPublicationAllowed": false,
     "sourceLinkRequired": true,
     "syntheticVoiceDisclosureRequired": true
+  },
+  "publicationDecision": {
+    "visibility": "public",
+    "decidedBy": "Jean Hugues Noël Robert",
+    "rationale": "design_in_the_open_low_risk",
+    "automaticPublication": false
+  },
+  "publication": {
+    "platform": "youtube",
+    "status": "published",
+    "url": "https://youtu.be/mjdHmPvNmB0",
+    "videoId": "mjdHmPvNmB0",
+    "visibility": "public",
+    "publishedAtDate": "2026-07-14",
+    "confirmedBy": "Jean Hugues Noël Robert",
+    "evidence": "human_confirmation",
+    "remoteVerification": "not_performed"
   }
 }
