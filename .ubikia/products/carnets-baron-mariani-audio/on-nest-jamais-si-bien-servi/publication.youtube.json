@@ -1,0 +1,29 @@
+{
+  "schema": "ubikia.youtube-publication-result.v0.1",
+  "platform": "youtube",
+  "status": "published",
+  "url": "https://youtu.be/mjdHmPvNmB0",
+  "canonicalUrl": "https://www.youtube.com/watch?v=mjdHmPvNmB0",
+  "videoId": "mjdHmPvNmB0",
+  "visibility": "public",
+  "publishedAtDate": "2026-07-14",
+  "recordedBy": "Jean Hugues Noël Robert",
+  "evidence": {
+    "type": "human_confirmation",
+    "remoteVerification": "not_performed"
+  },
+  "source": {
+    "repository": "JeanHuguesRobert/barons-Mariani",
+    "path": "research/se_demultiplier_pour_explorer_le_possible_blogpost.md",
+    "blobSha": "377217a4ead2d949a4ad6453510cb3d6eb897cd5"
+  },
+  "reviewedTranscript": {
+    "filename": "spoken.reviewed.md",
+    "sha256": "298ec65d8b5e99330a969afa66e530449be6d1f9a2768b4156aeefa9b2f025b1"
+  },
+  "video": {
+    "filename": "on-nest-jamais-si-bien-servi.youtube.mp4",
+    "bytes": 131454171,
+    "sha256": "7be96b20a335f0cb23819f28c2bf99172f0f11643efe740c27a17d7a52bbea65"
+  }
+}
