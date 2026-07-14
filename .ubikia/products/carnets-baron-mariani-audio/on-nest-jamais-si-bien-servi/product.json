@@ -24,7 +24,8 @@
     "status": "approved",
     "reviewer": "Jean Hugues Noël Robert",
     "reviewedAt": "2026-07-14T04:14:42.670Z",
-    "spokenSha256": "298ec65d8b5e99330a969afa66e530449be6d1f9a2768b4156aeefa9b2f025b1"
+    "spokenSha256": "298ec65d8b5e99330a969afa66e530449be6d1f9a2768b4156aeefa9b2f025b1",
+    "publicTranscriptBlobSha": "0d9c88729b5439a9ae73307b762233f373981d6f"
   },
   "outputs": {
     "durationSeconds": 869.92,
@@ -70,9 +71,10 @@
     "platform": "youtube",
     "status": "published",
     "url": "https://youtu.be/mjdHmPvNmB0",
+    "canonicalUrl": "https://www.youtube.com/watch?v=mjdHmPvNmB0",
     "videoId": "mjdHmPvNmB0",
     "visibility": "public",
-    "publishedAtDate": "2026-07-14",
+    "publishedAt": "2026-07-14T07:21:39.206Z",
     "confirmedBy": "Jean Hugues Noël Robert",
     "evidence": "human_confirmation",
     "remoteVerification": "not_performed"
