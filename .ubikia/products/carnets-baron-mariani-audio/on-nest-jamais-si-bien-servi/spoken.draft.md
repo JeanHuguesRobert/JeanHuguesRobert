@@ -7,7 +7,7 @@ derivation_mode: directed
 adaptation_context: first Ubikia audio production for the author's YouTube channel, adapted from a Substack blog post
 publication_target: YouTube
 source_publication: Substack blog post
-source_reference: https://jeanhugues.substack.com (article URL pending)
+source_reference: https://open.substack.com/pub/jeanhugues/p/on-nest-jamais-si-bien-servi-que
 product_stage: draft
 document_kind: documentation
 visibility: public
