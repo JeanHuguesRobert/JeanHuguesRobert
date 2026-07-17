@@ -1,3 +1,23 @@
+---
+title: Ubikia instructions — Jean Hugues Noël Robert
+author: unknown
+date: '2026-07-13'
+document_role: source
+document_kind: documentation
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/JeanHuguesRobert
+  origin_ref: 22e2d69
+  origin_date: '2026-07-13'
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 # Ubikia instructions — Jean Hugues Noël Robert
 
 ## Status
