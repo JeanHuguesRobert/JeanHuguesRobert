@@ -7,7 +7,7 @@ derivation_mode: directed
 adaptation_context: first Ubikia audio production for the author's YouTube channel, adapted from a Substack blog post
 publication_target: YouTube
 source_publication: Substack blog post
-source_reference: URL-pending
+source_reference: https://jeanhugues.substack.com (article URL pending)
 product_stage: draft
 document_kind: documentation
 visibility: public
@@ -18,7 +18,8 @@ provenance:
   origin_repository: JeanHuguesRobert/JeanHuguesRobert
   origin_ref: 536c87e
   origin_date: '2026-07-14'
-  derived_from: []
+  derived_from:
+    - https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/se_demultiplier_pour_explorer_le_possible_blogpost.md
 review:
   status: unreviewed
   reviewed_by: []
