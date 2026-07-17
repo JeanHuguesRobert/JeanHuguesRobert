@@ -1,3 +1,23 @@
+---
+title: 01-ouverture-et-corpus
+author: unknown
+date: '2026-07-14'
+document_role: adapted
+document_kind: documentation
+visibility: public
+lifecycle_state: working
+update_policy: UP-DERIVED-SOURCE-LOCKED
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/JeanHuguesRobert
+  origin_ref: be24407
+  origin_date: '2026-07-14'
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 Vous écoutez Les Carnets du baron Mariani, édition audio.
 
 Cette édition utilise une voix synthétique personnalisée, créée et autorisée par l’auteur.
