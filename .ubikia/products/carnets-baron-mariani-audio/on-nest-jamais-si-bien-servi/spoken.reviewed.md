@@ -4,7 +4,10 @@ author: unknown
 date: '2026-07-14'
 document_role: adapted
 derivation_mode: directed
-adaptation_context: audio edition of the Carnets du baron Mariani for spoken delivery
+adaptation_context: first Ubikia audio production for the author's YouTube channel, adapted from a Substack blog post
+publication_target: YouTube
+source_publication: Substack blog post
+source_reference: URL-pending
 product_stage: reviewed
 document_kind: documentation
 visibility: public
