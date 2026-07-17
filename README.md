@@ -1,3 +1,23 @@
+---
+title: Jean Hugues Noël Robert, baron Mariani
+author: unknown
+date: '2026-07-12'
+document_role: source
+document_kind: documentation
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/JeanHuguesRobert
+  origin_ref: b70661f
+  origin_date: '2026-07-12'
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 # Jean Hugues Noël Robert, baron Mariani
 
 *Independent researcher · Entrepreneur · Possibilist*
