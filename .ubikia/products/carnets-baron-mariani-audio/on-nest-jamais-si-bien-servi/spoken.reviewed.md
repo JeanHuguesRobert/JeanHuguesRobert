@@ -3,6 +3,9 @@ title: spoken.reviewed
 author: unknown
 date: '2026-07-14'
 document_role: adapted
+derivation_mode: directed
+adaptation_context: audio edition of the Carnets du baron Mariani for spoken delivery
+product_stage: reviewed
 document_kind: documentation
 visibility: public
 lifecycle_state: working
