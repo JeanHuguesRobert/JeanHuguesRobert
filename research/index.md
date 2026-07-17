@@ -1,22 +1,33 @@
 ---
-title: "Research Index — Jean Hugues Noël Robert (Profile / Entry Point)"
-description: "The profile repository — entry point and meta-node to the public Cogentia corpus; home of the registry and of the briefings that orient human and AI collaborators."
+title: Research Index — Jean Hugues Noël Robert (Profile / Entry Point)
+description: The profile repository — entry point and meta-node to the public Cogentia corpus; home of the registry and of the briefings that orient human and AI collaborators.
 layout: default
 nav_order: 1
-last_modified_at: 2026-06-18
+last_modified_at: 2026-06-18T00:00:00.000Z
 license: CC BY 4.0
 affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-date: 2026-05-28
+date: 2026-05-28T00:00:00.000Z
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/index.md
-document_role: "index"
-document_kind: "research-index"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-index"
-classification_confidence: "strong"
+document_role: index
+document_kind: research-index
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-index
+classification_confidence: strong
+author: unknown
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+update_policy: UP-DEFAULT-REVIEWED
 ---
 
 # Research Index — Jean Hugues Noël Robert (Profile / Entry Point)
