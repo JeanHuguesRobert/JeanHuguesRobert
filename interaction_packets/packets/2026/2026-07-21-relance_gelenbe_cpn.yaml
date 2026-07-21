@@ -4,12 +4,12 @@
 
 id: "2026-07-21-002"
 type: "interaction_packet"
-status: "prepared"
+status: "active"
 created: "2026-07-21"
 last_updated: "2026-07-21"
 disclosure: "D3"
 
-date_envoi: ""  # à renseigner à l'envoi
+date_envoi: "2026-07-21"
 date_reponse: ""
 canal: "email (Gmail)"
 interlocuteur: "Erol Gelenbe / IITiS-PAN (Institut d'informatique théorique et appliquée, Académie polonaise des sciences)"
@@ -73,7 +73,10 @@ timeline:
       auto-publiée. Envoi conditionné à la vérification du silence sur le canal du premier
       contact (boîte institutionnelle et/ou messagerie LinkedIn).
     status: "prepared"
-  # - date: ""  # renseigner à l'envoi : direction outbound, event "Envoi", status "sent"
+  - date: "2026-07-21"
+    direction: "outbound"
+    event: "Envoi"
+    status: "sent"
 
 documents:
   article:
