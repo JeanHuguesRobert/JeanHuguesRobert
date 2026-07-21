@@ -67,7 +67,10 @@ timeline:
       Antimatter » (retrouvailles + angle professionnel explicite). Affiliation Inria
       Sophia vérifiée (GitHub, équipe DIANA, R2lab, MOOC Python).
     status: "prepared"
-  # - date: ""  # renseigner à l'envoi : direction outbound, event "Envoi", status "sent"
+  - date: "2026-07-21"  
+  direction: "outbound"
+  event: "Envoi"
+  status: "sent"
 
 documents:
   article:
