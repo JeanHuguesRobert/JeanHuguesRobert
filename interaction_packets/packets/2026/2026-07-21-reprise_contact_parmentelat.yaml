@@ -1,0 +1,97 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Schéma de référence : interaction_packets/archive_policy.md
+
+id: "2026-07-21-001"
+type: "interaction_packet"
+status: "prepared"
+created: "2026-07-21"
+last_updated: "2026-07-21"
+disclosure: "D2"
+
+date_envoi: ""  # à renseigner à l'envoi
+date_reponse: ""
+canal: "email"
+interlocuteur: "Thierry Parmentelat / Inria Sophia Antipolis (équipe DIANA)"
+sujet: "Reprise de contact après 25 ans — article « When Cognition Became Traffic » (Odisei 1999) et pont vers Antimatter/CUPSELI"
+niveau_divulgation: "D2"
+verifie_le: "2026-07-21"
+
+title: "Reprise de contact Thierry Parmentelat / Inria"
+short_title: "Reprise contact Parmentelat — Odisei 1999 / Antimatter"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "Chercheur indépendant, Institut Mariani"
+  affiliation:
+    - "Institut Mariani"
+    - "C.O.R.S.I.C.A."
+
+institution:
+  name: "Inria"
+  body: "Centre Inria d'Université Côte d'Azur, Sophia Antipolis"
+  country: "France"
+
+contacts:
+  primary_request_recipient:
+    name: "Thierry Parmentelat"
+    role: "Ingénieur de recherche Inria"
+  note: "Adresse non reproduite dans ce paquet public D2 (format institutionnel standard, vérifiée sur l'annuaire avant envoi)."
+
+subject_tags:
+  - "Odisei / VoIP / PBX hébergé (1999-2001)"
+  - "When Cognition Became Traffic"
+  - "Paquets cognitifs"
+  - "CUPSELI / Hivenet / Antimatter"
+  - "Orchestration cognitive au-dessus du calcul distribué"
+
+contexte: >
+  Thierry Parmentelat, embauché par Jean Hugues Robert chez Odisei à la fin des années 1990,
+  est cité nommément dans l'article « When Cognition Became Traffic » (§2.1, scène primitive
+  de 1999, et remerciements). L'article, publié le 2026-07-21, discute explicitement le défi
+  CUPSELI d'Inria avec Hivenet (désormais Antimatter) et situe une couche « orchestration
+  cognitive » au-dessus de ces substrats de calcul distribué.
+
+demande: >
+  Reprise de contact personnelle ; information de la citation nominative ; suggestion de
+  transmission de l'article aux collègues Inria travaillant sur la pile Antimatter/CUPSELI,
+  sans demande formelle.
+
+timeline:
+  - date: "2026-07-21"
+    direction: "outbound"
+    channel: "email"
+    event: "Préparation du message (deux variantes stratégiques)"
+    summary: >
+      Deux variantes rédigées : « Retrouvailles d'abord » (personnelle) et « Le pont
+      Antimatter » (retrouvailles + angle professionnel explicite). Affiliation Inria
+      Sophia vérifiée (GitHub, équipe DIANA, R2lab, MOOC Python).
+    status: "prepared"
+  # - date: ""  # renseigner à l'envoi : direction outbound, event "Envoi", status "sent"
+
+documents:
+  article:
+    repository: "JeanHuguesRobert/FractaVolta"
+    path: "research/when_cognition_became_traffic.md"
+    url: "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/when_cognition_became_traffic.md"
+
+statut: "brouillon prêt (deux variantes) ; envoi imminent après vérification de l'adresse sur l'annuaire Inria"
+resume_public: >
+  Reprise de contact préparée le 2026-07-21 avec Thierry Parmentelat (Inria Sophia Antipolis),
+  ancien collègue d'Odisei cité nommément dans « When Cognition Became Traffic ». Le message
+  l'informe de la citation et suggère la transmission de l'article aux équipes Inria
+  travaillant avec Antimatter (défi CUPSELI). Contenu non publié (D2) : correspondance
+  personnelle.
+
+next_watch:
+  - "Envoi effectif (mettre à jour date_envoi, timeline, statut)"
+  - "Réponse éventuelle"
+  - "Transmission éventuelle aux équipes CUPSELI/Antimatter"
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: >
+    Vérification d'affiliation, rédaction des variantes et inscription au registre assistées
+    par IA (Claude), sous arbitrage et responsabilité exclusifs de Jean Hugues Noël Robert.
