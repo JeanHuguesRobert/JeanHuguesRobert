@@ -3,7 +3,7 @@ title: "Public Corpus Navigation"
 description: "Compact public navigation map for the corpus, derived from registry metadata."
 layout: default
 nav_order: 2
-date: 2026-06-25
+date: 2026-07-23
 license: CC BY 4.0
 document_role: index
 document_kind: navigation
@@ -24,32 +24,47 @@ It is derived from the registry metadata in [`.cogentia.json`](../.cogentia.json
 
 what should a human, an agent, or a site visitor open first?
 
+## Live surface (generated views)
+
+Before diving into GitHub trees, the **public published state** of the corpus is browsable here:
+
+| Surface | URL | For |
+|---------|-----|-----|
+| **Views Store** | https://cogentia.fractavolta.com/ | Humans & agents — tag browser over generated views (issues, continuations, indexes, concepts, env samples, corpus-state) |
+| Views API docs | https://cogentia.fractavolta.com/docs | Machines — list/filter contract |
+| Example: open issues | https://cogentia.fractavolta.com/views/current-issues-list.md | Operational “open work” aggregate |
+
+Source repositories remain the authority for doctrine and code; the Views Store is the **export surface**, not a second source of truth.
+
 ## Reading paths
 
 ### Human reader
 
-1. [Corpus Start Here — Carte globale du Corpus](corpus-map.md)
-2. [Research Index — Jean Hugues Noël Robert](index.md)
-3. [README](../README.md)
-4. [Cogentia Commons Living Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_living_corpus.md)
-5. [Discours de la seconde méthode](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md)
-6. [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
-7. [COGENTIA.md](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md)
+1. **[Views Store](https://cogentia.fractavolta.com/)** — what is published *now*
+2. [Corpus Start Here — Carte globale du Corpus](corpus-map.md)
+3. [Research Index — Jean Hugues Noël Robert](index.md)
+4. [README](../README.md)
+5. [Cogentia Commons Living Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_living_corpus.md)
+6. [Discours de la seconde méthode](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md)
+7. [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
+8. [COGENTIA.md](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md)
 
 ### Agent reader
 
-1. [Research Index — Jean Hugues Noël Robert](index.md)
-2. [Cogentia Commons Living Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_living_corpus.md)
-3. [Agent-Resumable CLI](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/agent_resumable_cli.md)
-4. [cogentia.js tutorial](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_js_tutorial.md)
-5. [Corpus Status](corpus-status.md)
+1. **[Views Store](https://cogentia.fractavolta.com/)** + [API docs](https://cogentia.fractavolta.com/docs) — published operational views
+2. [Research Index — Jean Hugues Noël Robert](index.md)
+3. [Cogentia Commons Living Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_living_corpus.md)
+4. [Agent-Resumable CLI](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/agent_resumable_cli.md)
+5. [cogentia.js tutorial](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_js_tutorial.md)
+6. [Corpus Status](corpus-status.md)
 
 ### Site visitor
 
-1. [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta)
-2. [FractaVolta research index](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)
-3. [Packetized Gravity Networks (PGN)](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/PGN.md)
-4. [Public / private split](https://github.com/JeanHuguesRobert/operium/blob/main/docs/public-private-split.md)
+1. **[Views Store](https://cogentia.fractavolta.com/)** — corpus export browser (no Git clone required)
+2. [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta) / [fractavolta.com](https://fractavolta.com/)
+3. [FractaVolta research index](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)
+4. [Packetized Gravity Networks (PGN)](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/PGN.md)
+5. [Public / private split](https://github.com/JeanHuguesRobert/operium/blob/main/docs/public-private-split.md)
 
 ## Ranked entry points
 
@@ -68,6 +83,8 @@ what should a human, an agent, or a site visitor open first?
 
 ## Notes
 
+- The **Views Store** is the preferred entry for *generated* operational state; GitHub remains the entry for *source* documents and code.
 - `registre-mariani` is intentionally only a structural stub in public navigation.
 - The site-facing path for FractaVolta remains the GitHub repo and its site surface; the registry only says where the public reader should begin.
+- `StructEnv` is registered tooling with a planned revival; it is not yet a ranked reading path.
 - This page is a navigation layer, not a doctrinal source.

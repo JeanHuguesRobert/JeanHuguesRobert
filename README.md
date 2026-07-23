@@ -1,7 +1,7 @@
 ---
 title: Jean Hugues Noël Robert, baron Mariani
 author: unknown
-date: '2026-07-12'
+date: '2026-07-23'
 document_role: source
 document_kind: documentation
 visibility: public
@@ -121,9 +121,11 @@ beginning to function as one system:
 - **MareNostrum and DHITL** describe the energy, compute and democratic-governance architecture.
 - **FractaVolta, FractaNet and Inox** explore the photon-to-inference and distributed-computing substrate.
 - **Cogentia** maintains the governed corpus, its indexes, continuations and agent-resumable workflows.
+- **[Views Store](https://cogentia.fractavolta.com/)** is the public, browsable surface of **generated corpus views** (issues, continuations, indexes, concepts, package samples, operational state) — the live window over what Cogentia publishes.
 - **Operium** records operational reality: nodes, intended evolutions, health, risks, incidents and decisions.
 - **Inseme and Auxilia** turn store-and-forward and digital hospitality into concrete edge artefacts.
 - **Serra** is a tested but non-production experimental interface for reactive, AI-assisted coordination.
+- **StructEnv** (revival planned) is a structured dotenv/config format for contracts-as-data, complementary to JSON and YAML.
 - **Applied Possibilism** connects the philosophical position to verifiable experiments, public proposals and revisable implementations.
 
 These components have different maturity levels. Some are operational tools,
@@ -133,14 +135,20 @@ contestable and progressively testable.
 
 ### Quick Orientation
 
-For navigating the full multi-repository corpus, start with:
+| Surface | Role |
+|---------|------|
+| **[Views Store](https://cogentia.fractavolta.com/)** | **Public live browser** of generated views (tag filter, open issues, continuations, repo indexes). Prefer this for “what is published right now.” |
+| [API /docs](https://cogentia.fractavolta.com/docs) | Machine-readable contract of the Views Store |
+| [Corpus map](./research/corpus-map.md) | Top-level multi-repo map (humans + agents) |
+| [Public navigation](./research/public-navigation.md) | Short ranked entry map |
 
-- [Corpus Start Here — Carte globale du Corpus](./research/corpus-map.md) — top-level map for human readers and AI agents
-- [Public Corpus Navigation](./research/public-navigation.md) — short ranked entry map for humans, agents, and site visitors
+For navigating the full multi-repository corpus, also use:
+
 - [research/index.md](./research/index.md) — generated document catalog for this repository
 - [research/corpus-status.md](./research/corpus-status.md) — generated status, backlinks, and navigation checks
 - [POSSIBILISM.md](./POSSIBILISM.md) — shortest statement of the philosophical invariant
 - [Personal Intent Kernel](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/identity/INTENT_KERNEL.md) — operational personal intent kernel for human collaborators and AI agents
+- [GitHub profile](https://github.com/JeanHuguesRobert) — source repositories
 
 This ecosystem combines:
 - distributed systems engineering,
@@ -184,7 +192,8 @@ Each project addresses the same civilizational problem at a different layer:
 | Inox | uncapturable computational substrate |
 | Patent US7606221B2 | decentralized network discovery |
 | VIGILIA | distributed territorial sensing |
-| Cogentia | personal cognitive sovereignty |
+| Cogentia | personal cognitive sovereignty + corpus tooling |
+| **[Views Store](https://cogentia.fractavolta.com/)** | **public published views** of the corpus (issues, continuations, indexes, state) |
 | DHITL | democratic AI governance |
 | MareNostrum | energy and compute sovereignty |
 | FractaVolta | distributed photon-to-inference infrastructure |
@@ -192,6 +201,7 @@ Each project addresses the same civilizational problem at a different layer:
 | Fondation Barons Mariani | transmissible cultural memory |
 | Ubikia | source-first editorial derivation and publication traceability |
 | Operium | versioned operational environment registry: current state, intended evolutions, health, risks, dependencies, incidents and decisions; Operia is only the future assistant layer, not the authority |
+| StructEnv | structured configuration format (dotenv meets JSON); revival planned |
 
 The social science research is not separate from this — it is the **diagnostic that makes the architecture necessary**:
 

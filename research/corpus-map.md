@@ -34,11 +34,21 @@ Cette page répond à quatre questions pratiques :
 3. **Que peut faire un agent IA ?** Naviguer, proposer, structurer, vérifier et préparer ; ne pas décider à la place de l'auteur.
 4. **Qu'est-ce qui est public ou privé ?** Le corpus public est navigable ; les registres privés ne doivent apparaître publiquement que sous forme de stubs ou de références structurelles.
 
+## Surface publique des vues générées
+
+Pour voir **ce qui est publié maintenant** (issues ouvertes, continuations, index, concepts, état du corpus), sans cloner les dépôts :
+
+- **[Views Store](https://cogentia.fractavolta.com/)** — navigateur à tags des vues générées par Cogentia  
+- [Documentation / API](https://cogentia.fractavolta.com/docs)  
+- Exemple : [current-issues-list](https://cogentia.fractavolta.com/views/current-issues-list.md)
+
+Les dépôts Git restent la source doctrinale et le code ; le Views Store est la **surface d'export** opérationnelle.
+
 ## Lecture en trente minutes
 
 Pour comprendre l'ensemble sans se perdre :
 
-1. Lire cette carte.
+1. Lire cette carte (et ouvrir le [Views Store](https://cogentia.fractavolta.com/) pour l'état publié).
 2. Lire [Public Corpus Navigation](public-navigation.md) pour obtenir un ordre de lecture plus court et plus explicite.
 3. Lire le [README du profil](../README.md) pour l'identité publique, le fil historique et l'intuition générale.
 4. Lire [Cogentia Commons Living Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_living_corpus.md) pour le comportement attendu du corpus vivant.
@@ -56,6 +66,7 @@ Pour comprendre l'ensemble sans se perdre :
 | [marenostrum](https://github.com/JeanHuguesRobert/marenostrum) | Souveraineté énergétique, compute, DHITL | comprendre l'axiome démocratique et l'infrastructure de gouvernance |
 | [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta) | Photon-to-inference, PGN, EPN/IPN | comprendre la couche physique et distribuée de l'inférence |
 | [cogentia](https://github.com/JeanHuguesRobert/cogentia) | Outillage, pipeline, continuations, mémoire opérationnelle | naviguer, vérifier, consolider, reprendre un travail agentique |
+| **[Views Store](https://cogentia.fractavolta.com/)** *(export Cogentia)* | Vues générées publiques (issues, continuations, index, état) | voir l'état publié sans cloner ; API pour agents |
 | [inseme](https://github.com/JeanHuguesRobert/inseme) | Plateforme civique, COP runtime, briques | comprendre la mise en artefact logiciel et multi-instance |
 | [Inox](https://github.com/JeanHuguesRobert/Inox) | Langage et runtime distribués | comprendre le substrat d'exécution envisagé pour Fractanet |
 | [ubikia](https://github.com/JeanHuguesRobert/ubikia) | Dérivation éditoriale source-first, publication, personas, ledger | comprendre comment un corpus source devient produit situé sans perdre la provenance |

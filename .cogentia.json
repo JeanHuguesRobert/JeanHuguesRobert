@@ -27,7 +27,8 @@
           "marenostrum",
           "FractaVolta",
           "inseme",
-          "ubikia"
+          "ubikia",
+          "StructEnv"
         ],
         "derived_from": [],
         "public_view_of": null,
@@ -379,7 +380,8 @@
           "Inox",
           "ubikia",
           "operium",
-          "serra"
+          "serra",
+          "StructEnv"
         ],
         "derived_from": [],
         "public_view_of": null,
@@ -483,6 +485,44 @@
       "trace_level": "standard",
       "added": "2026-06-19T10:46:47.400Z",
       "mandate": "C.O.R.S.I.C.A. public website"
+    },
+    {
+      "name": "StructEnv",
+      "path": "../StructEnv",
+      "branch": "main",
+      "github": "JeanHuguesRobert/StructEnv",
+      "owner": "JeanHuguesRobert",
+      "owner_kind": "individual",
+      "ownership": "owned",
+      "visibility": "public",
+      "public_presence": "full",
+      "trace_level": "standard",
+      "added": "2026-07-23T16:48:41.392Z",
+      "kind": "tooling",
+      "navigation": {
+        "public_role": "structured_config_format_revival",
+        "reader_primary": "agent",
+        "read_priority": 11,
+        "start_here": "revival.md",
+        "public_index": null,
+        "site_home": null,
+        "canonical_reading_path": [
+          "revival.md",
+          "README.md",
+          "src/structenv.js",
+          "test/structenv.test.js",
+          ".env"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "cogentia"
+        ],
+        "derived_from": [],
+        "public_view_of": null,
+        "contains_private_registry": false
+      },
+      "lifecycle_state": "revival_planned"
     }
   ],
   "embeddings": {
@@ -509,5 +549,5 @@
     }
   },
   "version": 2,
-  "updated": "2026-07-08T00:00:00+02:00"
+  "updated": "2026-07-23T16:52:08.834Z"
 }
