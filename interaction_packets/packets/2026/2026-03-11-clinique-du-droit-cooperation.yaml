@@ -1,0 +1,123 @@
+# Paquet interactionnel — Clinique du droit / Université de Corse
+
+id: "2026-03-11-001"
+type: "interaction_packet"
+status: "active"
+created: "2026-03-11"
+last_updated: "2026-07-27"
+disclosure: "D3"
+
+date_envoi: "2026-04-08"
+canal: "rencontre, email, relance orale"
+interlocuteur: "Anne-Marie Luciani / Clinique du droit, Université de Corse"
+sujet: "Proposition de coopération autour d’un cas juridique documenté"
+niveau_divulgation: "D3"
+verifie_le: "2026-07-27"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  roles:
+    - "personne physique"
+    - "président de C.O.R.S.I.C.A."
+    - "fondateur de l’Institut Mariani"
+    - "porteur de la préfiguration du Fonds de dotation Barons Mariani"
+
+institution:
+  name: "Université de Corse Pasquale Paoli"
+  body: "Clinique du droit / Faculté de droit et de science politique"
+
+timeline:
+  - date: "2026-03-11"
+    direction: "in-person"
+    channel: "rencontre"
+    event: "Présentation à la Clinique du droit"
+    summary: >
+      Jean Hugues Noël Robert rencontre Anne-Marie Luciani dans les locaux de
+      l'Université de Corse, ainsi qu'une partie des étudiants participant à la
+      Clinique du droit. Un projet de coopération est évoqué.
+
+  - date: "2026-04-08"
+    time: "08:14"
+    direction: "outbound"
+    channel: "email"
+    event: "Proposition de coopération"
+    summary: >
+      Courriel adressé à Anne-Marie Luciani pour proposer une coopération autour
+      d'un testament cognitif, de la préfiguration du Fonds de dotation Barons
+      Mariani et du statut juridique d'un jumeau numérique. L'email est conservé
+      comme source privée ; une synthèse de son objet est publiée ici.
+    status: "sent"
+
+  - date: "2026-04-30"
+    direction: "in-person"
+    channel: "rencontre"
+    event: "Rappel oral"
+    summary: >
+      Rappel oral de l'email et de la proposition à l'issue du colloque EMRJ
+      « Les métamorphoses récentes du droit privé » à Corte. Aucun suivi concret
+      n'est constaté à la suite de cet échange.
+
+  - date: "2026-07-27"
+    time: "11:22"
+    direction: "outbound"
+    channel: "email"
+    event: "Mise à jour et relance"
+    summary: >
+      Envoi d'un message présentant le document public « La personne numérique
+      mandatée » et proposant de délimiter une première question de recherche.
+      Institut Mariani mis en copie pour archive.
+    status: "sent"
+
+private_related_material:
+  status: "not published"
+  summary: >
+    Une transmission distincte d'éléments patrimoniaux relatifs au futur Fonds
+    de dotation Barons Mariani est conservée dans le registre privé. Son contenu
+    n'est pas reproduit dans le présent paquet public.
+
+documents:
+  public_working_paper:
+    title: "La personne numérique mandatée"
+    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/personne_numerique_mandatee.md"
+  university_saps_presentation:
+    title: "Université de Corse — Présentation Science Société"
+    url: "https://sciencesociete.universita.corsica/article.php?id_art=5755&id_site=71&lang=fr"
+  university_saps_du:
+    title: "DU Être un acteur des Sciences Avec et Pour la Société"
+    url: "https://inspe.universita.corsica/plugins/actu/actu-front.php?id=11211&id_site=32"
+
+current_status:
+  label: "Deux courriels envoyés, rappel oral effectué ; aucune réponse écrite détectée au 2026-07-27"
+  details:
+    - "La proposition de coopération reste ouverte."
+    - "Aucune réponse écrite à cette proposition n'a été détectée dans Gmail au 2026-07-27."
+    - "Le cas est suivi comme une difficulté pratique de coopération, non comme une preuve d'intention institutionnelle."
+
+interpretation:
+  level: "personal-observation, cautious"
+  text: >
+    L'Université de Corse présente publiquement une stratégie « Sciences Avec et
+    Pour la Société », un dialogue renforcé entre sciences, recherche et société,
+    ainsi qu'une approche inclusive et participative associant scientifiques et
+    citoyens. Dans ce cas précis, Jean Hugues Robert constate qu'une proposition
+    de coopération documentée n'a reçu aucune réponse écrite après deux courriels
+    et un rappel oral. Ce décalage interroge la mise en pratique de ces orientations
+    pour des initiatives externes à l'Université. Il ne permet pas, à lui seul,
+    d'attribuer une intention à l'institution ni de conclure sur l'ensemble de ses
+    pratiques.
+
+related_public_case:
+  id: "2026-05-04-001"
+  title: "Session MareNostrum — Université de Corse"
+  note: >
+    Ce cas distinct a reçu une réponse négative explicite. Il est conservé séparément
+    afin de ne pas confondre refus exprimé et absence de réponse.
+
+next_watch:
+  - "Réponse écrite ou proposition de rendez-vous"
+  - "Retour à la rentrée universitaire 2026"
+  - "Possibilité d'un travail délimité par la Clinique du droit"
+
+copies:
+  lisible: "../../readable/2026/2026-03-11-clinique-du-droit-cooperation.md"
+  brute_masquee: null
