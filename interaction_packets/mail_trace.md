@@ -26,7 +26,7 @@ classification_confidence: "strong"
 | 2026-05-25-001 | 2026-05-25 | Autonomie de capacité — contribution Commission des Lois | Florent Boudié / Commission des Lois | 0 | 4 | Contribution transmise ; représentants corses informés ; archive Institut Mariani effectuée | D2 |
 | 2026-07-21-001 | 2026-07-21 | Reprise de contact — « When Cognition Became Traffic » (Odisei 1999, pont Antimatter/CUPSELI) | Thierry Parmentelat / Inria Sophia Antipolis | 0 | 0 | Brouillon prêt (2 variantes) ; envoi imminent | D2 |
 | 2026-07-21-002 | 2026-07-21 | Relance CPN 1999 inversé — invitation « hop humain décorrélé » (CPKT-2026-001) | Erol Gelenbe / IITiS-PAN | 1 | 0 | Brouillon Gmail déposé ; envoi après vérification du silence sur premier canal | D3 |
-<!-- BEGIN_AUTO: backlinks -->
+| 2026-03-11-001 | 2026-03-11 | Clinique du droit — proposition de coopération et relances | Université de Corse / Anne-Marie Luciani | 1 | 0 | Deux courriels envoyés, rappel oral effectué ; aucune réponse écrite détectée au 2026-07-27 | D3 |\n<!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
 *These documents link to this file:*
