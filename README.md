@@ -413,7 +413,8 @@ Vaswani et al. showed that one architectural insight can reorganize a field.
 
 I am working on the architectural insight for AI safety. The substrate is the Mediterranean sun. The governance is democratic by design. The timeline is 2038.
 
-*In deserto.*
+[*In deserto*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/in_deserto.md): build the tool, sharpen it, test it on a concrete case, observe, correct, and continue.
+
 But the desert has good light.
 
 ---
