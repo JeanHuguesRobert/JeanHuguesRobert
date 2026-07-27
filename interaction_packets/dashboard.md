@@ -73,7 +73,7 @@ Politique d’archivage :
 |---|---:|---|---|---|---|---|---|---|
 | 2026-05-04-001 | 2026-05-04 | Session MareNostrum | Université de Corse | Réponse reçue : négative | D3 | [YAML](./packets/2026/2026-05-04-session_marenostrum.yaml) | [lisible](./readable/2026/2026-05-04-session_marenostrum.md) | [quasi brute masquée](./raw/2026/2026-05-04-session_marenostrum_redacted.eml.md) |
 | 2026-05-25-001 | 2026-05-25 | Autonomie de capacité — contribution Commission des Lois | Florent Boudié / Commission des Lois | Contribution transmise ; représentants corses informés ; archive Institut Mariani effectuée | D2 | [YAML](./packets/2026/2026-05-25-autonomie-capacite-commission-lois.yaml) | [lisible](./readable/2026/2026-05-25-demande_audience_boudie.md) | [quasi brute masquée](./raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md) |
-
+| 2026-03-11-001 | 2026-03-11 | Clinique du droit — proposition de coopération et relances | Université de Corse / Anne-Marie Luciani | Deux courriels envoyés, rappel oral effectué ; aucune réponse écrite détectée au 2026-07-27 | D3 | [YAML](./packets/2026/2026-03-11-clinique-du-droit-cooperation.yaml) | [lisible](./readable/2026/2026-03-11-clinique-du-droit-cooperation.md) | — |\n
 ## Cas 2026-05-04-001 — MareNostrum / Université de Corse
 
 ### Demande
