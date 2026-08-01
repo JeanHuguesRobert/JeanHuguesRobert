@@ -97,12 +97,14 @@
 
 ---
 
-## 🚀 Invite de Reprise pour le Prochain Agent AI / Nouvelle Machine
+## 🎯 Déclencheur Simple de Reprise (1 Seule Phrase)
 
-```text
-Veuillez reprendre la session depuis le dépôt GitHub principal JeanHuguesRobert/JeanHuguesRobert 
-en lisant RESUME-SESSION.md.
-Le déploiement Netlify jhn.baronsmariani.org est suspendu dans l'attente de l'issue #31 d'Inseme 
-(Générateur de Projections d'Activité COP dans packages/cop-core/src/activity-projection.js).
-Suivez strictement la règle : pas de Python, JS ESM natif sans TypeScript, Deno pour les Edge Functions.
-```
+Pour n'importe quel agent de développement AI sur n'importe quelle machine, il vous suffira de taper simplement :
+
+> **`Check issue 31 of Inseme`**  
+> *(ou : "Poursuis l'issue 31 d'Inseme")*
+
+### 📜 Ce que l'agent exécutera immédiatement :
+1. **Source de Vérité** : Consulter `RESUME-SESSION.md` dans `JeanHuguesRobert/JeanHuguesRobert` et l'issue #31 sur `JeanHuguesRobert/inseme`.
+2. **Action** : Développer le module [`packages/cop-core/src/activity-projection.js`](file:///C:/tweesic/inseme/packages/cop-core/src/activity-projection.js) pour agréger les événements `cop.event/v1` (`push`, `issues`, `pull_request`, `workflow_run`, `security_alert`) depuis la table Supabase `cop_event_log` et générer le flux d'activité humaine lisible pour l'instance JHN.
+3. **Validation** : Exécuter la suite de tests JS ESM (`node scripts/test-activity-projection.js`) et commiter/pousser sur GitHub `main`.
