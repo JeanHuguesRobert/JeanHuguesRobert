@@ -65,10 +65,44 @@
 
 ---
 
-## 🚀 Prompt to Resume in Another Conversation / Machine
+## 💻 Zero-Local-State Machine & Agent Resumption Instructions
+
+> **Note importante** : Tout le travail en cours a été commité et poussé sur GitHub. Aucune donnée ou état n'est dépendant de la machine locale ou de la mémoire d'un agent spécifique.
+
+### 🌐 Dépôts GitHub de Référence (Branches `main`)
+- **Souverain Racine JHN** : [`https://github.com/JeanHuguesRobert/JeanHuguesRobert`](https://github.com/JeanHuguesRobert/JeanHuguesRobert) (contient `RESUME-SESSION.md`, `INTENT_KERNEL.md`, `POSSIBILISM.md`)
+- **Plateforme Inseme** : [`https://github.com/JeanHuguesRobert/inseme`](https://github.com/JeanHuguesRobert/inseme) (contient `apps/platform`, `packages/cop-core`, `supabase/migrations`)
+- **Pertitellu / Corte** : [`https://github.com/JeanHuguesRobert/pertitellu`](https://github.com/JeanHuguesRobert/pertitellu)
+- **Cogentia Twin Engine** : [`https://github.com/JeanHuguesRobert/cogentia`](https://github.com/JeanHuguesRobert/cogentia)
+
+### 🛠️ Prérequis de la Machine Cible
+- **Node.js** : `>= 24.0.0`
+- **Gestionnaire de paquets** : `pnpm` v10 (Corepack activé : `corepack enable`)
+- **Projet Supabase JHN** : `ndiysuhzmztatpxbkezn` (`https://ndiysuhzmztatpxbkezn.supabase.co`)
+- **Règles de Code Strictes** :
+  - ❌ **PAS DE PYTHON** (Tout en JavaScript ESM natif, sans TypeScript si possible).
+  - ⚡ **Fonctions Edge** : Au format Deno moderne (`export default async (request, context) => ...`).
+
+---
+
+## 🎯 Prochaine Tâche Immédiate à la Reprise : Inseme Issue #31
+
+**Objectif** : Implémenter le générateur de projections d'activité humaine ([`packages/cop-core/src/activity-projection.js`](file:///C:/tweesic/inseme/packages/cop-core/src/activity-projection.js)).
+
+1. **Fonctionnalité** : Lire les événements normalisés `cop.event/v1` depuis la table `cop_event_log` et reconstruire le flux d'activité lisible pour le mandant / l'instance.
+2. **Spécification** :
+   - Agrégation par `topic_id` et séquence `topic_seq`.
+   - Transformation des événements `push`, `pull_request`, `issues`, `workflow_run`, `security_alert` en items de fil d'activité lisibles par des humains.
+3. **Validation** : Écrire et valider la suite de tests JS ESM (`node scripts/test-activity-projection.js`).
+
+---
+
+## 🚀 Invite de Reprise pour le Prochain Agent AI / Nouvelle Machine
 
 ```text
-Resume session from C:\tweesic\RESUME-SESSION.md.
-Public Guide Deliverable v1 and Embeddings Delta Sync are FULLY COMPLETED and live.
-See C:\tweesic\RESUME-SESSION.md for full context.
+Veuillez reprendre la session depuis le dépôt GitHub principal JeanHuguesRobert/JeanHuguesRobert 
+en lisant RESUME-SESSION.md.
+Le déploiement Netlify jhn.baronsmariani.org est suspendu dans l'attente de l'issue #31 d'Inseme 
+(Générateur de Projections d'Activité COP dans packages/cop-core/src/activity-projection.js).
+Suivez strictement la règle : pas de Python, JS ESM natif sans TypeScript, Deno pour les Edge Functions.
 ```
