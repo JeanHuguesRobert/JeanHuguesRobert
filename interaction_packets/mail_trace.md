@@ -3,7 +3,7 @@ title: "Registre des interactions"
 description: "Tabular register of traced interactions — ID, date, subject, correspondent, follow-up, status, disclosure level."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-07"
+date: "2026-08-08"
 status: "journal"
 license: "CC BY 4.0"
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md
@@ -29,6 +29,7 @@ classification_confidence: "strong"
 | 2026-07-21-002 | 2026-07-21 | Relance CPN 1999 inversé — invitation « hop humain décorrélé » (CPKT-2026-001) | Erol Gelenbe / IITiS-PAN | 1 | 0 | Brouillon Gmail déposé ; envoi après vérification du silence sur premier canal | D3 |
 | 2026-08-02-001 | 2026-08-02 | A Fucina — exploration d’un premier cercle d’informaticiens hackers corses | Florian Guéniot / UMR LISA | 0 | 0 | Message WhatsApp envoyé ; avis et réponse attendus | D2 |
 | 2026-03-11-001 | 2026-03-11 | Clinique du droit — proposition de coopération et relances | Université de Corse / Anne-Marie Luciani | 1 | 0 | Deux courriels envoyés, rappel oral effectué ; aucune réponse écrite détectée au 2026-07-27 | D3 |
+| 2026-08-08-001 | 2026-08-08 | OLD AT0045 — clarification des prescriptions et canal électronique | Mairie de La Gaude | 0 | 0 | Réponse envoyée ; clarification technique et accusé de réception attendus | D2 |
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
