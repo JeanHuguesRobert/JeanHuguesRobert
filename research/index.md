@@ -87,6 +87,8 @@ A collaborator arriving here should read, in order: [`research/corpus-map.md`](c
 
 *Operational traces — public, traceable records of interactions of general interest. The generic method lives in [`cogentia/interaction_packets/`](https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets); the live traces reside here, attached to the person (see [archive policy](../interaction_packets/archive_policy.md) for disclosure levels D0–D4).*
 
+**Multichannel / Personal Twin desk plan (2026-08-08):** platform [inseme research note](https://github.com/JeanHuguesRobert/inseme/blob/main/research/interactions_registry_and_multichannel_messaging.md) · tracking **[JeanHuguesRobert#2](https://github.com/JeanHuguesRobert/JeanHuguesRobert/issues/2)** (this repo) · **[inseme#36](https://github.com/JeanHuguesRobert/inseme/issues/36)** · method **[cogentia#84](https://github.com/JeanHuguesRobert/cogentia/issues/84)**. Private cases stay in `registre-mariani`.
+
 | Title | Location | Date |
 |---|---|---|
 | [Interaction Packets — Dashboard](../interaction_packets/dashboard.md) *(tableau de bord — current traced cases)* | this repo | 2026-05-25 |
