@@ -1,0 +1,130 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Schéma de référence : interaction_packets/archive_policy.md
+
+id: "2026-08-08-001"
+type: "interaction_packet"
+status: "active"
+created: "2026-08-08"
+last_updated: "2026-08-08"
+disclosure: "D2"
+
+date_envoi: "2026-08-08"
+heure_envoi: "16:37"
+date_reponse: ""
+canal: "email (Gmail)"
+interlocuteur: "Mairie de La Gaude"
+sujet: "OLD — parcelle AT0045, 3169 avenue Marcel Pagnol — demande de clarification technique et de correspondance électronique"
+niveau_divulgation: "D2"
+verifie_le: "2026-08-08"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "Propriétaire de la parcelle AT0045 ; porteur du projet Mariani School of Autonomy / futur fonds de dotation Barons Mariani"
+
+institution:
+  name: "Commune de La Gaude"
+  body: "Mairie / service compétent OLD-urbanisme à identifier"
+  country: "France"
+
+references:
+  municipal_letter:
+    date: "2026-07-30"
+    ref: "MC-2026/175 — OLD-2026/010"
+  parcel: "AT0045"
+  location: "3169 avenue Marcel Pagnol, 06610 La Gaude"
+
+contexte: >
+  La mairie a adressé un courrier relatif aux obligations légales de débroussaillement
+  applicables à la propriété AT0045, en mentionnant plusieurs zonages PLUm (Nb, UFb3)
+  et PPRIF (B1a, Rouge). Le site présente une configuration particulière, notamment
+  une piste historiquement identifiée comme « piste incendie » immédiatement en contrebas,
+  déjà signalée par écrit au cabinet du maire en 2017. Le projet de long terme pour le lieu
+  est une station expérimentale de la Mariani School of Autonomy, articulant art, paysage,
+  écologie, autonomie matérielle et résilience méditerranéenne. Ces éléments de projet ne
+  sont pas mobilisés dans le premier courriel comme arguments de confrontation : la réponse
+  privilégie une demande coopérative de détermination précise des obligations et modalités.
+
+objet_de_l_acte: >
+  Accuser réception du courrier municipal, confirmer la volonté de satisfaire aux prescriptions
+  applicables, demander une cartographie et une détermination précises des modalités selon les
+  différentes parties du terrain, solliciter un interlocuteur technique et proposer, si utile,
+  une visite sur place avant travaux irréversibles. Demander en outre que le courriel devienne
+  le mode de correspondance privilégié, avec copie électronique de toute notification qui
+  devrait néanmoins être envoyée par voie postale.
+
+timeline:
+  - date: "2026-07-30"
+    direction: "inbound"
+    channel: "courrier postal"
+    event: "Courrier municipal OLD"
+    reference: "MC-2026/175 — OLD-2026/010"
+    status: "received"
+  - date: "2026-08-08"
+    time: "16:37"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Réponse à la mairie"
+    summary: >
+      Réponse volontairement diplomatique : prise en compte de l'objectif de sécurité,
+      demande de périmètre et modalités précises, demande d'interlocuteur technique,
+      proposition de visite sur place, maintien de l'entretien courant des abords,
+      demande de correspondance électronique privilégiée et d'accusé de réception.
+    status: "sent"
+
+recipients:
+  primary: "courrier@lagaude.fr"
+  cc:
+    - "institutmariani@gmail.com"
+  note: >
+    L'Institut Mariani a été mis en copie dès l'envoi, conformément à la règle personnelle
+    de traçabilité des dossiers institutionnels et patrimoniaux.
+
+historical_context:
+  - date: "2014-10-22"
+    event: "Échange antérieur avec la mairie sur l'entretien du 3169 avenue Marcel Pagnol"
+  - date: "2016-05-23"
+    event: "Courriel de la police municipale rappelant déjà l'obligation de débroussaillement"
+  - date: "2017-07-06"
+    event: "Signalement au cabinet du maire de la « piste incendie » ouverte en contrebas et de désordres du terrain"
+
+linked_documents:
+  - repository: "JeanHuguesRobert/barons-Mariani"
+    path: "research/mariani_school_sites_minesteggio_la_gaude.md"
+    role: "Cadrage patrimonial et expérimental de La Maison Blanche / La Gaude"
+
+current_status:
+  label: "Réponse envoyée — clarification et accusé de réception attendus"
+  interpretation: >
+    L'existence de l'obligation n'est pas contestée dans ce premier échange. Le point à établir
+    est sa mise en œuvre exacte, spatialement et techniquement, compte tenu des zonages et de la
+    configuration réelle du site. Aucune non-conformité individualisée n'est reconnue au-delà
+    de ce qui ressort des prescriptions générales communiquées par la mairie.
+
+next_watch:
+  - "Accusé de réception du courriel"
+  - "Confirmation que l'adresse électronique devient le canal privilégié"
+  - "Réponse cartographique sur Nb / UFb3 et B1a / Rouge"
+  - "Identification de l'interlocuteur technique compétent"
+  - "Proposition ou acceptation d'une visite sur place"
+  - "Toute prescription individualisée ou mise en demeure ultérieure"
+  - "Statut juridique et gestionnaire de la piste incendie / DFCI en contrebas"
+
+resume_public: >
+  Le 8 août 2026, réponse adressée à la mairie de La Gaude à la suite de son courrier
+  OLD-2026/010 concernant la parcelle AT0045. La réponse confirme la volonté de respecter
+  les prescriptions applicables tout en demandant une détermination précise du périmètre
+  et des modalités techniques, ainsi qu'un interlocuteur compétent et, si utile, une visite
+  sur place. Elle demande également que le courriel devienne le mode de correspondance
+  privilégié, avec copie électronique des éventuelles notifications postales. Réponse et
+  accusé de réception attendus.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: >
+    Analyse du courrier, recherche des antécédents Gmail/Drive, rédaction du brouillon et
+    inscription au registre assistées par IA, sous arbitrage et responsabilité exclusifs
+    de Jean Hugues Noël Robert. Niveau D2 retenu par prudence : métadonnées et résumé public,
+    contenu intégral du courriel non publié à ce stade.
