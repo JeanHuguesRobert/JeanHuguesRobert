@@ -128,6 +128,30 @@ The critical political question is therefore not whether AI exists, but:
 
 ---
 
+## Capital, Markets and Sovereignty
+
+Possibilism does not require rejecting capital, markets or commercial enterprise. It requires keeping their function distinct from sovereignty over ends.
+
+Capital can finance infrastructure, absorb risk and accelerate the production of real capacity. Markets can reveal valuable uses and coordinate scarce resources. Commercial activity can also finance capacities whose beneficiaries should not be treated as customers waiting to be monetized.
+
+The governing rule is:
+
+> **Capital may finance capacity; it must not buy sovereignty.**
+
+A commercial activity may therefore subsidize open commons or individual capabilities, including cognitive assistance, provided that this financing remains explicit, traceable and structurally unable to capture its beneficiaries.
+
+A free individual service should not be paid for through hidden extraction of personal data, attention, dependency or control over the user's digital twin.
+
+The same boundary applies to artificial intelligence:
+
+> **AI may provide cognitive capacity; it must not sovereignly determine the ends.**
+
+Capital and AI are therefore treated as capability multipliers under human governance, not as autonomous sources of sovereignty.
+
+See [Dompter le capitalisme](research/dompter_le_capitalisme.md) for the explicit economic and institutional formulation of this principle.
+
+---
+
 ## Open Source
 
 Open source is not merely an engineering preference.
@@ -193,6 +217,7 @@ The possibilism framework is developed in depth across the corpus:
 
 - **Possibilism: Notes Toward a Research Program** — [Academic paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/possibilism_04_2026.md) covering terrain configuration theory, the correctability thesis, and pathological attractors
 - **Applied Possibilism: The Joyful Exploration of the Possible** — [Practice companion](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/applied_possibilism.md) covering daily practice, digital twins, and stigmergic coordination
+- **Dompter le capitalisme** — [Economic and institutional doctrine](research/dompter_le_capitalisme.md) on using capital and AI as capability multipliers without surrendering sovereignty over ends
 - **Musée Mariani des Possibles** — [Muséological application](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/doctrine_musee_mariani_des_possibles.md) as capacity laboratory
 
 This document provides the condensed doctrinal statement. The linked documents develop the theory, practice, and applications in detail.
