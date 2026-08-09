@@ -71,9 +71,26 @@ L'autonomie et les règles de validation de l'Agent John s'adaptent strictement 
 
 | Niveau | Portée & Canal | Droits de Réponse Chatbot | Production d'Actes | Validation Requise |
 | :--- | :--- | :--- | :--- | :--- |
-| **`1 to 1`** | Directe Un-à-Un (Cockpit / Contact) | Réponse directe autorisée | Aucune | Implicite sur réponse |
+| **`1 to 1`** | Directe Un-à-Un | Réponse directe autorisée | **INTERDITE** | Implicite sur la réponse |
 | **`1 to N`** | Groupe Restreint / Salon | Réponse ciblée + Apprentissage | **INTERDITE** | Alerte continuation si acte |
 | **`1 to ALL`** | Diffusion Publique (Substack, FB, X) | **Brouillon Uniquement (*Draft*)** | **INTERDITE** | **Validation explicite obligatoire** |
+
+---
+
+### 0e. La Dimension Orthogonale de la Confidentialité (*Privacy Levels D0 à D4*)
+
+**La Matrice à Deux Axes : Portée (`1:1`, `1:N`, `1:ALL`) $\times$ Confidentialité (`D0` à `D4`) :**
+La portée (qui écoute) se croise de manière orthogonale avec le niveau de confidentialité du contenu (ce qui a le droit de franchir la frontière) :
+
+- **`D0` — Strictement Privé / Confidentiel :** Notes personnelles, auto-conversation du Principal, identifiants d'urgence. *Ne franchit jamais le cadre `1 to 1`.*
+- **`D1` — Traçabilité Interne Restreinte :** Échanges confidentiels avec contacts autorisés (pseudonymisés). *Cantonné aux canaux `1 to 1`.*
+- **`D2` — Traçabilité de Groupe Restreinte :** Échanges en salons de travail civiques ou d'association. *Cantonné aux canaux `1 to N`.*
+- **`D3` — Synthèse Publique :** Résumés documentés autorisés pour la transparence civique.
+- **`D4` — Publication Publique Intégrale :** Contenus destinés au domaine public (Substack, Tumblr, FB, X). *Autorisé pour le niveau `1 to ALL` après validation.*
+
+**Règle d'Étanchéité et de Non-Fuite (*Anti-Leakage Invariant*) :**
+- Les contenus de niveau de confidentialité élevé (`D0`/`D1`) ne peuvent **JAMAIS fuiter ou être cités dans une portée plus large (`1 to N` ou `1 to ALL`)** sans une déclassification humaine explicite.
+- Agent John vérifie automatiquement la classification des données avant toute proposition de réponse ou de brouillon.
 
 ---
 
