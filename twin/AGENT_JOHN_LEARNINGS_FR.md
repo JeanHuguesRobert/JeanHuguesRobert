@@ -92,6 +92,10 @@ La portée (qui écoute) se croise de manière orthogonale avec le niveau de con
 - Les contenus de niveau de confidentialité élevé (`D0`/`D1`) ne peuvent **JAMAIS fuiter ou être cités dans une portée plus large (`1 to N` ou `1 to ALL`)** sans une déclassification humaine explicite.
 - Agent John vérifie automatiquement la classification des données avant toute proposition de réponse ou de brouillon.
 
+**Exemple Canonique dans l'Écosystème : L'Application Cyrnea (`Inseme`)**
+- *« Ce qui se passe à Vegas reste à Vegas »* : Dans l'application **Cyrnea** (`apps/cyrnea` dans le dépôt `inseme`), les échanges et la présence au sein d'un établissement local (bar, café, lieu de vie, salon civique) sont strictement cantonnés à la portée du lieu (`1 to N` local).
+- L'agent de médiation (Ophélia / Agent John) apprend des conversations locales et assiste les usagers, mais **aucune donnée privée du lieu ne fuit vers la portée publique `1 to ALL`**.
+
 ---
 
 ### 1. La Loi de l'Écho Auto-Référentiel (Boucles Auto-Générées)
