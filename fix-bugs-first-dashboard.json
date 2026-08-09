@@ -1,0 +1,799 @@
+{
+  "schema": "cogentia.fix-bugs-first-dashboard.v1",
+  "generated_at": "2026-08-09T14:30:32.738Z",
+  "doctrine": "Fix Bugs First (Operium / Cogentia)",
+  "metadata": {
+    "total_items": 14,
+    "open_bugs_count": 0,
+    "open_features_count": 5,
+    "subsystems_count": 10,
+    "view_id": "fix-bugs-first-dashboard",
+    "visibility": "public",
+    "generator": "scripts/generate-fix-bugs-first-dashboard.js",
+    "source_backlog": "C:\\tweesic\\operium\\backlog\\items.yaml",
+    "source_links": [
+      {
+        "authority": "operium-backlog",
+        "path": "backlog/items.yaml",
+        "url": "https://github.com/JeanHuguesRobert/operium/blob/main/backlog/items.yaml"
+      },
+      {
+        "authority": "github-issues",
+        "path": null,
+        "url": "https://github.com/JeanHuguesRobert?tab=repositories",
+        "imported_count": 0,
+        "note": "No local issue export found; native issue links from backlog items remain available."
+      }
+    ]
+  },
+  "gates": {
+    "agent-gateway": {
+      "subsystem": "agent-gateway",
+      "state": "OK",
+      "total_items": 1,
+      "open_bugs": 0,
+      "blocking_bugs": [],
+      "gated_features": []
+    },
+    "cli": {
+      "subsystem": "cli",
+      "state": "OK",
+      "total_items": 2,
+      "open_bugs": 0,
+      "blocking_bugs": [],
+      "gated_features": []
+    },
+    "docs": {
+      "subsystem": "docs",
+      "state": "OK",
+      "total_items": 2,
+      "open_bugs": 0,
+      "blocking_bugs": [],
+      "gated_features": [
+        "OP-FEAT-007"
+      ]
+    },
+    "magistral-routing": {
+      "subsystem": "magistral-routing",
+      "state": "OK",
+      "total_items": 1,
+      "open_bugs": 0,
+      "blocking_bugs": [],
+      "gated_features": []
+    },
+    "mesh": {
+      "subsystem": "mesh",
+      "state": "OK",
+      "total_items": 2,
+      "open_bugs": 0,
+      "blocking_bugs": [],
+      "gated_features": [
+        "OP-FEAT-002",
+        "OP-FEAT-004"
+      ]
+    },
+    "meta": {
+      "subsystem": "meta",
+      "state": "OK",
+      "total_items": 1,
+      "open_bugs": 0,
+      "blocking_bugs": [],
+      "gated_features": []
+    },
+    "ona": {
+      "subsystem": "ona",
+      "state": "OK",
+      "total_items": 1,
+      "open_bugs": 0,
+      "blocking_bugs": [],
+      "gated_features": [
+        "OP-FEAT-005"
+      ]
+    },
+    "replication": {
+      "subsystem": "replication",
+      "state": "OK",
+      "total_items": 1,
+      "open_bugs": 0,
+      "blocking_bugs": [],
+      "gated_features": [
+        "OP-FEAT-006"
+      ]
+    },
+    "secrets": {
+      "subsystem": "secrets",
+      "state": "OK",
+      "total_items": 1,
+      "open_bugs": 0,
+      "blocking_bugs": [],
+      "gated_features": []
+    },
+    "tooling": {
+      "subsystem": "tooling",
+      "state": "OK",
+      "total_items": 2,
+      "open_bugs": 0,
+      "blocking_bugs": [],
+      "gated_features": []
+    }
+  },
+  "open_bugs": [],
+  "open_features": [
+    {
+      "id": "OP-FEAT-002",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "essential",
+      "severity": null,
+      "status": "open",
+      "subsystem": "mesh",
+      "title": "FractaNet observed-state reconciliation",
+      "evidence": "operium issue #9",
+      "next_action": "FBF bugs clear; design/implement observed-state reconciliation (issue #9)",
+      "github_issue": 9,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/9",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-17",
+      "closed_at": null,
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-004",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "open",
+      "subsystem": "mesh",
+      "title": "poco-jhr Termux:Boot + MIUI autostart fallback",
+      "evidence": "operium issue #6",
+      "next_action": "Continue as mesh reliability feature after labeling",
+      "github_issue": 6,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/6",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-07",
+      "closed_at": null,
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-005",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "open",
+      "subsystem": "ona",
+      "title": "Ephemeral job runner for large CPU/RAM work",
+      "evidence": "operium issue #3",
+      "next_action": "FBF bugs clear; design ephemeral job runner (issue #3) when ONA capacity allows",
+      "github_issue": 3,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/3",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-04",
+      "closed_at": null,
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-006",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "open",
+      "subsystem": "replication",
+      "title": "Content-addressed storage doctrine (buckets / Plakar)",
+      "evidence": "operium issue #2",
+      "next_action": "Keep as doctrine/feature; no gate conflict unless replication bugs",
+      "github_issue": 2,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/2",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-04",
+      "closed_at": null,
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-007",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "open",
+      "subsystem": "docs",
+      "title": "Vendor-neutral API usage and billing monitoring",
+      "evidence": "operium issue #1",
+      "next_action": "Low priority observability feature",
+      "github_issue": 1,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/1",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-06-29",
+      "closed_at": null,
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    }
+  ],
+  "closed_items": [
+    {
+      "id": "OP-BUG-001",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "now",
+      "importance": "essential",
+      "severity": "critical",
+      "status": "done",
+      "subsystem": "agent-gateway",
+      "title": "Agent CLI Gateway Tailscale reachability intermittent from fracta",
+      "evidence": "2026-07-28 end-to-end: with gateway listening on ThinkPad Tailscale 100.122.121.68:8793, fracta GET /v1/models + health?quick=1 200; POST chat model=grok 200. Guide smoke green after Magistal key + timeout fixes. 2026-07-29: durable logon task CogentiaAgentGateway applied (unlimited ExecutionTimeLimit, foreground node); task Running + fracta models 200. 2026-07-30: Bearer auth added to ONA gateway probe (lib/probes.js). Fracta ONA + AGENT_GATEWAY_TOKEN aligned -> gateway probe 200, node health 4/4 ok=true.",
+      "next_action": "No further action; probe bearer auth and node health verified.",
+      "github_issue": 11,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/11",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-26",
+      "closed_at": "2026-07-30",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.736Z"
+      }
+    },
+    {
+      "id": "OP-BUG-002",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "now",
+      "importance": "essential",
+      "severity": "high",
+      "status": "done",
+      "subsystem": "secrets",
+      "title": "System bearer rotation leaves runtime copies out of sync",
+      "evidence": "2026-08-07: single entry point scripts/ops/apply-system-bearer.js + lib/system-bearer.js (SoT verify, local gateway copy apply, optional --apply --vault double opt-in, fracta/magistral plan, restart/smoke checklist). Atomic key helper lib/env-key-file.js; tests scripts/test-apply-system-bearer.js + test-sync-env-key.js green. Values never disclosed in reports. Docs: secrets-management.md.",
+      "next_action": "Use apply-system-bearer after every COGENTIA_API_KEY change; reopen only with new desync evidence.",
+      "github_issue": 12,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/12",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-26",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.737Z"
+      }
+    },
+    {
+      "id": "OP-BUG-003",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "soon",
+      "importance": "normal",
+      "severity": "medium",
+      "status": "done",
+      "subsystem": "meta",
+      "title": "Open Operium GitHub issues lack kind/subsystem labels",
+      "evidence": "2026-07-26: labels severity:* subsystem:* fbf created; open issues 1–15 labeled; backlog ids linked on bug issues 11–15.",
+      "next_action": "Keep labeling new issues; no further work",
+      "github_issue": 13,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/13",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-26",
+      "closed_at": "2026-07-26",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.737Z"
+      }
+    },
+    {
+      "id": "OP-BUG-004",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "soon",
+      "importance": "normal",
+      "severity": "medium",
+      "status": "done",
+      "subsystem": "tooling",
+      "title": "Workstation admin-scoped npm tooling breaks user-space installs",
+      "evidence": "2026-08-07: npm prefix is %USERPROFILE%\\.npm-global (user-space); supabase Scoop 2.109.1; Program Files supabase residue gone. Shipped audit-tools.js, ensure-user-npm-prefix.ps1, shell profile PATH prepend (scoop + npm-global + .local\\bin). Profile tools.*.yaml updated. Residual: legacy Program Files netlify/claude may still win in OpenSSH -NoProfile until env refresh or elevated cleanup — documented, non-blocking.",
+      "next_action": "Optional elevated cleanup of Program Files nodejs global CLIs; keep audit-tools in ops hygiene.",
+      "github_issue": 14,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/14",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-19",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.737Z"
+      }
+    },
+    {
+      "id": "OP-BUG-005",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": "low",
+      "status": "done",
+      "subsystem": "docs",
+      "title": "Secrets research notes drift from operational secrets-management.md",
+      "evidence": "2026-08-07: marked research/secrets-architecture-2026-07.md and secrets-sovereign-architecture.md historical with superseded_by pointer; research/index.md Secrets section; secrets-management.md states it is operational authority.",
+      "next_action": "No further action unless new research claims contradict ops doc.",
+      "github_issue": 15,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/15",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-26",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.737Z"
+      }
+    },
+    {
+      "id": "OP-BUG-006",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "soon",
+      "importance": "normal",
+      "severity": "medium",
+      "status": "done",
+      "subsystem": "tooling",
+      "title": "Termux shell profile trusts an inherited sentinel with an incomplete environment",
+      "evidence": "2026-08-06: an agent shell inherited TERMUX_WORKSPACE_PROFILE_LOADED=1 without COGENTIA_REGISTRY or the workspace roots. Sourcing the managed profile returned early, so Cogentia could not discover the authoritative registry in the JeanHuguesRobert repository. A focused fixture reproduces the stale-sentinel environment and verifies that sourcing repairs it.",
+      "next_action": "No further action; keep the focused profile regression test.",
+      "github_issue": null,
+      "url": null,
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-08-06",
+      "closed_at": "2026-08-06",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.737Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-001",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "essential",
+      "severity": null,
+      "status": "done",
+      "subsystem": "magistral-routing",
+      "title": "Automate Magistral coding-agent map apply + verify on fracta",
+      "evidence": "2026-08-07: live fracta map had coding-* demoted to fallback (OpenAI/OpenRouter as fast). Applied profiles/magistral-map.coding-agents.v1.json via apply-magistral-coding-map-fracta.sh after git pull to cc41a80+. verify-magistral-coding-map.js live compare VERIFY_OK (coding-grok-fast + coding-claude-fast at tier=fast). Public smoke POST /guide/chat mode=conversational, answer_len>0 (Potentics). Tests: scripts/test-magistral-map-verify.js green. COGENTIA_API_KEY present in magistral.env (len only logged).",
+      "next_action": "Re-run verify after map drift; keep gateway up for conversational quality.",
+      "github_issue": 10,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/10",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-26",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-003",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "done",
+      "subsystem": "cli",
+      "title": "Cross-device WIP handoff/resume polish",
+      "evidence": "2026-08-07 residual hygiene: operium handoff/resume/wip status shipped (lib/git-wip.js, docs/operium-wip.md); scripts/test-operium-wip.js green (status, handoff/resume, detached refuse, remote-ahead refuse, secret paths, dry-run, CLI JSON). Multi-repo --all and session packets remain issue #18, not #7.",
+      "next_action": "No further action on #7; session-level handoff is #18.",
+      "github_issue": 7,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/7",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-08",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-008",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "done",
+      "subsystem": "cli",
+      "title": "Bounded Termux tmux handoff helper",
+      "evidence": "2026-08-06: scripts/ops/termux-tmux-handoff.js (start/status/capture/send --file --i-am-present), docs/termux-tmux-handoff.md, focused dry-run + session-validation tests green; live proof on poco-jhr session fbf-dashboard (payload SHA only; no secret body in git). Commit 0393998.",
+      "next_action": "No further action; #6 remains separate (Termux boot survival).",
+      "github_issue": 19,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/19",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-08-06",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "OP-BUG-001",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "now",
+      "importance": "essential",
+      "severity": "critical",
+      "status": "done",
+      "subsystem": "agent-gateway",
+      "title": "Agent CLI Gateway Tailscale reachability intermittent from fracta",
+      "evidence": "2026-07-28 end-to-end: with gateway listening on ThinkPad Tailscale 100.122.121.68:8793, fracta GET /v1/models + health?quick=1 200; POST chat model=grok 200. Guide smoke green after Magistal key + timeout fixes. 2026-07-29: durable logon task CogentiaAgentGateway applied (unlimited ExecutionTimeLimit, foreground node); task Running + fracta models 200. 2026-07-30: Bearer auth added to ONA gateway probe (lib/probes.js). Fracta ONA + AGENT_GATEWAY_TOKEN aligned -> gateway probe 200, node health 4/4 ok=true.",
+      "next_action": "No further action; probe bearer auth and node health verified.",
+      "github_issue": 11,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/11",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-26",
+      "closed_at": "2026-07-30",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.736Z"
+      }
+    },
+    {
+      "id": "OP-BUG-002",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "now",
+      "importance": "essential",
+      "severity": "high",
+      "status": "done",
+      "subsystem": "secrets",
+      "title": "System bearer rotation leaves runtime copies out of sync",
+      "evidence": "2026-08-07: single entry point scripts/ops/apply-system-bearer.js + lib/system-bearer.js (SoT verify, local gateway copy apply, optional --apply --vault double opt-in, fracta/magistral plan, restart/smoke checklist). Atomic key helper lib/env-key-file.js; tests scripts/test-apply-system-bearer.js + test-sync-env-key.js green. Values never disclosed in reports. Docs: secrets-management.md.",
+      "next_action": "Use apply-system-bearer after every COGENTIA_API_KEY change; reopen only with new desync evidence.",
+      "github_issue": 12,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/12",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-26",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.737Z"
+      }
+    },
+    {
+      "id": "OP-BUG-003",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "soon",
+      "importance": "normal",
+      "severity": "medium",
+      "status": "done",
+      "subsystem": "meta",
+      "title": "Open Operium GitHub issues lack kind/subsystem labels",
+      "evidence": "2026-07-26: labels severity:* subsystem:* fbf created; open issues 1–15 labeled; backlog ids linked on bug issues 11–15.",
+      "next_action": "Keep labeling new issues; no further work",
+      "github_issue": 13,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/13",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-26",
+      "closed_at": "2026-07-26",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.737Z"
+      }
+    },
+    {
+      "id": "OP-BUG-004",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "soon",
+      "importance": "normal",
+      "severity": "medium",
+      "status": "done",
+      "subsystem": "tooling",
+      "title": "Workstation admin-scoped npm tooling breaks user-space installs",
+      "evidence": "2026-08-07: npm prefix is %USERPROFILE%\\.npm-global (user-space); supabase Scoop 2.109.1; Program Files supabase residue gone. Shipped audit-tools.js, ensure-user-npm-prefix.ps1, shell profile PATH prepend (scoop + npm-global + .local\\bin). Profile tools.*.yaml updated. Residual: legacy Program Files netlify/claude may still win in OpenSSH -NoProfile until env refresh or elevated cleanup — documented, non-blocking.",
+      "next_action": "Optional elevated cleanup of Program Files nodejs global CLIs; keep audit-tools in ops hygiene.",
+      "github_issue": 14,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/14",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-19",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.737Z"
+      }
+    },
+    {
+      "id": "OP-BUG-005",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": "low",
+      "status": "done",
+      "subsystem": "docs",
+      "title": "Secrets research notes drift from operational secrets-management.md",
+      "evidence": "2026-08-07: marked research/secrets-architecture-2026-07.md and secrets-sovereign-architecture.md historical with superseded_by pointer; research/index.md Secrets section; secrets-management.md states it is operational authority.",
+      "next_action": "No further action unless new research claims contradict ops doc.",
+      "github_issue": 15,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/15",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-26",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.737Z"
+      }
+    },
+    {
+      "id": "OP-BUG-006",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "soon",
+      "importance": "normal",
+      "severity": "medium",
+      "status": "done",
+      "subsystem": "tooling",
+      "title": "Termux shell profile trusts an inherited sentinel with an incomplete environment",
+      "evidence": "2026-08-06: an agent shell inherited TERMUX_WORKSPACE_PROFILE_LOADED=1 without COGENTIA_REGISTRY or the workspace roots. Sourcing the managed profile returned early, so Cogentia could not discover the authoritative registry in the JeanHuguesRobert repository. A focused fixture reproduces the stale-sentinel environment and verifies that sourcing repairs it.",
+      "next_action": "No further action; keep the focused profile regression test.",
+      "github_issue": null,
+      "url": null,
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-08-06",
+      "closed_at": "2026-08-06",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.737Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-001",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "essential",
+      "severity": null,
+      "status": "done",
+      "subsystem": "magistral-routing",
+      "title": "Automate Magistral coding-agent map apply + verify on fracta",
+      "evidence": "2026-08-07: live fracta map had coding-* demoted to fallback (OpenAI/OpenRouter as fast). Applied profiles/magistral-map.coding-agents.v1.json via apply-magistral-coding-map-fracta.sh after git pull to cc41a80+. verify-magistral-coding-map.js live compare VERIFY_OK (coding-grok-fast + coding-claude-fast at tier=fast). Public smoke POST /guide/chat mode=conversational, answer_len>0 (Potentics). Tests: scripts/test-magistral-map-verify.js green. COGENTIA_API_KEY present in magistral.env (len only logged).",
+      "next_action": "Re-run verify after map drift; keep gateway up for conversational quality.",
+      "github_issue": 10,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/10",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-26",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-002",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "essential",
+      "severity": null,
+      "status": "open",
+      "subsystem": "mesh",
+      "title": "FractaNet observed-state reconciliation",
+      "evidence": "operium issue #9",
+      "next_action": "FBF bugs clear; design/implement observed-state reconciliation (issue #9)",
+      "github_issue": 9,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/9",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-17",
+      "closed_at": null,
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-003",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "done",
+      "subsystem": "cli",
+      "title": "Cross-device WIP handoff/resume polish",
+      "evidence": "2026-08-07 residual hygiene: operium handoff/resume/wip status shipped (lib/git-wip.js, docs/operium-wip.md); scripts/test-operium-wip.js green (status, handoff/resume, detached refuse, remote-ahead refuse, secret paths, dry-run, CLI JSON). Multi-repo --all and session packets remain issue #18, not #7.",
+      "next_action": "No further action on #7; session-level handoff is #18.",
+      "github_issue": 7,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/7",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-08",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-004",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "open",
+      "subsystem": "mesh",
+      "title": "poco-jhr Termux:Boot + MIUI autostart fallback",
+      "evidence": "operium issue #6",
+      "next_action": "Continue as mesh reliability feature after labeling",
+      "github_issue": 6,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/6",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-07",
+      "closed_at": null,
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-005",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "open",
+      "subsystem": "ona",
+      "title": "Ephemeral job runner for large CPU/RAM work",
+      "evidence": "operium issue #3",
+      "next_action": "FBF bugs clear; design ephemeral job runner (issue #3) when ONA capacity allows",
+      "github_issue": 3,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/3",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-04",
+      "closed_at": null,
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-006",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "open",
+      "subsystem": "replication",
+      "title": "Content-addressed storage doctrine (buckets / Plakar)",
+      "evidence": "operium issue #2",
+      "next_action": "Keep as doctrine/feature; no gate conflict unless replication bugs",
+      "github_issue": 2,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/2",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-07-04",
+      "closed_at": null,
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-007",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "open",
+      "subsystem": "docs",
+      "title": "Vendor-neutral API usage and billing monitoring",
+      "evidence": "operium issue #1",
+      "next_action": "Low priority observability feature",
+      "github_issue": 1,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/1",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-06-29",
+      "closed_at": null,
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    },
+    {
+      "id": "OP-FEAT-008",
+      "kind": "feature",
+      "work_type": "implementation",
+      "urgency": "planned",
+      "importance": "normal",
+      "severity": null,
+      "status": "done",
+      "subsystem": "cli",
+      "title": "Bounded Termux tmux handoff helper",
+      "evidence": "2026-08-06: scripts/ops/termux-tmux-handoff.js (start/status/capture/send --file --i-am-present), docs/termux-tmux-handoff.md, focused dry-run + session-validation tests green; live proof on poco-jhr session fbf-dashboard (payload SHA only; no secret body in git). Commit 0393998.",
+      "next_action": "No further action; #6 remains separate (Termux boot survival).",
+      "github_issue": 19,
+      "url": "https://github.com/JeanHuguesRobert/operium/issues/19",
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-08-06",
+      "closed_at": "2026-08-07",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-09T14:30:32.738Z"
+      }
+    }
+  ]
+}
