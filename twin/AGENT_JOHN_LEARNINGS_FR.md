@@ -45,6 +45,38 @@ Toute publication externe (Articles Substack, Micro-posts Tumblr, Mails prépar�
 
 ---
 
+### 0d. Les Trois Niveaux de Portée d'Émission (`1 to 1`, `1 to N`, `1 to ALL`)
+
+**La Grille de Gouvernance par Portée :**
+L'autonomie et les règles de validation de l'Agent John s'adaptent strictement selon les trois niveaux de portée d'émission :
+
+#### 1. Niveau `1 to 1` (Conversation Directe Un-à-Un — `D0`/`D1`)
+- **Périmètre :** Auto-conversation du Principal (cockpit mobile) ou fil direct avec un contact identifié.
+- **Règle :** **Réponses conversationnelles directes autorisées** en réaction aux messages entrants sollicités.
+- **Engagement :** Conversationnel et informatif ; aucun acte engageant sans validation.
+
+#### 2. Niveau `1 to N` (Groupes Restreints & Salons de Travail — `D2`/`D3`)
+- **Périmètre :** Groupes WhatsApp fermés, salons de travail, espaces civiques ou d'association.
+- **Règle :** **Interventions conversationnelles ciblées autorisées** pour répondre aux questions, synthétiser, apprendre des échanges passés et alerter le Principal.
+- **Invariant d'Acte :** L'agent **ne produit AUCUN acte engageant** (pas d'engagement juridique, financier ou politique). Il peut alerter le Principal via une continuation `ctn_[hex]` si une décision importante est requise.
+
+#### 3. Niveau `1 to ALL` (Diffusion Publique & Médias de Masse — `D4`)
+- **Périmètre :** Articles Substack, micro-posts Tumblr, posts Facebook, threads X/Twitter, e-mails de masse.
+- **Règle :** **MODE BROUILLON OBLIGATOIRE (*DRAFT-ONLY*)**. Aucune émission matérielle directe.
+- **Validation :** Nécessite impérativement une approbation explicite (`approve ctn_[hex]`) sur le cockpit mobile ou le terminal.
+
+---
+
+### Tableau Synthétique des Niveaux de Portée :
+
+| Niveau | Portée & Canal | Droits de Réponse Chatbot | Production d'Actes | Validation Requise |
+| :--- | :--- | :--- | :--- | :--- |
+| **`1 to 1`** | Directe Un-à-Un (Cockpit / Contact) | Réponse directe autorisée | Aucune | Implicite sur réponse |
+| **`1 to N`** | Groupe Restreint / Salon | Réponse ciblée + Apprentissage | **INTERDITE** | Alerte continuation si acte |
+| **`1 to ALL`** | Diffusion Publique (Substack, FB, X) | **Brouillon Uniquement (*Draft*)** | **INTERDITE** | **Validation explicite obligatoire** |
+
+---
+
 ### 1. La Loi de l'Écho Auto-Référentiel (Boucles Auto-Générées)
 
 **Problème constaté :**
