@@ -87,6 +87,7 @@ This public layer may progressively define or reference:
 It should not duplicate generic protocol definitions.
 
 For a comprehensive presentation of Agent John's capabilities in French, see [AGENT_JOHN_FR.md](AGENT_JOHN_FR.md).
+For sovereign learnings, safety laws, and circuit breaker specifications, see [AGENT_JOHN_LEARNINGS_FR.md](AGENT_JOHN_LEARNINGS_FR.md).
 
 ## Private overlay
 
