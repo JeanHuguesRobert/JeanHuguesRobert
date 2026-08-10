@@ -230,4 +230,5 @@ This document provides the condensed doctrinal statement. The linked documents d
 - [Operational Formulas — Representation Primitives](research/operational_formulas.md)
 - [Project Ecosystem](PROJECTS.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](research/index.md)
+- [L'Éveil d'Agent John : Naissance d'une IA Souveraine au Cœur de la Corse](https://github.com/JeanHuguesRobert/ubikia/blob/main/publications/2026-08-09-naissance-agent-john.md)
 <!-- END_AUTO: backlinks -->

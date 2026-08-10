@@ -41,6 +41,7 @@ last_stamped_at: 2026-06-01
 | Kudos | yes | main | all | public | full |
 | .github | yes | main | all | public | full |
 | acorsica.org | yes | main | all | public | full |
+| StructEnv | no | main | all | public | full |
 <!-- END_AUTO: registered_repos -->
 ---
 
@@ -67,23 +68,26 @@ graph LR
   r_kudos["Kudos"]
   r_github[".github"]
   r_acorsica_org["acorsica.org"]
-  r_cogentia -->|97| r_barons_mariani
-  r_barons_mariani -->|67| r_cogentia
-  r_jeanhuguesrobert -->|66| r_barons_mariani
-  r_fractavolta -->|47| r_cogentia
+  r_structenv["StructEnv"]
+  r_cogentia -->|106| r_barons_mariani
+  r_barons_mariani -->|71| r_cogentia
+  r_jeanhuguesrobert -->|68| r_barons_mariani
+  r_fractavolta -->|48| r_cogentia
   r_fractavolta -->|37| r_marenostrum
-  r_jeanhuguesrobert -->|34| r_cogentia
-  r_inseme -->|23| r_cogentia
+  r_inseme -->|36| r_cogentia
+  r_jeanhuguesrobert -->|35| r_cogentia
+  r_cogentia -->|28| r_inseme
   r_barons_mariani -->|22| r_marenostrum
-  r_cogentia -->|22| r_inseme
   r_fractavolta -->|22| r_inseme
+  r_barons_mariani -->|19| r_fractavolta
   r_cogentia -->|19| r_marenostrum
-  r_fractavolta -->|18| r_barons_mariani
-  r_barons_mariani -->|17| r_fractavolta
-  r_barons_mariani -->|16| r_inseme
+  r_fractavolta -->|19| r_barons_mariani
+  r_inseme -->|19| r_barons_mariani
+  r_barons_mariani -->|18| r_inseme
   r_inox -->|16| r_cogentia
   r_jeanhuguesrobert -->|16| r_marenostrum
   r_marenostrum -->|16| r_cogentia
+  r_inseme -->|13| r_fractavolta
   r_inseme -->|12| r_inox
   r_marenostrum -->|12| r_fractavolta
   r_inox -->|11| r_barons_mariani
@@ -93,22 +97,24 @@ graph LR
   r_jeanhuguesrobert -->|9| r_fractavolta
   r_fractavolta -->|8| r_inox
   r_inox -->|8| r_marenostrum
-  r_inseme -->|8| r_fractavolta
-  r_jeanhuguesrobert -->|6| r_inseme
+  r_jeanhuguesrobert -->|7| r_inseme
+  r_inseme -->|6| r_kudos
   r_jeanhuguesrobert -->|6| r_inox
+  r_ubikia -->|6| r_cogentia
   r_barons_mariani -->|5| r_inox
   r_barons_mariani -->|5| r_jeanhuguesrobert
   r_cogentia -->|5| r_fractavolta
+  r_ubikia -->|5| r_barons_mariani
   r_barons_mariani -->|4| r_ubikia
   r_cogentia -->|4| r_jeanhuguesrobert
-  r_inseme -->|4| r_barons_mariani
   r_marianivillage -->|4| r_fractavolta
   r_operium -->|4| r_marenostrum
-  r_ubikia -->|4| r_cogentia
+  r_ubikia -->|4| r_jeanhuguesrobert
   r_github -->|3| r_gouvernance
   r_inseme -->|3| r_jeanhuguesrobert
   r_kudos -->|3| r_barons_mariani
   r_operium -->|3| r_cogentia
+  r_operium -->|3| r_barons_mariani
   r_operium -->|3| r_inseme
   r_cogentia -->|2| r_inox
   r_fractavolta -->|2| r_jeanhuguesrobert
@@ -122,9 +128,8 @@ graph LR
   r_marenostrum -->|2| r_jeanhuguesrobert
   r_marenostrum -->|2| r_inseme
   r_marenostrum -->|2| r_inox
-  r_operium -->|2| r_barons_mariani
-  r_privai -->|2| r_institut_mariani
   r_github -->|1| r_institut_mariani
+  r_cogentia -->|1| r_kudos
   r_gouvernance -->|1| r_jeanhuguesrobert
   r_gouvernance -->|1| r_cogentia
   r_gouvernance -->|1| r_inseme
@@ -143,6 +148,7 @@ graph LR
   r_jeanhuguesrobert -->|1| r_operium
   r_kudos -->|1| r_institut_mariani
   r_marianivillage -->|1| r_institut_mariani
+  r_privai -->|1| r_institut_mariani
 ```
 <!-- END_AUTO: graph -->
 ---
