@@ -22,6 +22,10 @@ review:
   status: owner-approved-scope
   reviewed_by:
     - Jean Hugues Noël Robert
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Agent JHN — Experimental Notice and Non-Commitment Boundary
@@ -128,7 +132,11 @@ or redaction.
 ## Correction and contact
 
 If a message from Agent JHN is unclear, inaccurate, or potentially engaging,
-do not infer a human confirmation. Ask for clarification from Jean Hugues Robert
+do not infer a human confirmation. Ask for clarification directly from Jean Hugues Robert
+via email at:
+
+> **jeanhuguesrobert@gmail.com**
+
 and retain the message identifier or a copy of the exchange.
 
 This notice is a living source document. Its public version, including any
