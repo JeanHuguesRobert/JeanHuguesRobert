@@ -2,7 +2,7 @@
 title: 01-ouverture-et-corpus
 author: unknown
 date: '2026-07-14'
-document_role: adapted
+document_role: "derived"
 derivation_mode: directed
 adaptation_context: first Ubikia audio production for the author's YouTube channel, adapted from a Substack blog post
 publication_target: YouTube
@@ -23,6 +23,11 @@ provenance:
 review:
   status: unreviewed
   reviewed_by: []
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "strong"
+legacy_document_role: "adapted"
 ---
 
 Vous écoutez Les Carnets du baron Mariani, édition audio.

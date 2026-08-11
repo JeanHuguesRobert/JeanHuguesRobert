@@ -5,6 +5,14 @@ generated_at: "2026-08-09T14:30:32.738Z"
 doctrine: "Fix Bugs First (Operium / Cogentia)"
 total_items: 14
 open_bugs: 0
+document_role: "operational"
+document_kind: "dashboard"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "dashboard"
+classification_confidence: "medium"
 ---
 
 # 🛡️ Fix Bugs First Work Dashboard
