@@ -12,6 +12,10 @@ document_kind: "continuation-packet"
 visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DECISION-REVIEW"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "continuation-packet"
+classification_confidence: "strong"
 ---
 
 # Clinique du droit / Université de Corse — proposition de coopération

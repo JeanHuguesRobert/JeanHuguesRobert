@@ -1,3 +1,14 @@
+---
+document_role: "operational"
+document_kind: "continuation-packet"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "continuation-resume"
+classification_confidence: "strong"
+---
+
 # Workspace Continuation & Session Handoff (July 31, 2026) 📜🌐🚀
 
 > **Status**: **DELIVERABLE v1, SSE STREAMING, PURE EMBEDDINGS, AUTONOMOUS WORKER, 2026-W31 DIGEST & GENERIC DIGITAL TWIN ENGINE COMPLETED** 🎉 (Public Guide Web UI live at `https://cogentia.fractavolta.com/guide`; Generic Digital Twin Engine & Instance Bindings published; Agent JHN bound to `JeanHuguesRobert/JeanHuguesRobert`).

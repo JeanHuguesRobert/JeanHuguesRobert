@@ -16,6 +16,11 @@ tags:
   - Possibilisme
   - DHITL
   - Corsica
+lifecycle_state: "stable"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # La Naissance d'Agent John : Un Jumeau Numérique Souverain pour sortir de la Captation Cognitive

@@ -16,6 +16,11 @@ tags:
   - Sénatoriales
   - DHITL
   - Démultiplication
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Étude & Stratégie d'Architecture : Démultiplication sur les Réseaux Sociaux (Facebook & X) par Agent John

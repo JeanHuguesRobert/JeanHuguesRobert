@@ -16,6 +16,12 @@ tags:
   - Vault Supabase
   - Possibilisme
   - Corsica
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "summary"
 ---
 
 # Résumé d'Orchestration & Rapport d'Étape — `resume_JHN.md`

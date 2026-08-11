@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "doctrine-note"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "agent-john-doctrine"
+classification_confidence: "strong"
+---
+
 # Agent John — Apprentissages & Règles Souveraines de Protection
 
 Ce document consigne les leçons d'ingénierie et règles de sécurité apprises lors de l'exploitation de l'Agent John (Jumeau Numérique Souverain Cogentia).
