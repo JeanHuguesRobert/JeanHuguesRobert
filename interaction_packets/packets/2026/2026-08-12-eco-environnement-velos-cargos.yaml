@@ -1,0 +1,59 @@
+# Paquet interactionnel — métadonnées structurées
+id: "2026-08-12-001"
+type: "interaction_packet"
+status: "active"
+created: "2026-08-12"
+last_updated: "2026-08-12"
+disclosure: "D2"
+
+date_envoi: "2026-08-12"
+heure_envoi: "11:39"
+canal: "email (Gmail)"
+interlocuteur: "Eco Environnement"
+sujet: "Livraison de vélos cargos électriques — Association C.O.R.S.I.C.A."
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "Président de l’Association C.O.R.S.I.C.A."
+
+institution:
+  name: "Eco Environnement"
+  email: "documents@ecoenvironnement.net"
+
+contexte: >
+  Eco Environnement a indiqué que les livraisons étaient en cours et que le dossier
+  de l’Association C.O.R.S.I.C.A. nécessitait la communication d’un numéro de téléphone
+  complet pour finaliser l’étude et organiser la livraison.
+
+timeline:
+  - date: "2026-08-12"
+    time: "11:39"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Réponse à Eco Environnement"
+    summary: >
+      Numéro de téléphone complet transmis. Demande explicite de privilégier les échanges
+      par courriel afin d’assurer la traçabilité du dossier. Institut Mariani en copie.
+    status: "sent"
+
+recipients:
+  primary: "documents@ecoenvironnement.net"
+  cc:
+    - "institutmariani@gmail.com"
+
+current_status:
+  label: "Réponse envoyée — suite opérationnelle attendue"
+  interpretation: >
+    Le blocage lié au numéro de téléphone a été levé. Sont désormais attendus les éléments
+    nécessaires à la finalisation de l’étude et à l’organisation de la livraison.
+
+next_watch:
+  - "Confirmation de prise en compte du numéro de téléphone"
+  - "Validation ou finalisation du dossier"
+  - "Modalités et date de livraison"
+  - "Toute demande financière, contractuelle ou documentaire nouvelle"
+
+resume_public: >
+  Le 12 août 2026, C.O.R.S.I.C.A. a répondu à Eco Environnement dans le cadre d’un dossier
+  de livraison de vélos cargos électriques, en communiquant le numéro de téléphone demandé
+  tout en privilégiant le courriel pour le suivi et la traçabilité. Suite opérationnelle attendue.
