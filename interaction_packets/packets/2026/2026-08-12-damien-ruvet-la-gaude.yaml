@@ -1,0 +1,67 @@
+# Paquet interactionnel — métadonnées structurées
+id: "2026-08-12-002"
+type: "interaction_packet"
+status: "active"
+created: "2026-08-12"
+last_updated: "2026-08-12"
+disclosure: "D2"
+
+date_envoi: "2026-08-12"
+heure_envoi: "11:52"
+canal: "email (Gmail)"
+interlocuteur: "Damien Ruvet"
+sujet: "Maison de La Gaude / Villa Arson — point d’étape et suite du projet"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "Propriétaire / porteur du projet lié à la Maison de La Gaude"
+
+counterparty:
+  name: "Damien Ruvet"
+  email: "damien.ruvet.graphisme@gmail.com"
+
+contexte: >
+  Damien Ruvet a confirmé son intérêt pour la poursuite du projet autour de la maison de La Gaude
+  et sa disponibilité pour s’impliquer concrètement sur le lieu, notamment sur les sujets liés au
+  risque incendie. Cet échange est potentiellement pertinent comme relais local dans le contexte
+  du dossier OLD AT0045, sans qu’un rôle formel ne soit encore arrêté.
+
+timeline:
+  - date: "2026-08-12"
+    time: "11:52"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Réponse à Damien Ruvet"
+    summary: >
+      Réponse envoyée dans le fil Maison de La Gaude / Villa Arson. L’Institut Mariani est en copie.
+      La poursuite de l’échange doit permettre de préciser les modalités d’implication locale et les
+      personnes à associer au projet.
+    status: "sent"
+
+recipients:
+  primary: "damien.ruvet.graphisme@gmail.com"
+  cc:
+    - "institutmariani@gmail.com"
+
+links:
+  related_interaction:
+    id: "2026-08-08-001"
+    subject: "OLD AT0045 — clarification des prescriptions et canal électronique"
+    relation: "possible relais local / risque incendie"
+
+current_status:
+  label: "Réponse envoyée — poursuite de l’échange attendue"
+  interpretation: >
+    Damien constitue une possibilité concrète de relais local pour le projet et, le cas échéant,
+    pour certains échanges ou constats sur place. Aucun mandat ni rôle formel n’est présumé à ce stade.
+
+next_watch:
+  - "Nouvelle réponse de Damien"
+  - "Précision de son niveau d’implication sur place"
+  - "Éventuelle articulation avec le dossier OLD AT0045"
+  - "Identification des autres personnes à associer au projet"
+
+resume_public: >
+  Le 12 août 2026, une réponse a été adressée à Damien Ruvet au sujet de la Maison de La Gaude
+  et de la poursuite du projet. Son implication locale potentielle, notamment sur les questions
+  de risque incendie, reste à préciser.
