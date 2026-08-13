@@ -75,6 +75,7 @@ It is an *operating brief*, not a description of project state. For the current 
 - [DHITL — Democratic Humans in the Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) — the load-bearing axiom.
 - [Discours de la seconde méthode](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md) — the method governing how claims are made.
 - [Autonomia — autonomie de capacité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) and [Projet #1755](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md) — the flagship political thesis and its live application.
+- [AI-First Org and Fidelity Default — Single-Author Phase](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/ai_first_fidelity_single_author_phase.md) — phase doctrine: FractaVolta AI-first / no human employee-answerer as a goal; until multi-person personal instances, answering paths optimise for fidelity to how he would answer from the corpus (registry prioritises active repos; the wider public corpus still counts).
 
 ---
 
