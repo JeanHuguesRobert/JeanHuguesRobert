@@ -4,7 +4,7 @@ subtitle: "Naissance d'Agent John, Dérivations Ubikia, Modèle de Portée 3-Niv
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-08-09"
-document_role: "summary"
+document_role: "source"
 document_kind: "durable-resume"
 visibility: "public"
 language: "fr"
@@ -28,6 +28,14 @@ legacy_document_role: "summary"
 
 *Par Jean Hugues Noël Robert, baron Mariani*  
 *Corte, le 9 août 2026*
+
+> **Statut : instantané historique (9 août 2026), dépassé comme état courant.**
+> Le brouillon Substack `210466809` cité en §5 est déjà publié. Pour l'état actuel
+> (essai du 15 août, Olé Olé, cockpit WhatsApp étendu — contacts à niveaux de
+> confiance, commandes approve/reject/close), voir
+> [`ubikia/publications/2026-08-15-naissance-agent-john.md`](https://github.com/JeanHuguesRobert/ubikia/blob/main/publications/2026-08-15-naissance-agent-john.md).
+> Les connecteurs Facebook/X mentionnés en §5 restent à faire — reclassés
+> horizon Noël, plus « sprint » imminent.
 
 ---
 
