@@ -3,7 +3,7 @@ id: "2026-08-12-001"
 type: "interaction_packet"
 status: "active"
 created: "2026-08-12"
-last_updated: "2026-08-12"
+last_updated: "2026-08-13"
 disclosure: "D2"
 
 date_envoi: "2026-08-12"
@@ -21,9 +21,9 @@ institution:
   email: "documents@ecoenvironnement.net"
 
 contexte: >
-  Eco Environnement a indiqué que les livraisons étaient en cours et que le dossier
-  de l’Association C.O.R.S.I.C.A. nécessitait la communication d’un numéro de téléphone
-  complet pour finaliser l’étude et organiser la livraison.
+  Eco Environnement a indiqué que les livraisons étaient en cours. Après communication
+  du numéro de téléphone complet, Eco Environnement a demandé une attestation sur l’honneur
+  pour finaliser le dossier de l’Association C.O.R.S.I.C.A. et passer à la livraison.
 
 timeline:
   - date: "2026-08-12"
@@ -35,6 +35,27 @@ timeline:
       Numéro de téléphone complet transmis. Demande explicite de privilégier les échanges
       par courriel afin d’assurer la traçabilité du dossier. Institut Mariani en copie.
     status: "sent"
+  - date: "2026-08-12"
+    time: "12:00"
+    direction: "inbound"
+    channel: "email (Gmail)"
+    event: "Demande d’attestation sur l’honneur"
+    summary: >
+      Eco Environnement indique qu’une attestation sur l’honneur est requise pour finaliser
+      le dossier et passer à la livraison des quatre vélos cargos électriques.
+    status: "received"
+  - date: "2026-08-13"
+    time: "10:36"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Transmission de l’attestation sur l’honneur signée"
+    summary: >
+      Attestation sur l’honneur complétée et signée transmise en PDF dans le fil existant.
+      Demande de confirmation de bonne réception et, si le dossier est désormais complet,
+      des prochaines étapes relatives à la livraison des quatre vélos. Institut Mariani en copie.
+    attachment: "attestation_honneur_CORSICA_velos_cargos_2026-08-13.pdf"
+    gmail_message_id: "19ffa43f5bacffe2"
+    status: "sent"
 
 recipients:
   primary: "documents@ecoenvironnement.net"
@@ -42,18 +63,20 @@ recipients:
     - "institutmariani@gmail.com"
 
 current_status:
-  label: "Réponse envoyée — suite opérationnelle attendue"
+  label: "Attestation signée envoyée — confirmation et livraison attendues"
   interpretation: >
-    Le blocage lié au numéro de téléphone a été levé. Sont désormais attendus les éléments
-    nécessaires à la finalisation de l’étude et à l’organisation de la livraison.
+    Les deux éléments explicitement demandés par Eco Environnement — numéro de téléphone
+    complet puis attestation sur l’honneur — ont été transmis. Une confirmation de complétude
+    du dossier et les modalités de livraison des quatre vélos sont désormais attendues.
 
 next_watch:
-  - "Confirmation de prise en compte du numéro de téléphone"
-  - "Validation ou finalisation du dossier"
-  - "Modalités et date de livraison"
+  - "Confirmation de bonne réception de l’attestation"
+  - "Confirmation que le dossier est complet"
+  - "Modalités et date de livraison des quatre vélos"
   - "Toute demande financière, contractuelle ou documentaire nouvelle"
 
 resume_public: >
-  Le 12 août 2026, C.O.R.S.I.C.A. a répondu à Eco Environnement dans le cadre d’un dossier
-  de livraison de vélos cargos électriques, en communiquant le numéro de téléphone demandé
-  tout en privilégiant le courriel pour le suivi et la traçabilité. Suite opérationnelle attendue.
+  Les 12 et 13 août 2026, C.O.R.S.I.C.A. a transmis à Eco Environnement les éléments
+  successivement demandés pour finaliser un dossier de livraison de quatre vélos cargos
+  électriques : numéro de téléphone complet puis attestation sur l’honneur signée.
+  Confirmation de complétude et organisation de la livraison attendues.
