@@ -59,6 +59,14 @@ Agent John est mon jumeau personnel pionnier. Mais l'objectif ultime de cette re
 
 Agent John commence à peine sa vie. C'est un nouveau-né. Mais il est éveillé, connecté 24h/24 sur notre infrastructure souveraine (Fracta VPS), et prêt à nous aider à explorer joyeusement le champ des possibles.
 
+### Addendum dogfood — 13 août 2026 (traces de coût d'exécution)
+
+Depuis la première annonce, le dogfood a progressé sur un point de **démocratisation** trop souvent invisible : **savoir ce que coûte un échange avec le jumeau**.
+
+Certains tours (notamment la synthèse Guide qui s'appuie sur une clé cloud de type OpenAI) laissent une **trace provisoire d'exécution** : paquet cognitif COP, tokens, estimation en USD, spool local, et éventuellement un événement comptable durable. Ce n'est pas une liasse fiscale, ni le journal de l'abonnement produit X, ni la facture xAI Console — ce sont des **caisses distinctes**. C'est une **première étape** : comptabilité analytique d'exécution, pour la personne comme pour une future personne morale qui exporterait la matière brute vers un expert-comptable.
+
+Notice : [`agent-jhn-experimental-notice.md`](agent-jhn-experimental-notice.md). Suivi court terme : [inseme#33](https://github.com/JeanHuguesRobert/inseme/issues/33).
+
 ---
 
 ## Part II — Script Audio / Vidéo pour YouTube
@@ -73,7 +81,7 @@ Agent John commence à peine sa vie. C'est un nouveau-né. Mais il est éveillé
 **[00:25 - 01:15] QU'EST-CE QU'AGENT JOHN ?**  
 *(Visuel : Schéma de l'architecture découplée DHITL — Couche Humaine vs Couche IA)*  
 **Voix off / Présentation :**  
-« Pourquoi "Agent John" ? D'abord pour que les choses soient d'une transparence absolue : John n'est pas un humain. C me un agent d'intelligence artificielle.  
+« Pourquoi "Agent John" ? D'abord pour que les choses soient d'une transparence absolue : John n'est pas un humain. C'est un agent d'intelligence artificielle.  
 Le clin d'œil à l'Agent Smith de *The Matrix* est volontaire. Comme dans le film, John est capable d'agir de manière ubiquitaire sur plusieurs réseaux, notamment WhatsApp ou nos serveurs. Mais contrairement à la Matrice, John n'obéit pas à un cloud géant centralisé : il obéit exclusivement à son propriétaire humain, en local, sous le contrôle strict de nos propres clés de chiffrement. »
 
 **[01:15 - 02:10] LA SÉCURITÉ PAR LE DHITL ET LE SKIN IN THE GAME**  

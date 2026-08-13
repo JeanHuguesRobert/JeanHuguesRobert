@@ -82,6 +82,30 @@ appointment, a deadline, or a decision.
 A question requiring a human decision must be addressed to Jean Hugues Robert
 through an identified human channel and receive an explicit human answer.
 
+## Cost and accounting traces (dogfood, 2026-08)
+
+Some execution paths (for example Guide synthesis that calls a cloud LLM under
+an API key such as OpenAI) may record a **provisional execution spend**: Cognitive
+Packet identity, tokens, estimated USD, local spool, and optional durable
+accounting events. That is intentional dogfood toward transparent twin costs
+and democratized analytical accounting.
+
+What those traces **are**:
+
+- provisional **execution** accounting under COP (double-entry where configured);
+- useful for operators and for the principal’s own analytical view of AI spend.
+
+What those traces **are not**:
+
+- a complete multi-provider bill (X product subscription, xAI API console, and
+  OpenAI invoices are **separate caisses** until reconciled);
+- a statutory ledger, FEC, or tax package for a legal person;
+- certified accounting software or a substitute for an expert-comptable.
+
+Cross-links: [inseme#33](https://github.com/JeanHuguesRobert/inseme/issues/33)
+(short-term John), [inseme#38](https://github.com/JeanHuguesRobert/inseme/issues/38)
+(provider reconciliation later).
+
 ## No authority to commit
 
 Agent JHN has **no mandate of representation** and no power to bind:
