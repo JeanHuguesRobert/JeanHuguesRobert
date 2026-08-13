@@ -33,6 +33,8 @@ JeanHuguesRobert/registre-mariani
 
 This repository may define public identity, public constitutional constraints, public corpus references, public Agent John profiles and public specialization defaults. It must not redefine generic COP concepts merely to fit JHN; reusable abstractions belong in Cogentia/Inseme.
 
+**Style mandate:** when present, root [`STYLE.md`](STYLE.md) describes how representation agents (Agent John / Guide faces) should sound and reason for this principal. It is parallel to AGENTS.md (do / authority) but covers **cognitive and writing style**, not tool grants. Quality-first inject on answer surfaces; estimated spend still accounted.
+
 `TwinRoot JHN` and `Agent JHN / John` are not synonyms. The TwinRoot represents durable cognitive continuity associated with the represented subject; John is the first durable `LogicalAgent` operating within that Twin under explicit mandates.
 
 ## Public/private composition
