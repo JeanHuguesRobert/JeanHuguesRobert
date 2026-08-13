@@ -56,6 +56,28 @@ timeline:
     attachment: "attestation_honneur_CORSICA_velos_cargos_2026-08-13.pdf"
     gmail_message_id: "19ffa43f5bacffe2"
     status: "sent"
+  - date: "2026-08-13"
+    time: "10:40"
+    direction: "inbound"
+    channel: "email (Gmail)"
+    event: "Demande complémentaire de cachet associatif"
+    summary: >
+      Eco Environnement accuse réception de l’attestation signée mais demande l’ajout du
+      cachet de l’association avant finalisation.
+    status: "received"
+  - date: "2026-08-13"
+    time: "22:03"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Transmission de l’attestation signée et cachetée"
+    summary: >
+      Nouvelle version de l’attestation transmise avec signature du président et cachet
+      de C.O.R.S.I.C.A. Demande renouvelée de confirmation de réception, de complétude
+      du dossier et des prochaines étapes relatives à la livraison des quatre vélos.
+      Institut Mariani en copie.
+    attachment: "attestation_honneur_CORSICA_velos_cargos_2026-08-13_cachet.pdf"
+    gmail_message_id: "19ffcb8bec45247f"
+    status: "sent"
 
 recipients:
   primary: "documents@ecoenvironnement.net"
@@ -63,20 +85,31 @@ recipients:
     - "institutmariani@gmail.com"
 
 current_status:
-  label: "Attestation signée envoyée — confirmation et livraison attendues"
+  label: "Attestation signée et cachetée envoyée — confirmation finale et livraison attendues"
   interpretation: >
-    Les deux éléments explicitement demandés par Eco Environnement — numéro de téléphone
-    complet puis attestation sur l’honneur — ont été transmis. Une confirmation de complétude
-    du dossier et les modalités de livraison des quatre vélos sont désormais attendues.
+    Les demandes documentaires formulées successivement par Eco Environnement ont été
+    satisfaites : numéro de téléphone complet, attestation sur l’honneur signée, puis ajout
+    du cachet associatif. Une confirmation explicite de complétude du dossier et les modalités
+    de livraison des quatre vélos sont désormais attendues.
 
 next_watch:
-  - "Confirmation de bonne réception de l’attestation"
-  - "Confirmation que le dossier est complet"
+  - "Confirmation de bonne réception de l’attestation signée et cachetée"
+  - "Confirmation explicite que le dossier est complet"
   - "Modalités et date de livraison des quatre vélos"
-  - "Toute demande financière, contractuelle ou documentaire nouvelle"
+  - "Toute nouvelle demande financière, contractuelle ou documentaire"
+
+process_observation:
+  type: "user_assessment"
+  label: "Machine à Empêcher"
+  note: >
+    Jean Hugues Robert qualifie cet enchaînement de formalités successives de particulièrement
+    bureaucratique et borné : une information déjà attestée dans le corps du courriel a été
+    redemandée sous forme d’attestation, puis l’attestation signée a elle-même été jugée
+    insuffisante sans apposition d’un cachet. Cette appréciation est consignée comme retour
+    d’expérience du demandeur, et non comme qualification factuelle ou juridique d’Eco Environnement.
 
 resume_public: >
-  Les 12 et 13 août 2026, C.O.R.S.I.C.A. a transmis à Eco Environnement les éléments
+  Entre les 12 et 13 août 2026, C.O.R.S.I.C.A. a transmis à Eco Environnement les éléments
   successivement demandés pour finaliser un dossier de livraison de quatre vélos cargos
-  électriques : numéro de téléphone complet puis attestation sur l’honneur signée.
-  Confirmation de complétude et organisation de la livraison attendues.
+  électriques : numéro de téléphone complet, attestation sur l’honneur signée, puis version
+  signée et cachetée. Confirmation finale de complétude et organisation de la livraison attendues.
