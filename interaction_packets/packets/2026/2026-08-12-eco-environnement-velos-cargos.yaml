@@ -87,10 +87,10 @@ recipients:
 current_status:
   label: "Attestation signée et cachetée envoyée — confirmation finale et livraison attendues"
   interpretation: >
-    Les demandes documentaires formulées successivement par Eco Environnement ont été
-    satisfaites : numéro de téléphone complet, attestation sur l’honneur signée, puis ajout
-    du cachet associatif. Une confirmation explicite de complétude du dossier et les modalités
-    de livraison des quatre vélos sont désormais attendues.
+    Les demandes documentaires formulées par Eco Environnement ont été satisfaites :
+    numéro de téléphone complet, attestation sur l’honneur signée et cachet associatif.
+    Une confirmation explicite de complétude du dossier et les modalités de livraison des
+    quatre vélos sont désormais attendues.
 
 next_watch:
   - "Confirmation de bonne réception de l’attestation signée et cachetée"
@@ -102,14 +102,18 @@ process_observation:
   type: "user_assessment"
   label: "Machine à Empêcher"
   note: >
-    Jean Hugues Robert qualifie cet enchaînement de formalités successives de particulièrement
-    bureaucratique et borné : une information déjà attestée dans le corps du courriel a été
-    redemandée sous forme d’attestation, puis l’attestation signée a elle-même été jugée
-    insuffisante sans apposition d’un cachet. Cette appréciation est consignée comme retour
-    d’expérience du demandeur, et non comme qualification factuelle ou juridique d’Eco Environnement.
+    Jean Hugues Robert précise que le problème n’est pas que les exigences aient été
+    formulées tardivement : elles figuraient déjà dans la demande initiale. Son objection
+    porte sur leur nécessité et leur proportionnalité. Selon lui, l’information pouvait
+    être valablement déclarée par courriel et l’exigence d’une attestation formelle puis
+    d’un cachet associatif relève d’un formalisme hérité d’un cadre administratif ancien,
+    qui crée du travail supplémentaire pour l’organisme comme pour le demandeur sans bénéfice
+    évident. Cette appréciation est consignée comme retour d’expérience et hypothèse de
+    "Machine à Empêcher" ; aucune base légale imposant spécifiquement ces formalités n’a été
+    identifiée dans la correspondance elle-même.
 
 resume_public: >
   Entre les 12 et 13 août 2026, C.O.R.S.I.C.A. a transmis à Eco Environnement les éléments
-  successivement demandés pour finaliser un dossier de livraison de quatre vélos cargos
-  électriques : numéro de téléphone complet, attestation sur l’honneur signée, puis version
-  signée et cachetée. Confirmation finale de complétude et organisation de la livraison attendues.
+  demandés pour finaliser un dossier de livraison de quatre vélos cargos électriques :
+  numéro de téléphone complet, attestation sur l’honneur signée et version cachetée.
+  Confirmation finale de complétude et organisation de la livraison attendues.
