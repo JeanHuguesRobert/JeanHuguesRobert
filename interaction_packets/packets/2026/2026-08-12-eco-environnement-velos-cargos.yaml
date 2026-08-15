@@ -3,7 +3,7 @@ id: "2026-08-12-001"
 type: "interaction_packet"
 status: "active"
 created: "2026-08-12"
-last_updated: "2026-08-13"
+last_updated: "2026-08-15"
 disclosure: "D2"
 
 date_envoi: "2026-08-12"
@@ -21,9 +21,12 @@ institution:
   email: "documents@ecoenvironnement.net"
 
 contexte: >
-  Eco Environnement a indiqué que les livraisons étaient en cours. Après communication
-  du numéro de téléphone complet, Eco Environnement a demandé une attestation sur l’honneur
-  pour finaliser le dossier de l’Association C.O.R.S.I.C.A. et passer à la livraison.
+  Dossier relatif à quatre vélos cargos électriques commandés suivant devis ELEC-VC4B-002669,
+  signé électroniquement le 7 septembre 2025. Après plusieurs demandes documentaires destinées
+  à finaliser le dossier, C.O.R.S.I.C.A. a transmis le numéro de téléphone demandé, une attestation
+  sur l’honneur signée puis une version portant également le cachet associatif. Eco Environnement
+  a confirmé la réception de cette dernière pièce le 14 août 2026 sans répondre aux questions
+  réitérées sur les modalités ou étapes de livraison.
 
 timeline:
   - date: "2026-08-12"
@@ -78,6 +81,32 @@ timeline:
     attachment: "attestation_honneur_CORSICA_velos_cargos_2026-08-13_cachet.pdf"
     gmail_message_id: "19ffcb8bec45247f"
     status: "sent"
+  - date: "2026-08-14"
+    time: "11:05"
+    direction: "inbound"
+    channel: "email (Gmail)"
+    event: "Confirmation de réception sans réponse sur la livraison"
+    summary: >
+      Eco Environnement confirme avoir bien reçu le document et remercie pour sa transmission,
+      mais ne répond pas aux questions réitérées sur la complétude du dossier, les prochaines
+      étapes ou les modalités de livraison. Le message invite par ailleurs à formuler toute
+      demande d’information complémentaire.
+    status: "received"
+  - date: "2026-08-15"
+    time: "11:11"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Demande de première possibilité concrète de livraison"
+    summary: >
+      C.O.R.S.I.C.A. constate que toutes les pièces demandées ont été transmises et demande
+      une clôture rapide de l’opération. L’approche de la rentrée universitaire à Corte est
+      mentionnée comme raison pratique d’une livraison rapide. L’association se déclare prête
+      à s’adapter aux contraintes logistiques, y compris avec un préavis court pour une
+      opportunité de livraison en Corse. Demande de confirmation de complétude du dossier,
+      de la première possibilité concrète de livraison disponible et, le cas échéant, de tout
+      élément restant à résoudre. Préférence pour le canal email réaffirmée. Institut Mariani en copie.
+    gmail_message_id: "1a004b0ce713ea69"
+    status: "sent"
 
 recipients:
   primary: "documents@ecoenvironnement.net"
@@ -85,35 +114,35 @@ recipients:
     - "institutmariani@gmail.com"
 
 current_status:
-  label: "Attestation signée et cachetée envoyée — confirmation finale et livraison attendues"
+  label: "Dossier documentaire satisfait — livraison concrète demandée le 15/08"
   interpretation: >
-    Les demandes documentaires formulées par Eco Environnement ont été satisfaites :
-    numéro de téléphone complet, attestation sur l’honneur signée et cachet associatif.
-    Une confirmation explicite de complétude du dossier et les modalités de livraison des
-    quatre vélos sont désormais attendues.
+    Eco Environnement a confirmé le 14 août la réception de la dernière pièce documentaire,
+    sans répondre aux questions de livraison. Le 15 août, C.O.R.S.I.C.A. a demandé explicitement
+    la première possibilité concrète de livraison, en offrant une forte flexibilité logistique
+    et un préavis court. Une réponse opérationnelle est désormais attendue.
 
 next_watch:
-  - "Confirmation de bonne réception de l’attestation signée et cachetée"
   - "Confirmation explicite que le dossier est complet"
-  - "Modalités et date de livraison des quatre vélos"
+  - "Première possibilité concrète ou date/fenêtre de livraison des quatre vélos"
+  - "Cause précise invoquée si aucune livraison ne peut être programmée"
   - "Toute nouvelle demande financière, contractuelle ou documentaire"
+  - "Nouvelle réponse qui éluderait encore les questions de livraison"
 
 process_observation:
-  type: "user_assessment"
-  label: "Machine à Empêcher"
+  type: "revealing_observation"
+  label: "Asymétrie de traitement / Machine à Empêcher"
   note: >
-    Jean Hugues Robert précise que le problème n’est pas que les exigences aient été
-    formulées tardivement : elles figuraient déjà dans la demande initiale. Son objection
-    porte sur leur nécessité et leur proportionnalité. Selon lui, l’information pouvait
-    être valablement déclarée par courriel et l’exigence d’une attestation formelle puis
-    d’un cachet associatif relève d’un formalisme hérité d’un cadre administratif ancien,
-    qui crée du travail supplémentaire pour l’organisme comme pour le demandeur sans bénéfice
-    évident. Cette appréciation est consignée comme retour d’expérience et hypothèse de
-    "Machine à Empêcher" ; aucune base légale imposant spécifiquement ces formalités n’a été
-    identifiée dans la correspondance elle-même.
+    Les demandes documentaires d’Eco Environnement ont suscité des réponses rapides et ont été
+    successivement satisfaites par C.O.R.S.I.C.A. En revanche, la confirmation du 14 août ne
+    répond pas aux questions déjà formulées sur la livraison. Cette asymétrie est consignée comme
+    observation factuelle à suivre, sans préjuger de sa cause. Le stabilisateur choisi consiste
+    à réduire la friction côté bénéficiaire, conserver le canal écrit, offrir une flexibilité
+    logistique et demander une action concrète plutôt qu’une information générale.
 
 resume_public: >
-  Entre les 12 et 13 août 2026, C.O.R.S.I.C.A. a transmis à Eco Environnement les éléments
-  demandés pour finaliser un dossier de livraison de quatre vélos cargos électriques :
-  numéro de téléphone complet, attestation sur l’honneur signée et version cachetée.
-  Confirmation finale de complétude et organisation de la livraison attendues.
+  Entre les 12 et 15 août 2026, C.O.R.S.I.C.A. a satisfait les demandes documentaires formulées
+  pour finaliser la livraison de quatre vélos cargos électriques. Eco Environnement a confirmé
+  réception de la dernière pièce le 14 août sans préciser les modalités de livraison. Le 15 août,
+  l’association a demandé la première possibilité concrète de livraison, en indiquant sa capacité
+  à s’adapter à un préavis court et aux contraintes logistiques en Corse, notamment en vue de la
+  rentrée universitaire à Corte.
