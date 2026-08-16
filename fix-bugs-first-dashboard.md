@@ -1,23 +1,15 @@
 ---
 title: "Fix Bugs First Work Dashboard"
 schema: "cogentia.fix-bugs-first-dashboard.v1"
-generated_at: "2026-08-09T14:30:32.738Z"
+generated_at: "2026-08-13T22:30:15.383Z"
 doctrine: "Fix Bugs First (Operium / Cogentia)"
-total_items: 14
+total_items: 15
 open_bugs: 0
-document_role: "operational"
-document_kind: "dashboard"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "dashboard"
-classification_confidence: "medium"
 ---
 
 # 🛡️ Fix Bugs First Work Dashboard
 
-> *Generated at 2026-08-09T14:30:32.738Z from native system of records (Operium Backlog & GitHub Issues).*
+> *Generated at 2026-08-13T22:30:15.383Z from native system of records (Operium Backlog & GitHub Issues).*
 
 ## 🚦 Subsystem Gates Overview
 
@@ -25,6 +17,7 @@ classification_confidence: "medium"
 |---|---|---|---|---|
 | `agent-gateway` | ✅ **OK** | 0 | None | None |
 | `cli` | ✅ **OK** | 0 | None | None |
+| `cogentia-context` | ✅ **OK** | 0 | None | None |
 | `docs` | ✅ **OK** | 0 | None | OP-FEAT-007 |
 | `magistral-routing` | ✅ **OK** | 0 | None | None |
 | `mesh` | ✅ **OK** | 0 | None | OP-FEAT-002, OP-FEAT-004 |
@@ -67,6 +60,7 @@ classification_confidence: "medium"
 - [x] **[OP-BUG-004]** Workstation admin-scoped npm tooling breaks user-space installs (`tooling` - bug)
 - [x] **[OP-BUG-005]** Secrets research notes drift from operational secrets-management.md (`docs` - bug)
 - [x] **[OP-BUG-006]** Termux shell profile trusts an inherited sentinel with an incomplete environment (`tooling` - bug)
+- [x] **[OP-BUG-007]** Gateway semantic search called AI-router embeddings inline (IoC violation) (`cogentia-context` - bug)
 - [x] **[OP-FEAT-001]** Automate Magistral coding-agent map apply + verify on fracta (`magistral-routing` - feature)
 - [x] **[OP-FEAT-003]** Cross-device WIP handoff/resume polish (`cli` - feature)
 - [x] **[OP-FEAT-008]** Bounded Termux tmux handoff helper (`cli` - feature)

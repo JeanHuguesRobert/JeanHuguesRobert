@@ -1,12 +1,12 @@
 {
   "schema": "cogentia.fix-bugs-first-dashboard.v1",
-  "generated_at": "2026-08-09T14:30:32.738Z",
+  "generated_at": "2026-08-13T22:30:15.383Z",
   "doctrine": "Fix Bugs First (Operium / Cogentia)",
   "metadata": {
-    "total_items": 14,
+    "total_items": 15,
     "open_bugs_count": 0,
     "open_features_count": 5,
-    "subsystems_count": 10,
+    "subsystems_count": 11,
     "view_id": "fix-bugs-first-dashboard",
     "visibility": "public",
     "generator": "scripts/generate-fix-bugs-first-dashboard.js",
@@ -39,6 +39,14 @@
       "subsystem": "cli",
       "state": "OK",
       "total_items": 2,
+      "open_bugs": 0,
+      "blocking_bugs": [],
+      "gated_features": []
+    },
+    "cogentia-context": {
+      "subsystem": "cogentia-context",
+      "state": "OK",
+      "total_items": 1,
       "open_bugs": 0,
       "blocking_bugs": [],
       "gated_features": []
@@ -140,7 +148,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -164,7 +172,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -188,7 +196,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -212,7 +220,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -236,7 +244,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     }
   ],
@@ -262,7 +270,7 @@
       "closed_at": "2026-07-30",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.736Z"
+        "imported_at": "2026-08-13T22:30:15.374Z"
       }
     },
     {
@@ -286,7 +294,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.737Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -310,7 +318,7 @@
       "closed_at": "2026-07-26",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.737Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -334,7 +342,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.737Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -358,7 +366,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.737Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -382,7 +390,31 @@
       "closed_at": "2026-08-06",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.737Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
+      }
+    },
+    {
+      "id": "OP-BUG-007",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "now",
+      "importance": "essential",
+      "severity": "high",
+      "status": "done",
+      "subsystem": "cogentia-context",
+      "title": "Gateway semantic search called AI-router embeddings inline (IoC violation)",
+      "evidence": "2026-08-12 audit (research/ioc_continuation_openai_path_audit_2026-08-12.md): contextSemanticSearch on query-embed cache miss called createQueryEmbedding (AI-router /v1/embeddings) on the public context path, unlike CLI semanticSearch which emits a continuation. Fix Bugs First / Agent-Resumable CLI: structural tools must not hide provider judgment. Fixed on cogentia main: cache miss emits semantic-search continuation; hybrid falls back to keyword; health flags semantic_requires_continuation=true; direct_query_embeddings_enabled=false. Supabase/Inox inline embed gated by COGENTIA_ALLOW_INLINE_EMBED_FULFILL=1. Tests: test-query-embedding-cache.js.",
+      "next_action": "Watch hybrid quality on fracta after deploy; pre-warm embeds via search-with --cache-query where semantic is required.",
+      "github_issue": null,
+      "url": null,
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-08-12",
+      "closed_at": "2026-08-12",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -406,7 +438,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -430,7 +462,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -454,7 +486,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     }
   ],
@@ -480,7 +512,7 @@
       "closed_at": "2026-07-30",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.736Z"
+        "imported_at": "2026-08-13T22:30:15.374Z"
       }
     },
     {
@@ -504,7 +536,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.737Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -528,7 +560,7 @@
       "closed_at": "2026-07-26",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.737Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -552,7 +584,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.737Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -576,7 +608,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.737Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -600,7 +632,31 @@
       "closed_at": "2026-08-06",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.737Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
+      }
+    },
+    {
+      "id": "OP-BUG-007",
+      "kind": "bug",
+      "work_type": "maintenance",
+      "urgency": "now",
+      "importance": "essential",
+      "severity": "high",
+      "status": "done",
+      "subsystem": "cogentia-context",
+      "title": "Gateway semantic search called AI-router embeddings inline (IoC violation)",
+      "evidence": "2026-08-12 audit (research/ioc_continuation_openai_path_audit_2026-08-12.md): contextSemanticSearch on query-embed cache miss called createQueryEmbedding (AI-router /v1/embeddings) on the public context path, unlike CLI semanticSearch which emits a continuation. Fix Bugs First / Agent-Resumable CLI: structural tools must not hide provider judgment. Fixed on cogentia main: cache miss emits semantic-search continuation; hybrid falls back to keyword; health flags semantic_requires_continuation=true; direct_query_embeddings_enabled=false. Supabase/Inox inline embed gated by COGENTIA_ALLOW_INLINE_EMBED_FULFILL=1. Tests: test-query-embedding-cache.js.",
+      "next_action": "Watch hybrid quality on fracta after deploy; pre-warm embeds via search-with --cache-query where semantic is required.",
+      "github_issue": null,
+      "url": null,
+      "repository": "operium",
+      "blocks_features": false,
+      "waiver": null,
+      "opened_at": "2026-08-12",
+      "closed_at": "2026-08-12",
+      "provenance": {
+        "source": "operium-backlog",
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -624,7 +680,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -648,7 +704,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -672,7 +728,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -696,7 +752,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -720,7 +776,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -744,7 +800,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -768,7 +824,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     },
     {
@@ -792,7 +848,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-09T14:30:32.738Z"
+        "imported_at": "2026-08-13T22:30:15.382Z"
       }
     }
   ]
