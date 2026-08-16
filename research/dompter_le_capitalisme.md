@@ -86,6 +86,49 @@ La traçabilité économique devient ici une composante de l'anti-capture.
 
 ---
 
+## De la captation à la capacitation
+
+Le marché permet à certains acteurs de **capter** une part de la valeur créée par une activité, une infrastructure, un territoire ou un écosystème. *Dompter le capitalisme* ne consiste pas seulement à accepter cette captation sous condition ; il consiste aussi à en **rediriger structurellement** une partie vers des capacités qui bénéficient plus largement aux personnes et aux communautés dont l'écosystème rend cette valeur possible.
+
+Le mécanisme recherché est :
+
+```text
+CAPTATION
+  ↓
+REDIRECTION GOUVERNÉE
+  ↓
+COMMUNS / INFRASTRUCTURES / SERVICES
+  ↓
+CAPACITATION DES HABITANTS
+  ↓
+AUTONOMIE DE CAPACITÉ
+```
+
+La redistribution ne porte donc pas seulement sur de l'argent. Elle peut porter sur des capacités durables : logiciels ouverts, compute, énergie, connaissances, Digital Twins, outils de preuve, infrastructures territoriales, services gratuits ou fortement mutualisés.
+
+Une formulation opérationnelle est :
+
+> **Rediriger les captations vers l'Autonomie de Capacité des habitants.**
+
+Une captation est d'autant plus acceptable qu'elle est gouvernée de manière à augmenter les capacités de ceux dont l'activité collective, le territoire ou l'écosystème rendent cette captation possible.
+
+Cette orientation doit elle-même être soumise à l'Intent Assurance et à la traçabilité économique :
+
+```text
+Intent : Dompter le capitalisme
+  ↓
+Follow the Money / Follow the Flows
+  ↓
+quelle valeur a été captée ?
+où a-t-elle été redirigée ?
+quelles capacités communes en ont résulté ?
+qui en bénéficie effectivement ?
+```
+
+Le risque à éviter est que « Dompter le capitalisme » devienne une intention vertueuse seulement déclarée. La redirection doit pouvoir devenir observable, mesurable et contestable.
+
+---
+
 ## Subvention croisée : faire payer la valeur économique pour financer la valeur humaine
 
 FractaVolta fournit un cas d'application particulièrement clair.
@@ -285,6 +328,8 @@ L'IA est acceptable comme instrument lorsqu'elle augmente la capacité cognitive
 > **Le capital peut financer la capacité ; il ne doit pas acheter la souveraineté.**
 
 > **Faire payer ce qui possède une forte valeur économique afin de contribuer à rendre accessible ce qui possède une forte valeur humaine.**
+
+> **Rediriger les captations vers l'Autonomie de Capacité des habitants.**
 
 > **Gratuit pour l'individu ne doit jamais vouloir dire payé par sa capture.**
 
