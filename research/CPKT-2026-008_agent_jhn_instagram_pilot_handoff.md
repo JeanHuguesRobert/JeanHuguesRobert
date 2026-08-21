@@ -146,3 +146,15 @@ human decision required.
 - **Design status:** neutral reversible template only (ivory, navy, terracotta; no portrait, logo, synthetic image, or factual addition). The SVGs are not yet human-validated, rasterized, or verified against the platform's current upload requirements.
 - **External Instagram act:** none.
 - **Next gate:** human visual/template review, then a local raster export and asset verification before the existing editorial/account review and manual publication gates.
+
+### Hop 3 — 2026-08-21 — conversation closure and durable resume point
+
+- **Classification:** `mandate_gate` / `judgment_boundary`; the remaining work is not a technical failure.
+- **Handler:** Codex agent, preparation and corpus-stabilization mandate only.
+- **Durable state:** the pilot and its six SVG card drafts were integrated into `JeanHuguesRobert/JeanHuguesRobert` `main` at `1b0f67bde28c61cead8d8d17ea3a4a63a8d53340`. The untracked local `.cogentia/views-publish/` directory was pre-existing and remains excluded.
+- **Related durable changes:** Cogentia public-presence doctrine at `a360eeb286630f44caa640fd31309298d1b0173a`; Ubikia public-presence policy at `b3b3143958899ad72e9e39dc9e6ea6ed7f6bf12e`; local Instagram package generator at `a77413b7f71c031a1e0c523b30ce2cf630d5fad1`.
+- **Current proposal:** `ctn_ig_20260820_01` remains `draft`; its package has `media_status: available`, but its SVG cards have not been human-validated, rasterized, or verified against current upload requirements.
+- **External Instagram act:** none throughout this work: no account access, setting, credential, API call, remote draft, schedule, publication, interaction, targeting, data collection, or spend.
+- **Human decisions still required:** (1) verify the intended account and its no-boost/no-targeting condition; (2) approve, revise, reject, or expire the exact draft and its visual template; (3) personally publish manually if approved. Approval does not authorize agent publication.
+- **Deferred doctrinal continuations:** stabilize the naming/identity architecture (principal, *Les Carnets du Baron Mariani*, Barons Mariani / future Fonds); add a dated non-secret account-activation checklist; optionally develop the documented critique of *personal branding* into a sourced corpus note.
+- **Safe resume:** `git pull`; read this file, `research/instagram-pilot/README.md`, `research/instagram-pilot/packets/ctn_ig_20260820_01.md`, and `research/instagram-pilot/packages/ctn_ig_20260820_01.package.json`; then inspect current platform requirements before any connector or remote act.
