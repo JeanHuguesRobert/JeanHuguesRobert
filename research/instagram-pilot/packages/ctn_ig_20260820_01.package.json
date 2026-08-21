@@ -1,0 +1,85 @@
+{
+  "schema": "ubikia.instagram-publication-package.v0.1",
+  "created_at": "2026-08-21T21:13:36.836Z",
+  "id": "ctn_ig_20260820_01",
+  "status": "draft",
+  "target": "instagram",
+  "form": "carousel",
+  "language": "fr",
+  "principal": "Jean Hugues Noël Robert",
+  "persona": "Agent JHN",
+  "title": "Un agent prépare ; une personne décide",
+  "caption": "Une IA peut aider à lire, comparer et préparer. Elle ne devient pas pour autant une personne, un électeur ou un mandataire.\n\nAgent JHN est une expérimentation publique : ses brouillons doivent rester traçables, ses limites explicites, et toute décision qui engage une personne doit être prise par cette personne.\n\nCe n'est pas une promesse de perfection. C'est une règle de responsabilité : l'outil peut éclairer ; l'humain décide.\n\nLa notice publique et les sources sont accessibles depuis le corpus JeanHuguesRobert.",
+  "media_status": "available",
+  "media": [
+    {
+      "filename": "card-01.svg",
+      "type": "image",
+      "alt_text": "Une IA peut préparer. Elle ne doit pas décider à notre place.",
+      "sha256": null
+    },
+    {
+      "filename": "card-02.svg",
+      "type": "image",
+      "alt_text": "Agent JHN est un assistant numérique expérimental. Il n'est pas Jean Hugues Robert.",
+      "sha256": null
+    },
+    {
+      "filename": "card-03.svg",
+      "type": "image",
+      "alt_text": "Ce qu'il peut faire : retrouver des sources, organiser une idée, résumer, signaler une incertitude, préparer un brouillon.",
+      "sha256": null
+    },
+    {
+      "filename": "card-04.svg",
+      "type": "image",
+      "alt_text": "Ce qu'il ne peut pas faire : voter, représenter une personne, promettre, accepter, signer ou publier à sa place.",
+      "sha256": null
+    },
+    {
+      "filename": "card-05.svg",
+      "type": "image",
+      "alt_text": "La règle est simple : l'outil rend le travail plus lisible ; la décision reste humaine, attribuée et révisable.",
+      "sha256": null
+    },
+    {
+      "filename": "card-06.svg",
+      "type": "image",
+      "alt_text": "Comment vérifier ? Les limites et les sources publiques de l'agent sont documentées. Référence : github.com/JeanHuguesRobert/JeanHuguesRobert.",
+      "sha256": null
+    }
+  ],
+  "public_presence": {
+    "editorial_objectives": [
+      "Expliquer publiquement la frontière entre préparation assistée et décision humaine.",
+      "Rendre accessibles les sources et limites publiques d'Agent JHN."
+    ],
+    "distribution_strategy": "principal_selected",
+    "fabricated_support": false,
+    "autonomous_engagement_optimization": false,
+    "opinion_normalization": false
+  },
+  "authenticity": {
+    "authenticity_risk": "none",
+    "disclosure_required": false,
+    "disclosure_text": null,
+    "human_editorial_review": "pending",
+    "responsible_publisher": null
+  },
+  "provenance": {
+    "source_repository": "JeanHuguesRobert/JeanHuguesRobert",
+    "source_path": "research/agent-jhn-experimental-notice.md",
+    "source_commit": "b6beb1497e383bcf532c35ce6cfe752c8d5fd092",
+    "derived_product": "research/instagram-pilot/packets/ctn_ig_20260820_01.md",
+    "source_url": "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/b6beb1497e383bcf532c35ce6cfe752c8d5fd092/research/agent-jhn-experimental-notice.md"
+  },
+  "human_publication_gates": {
+    "human_editorial_review_required": true,
+    "account_and_audience_context_check_required": true,
+    "media_files_must_be_verified": true,
+    "manual_publication_required": true,
+    "automatic_public_publish": false,
+    "remote_api_call_performed": false
+  },
+  "publication_result": null
+}

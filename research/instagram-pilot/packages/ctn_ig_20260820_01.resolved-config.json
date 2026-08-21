@@ -1,0 +1,313 @@
+{
+  "schema": "ubikia.resolved-user-configuration.v0.1",
+  "resolved_at": "2026-08-21T20:44:07.732Z",
+  "config": {
+    "defaultLanguage": "fr",
+    "audio": {
+      "defaultProvider": "gradium",
+      "fallbackProviders": [],
+      "defaultFormats": [
+        "mp3",
+        "opus"
+      ],
+      "providers": {
+        "gradium": {
+          "enabled": true
+        },
+        "cartesia": {
+          "enabled": true
+        }
+      },
+      "voiceReference": "env:GRADIUM_VOICE_ID",
+      "syntheticVoiceDisclosure": "Cette édition audio utilise une voix synthétique personnalisée créée et autorisée par l’auteur."
+    },
+    "publicationPolicy": {
+      "humanReviewRequired": true,
+      "automaticPublicPublicationAllowed": false,
+      "firstUploadVisibility": "private",
+      "sourceLinkRequired": true,
+      "syntheticVoiceDisclosureRequired": true
+    },
+    "publicPresencePolicy": {
+      "editorialObjectivesMustBeExplicit": true,
+      "autonomousEngagementOptimizationAllowed": false,
+      "fabricatedSupportAllowed": false,
+      "opinionNormalizationAllowed": false
+    },
+    "schema": "ubikia.user-profile.v0.1",
+    "account": "JeanHuguesRobert",
+    "displayName": "Jean Hugues Noël Robert",
+    "instructionFiles": [
+      ".ubikia/instructions.md"
+    ],
+    "series": [
+      {
+        "id": "carnets-baron-mariani-audio",
+        "title": "Les Carnets du baron Mariani — édition audio",
+        "language": "fr",
+        "author": "Jean Hugues Noël Robert",
+        "writtenPlatform": "substack",
+        "audioPlatform": "youtube",
+        "defaultVisibility": "private"
+      }
+    ],
+    "secretReferences": {
+      "gradiumApiKey": "env:GRADIUM_API_KEY"
+    }
+  },
+  "provenance": {
+    "defaultLanguage": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "audio.defaultProvider": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "audio.fallbackProviders": {
+      "layer": "ubikia-defaults",
+      "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+      "commit": null,
+      "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7"
+    },
+    "audio.defaultFormats": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "audio.providers.gradium.enabled": {
+      "layer": "ubikia-defaults",
+      "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+      "commit": null,
+      "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7"
+    },
+    "audio.providers.cartesia.enabled": {
+      "layer": "ubikia-defaults",
+      "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+      "commit": null,
+      "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7"
+    },
+    "publicationPolicy.humanReviewRequired": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "publicationPolicy.automaticPublicPublicationAllowed": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "publicationPolicy.firstUploadVisibility": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "publicationPolicy.sourceLinkRequired": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "publicationPolicy.syntheticVoiceDisclosureRequired": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "publicPresencePolicy.editorialObjectivesMustBeExplicit": {
+      "layer": "ubikia-defaults",
+      "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+      "commit": null,
+      "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7"
+    },
+    "publicPresencePolicy.autonomousEngagementOptimizationAllowed": {
+      "layer": "ubikia-defaults",
+      "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+      "commit": null,
+      "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7"
+    },
+    "publicPresencePolicy.fabricatedSupportAllowed": {
+      "layer": "ubikia-defaults",
+      "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+      "commit": null,
+      "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7"
+    },
+    "publicPresencePolicy.opinionNormalizationAllowed": {
+      "layer": "ubikia-defaults",
+      "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+      "commit": null,
+      "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7"
+    },
+    "schema": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "account": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "displayName": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "instructionFiles": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "audio.voiceReference": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "audio.syntheticVoiceDisclosure": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "series": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    },
+    "secretReferences.gradiumApiKey": {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+    }
+  },
+  "layers": [
+    {
+      "name": "ubikia-defaults",
+      "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+      "commit": null,
+      "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7",
+      "precedence": 0
+    },
+    {
+      "name": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5",
+      "precedence": 1
+    }
+  ],
+  "invariants": [
+    {
+      "path": "publicationPolicy.humanReviewRequired",
+      "expected": true,
+      "reason": "Derived products require a human or explicitly governed review checkpoint.",
+      "status": "satisfied",
+      "provenance": {
+        "layer": "public-profile",
+        "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+        "commit": null,
+        "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+      }
+    },
+    {
+      "path": "publicationPolicy.automaticPublicPublicationAllowed",
+      "expected": false,
+      "reason": "Public publication must remain a distinct, explicit act.",
+      "status": "satisfied",
+      "provenance": {
+        "layer": "public-profile",
+        "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+        "commit": null,
+        "sha256": "e67afa309681f6c45f9a973c0506d9ad26560ddb611119630d68043ff78ebee5"
+      }
+    },
+    {
+      "path": "publicPresencePolicy.editorialObjectivesMustBeExplicit",
+      "expected": true,
+      "reason": "A publication package must declare the principal's editorial objective.",
+      "status": "satisfied",
+      "provenance": {
+        "layer": "ubikia-defaults",
+        "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+        "commit": null,
+        "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7"
+      }
+    },
+    {
+      "path": "publicPresencePolicy.autonomousEngagementOptimizationAllowed",
+      "expected": false,
+      "reason": "Ubikia must not silently optimize engagement, outrage, or compulsive attention.",
+      "status": "satisfied",
+      "provenance": {
+        "layer": "ubikia-defaults",
+        "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+        "commit": null,
+        "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7"
+      }
+    },
+    {
+      "path": "publicPresencePolicy.fabricatedSupportAllowed",
+      "expected": false,
+      "reason": "Ubikia must not fabricate support or treat a persona as an additional person.",
+      "status": "satisfied",
+      "provenance": {
+        "layer": "ubikia-defaults",
+        "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+        "commit": null,
+        "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7"
+      }
+    },
+    {
+      "path": "publicPresencePolicy.opinionNormalizationAllowed",
+      "expected": false,
+      "reason": "Ubikia must not normalize or govern the principal's opinions.",
+      "status": "satisfied",
+      "provenance": {
+        "layer": "ubikia-defaults",
+        "source": "C:\\tweesic\\ubikia\\config\\defaults.json",
+        "commit": null,
+        "sha256": "6c2cac867c8f888dd2a307716188e4747c1f28ce96fa2a2a3760137fb49136f7"
+      }
+    }
+  ],
+  "secret_references": [
+    {
+      "path": "audio.voiceReference",
+      "reference": "env:GRADIUM_VOICE_ID",
+      "kind": "env",
+      "name": "GRADIUM_VOICE_ID",
+      "status": "available"
+    },
+    {
+      "path": "secretReferences.gradiumApiKey",
+      "reference": "env:GRADIUM_API_KEY",
+      "kind": "env",
+      "name": "GRADIUM_API_KEY",
+      "status": "available"
+    }
+  ],
+  "instructions": [
+    {
+      "layer": "public-profile",
+      "source": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\profile.json",
+      "commit": null,
+      "filename": "C:\\tweesic\\JeanHuguesRobert\\.ubikia\\instructions.md",
+      "sha256": "e1b04449ed686c9696746f5d1b7f9acc462400613300ee04e1b56c3904f5a248"
+    }
+  ]
+}
