@@ -7,3 +7,6 @@
 .cogentia/index/
 .cogentia/embeddings_result_*.json
 .cogentia/semantic_search_result_*.json
+
+# Temporary Views Store staging; authoritative generated views are tracked elsewhere.
+.cogentia/views-publish/
