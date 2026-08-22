@@ -93,7 +93,7 @@ Ubikia: **persona × form × platform** are orthogonal. Facebook/WhatsApp is not
 
 | Channel / platform | Form | Style |
 |---------|------|-------|
-| WhatsApp, Signal, iMessage, SMS (Agent John) | **short_messages** — scannable, 1–3 tight paragraphs, one complete thought | This STYLE.md |
+| WhatsApp, Signal, iMessage, SMS (Agent John) | **short_messages** — adapt to the interlocutor (last turn, attention, speaking time); scannable 1–3 tight paragraphs as a *prior*, not a hard character quota | This STYLE.md |
 | Web twin (`/john`) | **web_conversation** — longer thread, citations | This STYLE.md |
 | Web Guide | Impersonal professional corpus tool | This STYLE.md (same kernel, Guide mandate) |
 | OpenAI jhn-public | Guide-class or twin, by surface | This STYLE.md |
