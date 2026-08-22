@@ -1,7 +1,7 @@
 ---
 title: "Fix Bugs First Work Dashboard"
 schema: "cogentia.fix-bugs-first-dashboard.v1"
-generated_at: "2026-08-13T22:30:15.383Z"
+generated_at: "2026-08-22T07:38:51.852Z"
 doctrine: "Fix Bugs First (Operium / Cogentia)"
 total_items: 15
 open_bugs: 0
@@ -9,7 +9,7 @@ open_bugs: 0
 
 # 🛡️ Fix Bugs First Work Dashboard
 
-> *Generated at 2026-08-13T22:30:15.383Z from native system of records (Operium Backlog & GitHub Issues).*
+> *Generated at 2026-08-22T07:38:51.852Z from native system of records (Operium Backlog & GitHub Issues).*
 
 ## 🚦 Subsystem Gates Overview
 

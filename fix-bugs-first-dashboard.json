@@ -1,6 +1,6 @@
 {
   "schema": "cogentia.fix-bugs-first-dashboard.v1",
-  "generated_at": "2026-08-13T22:30:15.383Z",
+  "generated_at": "2026-08-22T07:38:51.852Z",
   "doctrine": "Fix Bugs First (Operium / Cogentia)",
   "metadata": {
     "total_items": 15,
@@ -148,7 +148,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -172,7 +172,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     },
     {
@@ -196,7 +196,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     },
     {
@@ -220,7 +220,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     },
     {
@@ -244,7 +244,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     }
   ],
@@ -270,7 +270,7 @@
       "closed_at": "2026-07-30",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.374Z"
+        "imported_at": "2026-08-22T07:38:51.835Z"
       }
     },
     {
@@ -294,7 +294,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -318,7 +318,7 @@
       "closed_at": "2026-07-26",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -342,7 +342,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -366,7 +366,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -390,7 +390,7 @@
       "closed_at": "2026-08-06",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -414,7 +414,7 @@
       "closed_at": "2026-08-12",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -438,7 +438,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -462,7 +462,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     },
     {
@@ -486,7 +486,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     }
   ],
@@ -512,7 +512,7 @@
       "closed_at": "2026-07-30",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.374Z"
+        "imported_at": "2026-08-22T07:38:51.835Z"
       }
     },
     {
@@ -536,7 +536,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -560,7 +560,7 @@
       "closed_at": "2026-07-26",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -584,7 +584,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -608,7 +608,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -632,7 +632,7 @@
       "closed_at": "2026-08-06",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -656,7 +656,7 @@
       "closed_at": "2026-08-12",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -680,7 +680,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -704,7 +704,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.849Z"
       }
     },
     {
@@ -728,7 +728,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     },
     {
@@ -752,7 +752,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     },
     {
@@ -776,7 +776,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     },
     {
@@ -800,7 +800,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     },
     {
@@ -824,7 +824,7 @@
       "closed_at": null,
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     },
     {
@@ -848,7 +848,7 @@
       "closed_at": "2026-08-07",
       "provenance": {
         "source": "operium-backlog",
-        "imported_at": "2026-08-13T22:30:15.382Z"
+        "imported_at": "2026-08-22T07:38:51.850Z"
       }
     }
   ]
