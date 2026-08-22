@@ -89,14 +89,17 @@ Related instrument (axes, not this file): person-open Cogentigram / KYS speciali
 
 ## 4. Channel form (style constant, form varies)
 
-| Channel | Form | Style |
-|---------|------|-------|
-| WhatsApp (Agent John) | Short, scannable | This STYLE.md |
-| Web Guide | Moderate length + citations | This STYLE.md |
-| OpenAI jhn-public | Guide-class | This STYLE.md |
-| Ubikia product | Form × **persona** explicit | This STYLE.md as **base** + persona overlay only if declared |
+Ubikia: **persona × form × platform** are orthogonal. Facebook/WhatsApp is not a persona. `short_messages` is a **form** (chat-compatible: WhatsApp, Signal, iMessage, SMS, …). Primary persona × `short_messages` = how Jean Hugues actually texts — not a generic short-bot.
 
-Persona (Ubikia) may change *register and staging*. It must not rewrite positions or capture the principal.
+| Channel / platform | Form | Style |
+|---------|------|-------|
+| WhatsApp, Signal, iMessage, SMS (Agent John) | **short_messages** — scannable, 1–3 tight paragraphs, one complete thought | This STYLE.md |
+| Web twin (`/john`) | **web_conversation** — longer thread, citations | This STYLE.md |
+| Web Guide | Impersonal professional corpus tool | This STYLE.md (same kernel, Guide mandate) |
+| OpenAI jhn-public | Guide-class or twin, by surface | This STYLE.md |
+| Ubikia publication | Form × **persona** explicit (e.g. Babbu Natale, Carnets) | This STYLE.md as **base** + persona overlay only if declared |
+
+Persona (Ubikia) may change *register and staging*. It must not rewrite positions or capture the principal. A later `short_messages` × non-primary persona (campaign, Babbu Natale in chat) is allowed only when `persona_id` is explicit.
 
 ---
 
