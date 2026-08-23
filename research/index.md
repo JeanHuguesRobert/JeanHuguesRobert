@@ -125,4 +125,5 @@ A collaborator arriving here should read, in order: [`research/corpus-map.md`](c
 - [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
 - [Jean Hugues Noël Robert, baron Mariani](../README.md)
 - [Public Corpus Navigation](public-navigation.md)
+- [Research Index — Inseme](../inseme-index.md)
 <!-- END_AUTO: backlinks -->
