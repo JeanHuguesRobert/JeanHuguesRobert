@@ -1,0 +1,193 @@
+{
+  "ok": true,
+  "generated_at": "2026-08-25T17:13:40.648Z",
+  "generated_by": "cogentia.js v3.0.0",
+  "purpose": "Consolidated current-state of corpus caches/serving layers (no vector or body dumps).",
+  "local_sqlite": {
+    "ok": true,
+    "built": true,
+    "sqlite_available": true,
+    "fts5_available": true,
+    "schema_version": "0.1",
+    "index_hash": "0a719e58098767918e3cbc5a40951d27d74f940c1de57993759ad070567c5edf",
+    "indexing_policy_version": "markdown-v1",
+    "updated_at": "2026-08-25T17:11:43.089Z",
+    "mode": "update",
+    "documents": 1844,
+    "documents_public": 1143,
+    "chunks": 23821,
+    "searchable_public": 23316,
+    "edges": 3188,
+    "continuations": 58,
+    "partial": true,
+    "vector_cache": {
+      "ok": true,
+      "status": "not_required",
+      "built": false,
+      "embedding_rows": 0,
+      "indexes": [],
+      "warnings": []
+    },
+    "path_basename": "corpus.sqlite",
+    "db_file_bytes": 367050752,
+    "chunks_by_repo": [
+      {
+        "repo": "barons-Mariani",
+        "chunks": 7022,
+        "searchable_public": 7022
+      },
+      {
+        "repo": "cogentia",
+        "chunks": 6418,
+        "searchable_public": 6360
+      },
+      {
+        "repo": "inseme",
+        "chunks": 1665,
+        "searchable_public": 1665
+      },
+      {
+        "repo": "FractaVolta",
+        "chunks": 1600,
+        "searchable_public": 1600
+      },
+      {
+        "repo": "operium",
+        "chunks": 1571,
+        "searchable_public": 1380
+      },
+      {
+        "repo": "survey",
+        "chunks": 1103,
+        "searchable_public": 1103
+      },
+      {
+        "repo": "ubikia",
+        "chunks": 1076,
+        "searchable_public": 1076
+      },
+      {
+        "repo": "marenostrum",
+        "chunks": 981,
+        "searchable_public": 981
+      },
+      {
+        "repo": "Inox",
+        "chunks": 625,
+        "searchable_public": 625
+      },
+      {
+        "repo": "JeanHuguesRobert",
+        "chunks": 493,
+        "searchable_public": 489
+      },
+      {
+        "repo": "registre-mariani",
+        "chunks": 252,
+        "searchable_public": 0
+      },
+      {
+        "repo": "StructEnv",
+        "chunks": 239,
+        "searchable_public": 239
+      },
+      {
+        "repo": "Kudos",
+        "chunks": 206,
+        "searchable_public": 206
+      },
+      {
+        "repo": "serra",
+        "chunks": 203,
+        "searchable_public": 203
+      },
+      {
+        "repo": "privai",
+        "chunks": 140,
+        "searchable_public": 140
+      },
+      {
+        "repo": "gouvernance",
+        "chunks": 99,
+        "searchable_public": 99
+      },
+      {
+        "repo": "marianivillage",
+        "chunks": 51,
+        "searchable_public": 51
+      },
+      {
+        "repo": "institut-mariani",
+        "chunks": 42,
+        "searchable_public": 42
+      },
+      {
+        "repo": ".github",
+        "chunks": 19,
+        "searchable_public": 19
+      },
+      {
+        "repo": "acorsica.org",
+        "chunks": 16,
+        "searchable_public": 16
+      }
+    ]
+  },
+  "local_embeddings": {
+    "ok": true,
+    "built": true,
+    "count": 0,
+    "model": null,
+    "dimensions": null,
+    "created_at": null,
+    "repos": [],
+    "providers": [],
+    "path_basename": "corpus.sqlite",
+    "coverage_of_chunks": 0,
+    "coverage_pct": 0,
+    "embeddings_by_repo": []
+  },
+  "remote_supabase": {
+    "ok": false,
+    "configured": false,
+    "backend": null,
+    "reason": "missing_SUPABASE_URL_or_key",
+    "message": "Supabase not configured in this environment (no row fetch attempted).",
+    "skipped": false
+  },
+  "retrieval_backend_env": null,
+  "supabase_configured_env": false,
+  "signals": [
+    {
+      "level": "ok",
+      "code": "index_built",
+      "message": "Index built (23821 chunks)."
+    },
+    {
+      "level": "warn",
+      "code": "embeddings_sparse",
+      "message": "Local embedding coverage 0.0% of chunks."
+    },
+    {
+      "level": "info",
+      "code": "remote_not_configured",
+      "message": "Supabase not configured here (expected on some workstations)."
+    }
+  ],
+  "cross_refs": {
+    "view_id": "corpus-state",
+    "view_url": "https://cogentia.fractavolta.com/views/corpus-state.md",
+    "relation": "operational_export",
+    "kind": "corpus-state",
+    "repo": null,
+    "github": {
+      "full_name": "JeanHuguesRobert/cogentia",
+      "path": "docs/views-store.md",
+      "url": "https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/views-store.md",
+      "note": "Views Store + corpus-state contract"
+    },
+    "site": null,
+    "local_store": "JeanHuguesRobert/.cogentia/index/corpus.sqlite (cache, not published wholesale)",
+    "remote_store": "Supabase public.retrieval_chunks (serving layer; vectors stay remote)"
+  }
+}
