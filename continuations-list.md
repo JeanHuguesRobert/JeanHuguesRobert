@@ -2,15 +2,15 @@
 title: "Alive Continuations List"
 last_modified_at: 2026-08-25
 generated_by: cogentia.js
-generated_at: 2026-08-25T10:17:41.563Z
-total_continuations: 4
+generated_at: 2026-08-25T10:34:03.851Z
+total_continuations: 0
 inventory_total: 452
 content_type: list
 status_filter: alive
 liveness_focus: alive
-alive_count: 4
+alive_count: 0
 hibernating_count: 107
-closed_count: 341
+closed_count: 345
 cross_refs:
   view_id: continuations-list
   view_url: "https://cogentia.fractavolta.com/views/continuations-list.md"
@@ -35,27 +35,20 @@ Continuations are exploration-graph nodes: closed or hibernating records remain 
 
 | Liveness | Meaning | Count |
 |----------|---------|-------|
-| alive | Awake / actionable now (`active`) | 4 |
+| alive | Awake / actionable now (`active`) | 0 |
 | hibernating | Waiting for unknown conditions (`dormant`) | 107 |
-| closed | Visited / terminal for ops (`resolved`, `cancelled`, `completed`, …) | 341 |
+| closed | Visited / terminal for ops (`resolved`, `cancelled`, `completed`, …) | 345 |
 | **store total** | | **452** |
 
-**This view lists 4 continuations** (filter: `alive`).
+**This view lists 0 continuations** (filter: `alive`).
 
-*107 hibernating and 341 closed are omitted. Use `continuation export --status hibernating`, `--status closed`, or `--status all`.*
+*107 hibernating and 345 closed are omitted. Use `continuation export --status hibernating`, `--status closed`, or `--status all`.*
 
 ## Summary by Status
 
 | Status | Liveness | Count |
 |--------|----------|-------|
-| active | alive | 4 |
-
-## Summary by Kind
-
-| Kind | Count |
-|------|-------|
-| concept-from-issue | 3 |
-| confirmation | 1 |
+| — | — | 0 |
 
 *For full details including truncated context/resolution, use `--full`*
 
@@ -63,7 +56,4 @@ Continuations are exploration-graph nodes: closed or hibernating records remain 
 
 | ID | Status | Liveness | Kind | Priority | Title | Created |
 |----|--------|----------|------|----------|-------|---------|
-| `ctn_f4741c57` | active | alive | confirmation | 0 | Confirm large concepts scan-issues: 20 candidates for cogent... | 2026-08-17 |
-| `ctn_c7dc80c6` | active | alive | concept-from-issue | 0 | Concept candidate: #103 Integrate typed responsibility routi... | 2026-08-17 |
-| `ctn_331cee85` | active | alive | concept-from-issue | 0 | Concept candidate: #104 Un Ange Gardien — clarify Gabriel, a... | 2026-08-17 |
-| `ctn_88772c6f` | active | alive | concept-from-issue | 0 | Concept candidate: #105 Retrieval recovery and evidence-of-a... | 2026-08-17 |
+| — | — | — | — | — | _none match filter_ | — |
