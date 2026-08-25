@@ -1,16 +1,16 @@
 ---
 title: "Alive Continuations List"
-last_modified_at: 2026-08-23
+last_modified_at: 2026-08-25
 generated_by: cogentia.js
-generated_at: 2026-08-23T10:40:07.098Z
-total_continuations: 86
-inventory_total: 449
+generated_at: 2026-08-25T10:17:41.563Z
+total_continuations: 4
+inventory_total: 452
 content_type: list
 status_filter: alive
 liveness_focus: alive
-alive_count: 86
+alive_count: 4
 hibernating_count: 107
-closed_count: 256
+closed_count: 341
 cross_refs:
   view_id: continuations-list
   view_url: "https://cogentia.fractavolta.com/views/continuations-list.md"
@@ -35,31 +35,27 @@ Continuations are exploration-graph nodes: closed or hibernating records remain 
 
 | Liveness | Meaning | Count |
 |----------|---------|-------|
-| alive | Awake / actionable now (`active`) | 86 |
+| alive | Awake / actionable now (`active`) | 4 |
 | hibernating | Waiting for unknown conditions (`dormant`) | 107 |
-| closed | Visited / terminal for ops (`resolved`, `cancelled`, `completed`, …) | 256 |
-| **store total** | | **449** |
+| closed | Visited / terminal for ops (`resolved`, `cancelled`, `completed`, …) | 341 |
+| **store total** | | **452** |
 
-**This view lists 86 continuations** (filter: `alive`).
+**This view lists 4 continuations** (filter: `alive`).
 
-*107 hibernating and 256 closed are omitted. Use `continuation export --status hibernating`, `--status closed`, or `--status all`.*
+*107 hibernating and 341 closed are omitted. Use `continuation export --status hibernating`, `--status closed`, or `--status all`.*
 
 ## Summary by Status
 
 | Status | Liveness | Count |
 |--------|----------|-------|
-| active | alive | 86 |
+| active | alive | 4 |
 
 ## Summary by Kind
 
 | Kind | Count |
 |------|-------|
-| index.document_role_judgment | 58 |
-| capability-delegation | 15 |
-| semantic-search | 8 |
 | concept-from-issue | 3 |
 | confirmation | 1 |
-| embeddings-index | 1 |
 
 *For full details including truncated context/resolution, use `--full`*
 
@@ -67,88 +63,6 @@ Continuations are exploration-graph nodes: closed or hibernating records remain 
 
 | ID | Status | Liveness | Kind | Priority | Title | Created |
 |----|--------|----------|------|----------|-------|---------|
-| `ctn_b67ffb58` | active | alive | index.document_role_judgment | 2 | Research Index - Ubikia | 2026-08-22 |
-| `ctn_eb63f608` | active | alive | index.document_role_judgment | 2 | Research Index - Survey / Ophelia | 2026-08-22 |
-| `ctn_758766ff` | active | alive | index.document_role_judgment | 2 | Serra Research Index | 2026-08-22 |
-| `ctn_4493c6e3` | active | alive | index.document_role_judgment | 2 | Research Index - PrivAI | 2026-08-22 |
-| `ctn_b41f1ec8` | active | alive | index.document_role_judgment | 2 | Research Index — Operium | 2026-08-22 |
-| `ctn_6f1986b6` | active | alive | index.document_role_judgment | 2 | Research Index - Mariani Village | 2026-08-22 |
-| `ctn_251a8523` | active | alive | index.document_role_judgment | 2 | Research Index — MareNostrum | 2026-08-22 |
-| `ctn_1333cee1` | active | alive | index.document_role_judgment | 2 | Concept Index — marenostrum | 2026-08-22 |
-| `ctn_cc5629d0` | active | alive | index.document_role_judgment | 2 | Research Index - Kudos | 2026-08-22 |
-| `ctn_5ce4fae7` | active | alive | index.document_role_judgment | 2 | Research Index — Jean Hugues Noël Robert (Profile / Entry Po... | 2026-08-22 |
-| `ctn_0d08b439` | active | alive | index.document_role_judgment | 2 | Concept Index — JeanHuguesRobert | 2026-08-22 |
-| `ctn_d1dd9a38` | active | alive | index.document_role_judgment | 2 | Research Index - Institut Mariani | 2026-08-22 |
-| `ctn_76c7c3a5` | active | alive | index.document_role_judgment | 2 | Research Index — Inseme | 2026-08-22 |
-| `ctn_f8721b94` | active | alive | index.document_role_judgment | 2 | Concept Index — inseme | 2026-08-22 |
-| `ctn_d68c43cc` | active | alive | index.document_role_judgment | 2 | Research Index — Inox | 2026-08-22 |
-| `ctn_7113af8d` | active | alive | index.document_role_judgment | 2 | Concept Index — Inox | 2026-08-22 |
-| `ctn_021c3357` | active | alive | index.document_role_judgment | 2 | Research Index - C.O.R.S.I.C.A. Gouvernance | 2026-08-22 |
-| `ctn_b210b41a` | active | alive | index.document_role_judgment | 2 | Research Index — FractaVolta | 2026-08-22 |
-| `ctn_f0486ee6` | active | alive | index.document_role_judgment | 2 | Concept Index — FractaVolta | 2026-08-22 |
-| `ctn_67267004` | active | alive | index.document_role_judgment | 2 | Current Issues List - JeanHuguesRobert Organization | 2026-08-22 |
-| `ctn_8f3f4515` | active | alive | index.document_role_judgment | 2 | Alive Continuations - Full Details | 2026-08-22 |
-| `ctn_d89fef02` | active | alive | index.document_role_judgment | 2 | Research Index — Cogentia | 2026-08-22 |
-| `ctn_eba9c650` | active | alive | index.document_role_judgment | 2 | Concept Index — cogentia | 2026-08-22 |
-| `ctn_acc6d95e` | active | alive | index.document_role_judgment | 2 | Research Index — barons-Mariani | 2026-08-22 |
-| `ctn_617e5688` | active | alive | index.document_role_judgment | 2 | Concept Index — barons-Mariani | 2026-08-22 |
-| `ctn_444dc830` | active | alive | index.document_role_judgment | 2 | Research Index - acorsica.org | 2026-08-22 |
-| `ctn_760dd6ca` | active | alive | index.document_role_judgment | 2 | Research Index - acorsica GitHub Profile | 2026-08-22 |
-| `ctn_1ec996fc` | active | alive | index.document_role_judgment | 2 | StructEnv | 2026-08-17 |
-| `ctn_2f3a3ac9` | active | alive | index.document_role_judgment | 2 | Public Twin assets | 2026-08-17 |
-| `ctn_040cb567` | active | alive | index.document_role_judgment | 2 | Fix Bugs First Work Dashboard | 2026-08-17 |
-| `ctn_0105e4b7` | active | alive | index.document_role_judgment | 2 | Stalwart templates (secret-free) | 2026-08-17 |
-| `ctn_9c08386b` | active | alive | index.document_role_judgment | 2 | Agent John (WhatsApp) templates | 2026-08-17 |
-| `ctn_74117b64` | active | alive | index.document_role_judgment | 2 | Publication memory | 2026-08-17 |
-| `ctn_ddf0a525` | active | alive | index.document_role_judgment | 2 | Ubikia Media | 2026-08-17 |
-| `ctn_4cd63a6e` | active | alive | index.document_role_judgment | 2 | Assets for the pluralisation cognitive media example | 2026-08-17 |
-| `ctn_38bcf53c` | active | alive | index.document_role_judgment | 2 | The Iɴᴏx programming language | 2026-08-17 |
-| `ctn_d549a018` | active | alive | index.document_role_judgment | 2 | 📊 Survey. Consultation Citoyenne Petit Parti / Pertitellu | 2026-08-17 |
-| `ctn_dfc007d7` | active | alive | index.document_role_judgment | 2 | Musée Mariani — préfiguration | 2026-08-17 |
-| `ctn_2c359169` | active | alive | index.document_role_judgment | 2 | Collections — Musée Mariani | 2026-08-17 |
-| `ctn_2a8b0707` | active | alive | index.document_role_judgment | 2 | Digipees | 2026-08-17 |
-| `ctn_7ea28f06` | active | alive | index.document_role_judgment | 2 | Digipees — provenance des sources originales | 2026-08-17 |
-| `ctn_7dc786c2` | active | alive | index.document_role_judgment | 2 | Digipees — history and provenance | 2026-08-17 |
-| `ctn_e5a5dacd` | active | alive | index.document_role_judgment | 2 | Digipees — visual grammar | 2026-08-17 |
-| `ctn_b3bb0eae` | active | alive | index.document_role_judgment | 2 | Digipees — provenance and rights | 2026-08-17 |
-| `ctn_a5b4d6e4` | active | alive | index.document_role_judgment | 2 | Digipees — asset and version inventory | 2026-08-17 |
-| `ctn_ba5f6686` | active | alive | index.document_role_judgment | 2 | Digipees — character set v1 | 2026-08-17 |
-| `ctn_942ee1c3` | active | alive | index.document_role_judgment | 2 | Registre de révocation — Agents JHN | 2026-08-17 |
-| `ctn_c66fd5f9` | active | alive | index.document_role_judgment | 2 | Agents JHN | 2026-08-17 |
-| `ctn_95fddff3` | active | alive | index.document_role_judgment | 2 | Registre des instances — Agents JHN | 2026-08-17 |
-| `ctn_c8cd4681` | active | alive | index.document_role_judgment | 2 | Jana logo generator | 2026-08-17 |
-| `ctn_3d193768` | active | alive | index.document_role_judgment | 2 | Provenance — Jana logo generator | 2026-08-17 |
-| `ctn_4b424d71` | active | alive | index.document_role_judgment | 2 | Explorer | 2026-08-17 |
-| `ctn_f2a55ec1` | active | alive | index.document_role_judgment | 2 | Explorer / Conservator — minimal experiment v0.1 | 2026-08-17 |
-| `ctn_21c2fb0a` | active | alive | index.document_role_judgment | 2 | Conservator | 2026-08-17 |
-| `ctn_25832b51` | active | alive | index.document_role_judgment | 2 | Sandbox — MCP 2026 / Cognitive Packet / Skills / JHN mutate | 2026-08-17 |
-| `ctn_220bc70b` | active | alive | index.document_role_judgment | 2 | Views Store server | 2026-08-17 |
-| `ctn_78aca963` | active | alive | index.document_role_judgment | 2 | Fracta — app fragments only | 2026-08-17 |
-| `ctn_769cdb0c` | active | alive | index.document_role_judgment | 2 | Personal app samples | 2026-08-17 |
-| `ctn_871b4a7f` | active | alive | semantic-search | 1 | Semantic search for "asymmetry legal persons platforms Meta ... | 2026-08-13 |
-| `ctn_18153e8c` | active | alive | semantic-search | 1 | Semantic search for "writing style reasoning style structura... | 2026-08-13 |
-| `ctn_441ed7cf` | active | alive | semantic-search | 1 | Semantic search for "style Buffon le style c'est l'homme Cog... | 2026-08-13 |
-| `ctn_afdd900f` | active | alive | semantic-search | 1 | Semantic search for "Cogentia context gateway" | 2026-08-12 |
-| `ctn_028c4ca3` | active | alive | semantic-search | 1 | Semantic search for "Cogentia public corpus" | 2026-08-12 |
-| `ctn_4d77da10` | active | alive | semantic-search | 1 | Semantic search for "Cogentia" | 2026-08-12 |
-| `ctn_bc7ce1c1` | active | alive | semantic-search | 1 | Semantic search for "What is Cogentia?" | 2026-08-12 |
-| `ctn_573a9623` | active | alive | semantic-search | 1 | Semantic search for "procedural stabilizer" | 2026-07-18 |
-| `ctn_24ad1362` | active | alive | embeddings-index | 1 | Generate embeddings for 1000 chunks |  |
-| `ctn_03279e64` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for JeanHuguesRobert and sup... | 2026-08-22 |
-| `ctn_9d6f677b` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for ubikia and supply them a... | 2026-08-22 |
-| `ctn_20bee5fb` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for registre-mariani and sup... | 2026-08-22 |
-| `ctn_41b94b74` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for Inox and supply them as ... | 2026-08-22 |
-| `ctn_29e2b1dd` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for JeanHuguesRobert/survey ... | 2026-08-22 |
-| `ctn_c0f60163` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for inseme and supply them a... | 2026-08-22 |
-| `ctn_70115fd9` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for barons-Mariani and suppl... | 2026-08-22 |
-| `ctn_fc5bcba9` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for marenostrum and supply t... | 2026-08-22 |
-| `ctn_771f9e31` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for FractaVolta and supply t... | 2026-08-22 |
-| `ctn_8692556b` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for cogentia and supply them... | 2026-08-22 |
-| `ctn_fdf2ee51` | active | alive | capability-delegation | 0 | gh unavailable: Fetch full detail (title,body,comments) for ... | 2026-08-22 |
-| `ctn_0b4ece44` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for JeanHuguesRobert/barons-... | 2026-08-22 |
-| `ctn_e54af0d8` | active | alive | capability-delegation | 0 | gh unavailable: List all issues for JeanHuguesRobert/marenos... | 2026-08-22 |
-| `ctn_1aa58e4e` | active | alive | capability-delegation | 0 | gh unavailable: Fetch full detail (title,body,comments) for ... | 2026-08-22 |
-| `ctn_e577845c` | active | alive | capability-delegation | 0 | gh unavailable: Fetch full detail (title,body,comments) for ... | 2026-08-22 |
 | `ctn_f4741c57` | active | alive | confirmation | 0 | Confirm large concepts scan-issues: 20 candidates for cogent... | 2026-08-17 |
 | `ctn_c7dc80c6` | active | alive | concept-from-issue | 0 | Concept candidate: #103 Integrate typed responsibility routi... | 2026-08-17 |
 | `ctn_331cee85` | active | alive | concept-from-issue | 0 | Concept candidate: #104 Un Ange Gardien — clarify Gabriel, a... | 2026-08-17 |
