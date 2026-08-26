@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-25T17:13:40.648Z",
+  "generated_at": "2026-08-26T02:34:25.468Z",
   "generated_by": "cogentia.js v3.0.0",
   "purpose": "Consolidated current-state of corpus caches/serving layers (no vector or body dumps).",
   "local_sqlite": {
@@ -9,24 +9,39 @@
     "sqlite_available": true,
     "fts5_available": true,
     "schema_version": "0.1",
-    "index_hash": "0a719e58098767918e3cbc5a40951d27d74f940c1de57993759ad070567c5edf",
+    "index_hash": "40b6af872dc97b19b2bff3d531e29fa8ede6c3b4391f7ab29426bc6200e1c708",
     "indexing_policy_version": "markdown-v1",
-    "updated_at": "2026-08-25T17:11:43.089Z",
+    "updated_at": "2026-08-25T21:48:00.327Z",
     "mode": "update",
-    "documents": 1844,
-    "documents_public": 1143,
-    "chunks": 23821,
-    "searchable_public": 23316,
-    "edges": 3188,
+    "documents": 1848,
+    "documents_public": 1147,
+    "chunks": 23899,
+    "searchable_public": 23394,
+    "edges": 3197,
     "continuations": 58,
     "partial": true,
     "vector_cache": {
-      "ok": true,
-      "status": "not_required",
+      "ok": false,
+      "status": "needs_rebuild",
       "built": false,
-      "embedding_rows": 0,
-      "indexes": [],
-      "warnings": []
+      "embedding_rows": 5187,
+      "indexes": [
+        {
+          "table_name": "vec_embeddings_1536",
+          "dimensions": 1536,
+          "embedding_rows": 5187,
+          "vec_rows": 7273,
+          "exists": true,
+          "index_hash": "0f0cfa1d245d41553816fca1c9cf66cce54f054afa37d6663696de979f08ea80",
+          "current_index_hash": "40b6af872dc97b19b2bff3d531e29fa8ede6c3b4391f7ab29426bc6200e1c708",
+          "sqlite_vec_version": "v0.1.9",
+          "created_at": "2026-07-31T07:23:35.154Z",
+          "status": "stale"
+        }
+      ],
+      "warnings": [
+        "sqlite-vec vec_embeddings_1536 stale; run embeddings vec-rebuild --dimensions 1536"
+      ]
     },
     "path_basename": "corpus.sqlite",
     "db_file_bytes": 367050752,
@@ -38,8 +53,8 @@
       },
       {
         "repo": "cogentia",
-        "chunks": 6418,
-        "searchable_public": 6360
+        "chunks": 6487,
+        "searchable_public": 6429
       },
       {
         "repo": "inseme",
@@ -78,8 +93,8 @@
       },
       {
         "repo": "JeanHuguesRobert",
-        "chunks": 493,
-        "searchable_public": 489
+        "chunks": 502,
+        "searchable_public": 498
       },
       {
         "repo": "registre-mariani",
@@ -136,16 +151,85 @@
   "local_embeddings": {
     "ok": true,
     "built": true,
-    "count": 0,
-    "model": null,
-    "dimensions": null,
-    "created_at": null,
-    "repos": [],
-    "providers": [],
+    "count": 5187,
+    "model": "text-embedding-3-small",
+    "dimensions": 1536,
+    "created_at": "2026-08-26 02:16:50",
+    "repos": [
+      "FractaVolta",
+      "Inox",
+      "JeanHuguesRobert",
+      "Kudos",
+      "barons-Mariani",
+      "gouvernance",
+      "inseme",
+      "institut-mariani",
+      "marenostrum",
+      "marianivillage",
+      "privai",
+      "ubikia"
+    ],
+    "providers": [
+      {
+        "provider": "openai",
+        "model_name": "text-embedding-3-small",
+        "dimensions": 1536,
+        "count": 5187
+      }
+    ],
     "path_basename": "corpus.sqlite",
-    "coverage_of_chunks": 0,
-    "coverage_pct": 0,
-    "embeddings_by_repo": []
+    "coverage_of_chunks": 0.21703836980626803,
+    "coverage_pct": 21.7,
+    "embeddings_by_repo": [
+      {
+        "repo": "barons-Mariani",
+        "embeddings": 3229
+      },
+      {
+        "repo": "FractaVolta",
+        "embeddings": 623
+      },
+      {
+        "repo": "marenostrum",
+        "embeddings": 600
+      },
+      {
+        "repo": "Inox",
+        "embeddings": 191
+      },
+      {
+        "repo": "Kudos",
+        "embeddings": 156
+      },
+      {
+        "repo": "JeanHuguesRobert",
+        "embeddings": 155
+      },
+      {
+        "repo": "inseme",
+        "embeddings": 76
+      },
+      {
+        "repo": "privai",
+        "embeddings": 51
+      },
+      {
+        "repo": "gouvernance",
+        "embeddings": 42
+      },
+      {
+        "repo": "ubikia",
+        "embeddings": 27
+      },
+      {
+        "repo": "institut-mariani",
+        "embeddings": 22
+      },
+      {
+        "repo": "marianivillage",
+        "embeddings": 15
+      }
+    ]
   },
   "remote_supabase": {
     "ok": false,
@@ -161,12 +245,12 @@
     {
       "level": "ok",
       "code": "index_built",
-      "message": "Index built (23821 chunks)."
+      "message": "Index built (23899 chunks)."
     },
     {
       "level": "warn",
       "code": "embeddings_sparse",
-      "message": "Local embedding coverage 0.0% of chunks."
+      "message": "Local embedding coverage 21.7% of chunks."
     },
     {
       "level": "info",
