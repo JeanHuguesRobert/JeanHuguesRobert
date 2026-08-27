@@ -7,6 +7,22 @@ classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "continuation-resume"
 classification_confidence: "strong"
+packet_id: "cop-pkt-20260828-inseme-57-hosted-twins"
+packet_type: "cop.continuation_packet/v1"
+packet_version: "1.0.0"
+topic_id: "topic:twins:hosted-provisioning"
+producer_ref: "agent:antigravity"
+causal_refs:
+  - "https://github.com/JeanHuguesRobert/inseme/issues/57"
+  - "commit:457561b"
+  - "commit:302c19c"
+  - "commit:63cd284"
+  - "commit:3a9e194"
+epistemic_status: "decided"
+required_capabilities:
+  - "supabase:db:ndiysuhzmztatpxbkezn"
+  - "git:branch:main"
+  - "x:archive_ingestion"
 date: "2026-08-28"
 ---
 
