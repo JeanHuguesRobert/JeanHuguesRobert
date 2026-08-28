@@ -18,3 +18,11 @@ dist-*/
 
 # Temporary Views Store staging; authoritative generated views are tracked elsewhere.
 .cogentia/views-publish/
+.cogentia/embeddings-cache.*
+.cogentia/*.gz
+
+# Local env & credential snapshots (MUST NEVER BE COMMITTED)
+*-env.txt
+*.env
+*.env.*
+*.local

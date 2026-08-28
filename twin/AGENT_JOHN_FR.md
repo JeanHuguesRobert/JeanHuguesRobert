@@ -99,6 +99,13 @@ Agent John dispose d'une interface WhatsApp autonome (`scripts/agent-jhn-whatsap
 * Transforme automatiquement les fils de conversation terminés en **Paquets d'Interaction YAML/Markdown** archivés dans `registre-mariani`.
 * Extrait un **Graphe de Faits Structurés** (`facts/`) permettant d'interroger la mémoire historique du jumeau sur plusieurs années.
 
+### G. Capacité d'Hébergement Fractal & Jumeaux Provisoires (Inseme #57)
+Agent John sert d'environnement d'hébergement souverain (**Hôte parent** / `host_instance_id`) pour des instances légères et des **Jumeaux Provisoires** (*Provisional Twins*) :
+* **Transmission de Capacité sans Transfert d'Autorité :** Un jumeau hébergé hérite des capacités techniques de John (modèles LLM, quotas, outils, résolveur de configuration avec détection de cycles), mais **n'hérite JAMAIS de son autorité, de ses mandats, de son identité, ni de sa mémoire privée**.
+* **Découverte $\neq$ Provisionnement :** Des identités externes publiques (ex. acteurs du débat territorial en Corse sur X/Twitter, Bluesky) peuvent être indexées sans provisionner automatiquement de jumeau. Le provisionnement d'un Jumeau Provisoire (`principal_id = null`) est paresseux, idempotent (`ensureProvisionalTwin`), et préservé lors de promotions futures ($L_0 \rightarrow L_4$).
+* **Épistémologie des Traces Publiques :** Les traces publiques ingérées sont des **preuves matérielles** (`PublicTrace`), jamais des assertions ou croyances à la première personne attribuées au jumeau.
+* **Mémoire Relationnelle & Relatogramme ($R_{AB}$) :** La relation continue entre John et un autre jumeau ou interlocuteur s'appuie sur un **Relatogram** (vocabulaire partagé, impédance cognitive asymétrique $Z(A \rightarrow B) \neq Z(B \rightarrow A)$, et historique des réparations réussies), permettant à l'Interprète Cognitif d'adapter le niveau d'abstraction sans imposer d'homogénéisation.
+
 ---
 
 ## 3. Respect de la Vie Privée et Niveaux de Divulgation (RGPD)
