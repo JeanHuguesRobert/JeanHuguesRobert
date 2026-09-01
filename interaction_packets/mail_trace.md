@@ -3,11 +3,11 @@ title: "Registre des interactions"
 description: "Tabular register of traced interactions — ID, date, subject, correspondent, follow-up, status, disclosure level."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-15"
+date: "2026-09-01"
 status: "journal"
 license: "CC BY 4.0"
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md
-last_stamped_at: 2026-06-01
+last_stamped_at: 2026-09-01
 document_role: "operational"
 document_kind: "continuation-packet"
 visibility: "public"
@@ -32,6 +32,7 @@ classification_confidence: "strong"
 | 2026-08-08-001 | 2026-08-08 | OLD AT0045 — clarification des prescriptions et canal électronique | Mairie / Police municipale de La Gaude | 0 | 3 | Accusé mairie reçu ; contact Police municipale le 2026-08-11 ; réponse écrite envoyée le même jour ; précisions sur les points à examiner et la nature du rendez-vous attendues | D2 |
 | 2026-08-12-001 | 2026-08-12 | Livraison de vélos cargos électriques — Association C.O.R.S.I.C.A. | Eco Environnement | 1 | 0 | Dernière pièce confirmée reçue le 14/08 sans réponse sur la livraison ; relance opérationnelle envoyée le 15/08 à 11:11 demandant la première possibilité concrète de livraison, avec flexibilité logistique et préavis court ; réponse attendue | D2 |
 | 2026-08-12-002 | 2026-08-12 | Maison de La Gaude / Villa Arson — point d’étape et suite du projet | Damien Ruvet | 0 | 0 | Réponse envoyée à 11:52 ; poursuite de l’échange attendue ; implication locale potentielle à préciser, avec lien possible au dossier OLD AT0045 | D2 |
+| 2026-09-01-001 | 2026-09-01 | Adjudication Nîmes — préservation d’une chaise à porteurs XVIIIe destinée au Musée Mariani des Possibles ; demande sur le solde de la vente | Étude de commissaires de justice — huissiersgard.fr | 1 | 0 | Courriel envoyé : rappel du signalement du 21/04/2026, demande de préservation/récupération du bien meuble, correction d’adresse et demande de procédure pour connaître et obtenir l’éventuel solde d’adjudication ; réponse attendue | D2 |
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
