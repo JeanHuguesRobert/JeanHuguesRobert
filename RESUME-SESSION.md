@@ -7,92 +7,53 @@ classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "continuation-resume"
 classification_confidence: "strong"
-packet_id: "cop-pkt-20260828-inseme-57-hosted-twins"
+packet_id: "cop-pkt-20260904-operium-51-workspace-mesh"
 packet_type: "cop.continuation_packet/v1"
 packet_version: "1.0.0"
-topic_id: "topic:twins:hosted-provisioning"
+topic_id: "topic:fractanet:workspace-replication-governance"
 producer_ref: "agent:antigravity"
 causal_refs:
-  - "https://github.com/JeanHuguesRobert/inseme/issues/57"
-  - "commit:457561b"
-  - "commit:302c19c"
-  - "commit:63cd284"
-  - "commit:3a9e194"
+  - "https://github.com/JeanHuguesRobert/operium/issues/51"
+  - "commit:9718da3"
+  - "commit:4bf1041"
 epistemic_status: "decided"
-required_capabilities:
-  - "supabase:db:ndiysuhzmztatpxbkezn"
-  - "git:branch:main"
-  - "x:archive_ingestion"
-date: "2026-08-28"
+date: "2026-09-04"
 ---
 
-# Workspace Continuation & Session Handoff (August 28, 2026) 📜🌐🚀
+# Workspace Continuation & Session Handoff (September 4, 2026) 📜🌐✨
 
-> **Status**: **HOSTED DIGITAL TWINS PROVISIONED, MONOTONE ALIAS REGISTRY & X/TWITTER BOOTSTRAP PIPELINE COMPLETED** 🎉  
-> Live on Supabase Production (`ndiysuhzmztatpxbkezn`); Git commits pushed to `main` on `JeanHuguesRobert/inseme`; Twitter archive requested on `@suvranu`.
+> **Resume handle:** `resume operium/51`  
+> **Status:** **5-NODE WORKSPACE MESH ALIGNED, AGENTS.MD REDIRECT DEPLOYED, RPI3 23-REPO REPLICATION COMPLETE** 🎉  
+> All 23 sovereign repositories replicated across all active Fractanet nodes. Operational documentation and tooling pushed to GitHub.
 
 ---
 
-## 🎯 Active Digital Twins & Infrastructure Status
+## 🎯 Quick Resume Commands
 
-### 1. The 4 Provisioned Twins on Supabase Production (`ndiysuhzmztatpxbkezn`)
-All 4 instances are live in `public.instances` with canonical UUIDs and hierarchical hosting:
+To resume this session on any coding agent:
 
-| Canonical UUID | Canonical Slug | Display Name | Bot / Persona | Kind / Purpose | Host |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| `00000000-0000-0000-0000-000000000001` | `jhn` | Jean Hugues Noël Robert | John | `living_person` (Root Host) | `none` |
-| `00000000-0000-0000-0000-000000000002` | `frederic-lecourtois` | Frédéric Lecourtois | Aréopage | `autonomy_augmentation` | `jhn` |
-| `00000000-0000-0000-0000-000000000003` | `marie-cornelie-lenglet` | Marie-Cornélie Lenglet | Ophélia | `autonomy_augmentation` | `jhn` |
-| `00000000-0000-0000-0000-000000000004` | `marie-louise-robert` | Marie-Louise Robert | Marie-Louise | `posthumous_memorial` | `jhn` |
-
-### 2. Taxonomy & Purpose Enum of Digital Twins
-* **`autonomy_augmentation`** : For private individuals / close circles (e.g. Frédéric Lecourtois, Marie-Cornélie Lenglet) seeking cognitive augmentation, memory preservation, and intellectual assistance (e.g. classical humanities: French, Latin, Greek in Ghisonaccia).
-* **`public_territorial_actor`** : For public figures, officials, academics, journalists, and civic collectives discovered via the social graph (e.g. `@suvranu`).
-* **`hybrid`** : Dual nature (personal autonomy + public presence).
-* **`posthumous_memorial`** : Memorial / posthumous twins under family/patrimonial mandate (e.g. Marie-Louise Robert).
-
-### 3. Monotone Alias Registry (`public.instance_aliases`)
-* **First-Come, First-Served**: 34 aliases registered with immutable `allocated_at` timestamps.
-* **Anti-Usurpation Trigger**: `enforce_instance_alias_monotonicity` prevents retroactivity and silent re-allocation.
-* **Key Reservations**:
-  * **JHN**: `jhn`, `john`, `jean`, `jean-hugues`, `jhr` (early Twitter/X handle `@jhr` historical anchor), `baron-mariani`, `mariani`, `robert`.
-  * **Frédéric Lecourtois**: `frederic-lecourtois`, `areopage`, `aréopage`, `frederic`, `frédéric`, `lecourtois`, `f-lecourtois`.
-  * **Marie-Cornélie Lenglet**: `marie-cornelie-lenglet`, `marie-cornelie`, `marie-cornélie`, `cornelie`, `cornélie`, `mc-lenglet`, `lenglet`.
-  * **Marie-Louise Robert**: `marie-louise-robert`, `marie-louise`, `marie`, `mary`, `mlr`, `ml-robert`, `marie-robert`.
-
-### 4. Recursive Configuration Inheritance (`@inseme/cop-host`)
-* **Cycle-Detected Traversal**: `resolveHostChain(...)` traverses parent hosts up to root JHN (`...001`).
-* **Non-Inheritable Keys**: Identity keys (`bot_name`, `community_name`, `app_url`, `twin_root_ref`, etc.) never leak to child instances.
-* **Shared Technical Capacity**: AI models (`openai_model`), database settings, and tool endpoints are inherited automatically from JHN.
+```text
+resume operium/51
+resume GitHub Issue 51 of repository operium
+```
 
 ---
 
-## 📡 Bootstrap & Ingestion Pipeline (`@suvranu` & Olé Olé)
+## 🧭 Invariants & Key Findings
 
-### 1. The `@suvranu` Social Graph Strategy
-* **Seed Account**: `@suvranu` (~5 000 following, ~1 000 followers) is the curated reference account for Corsican public life.
-* **TwitTrust Core (`Following ∩ Followers`)**: The intersection represents the high-signal mutual trust community in Corsica.
-* **Access Strategy**: Lean approach via official X account data archive (requested on 2026-08-28, ETA ~24h).
-* **Tooling Ready**:
-  ```powershell
-  node apps/platform/scripts/bootstrap-suvranu-twins.js --archive <path_to_zip_or_folder> --discover
-  node apps/platform/scripts/bootstrap-suvranu-twins.js --provision <handle>
-  ```
+1. **Anti-Capture Doctrine applied:**
+   - Workspace root `AGENTS.md` (Windows `C:\tweesic\AGENTS.md`, Linux `/srv/cogentia/repos/AGENTS.md`, Termux `~/srv/cogentia/repos/AGENTS.md`) is an ultra-minimal (16 lines) redirect pointer.
+   - Canonical workspace guidance is versioned in Git at [`cogentia/instructions/AGENTS.workspace.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.workspace.md).
+   - Public-readonly constitution synchronized to v0.3 ([`cogentia/instructions/AGENTS.public-readonly.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.public-readonly.md)).
 
-### 2. Impact on the Olé Olé Platform (`oleole.acorsica.org`)
-* **Météo du Débat Public**: Ingested tweets from accounts followed by `@suvranu` populate `public_traces` and `derived_claims`, driving the territorial heat map on `public.oleole_places` (Corte, Bastia, Ajaccio, Ghisonaccia, etc.).
-* **Acquisition Funnel**: Public actors discovered can later claim their pre-existing Provisional Twin on Olé Olé.
+2. **5-Node Active Workspace Mesh:**
+   - **`i7-thinkpad-jhr`** : Primary write authority (`C:\tweesic\`).
+   - **`fracta`** : Cloud VPS, reference Git mirror & public Guide (`/srv/cogentia/repos/`).
+   - **`fracta2`** : Cloud VPS, hosted browser / KasmVNC / ONA worker, 23 repos (`/srv/cogentia/repos/`, 35 GB free, local WIP preserved).
+   - **`poco-jhr`** : Android Termux mobile twin, 23 repos (`~/srv/cogentia/repos/`, 4.0 GB).
+   - **`rpi3-view`** : Edge observation & portal node ("La Nasa"), 23 repos (`/srv/cogentia/repos/`, 14 GB free space remaining, 49% SD card usage).
 
----
-
-## 💻 Zero-Local-State Machine & Agent Resumption Instructions
-
-### 🌐 GitHub Repositories (Branch `main`)
-* **Platform Inseme**: [`https://github.com/JeanHuguesRobert/inseme`](https://github.com/JeanHuguesRobert/inseme) (Latest commit `63cd284`)
-* **Root Sovereign JHN**: [`https://github.com/JeanHuguesRobert/JeanHuguesRobert`](https://github.com/JeanHuguesRobert/JeanHuguesRobert)
-* **Pertitellu / Corte**: [`https://github.com/JeanHuguesRobert/pertitellu`](https://github.com/JeanHuguesRobert/pertitellu)
-* **Cogentia**: [`https://github.com/JeanHuguesRobert/cogentia`](https://github.com/JeanHuguesRobert/cogentia)
-
-### 🎯 Single-Phrase Resumption Trigger:
-> **`Continue Inseme Issue #57 — Ingest Suvranu Twitter Archive`**  
-> *(ou : "Poursuis l'issue 57 d'Inseme et ingère l'archive Suvranu")*
+3. **Operium Tooling & Documentation:**
+   - Documentation updated in [`operium/docs/corpus-replication-topology.md`](https://github.com/JeanHuguesRobert/operium/blob/wip/mail-dns-cutover/docs/corpus-replication-topology.md), [`coding-infrastructure.md`](https://github.com/JeanHuguesRobert/operium/blob/wip/mail-dns-cutover/docs/coding-infrastructure.md), [`rpi3-view-edge-portal.md`](https://github.com/JeanHuguesRobert/operium/blob/wip/mail-dns-cutover/docs/rpi3-view-edge-portal.md), [`fractanet-mesh.md`](https://github.com/JeanHuguesRobert/operium/blob/wip/mail-dns-cutover/docs/fractanet-mesh.md).
+   - Canonical sync script added: [`operium/scripts/ops/sync-corpus-repos-from-fracta.sh`](https://github.com/JeanHuguesRobert/operium/blob/wip/mail-dns-cutover/scripts/ops/sync-corpus-repos-from-fracta.sh).
+   - Commit: `4bf1041` pushed to `origin/wip/mail-dns-cutover`.
