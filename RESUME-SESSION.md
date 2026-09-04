@@ -23,9 +23,9 @@ causal_refs:
   - commit:Inox:46183f6
   - commit:registre-mariani:1797216
   - commit:ubikia:1943227
-  - commit:operium:e3ceeb3
+  - commit:operium:9e0ff5c
   - commit:serra:472e9ed
-  - commit:JeanHuguesRobert:9fb1d4c
+  - commit:JeanHuguesRobert:5c70362
   - commit:privai:c83c624
   - commit:gouvernance:4854d8b
   - commit:marianivillage:bbb0aa2
@@ -60,7 +60,7 @@ resume
 
 ## 📂 Workspaces at Anchor
 
-- **`cogentia`** : branch `main` (head `412fa34`) · clean: `true`
+- **`cogentia`** : branch `main` (head `412fa34`) · clean: `false`
 - **`FractaVolta`** : branch `main` (head `d95cbd2`) · clean: `false`
 - **`marenostrum`** : branch `main` (head `02aa6fe`) · clean: `false`
 - **`barons-Mariani`** : branch `main` (head `c2aa675`) · clean: `true`
@@ -69,9 +69,9 @@ resume
 - **`Inox`** : branch `docs/issue-34-spec-runtime-audit` (head `46183f6`) · clean: `false`
 - **`registre-mariani`** : branch `main` (head `1797216`) · clean: `false`
 - **`ubikia`** : branch `main` (head `1943227`) · clean: `false`
-- **`operium`** : branch `wip/mail-dns-cutover` (head `e3ceeb3`) · clean: `false`
+- **`operium`** : branch `wip/mail-dns-cutover` (head `9e0ff5c`) · clean: `false`
 - **`serra`** : branch `main` (head `472e9ed`) · clean: `false`
-- **`JeanHuguesRobert`** : branch `main` (head `9fb1d4c`) · clean: `false`
+- **`JeanHuguesRobert`** : branch `main` (head `5c70362`) · clean: `false`
 - **`privai`** : branch `main` (head `c83c624`) · clean: `false`
 - **`gouvernance`** : branch `main` (head `4854d8b`) · clean: `false`
 - **`marianivillage`** : branch `main` (head `bbb0aa2`) · clean: `false`
