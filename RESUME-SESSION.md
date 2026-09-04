@@ -14,9 +14,9 @@ topic_id: topic:fractanet:cogentia-operium-cooperative-protocol
 producer_ref: agent:operium-cli
 causal_refs:
   - https://github.com/JeanHuguesRobert/operium/issues/52
-  - commit:operium:dd90499
-  - commit:cogentia:9718da3
-  - commit:JeanHuguesRobert:194b702
+  - commit:operium:eeee34b
+  - commit:cogentia:1b59fb2
+  - commit:JeanHuguesRobert:f4c7690
 epistemic_status: checkpointed
 date: 2026-09-04
 ---
@@ -43,9 +43,9 @@ resume
 
 ## 📂 Workspaces at Anchor
 
-- **`operium`** : branch `wip/mail-dns-cutover` (head `dd90499`) · clean: `false`
-- **`cogentia`** : branch `feat/rossignol-runner-issue-141` (head `9718da3`) · clean: `false`
-- **`JeanHuguesRobert`** : branch `main` (head `194b702`) · clean: `false`
+- **`operium`** : branch `wip/mail-dns-cutover` (head `eeee34b`) · clean: `false`
+- **`cogentia`** : branch `feat/rossignol-runner-issue-141` (head `1b59fb2`) · clean: `false`
+- **`JeanHuguesRobert`** : branch `main` (head `f4c7690`) · clean: `false`
 
 ## 🌐 Fractanet Peers Online
 
