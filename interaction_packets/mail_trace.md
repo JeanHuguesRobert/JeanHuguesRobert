@@ -3,11 +3,11 @@ title: "Registre des interactions"
 description: "Tabular register of traced interactions — ID, date, subject, correspondent, follow-up, status, disclosure level."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-01"
+date: "2026-09-07"
 status: "journal"
 license: "CC BY 4.0"
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md
-last_stamped_at: 2026-09-01
+last_stamped_at: 2026-09-07
 document_role: "operational"
 document_kind: "continuation-packet"
 visibility: "public"
@@ -34,6 +34,7 @@ classification_confidence: "strong"
 | 2026-08-12-002 | 2026-08-12 | Maison de La Gaude / Villa Arson — point d’étape et suite du projet | Damien Ruvet | 0 | 0 | Réponse envoyée à 11:52 ; poursuite de l’échange attendue ; implication locale potentielle à préciser, avec lien possible au dossier OLD AT0045 | D2 |
 | 2026-09-01-001 | 2026-09-01 | Adjudication Nîmes — préservation d’une chaise à porteurs XVIIIe destinée au Musée Mariani des Possibles ; demande sur le solde de la vente | Étude de commissaires de justice — huissiersgard.fr | 1 | 0 | Courriel envoyé : rappel du signalement du 21/04/2026, demande de préservation/récupération du bien meuble, correction d’adresse et demande de procédure pour connaître et obtenir l’éventuel solde d’adjudication ; réponse attendue | D2 |
 | 2026-09-01-002 | 2026-09-01 | 1 cours Paoli — fuite en cage d’escalier : absence de réponse du syndic et routage vers un copropriétaire concerné | U Renosu ; M. Jennepin | 1 | 0 | Le courriel du 06/07/2026 au syndic, envoyé en réponse à un appel de fonds et donc via un canal comptable effectivement utilisé par le syndic, est resté sans réponse. Le 01/09/2026, ce courriel a été transféré à M. Jennepin afin de lui donner l’information et d’observer les suites. Mandat/contexte : appartement prêté par commodat à l’association C.O.R.S.I.C.A., qui l’assure. | D2 |
+| 2026-09-07-001 | 2026-09-07 | 16 avenue Jean-Nicoli — demande du permis de construire initial de la résidence Pasquale Paoli (parcelle AE 208) | Ville de Corte — Pôle Urbanisme | 0 | 0 | Demande CRPA L. 311-1 envoyée par courriel le 07/09/2026 à 12:19 ; communication électronique du permis initial demandée ; réponse attendue | D2 |
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
