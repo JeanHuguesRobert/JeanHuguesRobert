@@ -8,7 +8,7 @@ disclosure: "D4"
 visibility: "public"
 
 date_envoi: "2026-09-10"
-heure_envoi_locale: "17:01"
+heure_premiere_tentative: "17:01"
 timezone: "Europe/Paris"
 canal: "email (Gmail)"
 interlocuteur: "Préfecture de la Haute-Corse — service des élections"
@@ -54,15 +54,34 @@ timeline:
     time: "17:01"
     direction: "outbound"
     channel: "email (Gmail)"
-    event: "Transmission du dossier et demande de rendez-vous"
+    event: "Première tentative de transmission du dossier et demande de rendez-vous"
     summary: >
-      Courriel envoyé au service des élections de la préfecture de Haute-Corse avec huit pièces
-      de candidature et une annexe documentaire DITP. Demande d'un rendez-vous le 11 septembre
-      dans la matinée ; demande également de signaler par retour de courriel toute difficulté
-      matérielle, pièce ou formalité restant à régulariser.
-    status: "sent"
+      Gmail a accepté le message côté expéditeur avec neuf pièces jointes, dont le guide DITP.
+      Le serveur destinataire de la préfecture a ensuite refusé la livraison en raison de la taille
+      totale du message.
+    status: "delivery_failed"
+  - date: "2026-09-10"
+    time: "17:02-17:04"
+    direction: "inbound"
+    channel: "email (Gmail)"
+    event: "Notifications d'échec de livraison"
+    summary: >
+      Trois notifications du Mail Delivery Subsystem ont été reçues dans le même fil. Motif explicite :
+      « Message too large » ; réponse du serveur distant : « 552 5.3.4 Message size exceeds fixed limit ».
+      La préfecture n'a donc pas reçu le premier dossier.
+    status: "received"
+  - date: "2026-09-10"
+    direction: "internal"
+    channel: "Gmail draft"
+    event: "Préparation d'une retransmission allégée"
+    summary: >
+      Le PDF contenant l'acceptation manuscrite et la CNI de Marguerite Ghionga a été recompressé
+      de 9,2 MiB à environ 614 KiB, sans modification visible du contenu utile. Le guide DITP
+      « Objectif zéro papier : simplifier » a été retiré des pièces jointes et remplacé par son lien officiel.
+      Un brouillon de réponse a été créé dans le même fil Gmail, avec Laurence et Maguy à nouveau en copie.
+    status: "draft_ready"
 
-attachments:
+attachments_first_attempt:
   public_status: >
     Le principal a explicitement indiqué le 10 septembre 2026 que l'intégralité du courriel
     et toutes les pièces transmises doivent être considérées comme publiques.
@@ -96,27 +115,53 @@ attachments:
       role: "annexe documentaire — DITP"
       public: true
 
+retransmission_prepared:
+  attachment_count: 8
+  compressed_attachment: "Marguerite_Ghionga_acceptation_mandataire_et_CNI_compresse.pdf"
+  compressed_size_bytes: 628348
+  guide_replaced_by_link: "https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/objectif-zero-papier-simplifier"
+  gmail_draft_id: "r4700490580180067566"
+
 references_ditp:
+  - "https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/objectif-zero-papier-simplifier"
   - "https://www.modernisation.gouv.fr/publications/procedure-penale-numerique-rendre-la-justice-plus-rapidement"
   - "https://www.modernisation.gouv.fr/actualites/des-assistants-digitaux-au-service-des-agents-de-la-prefecture-doccitanie"
+
+process_observation:
+  type: "revealing_observation"
+  label: "Limite de canal / Machine à Empêcher"
+  factual_basis: >
+    L'obstacle observé est une limite fixe de taille imposée par le serveur de messagerie du destinataire.
+    Elle a empêché la livraison d'un dossier pourtant accepté par Gmail côté expéditeur.
+  principal_interpretation: >
+    Jean Hugues Robert qualifie cet épisode de nouvelle manifestation de « La Machine à Empêcher » :
+    une limite institutionnelle ou technique qui transforme une démarche administrativement simple en friction
+    supplémentaire. Cette qualification est enregistrée comme interprétation du principal ; le fait vérifiable
+    reste le rejet SMTP 552 5.3.4 pour dépassement de taille.
+  adaptation: >
+    Réduire la friction plutôt que débattre de la limite : compression du seul PDF volumineux, suppression
+    de l'annexe documentaire binaire au profit de son URL officielle, conservation du même canal et de la trace.
 
 public_summary: >
   Jean Hugues Noël Robert, candidat sous l'appellation électorale Baron Mariani, se présente
   à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse avec Laurence Marie Vernerey,
   appellation électorale Marie-Louise d'Angelis, comme remplaçante. L'étiquette déclarée est
-  « Le Petit Parti - A Voce » et Marguerite Ghionga est désignée mandataire financier. Le dossier
-  complet a été pré-transmis par courriel à la préfecture le 10 septembre à 17:01, avec demande
-  de rendez-vous pour la matinée du 11 septembre. La démarche est volontairement dématérialisée
-  et associée à une mobilité décarbonée : train Corte–Bastia et retour en covoiturage.
+  « Le Petit Parti - A Voce » et Marguerite Ghionga est désignée mandataire financier. Une première
+  pré-transmission par courriel a été tentée le 10 septembre à 17:01, mais le serveur de la préfecture
+  l'a refusée pour dépassement de taille (552 5.3.4). Une version allégée du dossier, toujours entièrement
+  dématérialisée, a été préparée le même jour avec demande de rendez-vous pour la matinée du 11 septembre.
+  La démarche est associée à une mobilité décarbonée : train Corte–Bastia et retour en covoiturage.
 
 current_status:
-  label: "Dossier pré-transmis — rendez-vous de dépôt demandé pour le 11/09 au matin"
+  label: "Première transmission rejetée pour taille — retransmission allégée prête en brouillon"
   interpretation: >
-    L'envoi Gmail est confirmé dans le dossier SENT avec neuf pièces jointes. La prochaine
-    observation attendue est la réponse de la préfecture : confirmation du créneau, demande
-    éventuelle de régularisation, ou autre instruction relative au dépôt.
+    La préfecture n'a pas reçu le premier dossier. Un nouveau brouillon dans le même fil réduit la taille
+    totale à environ 3,2 MiB de pièces jointes brutes, remplace le guide DITP par son lien officiel et conserve
+    les huit pièces du dossier de candidature. Envoi non encore effectué au moment de cette mise à jour.
 
 next_watch:
+  - "Envoi effectif de la retransmission allégée"
+  - "Absence ou présence d'une nouvelle notification d'échec de livraison"
   - "Confirmation d'un rendez-vous le 11 septembre 2026 dans la matinée"
   - "Accusé de réception ou contrôle de complétude du dossier"
   - "Toute demande de pièce ou formalité supplémentaire"
