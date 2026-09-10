@@ -4,7 +4,7 @@ type: "interaction_packet"
 status: "active"
 created: "2026-09-10"
 last_updated: "2026-09-10"
-disclosure: "D4"
+disclosure: "D3"
 visibility: "public"
 
 date_envoi: "2026-09-10"
@@ -23,12 +23,6 @@ actor:
 institution:
   name: "Préfecture de la Haute-Corse — service des élections"
   email: "pref-elections@haute-corse.gouv.fr"
-
-recipients:
-  primary: "pref-elections@haute-corse.gouv.fr"
-  cc:
-    - "Laurence Marie Vernerey"
-    - "Marguerite Ghionga"
 
 candidature:
   election: "Élection sénatoriale"
@@ -56,9 +50,8 @@ timeline:
     channel: "email (Gmail)"
     event: "Première tentative de transmission du dossier et demande de rendez-vous"
     summary: >
-      Gmail a accepté le message côté expéditeur avec neuf pièces jointes, dont le guide DITP.
-      Le serveur destinataire de la préfecture a ensuite refusé la livraison en raison de la taille
-      totale du message.
+      Gmail a accepté le message côté expéditeur avec neuf pièces jointes. Le serveur destinataire
+      de la préfecture a ensuite refusé la livraison en raison de la taille totale du message.
     status: "delivery_failed"
   - date: "2026-09-10"
     time: "17:02-17:04"
@@ -76,44 +69,20 @@ timeline:
     event: "Préparation d'une retransmission allégée"
     summary: >
       Le PDF contenant l'acceptation manuscrite et la CNI de Marguerite Ghionga a été recompressé
-      de 9,2 MiB à environ 614 KiB, sans modification visible du contenu utile. Le guide DITP
-      « Objectif zéro papier : simplifier » a été retiré des pièces jointes et remplacé par son lien officiel.
-      Un brouillon de réponse a été créé dans le même fil Gmail, avec Laurence et Maguy à nouveau en copie.
+      de 9,2 MiB à environ 614 KiB. Le guide DITP « Objectif zéro papier : simplifier » a été retiré
+      des pièces jointes et remplacé par son lien officiel. Un brouillon de réponse a été créé dans
+      le même fil Gmail, avec Laurence et Maguy à nouveau en copie.
     status: "draft_ready"
-
-attachments_first_attempt:
-  public_status: >
-    Le principal a explicitement indiqué le 10 septembre 2026 que l'intégralité du courriel
-    et toutes les pièces transmises doivent être considérées comme publiques.
-  count: 9
-  items:
-    - filename: "cerfa_15217-04_JHR_signe_10-09-2026.pdf"
-      role: "CERFA candidat complété et signé"
-      public: true
-    - filename: "cni-jhr-2024.pdf"
-      role: "justificatif d'identité du candidat"
-      public: true
-    - filename: "situation-electorale_jhr.pdf"
-      role: "attestation de situation électorale du candidat, éditée le 10 septembre 2026"
-      public: true
-    - filename: "cerfa_15218-04_Laurence_sans_profession_consentement_Ajaccio_10-09-2026.pdf"
-      role: "CERFA de la remplaçante avec consentement et signature"
-      public: true
-    - filename: "CNI_Laurence_Vernerey.jpg"
-      role: "justificatif d'identité de la remplaçante"
-      public: true
-    - filename: "situation-electorale (1).pdf"
-      role: "attestation de situation électorale de Laurence Marie Vernerey, éditée le 10 septembre 2026 ; copie transmise portant également sa signature"
-      public: true
-    - filename: "declaration_designation_mandataire_Marguerite_Ghionga_signee.pdf"
-      role: "désignation du mandataire financier par le candidat"
-      public: true
-    - filename: "Marguerite_Ghionga_acceptation_mandataire_et_CNI.pdf"
-      role: "acceptation manuscrite du mandataire financier et justificatif d'identité"
-      public: true
-    - filename: "Guide 0 papier_Juillet 2021.pdf"
-      role: "annexe documentaire — DITP"
-      public: true
+  - date: "2026-09-10"
+    direction: "internal"
+    channel: "Google Drive + GitHub"
+    event: "Traitement privacy avant publication des pièces"
+    summary: >
+      Le principal a relevé qu'une publication brute des pièces créerait un problème de privacy.
+      Les huit originaux exacts destinés à la préfecture ont donc été archivés dans un dossier Drive
+      privé. Une projection publique distincte a été produite après expurgation des identifiants et
+      moyens d'authentification réutilisables ainsi que des coordonnées privées de tiers.
+    status: "privacy_redaction_prepared"
 
 retransmission_prepared:
   attachment_count: 8
@@ -121,6 +90,51 @@ retransmission_prepared:
   compressed_size_bytes: 628348
   guide_replaced_by_link: "https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/objectif-zero-papier-simplifier"
   gmail_draft_id: "r4700490580180067566"
+
+privacy_revision:
+  rationale: >
+    La déclaration initiale « toutes les pièces sont publiques » est conservée comme fait historique,
+    mais sa mise en œuvre est corrigée par minimisation : l'intérêt public porte sur la substance du
+    dossier, non sur la publication de numéros de titres, MRZ/CAN, NNE, signatures réutilisables ou
+    coordonnées privées de tiers.
+  public_disclosure: "D3 — contenu public avec expurgations explicites"
+  private_originals:
+    storage: "Google Drive"
+    sharing: "private"
+    note: "Les URL/ID du dossier original ne sont pas publiés dans le corpus."
+  redactions:
+    - "numéros de CNI, MRZ, CAN/codes techniques et signatures"
+    - "numéros nationaux d'électeur"
+    - "adresse et courriel privés de Laurence Marie Vernerey"
+    - "date/lieu de naissance et adresse de Marguerite Ghionga dans l'acte de désignation"
+    - "images détaillées de la CNI de Marguerite Ghionga dans l'acceptation manuscrite"
+
+original_sha256:
+  "01_cerfa_15217-04_JHR_signe_10-09-2026.pdf": "2750b7541ba740ac97fbbe1e981ee7b9e7f25eb5e65187992c94ca2a9d391e6f"
+  "02_cni-jhr-2024.pdf": "1b34248ab4e89568e9e861e0e40b0a6e54b47bd5f69c3a1cc9c0add92d2d68fb"
+  "03_situation-electorale_jhr.pdf": "a23e3736deee5d1214ab1ee527dcdf4d436fa5fdc782f932cd767481cbab89ae"
+  "04_cerfa_15218-04_Laurence_remplacante.pdf": "92267e91e078b0f4d14ad66121224d0f9a0955e6ef9c86b6cd40f94549eb1417"
+  "05_CNI_Laurence_Vernerey.jpg": "fa31ab5934d935b27886dcb59150a08b949da8b36a4a4b73461e04fde005b9cd"
+  "06_situation-electorale_Laurence.pdf": "b384e7ef41bd7108ed0b0c56f21e0393ab53b118f9fdc584fde2ee2b6be88a1c"
+  "07_declaration_designation_mandataire_Marguerite_Ghionga_signee.pdf": "1d8fc52ed3abb1920f996314fd42ebba36cefe2a9801e2c67fbc3046c68aba3e"
+  "08_Marguerite_Ghionga_acceptation_mandataire_et_CNI_compresse.pdf": "f3209fcebdad267378a9964277d441f5b5ba31d9f72700c9ebc9f02887a35a91"
+
+public_drive_mirror:
+  folder_url: "https://drive.google.com/drive/folders/1ZdKAhSu4eGgAXNtDuoI6G8HiZ9ngvhWt"
+  sharing_status: "prepared_but_not_publicly_shared"
+  limitation: >
+    Le connecteur Google Drive disponible permet le partage avec un utilisateur ou un domaine Workspace,
+    mais n'expose pas l'autorisation « anyone with the link ». Les liens ci-dessous ne doivent donc pas
+    être qualifiés de publics avant activation manuelle de cette permission.
+  files:
+    - {name: "01_cerfa_JHR_public_expurge.pdf", url: "https://drive.google.com/file/d/1W5DHYujpyOdjsB3fH59KYIlLIVXdL3IG/view", sha256: "2382d060e14f395898e7e60875433d38b6808e90722800baed0f74732a921a4c"}
+    - {name: "02_CNI_JHR_public_expurge.pdf", url: "https://drive.google.com/file/d/1FwtWRh64SQCH-YEIXHmGQUqRGkigAsvJ/view", sha256: "d094eba4a2fe14b216c13066bb6f2bce2b1d863135187061611dfa55fe48790f"}
+    - {name: "03_situation_electorale_JHR_public_expurge.pdf", url: "https://drive.google.com/file/d/145c2lkFaDCOnXQCCTUQ1oOlGHp_XpY0y/view", sha256: "7f15f689709e370334dc8f84c672552e8e39258d13a3020ba99eb5c55f4c32ae"}
+    - {name: "04_cerfa_Laurence_public_expurge.pdf", url: "https://drive.google.com/file/d/1vc2Rf3wmP5tg9tR999pGtwjM9l42Kb-6/view", sha256: "fb349d4b23763fbbb8c81d5b510bffd01600445e269862b705a64ec624456b4b"}
+    - {name: "05_CNI_Laurence_public_expurge.jpg", url: "https://drive.google.com/file/d/1OqMqr4L0WhyH6j2iFMQ68YtcdXTCYQkK/view", sha256: "855f7909faa624542dd3bedb284512fe4a57b8d95e33bd88263e326f4c68de50"}
+    - {name: "06_situation_electorale_Laurence_public_expurge.pdf", url: "https://drive.google.com/file/d/1bLh7iQXlfybtqvS4VnPP61oqJ8-gH6xQ/view", sha256: "464e9bee36c3d6ff6bdefe29d92dd4a8e95c963c2b8167ea38bb87e21a143bd7"}
+    - {name: "07_designation_Maguy_public_expurge.pdf", url: "https://drive.google.com/file/d/1jQyOliHz3jA9yJpItuTzY2cFjerEHo-v/view", sha256: "4f8f49291edbab79e2fb1ad0163d1c526c7c9a1b62691b7173b14bf8364362c5"}
+    - {name: "08_acceptation_Maguy_public_expurge.pdf", url: "https://drive.google.com/file/d/1R7YYDYpaalyO-2JoVVeXTATCfZjW8tZg/view", sha256: "f3a0180eaac211f7f0d1e5b3d0db5ec82b97a5bbfcba8f3b26c892c90eb9fd28"}
 
 references_ditp:
   - "https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/objectif-zero-papier-simplifier"
@@ -134,38 +148,27 @@ process_observation:
     L'obstacle observé est une limite fixe de taille imposée par le serveur de messagerie du destinataire.
     Elle a empêché la livraison d'un dossier pourtant accepté par Gmail côté expéditeur.
   principal_interpretation: >
-    Jean Hugues Robert qualifie cet épisode de nouvelle manifestation de « La Machine à Empêcher » :
-    une limite institutionnelle ou technique qui transforme une démarche administrativement simple en friction
-    supplémentaire. Cette qualification est enregistrée comme interprétation du principal ; le fait vérifiable
-    reste le rejet SMTP 552 5.3.4 pour dépassement de taille.
+    Jean Hugues Robert qualifie cet épisode de nouvelle manifestation de « La Machine à Empêcher ».
+    Cette qualification est enregistrée comme interprétation du principal ; le fait vérifiable reste
+    le rejet SMTP 552 5.3.4 pour dépassement de taille.
   adaptation: >
-    Réduire la friction plutôt que débattre de la limite : compression du seul PDF volumineux, suppression
-    de l'annexe documentaire binaire au profit de son URL officielle, conservation du même canal et de la trace.
-
-public_summary: >
-  Jean Hugues Noël Robert, candidat sous l'appellation électorale Baron Mariani, se présente
-  à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse avec Laurence Marie Vernerey,
-  appellation électorale Marie-Louise d'Angelis, comme remplaçante. L'étiquette déclarée est
-  « Le Petit Parti - A Voce » et Marguerite Ghionga est désignée mandataire financier. Une première
-  pré-transmission par courriel a été tentée le 10 septembre à 17:01, mais le serveur de la préfecture
-  l'a refusée pour dépassement de taille (552 5.3.4). Une version allégée du dossier, toujours entièrement
-  dématérialisée, a été préparée le même jour avec demande de rendez-vous pour la matinée du 11 septembre.
-  La démarche est associée à une mobilité décarbonée : train Corte–Bastia et retour en covoiturage.
+    Réduire la friction : compression du seul PDF volumineux, remplacement de l'annexe documentaire
+    binaire par son URL officielle, conservation du même canal et préparation d'un secours Drive.
 
 current_status:
-  label: "Première transmission rejetée pour taille — retransmission allégée prête en brouillon"
+  label: "Première transmission rejetée ; retransmission allégée prête ; secours Drive privé + miroir expurgé préparés"
   interpretation: >
-    La préfecture n'a pas reçu le premier dossier. Un nouveau brouillon dans le même fil réduit la taille
-    totale à environ 3,2 MiB de pièces jointes brutes, remplace le guide DITP par son lien officiel et conserve
-    les huit pièces du dossier de candidature. Envoi non encore effectué au moment de cette mise à jour.
+    La préfecture n'a pas reçu le premier dossier. Le nouveau brouillon Gmail conserve les huit pièces
+    de candidature et pèse environ 3,2 MiB avant encodage. Les originaux ont été archivés sur Drive privé.
+    Un miroir expurgé est prêt mais n'est pas encore ouvert au public faute de permission « anyone with link »
+    exposée par le connecteur actuel.
 
 next_watch:
   - "Envoi effectif de la retransmission allégée"
   - "Absence ou présence d'une nouvelle notification d'échec de livraison"
+  - "Activation du partage public du dossier Drive expurgé, puis vérification depuis un accès non authentifié"
   - "Confirmation d'un rendez-vous le 11 septembre 2026 dans la matinée"
-  - "Accusé de réception ou contrôle de complétude du dossier"
   - "Toute demande de pièce ou formalité supplémentaire"
-  - "Toute objection relative à la dématérialisation, aux signatures ou aux appellations électorales"
 
 linked_documents:
   readable: "interaction_packets/readable/2026/2026-09-10-candidature-senatoriale-haute-corse.md"
