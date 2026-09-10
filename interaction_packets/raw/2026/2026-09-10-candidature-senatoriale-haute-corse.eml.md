@@ -1,6 +1,6 @@
 ---
 title: "Copie brute publique — candidature sénatoriale Haute-Corse 2026"
-description: "Reproduction intégrale D4 des en-têtes utiles et du corps du courriel envoyé à la préfecture de Haute-Corse le 10 septembre 2026."
+description: "Reproduction intégrale D4 des en-têtes utiles et du corps de la première tentative de courriel à la préfecture de Haute-Corse, avec résultat de livraison SMTP."
 author: "Jean Hugues Noël Robert"
 date: "2026-09-10"
 status: "archive"
@@ -15,7 +15,8 @@ document_kind: "interaction-trace"
 
 Disclosure : **D4 — intégral public**  
 Gmail message id : `1a08bd73bb174a75`  
-Envoi constaté dans Gmail : **10 septembre 2026, 17:01:56 CEST**
+Première tentative depuis Gmail : **10 septembre 2026, 17:01:56 CEST**  
+Résultat : **non livré au destinataire — rejet SMTP pour dépassement de taille**
 
 ```text
 From: "Jean Hugues Noël Robert" <jeanhuguesrobert@gmail.com>
@@ -81,7 +82,7 @@ Jean Hugues Noël Robert
 20250 Corte
 ```
 
-## Pièces jointes constatées dans le message envoyé
+## Pièces jointes de la première tentative
 
 ```text
 Guide 0 papier_Juillet 2021.pdf
@@ -94,5 +95,35 @@ cni-jhr-2024.pdf
 cerfa_15217-04_JHR_signe_10-09-2026.pdf
 CNI_Laurence_Vernerey.jpg
 ```
+
+## Notifications d'échec
+
+Trois notifications du `Mail Delivery Subsystem <mailer-daemon@googlemail.com>` ont été reçues dans le même fil après la tentative.
+
+Dernière notification vérifiée : Gmail id `1a08bd96e541cdc6`.
+
+```text
+Subject: Delivery Status Notification (Failure)
+
+Message too large
+
+Your message couldn't be delivered to pref-elections@haute-corse.gouv.fr because it exceeds the size limit. Try reducing the message size and resending.
+
+The response from the remote server was:
+
+552 5.3.4 Message size exceeds fixed limit
+```
+
+La préfecture n'a donc pas reçu la première tentative. La présence du message dans `SENT` documente l'émission par Gmail, non la livraison distante.
+
+## Adaptation préparée
+
+- PDF Maguy recompressé : `Marguerite_Ghionga_acceptation_mandataire_et_CNI_compresse.pdf` — 628348 octets ;
+- guide DITP retiré des pièces jointes et remplacé par son URL officielle :
+  `https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/objectif-zero-papier-simplifier` ;
+- nouveau brouillon dans le même fil Gmail ;
+- destinataire : préfecture de Haute-Corse, service des élections ;
+- copies : Laurence et Maguy ;
+- statut au moment de cette trace : **brouillon prêt, non envoyé**.
 
 Le principal a explicitement déclaré publiques l'intégralité du courriel et toutes les pièces jointes.
