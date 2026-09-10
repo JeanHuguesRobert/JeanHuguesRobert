@@ -1,6 +1,6 @@
 ---
 title: "Interaction lisible — Candidature sénatoriale Haute-Corse 2026"
-description: "Trace publique D4 de la pré-transmission du dossier de candidature de Jean Hugues Noël Robert (Baron Mariani), avec résumé de candidature et reproduction intégrale du courriel envoyé à la préfecture le 10 septembre 2026."
+description: "Trace publique D4 de la tentative de pré-transmission du dossier de candidature de Jean Hugues Noël Robert (Baron Mariani), de son rejet SMTP pour taille et de la retransmission allégée préparée."
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-10"
 status: "journal"
@@ -23,7 +23,7 @@ classification_confidence: "strong"
 
 **D4 — copie complète publique.**
 
-Le 10 septembre 2026, Jean Hugues Noël Robert a explicitement indiqué que l'intégralité du courriel et l'ensemble des pièces composant le dossier transmis à la préfecture de Haute-Corse doivent être considérés comme publics.
+Le 10 septembre 2026, Jean Hugues Noël Robert a explicitement indiqué que l'intégralité du courriel et l'ensemble des pièces composant le dossier transmis ou préparé pour transmission à la préfecture de Haute-Corse doivent être considérés comme publics.
 
 Les pièces binaires ne sont pas dupliquées dans ce fichier Markdown ; elles sont inventoriées ci-dessous et leur statut public est explicitement enregistré dans le paquet structuré associé.
 
@@ -42,27 +42,38 @@ Les pièces binaires ne sont pas dupliquées dans ce fichier Markdown ; elles so
 
 La dimension dématérialisée et le choix des transports collectifs sont explicitement présentés dans le courriel comme relevant d'une même démarche concrète de décarbonation.
 
-## Événement documenté
+## Chronologie du 10 septembre 2026
 
-Le **10 septembre 2026 à 17 h 01**, un courriel a été envoyé depuis Gmail au service des élections de la préfecture de Haute-Corse, avec Laurence Marie Vernerey et Marguerite Ghionga en copie. Le message demande un rendez-vous pour la matinée du vendredi 11 septembre 2026 et transmet le dossier en amont pour contrôle matériel.
+À **17 h 01**, Gmail a accepté un courriel destiné au service des élections de la préfecture de Haute-Corse, avec Laurence Marie Vernerey et Marguerite Ghionga en copie. Le message demandait un rendez-vous pour la matinée du vendredi 11 septembre 2026 et tentait de transmettre le dossier en amont pour contrôle matériel.
 
-Gmail message id : `1a08bd73bb174a75`.
+Ce premier envoi **n'a pas été livré à la préfecture**. Trois notifications automatiques d'échec ont ensuite été reçues dans le même fil. Le serveur distant a répondu :
 
-## Pièces jointes transmises
+> `552 5.3.4 Message size exceeds fixed limit`
+
+La présence d'un message dans le dossier Gmail `SENT` ne suffisait donc pas à établir sa livraison effective. Cette correction est conservée comme trace méthodologique.
+
+La cause principale du volume était le fichier `Marguerite_Ghionga_acceptation_mandataire_et_CNI.pdf`, d'environ 9,2 MiB. Il a été recompressé à environ 614 KiB sans modification visible du contenu utile. L'annexe documentaire DITP « Guide 0 papier » a par ailleurs été retirée du nouvel envoi et remplacée par son lien officiel.
+
+Un **brouillon de retransmission allégée** a été préparé dans le même fil Gmail, toujours à destination du service des élections et avec Laurence et Maguy en copie. Il n'est pas encore envoyé au moment de cette mise à jour.
+
+## Pièces de candidature
 
 1. `cerfa_15217-04_JHR_signe_10-09-2026.pdf` — CERFA candidat complété et signé ;
 2. `cni-jhr-2024.pdf` — justificatif d'identité du candidat ;
 3. `situation-electorale_jhr.pdf` — attestation de situation électorale du candidat, éditée le 10 septembre 2026 ;
 4. `cerfa_15218-04_Laurence_sans_profession_consentement_Ajaccio_10-09-2026.pdf` — CERFA de la remplaçante, avec consentement et signature ;
 5. `CNI_Laurence_Vernerey.jpg` — justificatif d'identité de la remplaçante ;
-6. `situation-electorale (1).pdf` — attestation de situation électorale de Laurence Marie Vernerey, éditée le 10 septembre 2026 ; la copie effectivement envoyée porte également sa signature ;
+6. `situation-electorale (1).pdf` — attestation de situation électorale de Laurence Marie Vernerey, éditée le 10 septembre 2026 ; la copie utilisée porte également sa signature ;
 7. `declaration_designation_mandataire_Marguerite_Ghionga_signee.pdf` — désignation du mandataire financier par le candidat ;
-8. `Marguerite_Ghionga_acceptation_mandataire_et_CNI.pdf` — acceptation manuscrite de Marguerite Ghionga et justificatif d'identité ;
-9. `Guide 0 papier_Juillet 2021.pdf` — annexe documentaire de la Direction interministérielle de la transformation publique.
+8. `Marguerite_Ghionga_acceptation_mandataire_et_CNI_compresse.pdf` — acceptation manuscrite de Marguerite Ghionga et justificatif d'identité, version recompressée.
 
-Toutes ces pièces sont enregistrées comme **publiques** dans le paquet interactionnel correspondant.
+Le premier essai comportait en neuvième pièce `Guide 0 papier_Juillet 2021.pdf`. Pour la retransmission, cette annexe documentaire est remplacée par le lien officiel suivant :
 
-## Courriel intégral envoyé
+- https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/objectif-zero-papier-simplifier
+
+Toutes les pièces sont enregistrées comme **publiques** dans le paquet interactionnel correspondant.
+
+## Courriel intégral de la première tentative
 
 **De :** Jean Hugues Noël Robert  
 **À :** PREF2B elections — `pref-elections@haute-corse.gouv.fr`  
@@ -126,20 +137,23 @@ Toutes ces pièces sont enregistrées comme **publiques** dans le paquet interac
 > 1 cours Paoli
 > 20250 Corte
 
-## Vérification post-envoi
+## Observation — limite de canal / « La Machine à Empêcher »
 
-L'envoi est présent dans le dossier `SENT` de Gmail, avec les neuf pièces jointes annoncées ci-dessus.
+Le fait brut est précis : le serveur de messagerie du destinataire impose une limite fixe de taille et a rejeté le premier message avec le code SMTP 552 5.3.4.
 
-Une particularité vérifiée après envoi : le fichier `situation-electorale (1).pdf` effectivement joint pour Laurence est la version de 68 397 octets comportant également sa signature. Le contenu électoral officiel reste lisible et inchangé ; cette signature supplémentaire constitue une trace de provenance, non une substitution au contenu de l'attestation.
+Jean Hugues Robert interprète cet épisode comme une nouvelle manifestation de **« La Machine à Empêcher »** : une limite institutionnelle ou technique qui produit une friction supplémentaire dans une démarche simple. Cette qualification est conservée comme interprétation du principal et non comme description causale du comportement de la préfecture.
+
+La réponse choisie est cohérente avec la méthode déjà appliquée ailleurs : ne pas débattre abstraitement de l'obstacle, mais réduire immédiatement la friction — compression du fichier volumineux, remplacement d'une annexe documentaire par son URL officielle, conservation du canal et de la trace.
 
 ## Références administratives associées
 
+- [Objectif zéro papier : simplifier](https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/objectif-zero-papier-simplifier)
 - [Procédure pénale numérique — rendre la justice plus rapidement](https://www.modernisation.gouv.fr/publications/procedure-penale-numerique-rendre-la-justice-plus-rapidement)
 - [Des assistants digitaux au service des agents de la préfecture d'Occitanie](https://www.modernisation.gouv.fr/actualites/des-assistants-digitaux-au-service-des-agents-de-la-prefecture-doccitanie)
 
 ## Suite attendue
 
-La prochaine étape attendue est une réponse de la préfecture précisant :
+La prochaine étape est l'envoi effectif de la retransmission allégée, puis l'observation de sa livraison. Si elle est acceptée, restent attendus :
 
 - le créneau de rendez-vous du 11 septembre au matin ;
 - toute éventuelle pièce ou formalité restant à régulariser ;
@@ -148,6 +162,6 @@ La prochaine étape attendue est une réponse de la préfecture précisant :
 ## Documents liés
 
 - [Paquet structuré](../../packets/2026/2026-09-10-candidature-senatoriale-haute-corse.yaml)
-- [Copie brute du courriel](../../raw/2026/2026-09-10-candidature-senatoriale-haute-corse.eml.md)
+- [Copie brute du premier courriel et de son échec de livraison](../../raw/2026/2026-09-10-candidature-senatoriale-haute-corse.eml.md)
 - [Registre des interactions](../../mail_trace.md)
 - [Politique d'archivage](../../archive_policy.md)
