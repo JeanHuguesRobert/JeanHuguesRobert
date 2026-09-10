@@ -74,11 +74,13 @@ Deux espaces distincts ont été créés dans Google Drive :
 1. **Originaux exacts destinés à la préfecture** — dossier privé, non publié. Il contient les huit pièces dans leur forme de retransmission et sert de sauvegarde/audit.
 2. **Dossier public — versions expurgées** — projection de publication, contenant huit copies expurgées et un manifeste d'intégrité/privacy.
 
-Dossier de projection publique :
+Le dossier de projection publique est désormais effectivement partagé :
 
 - https://drive.google.com/drive/folders/1ZdKAhSu4eGgAXNtDuoI6G8HiZ9ngvhWt
 
-À la date de cette mise à jour, ce dossier et ses fichiers sont **préparés mais pas encore ouverts en lecture anonyme**. Le connecteur Drive disponible ne permet pas d'activer l'autorisation « toute personne disposant du lien ». Les URL ci-dessous sont donc enregistrées comme adresses stables de la projection, **pas encore comme liens publics effectifs** :
+Vérification du 10 septembre 2026 : Google Drive expose une permission `type=anyone`, `role=commenter`, avec `allowFileDiscovery=false`. Cela signifie que **toute personne disposant du lien peut consulter les versions expurgées**, sans que le dossier soit rendu découvrable par recherche publique. Le rôle `commenter` est plus permissif que nécessaire pour un simple miroir documentaire ; pour une publication strictement en lecture seule, `reader` serait préférable.
+
+Liens directs vers les projections expurgées :
 
 - CERFA candidat expurgé : https://drive.google.com/file/d/1W5DHYujpyOdjsB3fH59KYIlLIVXdL3IG/view
 - CNI candidat expurgée : https://drive.google.com/file/d/1FwtWRh64SQCH-YEIXHmGQUqRGkigAsvJ/view
@@ -121,13 +123,12 @@ La tenue du registre doit donc **éviter toute instruction à charge**. Une hypo
 
 ## Suite attendue
 
-La **réception électronique est désormais établie**. Restent à observer :
+La **réception électronique est désormais établie** et la projection Drive expurgée est accessible à toute personne disposant du lien. Restent à observer :
 
 - la confirmation du créneau de rendez-vous du 11 septembre au matin ;
 - l'examen de complétude et de recevabilité ;
 - toute demande de pièce ou formalité complémentaire et le délai associé ;
-- toute objection éventuelle relative au support dématérialisé, aux signatures ou aux appellations électorales ;
-- l'ouverture éventuelle en lecture publique de la projection Drive expurgée.
+- toute objection éventuelle relative au support dématérialisé, aux signatures ou aux appellations électorales.
 
 ## Documents liés
 
