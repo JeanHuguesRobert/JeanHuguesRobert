@@ -3,11 +3,11 @@ title: "Registre des interactions"
 description: "Tabular register of traced interactions — ID, date, subject, correspondent, follow-up, status, disclosure level."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-07"
+date: "2026-09-10"
 status: "journal"
 license: "CC BY 4.0"
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md
-last_stamped_at: 2026-09-07
+last_stamped_at: 2026-09-10
 document_role: "operational"
 document_kind: "continuation-packet"
 visibility: "public"
@@ -37,6 +37,7 @@ classification_confidence: "strong"
 | 2026-09-07-001 | 2026-09-07 | 16 avenue Jean-Nicoli — demande du permis de construire initial de la résidence Pasquale Paoli (parcelle AE 208) | Ville de Corte — Pôle Urbanisme | 0 | 0 | Demande CRPA L. 311-1 envoyée à 12:19. Réponse reçue à 14:57 : compte tenu de l’ancienneté, la Ville indique ne plus détenir de pièces communicables et oriente vers le Service départemental des Archives. | D2 |
 | 2026-09-07-002 | 2026-09-07 | 16 avenue Jean-Nicoli — document indiquant le prix définitif payé pour l’acquisition 2026 de la résidence | CROUS de Corse | 0 | 0 | Demande CRPA L. 311-1 envoyée à 12:07. Réponse reçue à 16:32 demandant de préciser la nature exacte du document. Clarification envoyée dans le même fil à 17:59 : demande maintenue sur tout document détenu indiquant le prix définitif effectivement payé ; réponse attendue. | D2 |
 | 2026-09-07-003 | 2026-09-07 | 16 avenue Jean-Nicoli — demande du permis de construire initial de la résidence Pasquale Paoli (parcelle AE 208) | Archives de Corse — Cismonte | 0 | 0 | Demande minimale envoyée par courriel à archivii.cismonte@isula.corsica le 07/09/2026 à 18:04 ; aucune mention de la demande préalable à la Ville de Corte afin de préserver l’indépendance de cette observation ; réponse attendue. | D2 |
+| 2026-09-10-001 | 2026-09-10 | Sénatoriales 2026 — candidature Baron Mariani : pré-transmission dématérialisée du dossier et demande de rendez-vous | Préfecture de la Haute-Corse — service des élections | 0 | 0 | Courriel et dossier envoyés à 17:01 ; rendez-vous demandé pour la matinée du 11/09 avant retour en covoiturage à 13 h ; réponse de la préfecture attendue. Courriel intégral, résumé de candidature et statut public des neuf pièces archivés. | D4 |
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
