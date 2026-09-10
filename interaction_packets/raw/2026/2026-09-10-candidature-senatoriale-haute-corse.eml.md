@@ -1,6 +1,6 @@
 ---
-title: "Copie brute publique — candidature sénatoriale Haute-Corse 2026"
-description: "Reproduction intégrale D4 des en-têtes utiles et du corps de la première tentative de courriel à la préfecture de Haute-Corse, avec résultat de livraison SMTP."
+title: "Copie quasi-brute publique — candidature sénatoriale Haute-Corse 2026"
+description: "Reproduction publique expurgée des en-têtes utiles et du corps de la première tentative de courriel à la préfecture de Haute-Corse, avec résultat de livraison SMTP."
 author: "Jean Hugues Noël Robert"
 date: "2026-09-10"
 status: "archive"
@@ -9,11 +9,12 @@ visibility: "public"
 lifecycle_state: "active"
 document_role: "source"
 document_kind: "interaction-trace"
+disclosure: "D3"
 ---
 
-# Copie brute publique du courriel
+# Copie quasi-brute publique du courriel
 
-Disclosure : **D4 — intégral public**  
+Disclosure : **D3 — copie publique avec masquage des coordonnées privées de tiers**  
 Gmail message id : `1a08bd73bb174a75`  
 Première tentative depuis Gmail : **10 septembre 2026, 17:01:56 CEST**  
 Résultat : **non livré au destinataire — rejet SMTP pour dépassement de taille**
@@ -21,7 +22,7 @@ Résultat : **non livré au destinataire — rejet SMTP pour dépassement de tai
 ```text
 From: "Jean Hugues Noël Robert" <jeanhuguesrobert@gmail.com>
 To: PREF2B elections <pref-elections@haute-corse.gouv.fr>
-Cc: Laurence Ceccaldi <lo.evisa@yahoo.fr>, Maguy <gmci2b@orange.fr>
+Cc: Laurence Marie Vernerey <[courriel masqué]>, Marguerite Ghionga <[courriel masqué]>
 Subject: Élections sénatoriales 2026 – Jean Hugues Noël Robert (Baron Mariani) – demande de rendez-vous et transmission du dossier
 
 Madame, Monsieur,
@@ -98,9 +99,7 @@ CNI_Laurence_Vernerey.jpg
 
 ## Notifications d'échec
 
-Trois notifications du `Mail Delivery Subsystem <mailer-daemon@googlemail.com>` ont été reçues dans le même fil après la tentative.
-
-Dernière notification vérifiée : Gmail id `1a08bd96e541cdc6`.
+Trois notifications du `Mail Delivery Subsystem <mailer-daemon@googlemail.com>` ont été reçues dans le même fil après la tentative. Dernière notification vérifiée : Gmail id `1a08bd96e541cdc6`.
 
 ```text
 Subject: Delivery Status Notification (Failure)
@@ -124,6 +123,8 @@ La préfecture n'a donc pas reçu la première tentative. La présence du messag
 - nouveau brouillon dans le même fil Gmail ;
 - destinataire : préfecture de Haute-Corse, service des élections ;
 - copies : Laurence et Maguy ;
-- statut au moment de cette trace : **brouillon prêt, non envoyé**.
+- statut : **brouillon prêt, non envoyé**.
 
-Le principal a explicitement déclaré publiques l'intégralité du courriel et toutes les pièces jointes.
+## Privacy
+
+La déclaration initiale de publicité intégrale est conservée dans l'historique du dossier, mais la publication effective applique une minimisation : les originaux contenant identifiants de titres, signatures, NNE et coordonnées privées de tiers restent privés ; des copies expurgées séparées ont été préparées pour publication. Voir le paquet structuré et la copie lisible pour les adresses Drive et les empreintes d'intégrité.
