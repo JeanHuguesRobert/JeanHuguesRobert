@@ -13,7 +13,9 @@ timezone: "Europe/Paris"
 canal: "email (Gmail)"
 interlocuteur: "Préfecture de la Haute-Corse — service des élections"
 sujet: "Élections sénatoriales 2026 – Jean Hugues Noël Robert (Baron Mariani) – demande de rendez-vous et transmission du dossier"
-gmail_message_id: "1a08bd73bb174a75"
+gmail_message_id_first_attempt: "1a08bd73bb174a75"
+gmail_message_id_retransmission: "1a08c07a7fbb141b"
+gmail_message_id_prefecture_ack: "1a08c0953c1f9ff2"
 
 actor:
   name: "Jean Hugues Noël Robert"
@@ -72,7 +74,7 @@ timeline:
       de 9,2 MiB à environ 614 KiB. Le guide DITP « Objectif zéro papier : simplifier » a été retiré
       des pièces jointes et remplacé par son lien officiel. Un brouillon de réponse a été créé dans
       le même fil Gmail, avec Laurence et Maguy à nouveau en copie.
-    status: "draft_ready"
+    status: "prepared"
   - date: "2026-09-10"
     direction: "internal"
     channel: "Google Drive + GitHub"
@@ -83,13 +85,46 @@ timeline:
       privé. Une projection publique distincte a été produite après expurgation des identifiants et
       moyens d'authentification réutilisables ainsi que des coordonnées privées de tiers.
     status: "privacy_redaction_prepared"
+  - date: "2026-09-10"
+    time: "17:54:50"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Retransmission allégée du dossier"
+    summary: >
+      Le dossier a été retransmis au bureau des élections avec huit pièces jointes, le guide DITP
+      étant désormais référencé par URL. Laurence Marie Vernerey et Marguerite Ghionga sont à nouveau en copie.
+    status: "sent"
+  - date: "2026-09-10"
+    time: "17:56:53"
+    direction: "inbound"
+    channel: "email automatique — Préfecture de la Haute-Corse"
+    event: "Accusé de réception électronique de la préfecture"
+    summary: >
+      Le bureau des élections confirme que le candidat l'a « saisi par voie électronique » et que
+      « le présent accusé de réception atteste de la réception de votre saisine ». L'accusé précise
+      expressément que cette réception ne préjuge pas de la complétude ni de la recevabilité et que
+      des informations ou pièces complémentaires seront demandées si l'instruction les nécessite.
+    status: "received_and_acknowledged"
 
-retransmission_prepared:
+retransmission:
+  sent_at: "2026-09-10T17:54:50+02:00"
   attachment_count: 8
   compressed_attachment: "Marguerite_Ghionga_acceptation_mandataire_et_CNI_compresse.pdf"
   compressed_size_bytes: 628348
   guide_replaced_by_link: "https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/objectif-zero-papier-simplifier"
-  gmail_draft_id: "r4700490580180067566"
+  acknowledgement_received_at: "2026-09-10T17:56:53+02:00"
+
+institutional_acknowledgement:
+  sender: "pref-elections@haute-corse.gouv.fr"
+  automated: true
+  positive_evidence:
+    - "qualification explicite de la démarche comme saisine par voie électronique"
+    - "attestation explicite de réception de la saisine"
+    - "réponse automatique reçue environ deux minutes après la retransmission"
+    - "annonce d'une demande de compléments si l'instruction l'exige"
+  reservation: >
+    L'accusé ne vaut ni validation de complétude ni décision de recevabilité ; ces questions restent
+    soumises à l'examen à venir des pièces.
 
 privacy_revision:
   rationale: >
@@ -143,32 +178,40 @@ references_ditp:
 
 process_observation:
   type: "revealing_observation"
-  label: "Limite de canal / Machine à Empêcher"
-  factual_basis: >
-    L'obstacle observé est une limite fixe de taille imposée par le serveur de messagerie du destinataire.
-    Elle a empêché la livraison d'un dossier pourtant accepté par Gmail côté expéditeur.
-  principal_interpretation: >
-    Jean Hugues Robert qualifie cet épisode de nouvelle manifestation de « La Machine à Empêcher ».
-    Cette qualification est enregistrée comme interprétation du principal ; le fait vérifiable reste
-    le rejet SMTP 552 5.3.4 pour dépassement de taille.
-  adaptation: >
-    Réduire la friction : compression du seul PDF volumineux, remplacement de l'annexe documentaire
-    binaire par son URL officielle, conservation du même canal et préparation d'un secours Drive.
+  label: "Limite de canal puis récupération numérique réussie"
+  factual_basis_negative: >
+    Le premier envoi a rencontré une limite fixe de taille du serveur destinataire et a été rejeté
+    avec le code SMTP 552 5.3.4.
+  principal_interpretation_negative: >
+    Jean Hugues Robert qualifie cette friction de manifestation de « La Machine à Empêcher ».
+    Cette qualification reste explicitement une interprétation, distincte du fait technique établi.
+  factual_basis_positive: >
+    Après adaptation, la retransmission allégée a été acceptée et la préfecture a envoyé en environ
+    deux minutes un accusé automatique qui qualifie la démarche de saisine par voie électronique et
+    atteste explicitement sa réception.
+  assessment_positive: >
+    Ce mécanisme automatique constitue un point favorable au fonctionnement administratif : il fournit
+    rapidement une preuve de réception, distingue réception et recevabilité, et annonce le processus de
+    demande de compléments éventuels.
+  methodological_rule: >
+    Ne pas instruire à charge. Enregistrer avec le même niveau de précision les frictions, les corrections,
+    les réponses favorables et les éléments qui contredisent ou nuancent l'hypothèse critique initiale.
+    La transparence recherchée est probatoire : faits datés, sources identifiables, interprétations séparées.
 
 current_status:
-  label: "Première transmission rejetée ; retransmission allégée prête ; secours Drive privé + miroir expurgé préparés"
+  label: "Retransmission allégée reçue — accusé électronique de la préfecture à 17:56:53"
   interpretation: >
-    La préfecture n'a pas reçu le premier dossier. Le nouveau brouillon Gmail conserve les huit pièces
-    de candidature et pèse environ 3,2 MiB avant encodage. Les originaux ont été archivés sur Drive privé.
-    Un miroir expurgé est prêt mais n'est pas encore ouvert au public faute de permission « anyone with link »
-    exposée par le connecteur actuel.
+    Le premier envoi a échoué pour une limite technique de taille ; le second, allégé, a été transmis à
+    17:54:50 et sa réception a été explicitement accusée par le bureau des élections à 17:56:53. Cela ne
+    préjuge pas encore de la complétude ni de la recevabilité. Les originaux sont archivés sur Drive privé ;
+    une projection publique expurgée reste préparée mais non ouverte en lecture anonyme.
 
 next_watch:
-  - "Envoi effectif de la retransmission allégée"
-  - "Absence ou présence d'une nouvelle notification d'échec de livraison"
-  - "Activation du partage public du dossier Drive expurgé, puis vérification depuis un accès non authentifié"
-  - "Confirmation d'un rendez-vous le 11 septembre 2026 dans la matinée"
-  - "Toute demande de pièce ou formalité supplémentaire"
+  - "Confirmation du rendez-vous le 11 septembre 2026 dans la matinée"
+  - "Examen de complétude et de recevabilité du dossier"
+  - "Toute demande de pièce ou formalité supplémentaire, avec délai indiqué"
+  - "Activation éventuelle du partage public du dossier Drive expurgé, puis vérification depuis un accès non authentifié"
+  - "Toute objection relative au support dématérialisé, aux signatures ou aux appellations électorales"
 
 linked_documents:
   readable: "interaction_packets/readable/2026/2026-09-10-candidature-senatoriale-haute-corse.md"
