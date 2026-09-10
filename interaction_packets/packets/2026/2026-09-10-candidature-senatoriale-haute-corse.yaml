@@ -1,0 +1,128 @@
+# Paquet interactionnel — métadonnées structurées
+id: "2026-09-10-001"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-10"
+last_updated: "2026-09-10"
+disclosure: "D4"
+visibility: "public"
+
+date_envoi: "2026-09-10"
+heure_envoi_locale: "17:01"
+timezone: "Europe/Paris"
+canal: "email (Gmail)"
+interlocuteur: "Préfecture de la Haute-Corse — service des élections"
+sujet: "Élections sénatoriales 2026 – Jean Hugues Noël Robert (Baron Mariani) – demande de rendez-vous et transmission du dossier"
+gmail_message_id: "1a08bd73bb174a75"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  ballot_name: "Baron Mariani"
+  role: "candidat à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse"
+
+institution:
+  name: "Préfecture de la Haute-Corse — service des élections"
+  email: "pref-elections@haute-corse.gouv.fr"
+
+recipients:
+  primary: "pref-elections@haute-corse.gouv.fr"
+  cc:
+    - "Laurence Marie Vernerey"
+    - "Marguerite Ghionga"
+
+candidature:
+  election: "Élection sénatoriale"
+  department: "Haute-Corse"
+  election_date: "2026-09-27"
+  candidate_civil_name: "Jean Hugues Noël Robert"
+  candidate_ballot_name: "Baron Mariani"
+  substitute_civil_name: "Laurence Marie Vernerey"
+  substitute_ballot_name: "Marie-Louise d'Angelis"
+  political_label: "Le Petit Parti - A Voce"
+  financial_agent: "Marguerite Ghionga"
+  campaign_mode_declared: "zéro argent"
+
+contexte: >
+  Pré-transmission dématérialisée du dossier de candidature afin de permettre son contrôle
+  avant le rendez-vous de dépôt. Un rendez-vous est demandé pour la matinée du vendredi
+  11 septembre 2026. Le candidat indique venir de Corte à Bastia en train et avoir organisé
+  son retour en covoiturage avec départ de Bastia à 13 h, en rattachant mobilité collective
+  et transmission numérique à une même démarche concrète de décarbonation.
+
+timeline:
+  - date: "2026-09-10"
+    time: "17:01"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Transmission du dossier et demande de rendez-vous"
+    summary: >
+      Courriel envoyé au service des élections de la préfecture de Haute-Corse avec huit pièces
+      de candidature et une annexe documentaire DITP. Demande d'un rendez-vous le 11 septembre
+      dans la matinée ; demande également de signaler par retour de courriel toute difficulté
+      matérielle, pièce ou formalité restant à régulariser.
+    status: "sent"
+
+attachments:
+  public_status: >
+    Le principal a explicitement indiqué le 10 septembre 2026 que l'intégralité du courriel
+    et toutes les pièces transmises doivent être considérées comme publiques.
+  count: 9
+  items:
+    - filename: "cerfa_15217-04_JHR_signe_10-09-2026.pdf"
+      role: "CERFA candidat complété et signé"
+      public: true
+    - filename: "cni-jhr-2024.pdf"
+      role: "justificatif d'identité du candidat"
+      public: true
+    - filename: "situation-electorale_jhr.pdf"
+      role: "attestation de situation électorale du candidat, éditée le 10 septembre 2026"
+      public: true
+    - filename: "cerfa_15218-04_Laurence_sans_profession_consentement_Ajaccio_10-09-2026.pdf"
+      role: "CERFA de la remplaçante avec consentement et signature"
+      public: true
+    - filename: "CNI_Laurence_Vernerey.jpg"
+      role: "justificatif d'identité de la remplaçante"
+      public: true
+    - filename: "situation-electorale (1).pdf"
+      role: "attestation de situation électorale de Laurence Marie Vernerey, éditée le 10 septembre 2026 ; copie transmise portant également sa signature"
+      public: true
+    - filename: "declaration_designation_mandataire_Marguerite_Ghionga_signee.pdf"
+      role: "désignation du mandataire financier par le candidat"
+      public: true
+    - filename: "Marguerite_Ghionga_acceptation_mandataire_et_CNI.pdf"
+      role: "acceptation manuscrite du mandataire financier et justificatif d'identité"
+      public: true
+    - filename: "Guide 0 papier_Juillet 2021.pdf"
+      role: "annexe documentaire — DITP"
+      public: true
+
+references_ditp:
+  - "https://www.modernisation.gouv.fr/publications/procedure-penale-numerique-rendre-la-justice-plus-rapidement"
+  - "https://www.modernisation.gouv.fr/actualites/des-assistants-digitaux-au-service-des-agents-de-la-prefecture-doccitanie"
+
+public_summary: >
+  Jean Hugues Noël Robert, candidat sous l'appellation électorale Baron Mariani, se présente
+  à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse avec Laurence Marie Vernerey,
+  appellation électorale Marie-Louise d'Angelis, comme remplaçante. L'étiquette déclarée est
+  « Le Petit Parti - A Voce » et Marguerite Ghionga est désignée mandataire financier. Le dossier
+  complet a été pré-transmis par courriel à la préfecture le 10 septembre à 17:01, avec demande
+  de rendez-vous pour la matinée du 11 septembre. La démarche est volontairement dématérialisée
+  et associée à une mobilité décarbonée : train Corte–Bastia et retour en covoiturage.
+
+current_status:
+  label: "Dossier pré-transmis — rendez-vous de dépôt demandé pour le 11/09 au matin"
+  interpretation: >
+    L'envoi Gmail est confirmé dans le dossier SENT avec neuf pièces jointes. La prochaine
+    observation attendue est la réponse de la préfecture : confirmation du créneau, demande
+    éventuelle de régularisation, ou autre instruction relative au dépôt.
+
+next_watch:
+  - "Confirmation d'un rendez-vous le 11 septembre 2026 dans la matinée"
+  - "Accusé de réception ou contrôle de complétude du dossier"
+  - "Toute demande de pièce ou formalité supplémentaire"
+  - "Toute objection relative à la dématérialisation, aux signatures ou aux appellations électorales"
+
+linked_documents:
+  readable: "interaction_packets/readable/2026/2026-09-10-candidature-senatoriale-haute-corse.md"
+  raw_mail: "interaction_packets/raw/2026/2026-09-10-candidature-senatoriale-haute-corse.eml.md"
+  register: "interaction_packets/mail_trace.md"
