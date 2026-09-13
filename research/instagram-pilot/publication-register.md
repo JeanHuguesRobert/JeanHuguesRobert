@@ -7,6 +7,10 @@ visibility: "public"
 language: "en"
 lifecycle_state: "working"
 status: "not started — one unpublished draft"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Instagram pilot publication register

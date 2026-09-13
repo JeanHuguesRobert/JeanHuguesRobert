@@ -20,6 +20,10 @@ related_documents:
   - "research/instagram-pilot/packets/ctn_ig_20260820_01.md"
   - "research/agent_brief.md"
   - "research/agent-jhn-experimental-notice.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # CPKT-2026-008 — Agent JHN Instagram preparation pilot handoff

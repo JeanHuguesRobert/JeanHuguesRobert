@@ -1,0 +1,4469 @@
+{
+  "auditedAt": "2026-08-26T02:38:09.644Z",
+  "totalOpen": 235,
+  "repos": [
+    {
+      "name": "cogentia",
+      "fullName": "JeanHuguesRobert/cogentia",
+      "openCount": 86,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 119,
+          "title": "FractaPersonalHotContext: cross-channel working context for the Personal Twin",
+          "updatedAt": "2026-08-24T06:29:26Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/119"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 118,
+          "title": "Sensoria MVP: native Android/NDK + sherpa-onnx continuous transcription",
+          "updatedAt": "2026-08-24T06:27:54Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/118"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 117,
+          "title": "Add frontmatter date and version trajectory audit",
+          "updatedAt": "2026-08-23T09:21:25Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/117"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 116,
+          "title": "Integrate Semantic Propagation Rule into Living Corpus tooling",
+          "updatedAt": "2026-08-22T13:42:00Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/116"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 115,
+          "title": "Lifecycle Authority Gate — optimistic actions, strict authority claims",
+          "updatedAt": "2026-08-21T21:39:50Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/115"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 114,
+          "title": "Case 003 — Missing Capability Observatory: turn human takeovers into acquisition packets",
+          "updatedAt": "2026-08-21T00:12:16Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/114"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 113,
+          "title": "Cognitive Packets in Real Life — Case Studies 001 Incident / 002 Guide",
+          "updatedAt": "2026-08-20T08:33:49Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/113"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 112,
+          "title": "issue john",
+          "updatedAt": "2026-08-20T07:01:08Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/112"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 111,
+          "title": "Audit all daemon route handlers for the view-escalation anti-pattern (only one instance checked so far)",
+          "updatedAt": "2026-08-19T14:46:15Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/111"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 110,
+          "title": "Cogentia Pattern Language — first-class Patterns/Anti-patterns alongside Tools and Skills",
+          "updatedAt": "2026-08-17T16:43:54Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/110"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 109,
+          "title": "Type-differentiated indexing of full repository content (beyond Markdown)",
+          "updatedAt": "2026-08-17T12:03:09Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/109"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 108,
+          "title": "Cogentia MCP — intent-first Corpus navigation from locate to governed mutation",
+          "updatedAt": "2026-08-18T07:49:37Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/108"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 106,
+          "title": "Generic Intent Assurance: detect unexplained capability loss before it recurs",
+          "updatedAt": "2026-08-19T21:41:08Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/106"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 105,
+          "title": "Retrieval recovery and evidence-of-absence contract",
+          "updatedAt": "2026-08-16T19:09:36Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/105"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 104,
+          "title": "Un Ange Gardien — clarify Gabriel, angelots and protective observability",
+          "updatedAt": "2026-08-16T12:50:28Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/104"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 103,
+          "title": "Integrate typed responsibility routing into cogentia.js",
+          "updatedAt": "2026-08-17T12:01:48Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/103"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGrQ",
+              "name": "documentation",
+              "description": "Improvements or additions to documentation",
+              "color": "0075ca"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACsKRTXw",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 102,
+          "title": "SérénIA / École de l’autonomie: cheap fallible cognition, verification and judgment",
+          "updatedAt": "2026-08-14T08:38:31Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/102"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 101,
+          "title": "Digipees Exemplar — free trademark helper, institutional gap test, and portable continuations",
+          "updatedAt": "2026-08-14T07:58:38Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/101"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 99,
+          "title": "Cogentia MCP — governed surgical corpus writes and provider-neutral work tracking",
+          "updatedAt": "2026-08-17T12:01:38Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/99"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 98,
+          "title": "Digital Twin — unify cognitive and industrial readings through Digipees assets",
+          "updatedAt": "2026-08-13T18:45:21Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/98"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 97,
+          "title": "Propagate Personal Digital Twin convergence into canonical sources",
+          "updatedAt": "2026-08-12T15:10:31Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/97"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACsKRTXw",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACvIJlKQ",
+              "name": "architecture",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 96,
+          "title": "Digital Twin ownership, portability and private-by-default doctrine",
+          "updatedAt": "2026-08-12T10:03:33Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/96"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 95,
+          "title": "Digipolis MVP — public communication space for Cogentia Digital Twin Instances (Digipees)",
+          "updatedAt": "2026-08-13T08:34:45Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/95"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACsKRTXw",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACvIJlKQ",
+              "name": "architecture",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 94,
+          "title": "MCP 2026-07-28 migration audit: stateless transport, explicit handles, governed continuations",
+          "updatedAt": "2026-08-14T08:37:51Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/94"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACvIJlKQ",
+              "name": "architecture",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACv3foaA",
+              "name": "security",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 93,
+          "title": "Cogentia invariant: outbound gates independent from cognitive agents",
+          "updatedAt": "2026-08-12T10:02:40Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/93"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGrQ",
+              "name": "documentation",
+              "description": "Improvements or additions to documentation",
+              "color": "0075ca"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACsKRTXw",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 92,
+          "title": "Archia case study: Corsica Assembly publication and discovery latency",
+          "updatedAt": "2026-08-14T22:12:33Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/92"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGrQ",
+              "name": "documentation",
+              "description": "Improvements or additions to documentation",
+              "color": "0075ca"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACv3fCIw",
+              "name": "process",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 91,
+          "title": "Daily brief to GitHub propagation protocol",
+          "updatedAt": "2026-08-11T14:17:52Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/91"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGrQ",
+              "name": "documentation",
+              "description": "Improvements or additions to documentation",
+              "color": "0075ca"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACv3elJw",
+              "name": "terminology",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 90,
+          "title": "Rename Actarchia references to Archia in briefs and corpus propagation",
+          "updatedAt": "2026-08-11T14:17:02Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/90"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 89,
+          "title": "feat(security): enforce visibility:private exclusion in remote embedding pipeline",
+          "updatedAt": "2026-08-09T17:21:45Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/89"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 87,
+          "title": "Rule-of-law engine: hierarchy of norms, formal rules, judicial fallback and anti-capture",
+          "updatedAt": "2026-08-09T15:27:38Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/87"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 86,
+          "title": "[DRAFT] État de droit assisté par ordinateur — architecture institutionnelle, FractaLog, registres et anti-capture",
+          "updatedAt": "2026-08-09T13:27:19Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/86"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGsA",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACsKRTXw",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 85,
+          "title": "Public intelligence core: factor Guide turn runner; John public as superset client",
+          "updatedAt": "2026-08-13T09:15:26Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/85"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGsA",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACsKRTXw",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 84,
+          "title": "Interaction Packets: multichannel fields + adapter-ready method (email spine)",
+          "updatedAt": "2026-08-08T08:10:29Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/84"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 83,
+          "title": "Préserver les sources canoniques Markdown et formaliser les transitions de publication",
+          "updatedAt": "2026-08-07T05:50:16Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/83"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACvIJlJQ",
+              "name": "agent-implementable",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACvIJlKQ",
+              "name": "architecture",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 82,
+          "title": "Agent Skills — governed method packages and experimental MCP discovery",
+          "updatedAt": "2026-08-06T20:12:30Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/82"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 80,
+          "title": "Modularize Cogentia around packet-first capabilities and typed extension providers",
+          "updatedAt": "2026-08-18T07:49:25Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/80"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 79,
+          "title": "Enforce monotonic mandate attenuation in agent configuration",
+          "updatedAt": "2026-08-06T16:49:54Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/79"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGqw",
+              "name": "bug",
+              "description": "Something isn't working",
+              "color": "d73a4a"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGrQ",
+              "name": "documentation",
+              "description": "Improvements or additions to documentation",
+              "color": "0075ca"
+            }
+          ],
+          "number": 78,
+          "title": "Frontmatter: fix one malformation, reconcile two conflicting \"required\" definitions, add four missing invariants, expose one CI-able command",
+          "updatedAt": "2026-08-02T19:04:17Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/78"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 77,
+          "title": "AI Act disclosure for Agent JHN and Cogentia public agents",
+          "updatedAt": "2026-08-13T09:15:24Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/77"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 76,
+          "title": "Implement the normative governed conversations and durable effects profile",
+          "updatedAt": "2026-08-10T18:48:23Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/76"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 75,
+          "title": "MVP — Agent JHN WhatsApp direct adapter (Baileys, self-chat only)",
+          "updatedAt": "2026-08-13T09:15:29Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/75"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 74,
+          "title": "Unifier la résolution des frontmatters et adopter sélectivement le vocabulaire RFC",
+          "updatedAt": "2026-07-28T09:13:14Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/74"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACo52Ptg",
+              "name": "continuation",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACsKRTXw",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACtQ2oxg",
+              "name": "parked",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 73,
+          "title": "[parked] Continuation — La Machine à corrompre",
+          "updatedAt": "2026-07-25T14:48:41Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/73"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 72,
+          "title": "Multi-Agent Decorrelated Adversarial Review Engine & Local CLI Router Interoperability",
+          "updatedAt": "2026-07-25T06:31:59Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/72"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 71,
+          "title": "Serendipity Engine: Non-Teleological Navigation & Epistemic Attractor Collisions",
+          "updatedAt": "2026-07-25T06:08:22Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/71"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 69,
+          "title": "Produits dérivés de « When Cognition Became Traffic »",
+          "updatedAt": "2026-07-24T06:19:53Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/69"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 68,
+          "title": "S6 : banc de navigation — la boucle de retours négatifs permanente",
+          "updatedAt": "2026-08-17T12:01:29Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/68"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 67,
+          "title": "S3 : couche d'alias et règle de couverture sur les index conceptuels",
+          "updatedAt": "2026-07-25T00:25:36Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/67"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 66,
+          "title": "reviewer.md : intégrer les amendements A1 et R0",
+          "updatedAt": "2026-07-25T00:37:50Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/66"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 65,
+          "title": "Tester la frontière entre « IA pour chacun » et « IA pour tous »",
+          "updatedAt": "2026-07-20T04:32:41Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/65"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACsKRTXw",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 59,
+          "title": "Study collective memory for the public Guide",
+          "updatedAt": "2026-07-24T06:18:46Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/59"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 58,
+          "title": "Add bounded stochastic reevaluation for pending propagation branches",
+          "updatedAt": "2026-08-23T11:51:30Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/58"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACln8dtw",
+              "name": "cogentia",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACo52Ptg",
+              "name": "continuation",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACr44Bpw",
+              "name": "mcp",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACr44BqQ",
+              "name": "code-navigation",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACr44BrA",
+              "name": "read-only",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACtQ2oxg",
+              "name": "parked",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACtQ39gA",
+              "name": "coding-agent",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 57,
+          "title": "Coding task — Code Navigator contract and first read-only index slice",
+          "updatedAt": "2026-07-25T14:52:20Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/57"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACln8dtw",
+              "name": "cogentia",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACr44Bpw",
+              "name": "mcp",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACr44BqQ",
+              "name": "code-navigation",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACr44BrA",
+              "name": "read-only",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 56,
+          "title": "Source Code Navigator — distinct code index and complementary MCP for GitHub",
+          "updatedAt": "2026-07-15T21:56:37Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/56"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 54,
+          "title": "Make generated Markdown fixed-point stable across repository formatters",
+          "updatedAt": "2026-07-24T06:18:43Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/54"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACqUdRwQ",
+              "name": "agents",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACqUdRww",
+              "name": "traceability",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACqzTl9A",
+              "name": "operational",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 52,
+          "title": "Resume: Phase 2 Fractanet action plane — deploy Guide route/action, harden ops, wire consumers",
+          "updatedAt": "2026-07-24T06:18:41Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/52"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 51,
+          "title": "Improve Agent Gateway invocation and Fractanet acceptance workflow",
+          "updatedAt": "2026-07-08T19:20:25Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/51"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACln8dtg",
+              "name": "method",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACqUdRwQ",
+              "name": "agents",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACqUdRww",
+              "name": "traceability",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACqx5PDA",
+              "name": "cop",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 50,
+          "title": "Next step: propagate blocked-tool rule and return to COP ownership schema",
+          "updatedAt": "2026-07-08T18:17:55Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/50"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 48,
+          "title": "Cogentia Corpus Navigator — read-only GitHub MCP replacement path",
+          "updatedAt": "2026-08-17T12:01:15Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/48"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACqUdRwQ",
+              "name": "agents",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACqUdRww",
+              "name": "traceability",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 46,
+          "title": "Propagate blocked-tool rule across agent configuration",
+          "updatedAt": "2026-07-07T09:00:43Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/46"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 45,
+          "title": "[Corpus] Intégrer la séquence “accountability, réseaux sociaux, Agents JHN”",
+          "updatedAt": "2026-07-06T04:57:25Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/45"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 43,
+          "title": "Snapshot July 2026 — GitHub activity, digital twin progress, senatorial deadline",
+          "updatedAt": "2026-07-03T23:34:18Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/43"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGsA",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACle2FAA",
+              "name": "idea-to-explore",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACln8dtw",
+              "name": "cogentia",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACo52Ptg",
+              "name": "continuation",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACo52PuQ",
+              "name": "design",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 42,
+          "title": "Retrieval Phase 4 : mandat Inox + fulfiller distant (skip façade Netlify)",
+          "updatedAt": "2026-07-03T20:37:32Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/42"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 41,
+          "title": "Add fine-grained embedding cache delta sync",
+          "updatedAt": "2026-07-02T08:55:28Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/41"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 40,
+          "title": "Roadmap: Guide Core with CLI, MCP, and web interfaces",
+          "updatedAt": "2026-07-26T13:49:45Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/40"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 39,
+          "title": "Support fine-grained embedding cache exchange",
+          "updatedAt": "2026-06-30T00:25:25Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/39"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACo52PsA",
+              "name": "alan",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACo52Psw",
+              "name": "mcp-bridge",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACo52Ptg",
+              "name": "continuation",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACo52PuA",
+              "name": "language",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACo52PuQ",
+              "name": "design",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 36,
+          "title": "Design Turing MCP continuation language",
+          "updatedAt": "2026-06-25T16:56:05Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/36"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGsA",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            }
+          ],
+          "number": 35,
+          "title": "Improve .cogentia.json discovery for personal profile repository workspaces",
+          "updatedAt": "2026-06-24T09:21:40Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/35"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACle2FAA",
+              "name": "idea-to-explore",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACmIisKQ",
+              "name": "clarification",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACmIisKg",
+              "name": "doctrine",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACmIisLA",
+              "name": "epistemology",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 32,
+          "title": "Clarification: 'La carte et le territoire' — Cogentigram as map/model/approximation, Cogentia as territory/reality (unifying latent theme across corpus)",
+          "updatedAt": "2026-06-05T08:11:49Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/32"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGrQ",
+              "name": "documentation",
+              "description": "Improvements or additions to documentation",
+              "color": "0075ca"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGsA",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            }
+          ],
+          "number": 31,
+          "title": "Explore: branch strategy for Cogentia workflow",
+          "updatedAt": "2026-06-03T08:39:54Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/31"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGrQ",
+              "name": "documentation",
+              "description": "Improvements or additions to documentation",
+              "color": "0075ca"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGsA",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            }
+          ],
+          "number": 30,
+          "title": "MVP: Cogentia Trace — local-first importer with continuations",
+          "updatedAt": "2026-06-03T08:45:47Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/30"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 29,
+          "title": "Define minimal schema for norm_packet, public_impact_packet, autonomy_capacity_packet, continuity_protection_packet",
+          "updatedAt": "2026-07-24T06:18:44Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/29"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 28,
+          "title": "Continuation — Cognitive Programming after v0.1.1",
+          "updatedAt": "2026-06-02T19:53:27Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/28"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGrQ",
+              "name": "documentation",
+              "description": "Improvements or additions to documentation",
+              "color": "0075ca"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACZ0CGsA",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            }
+          ],
+          "number": 27,
+          "title": "Materialize root packets for Living Corpus architecture note",
+          "updatedAt": "2026-06-02T17:17:19Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/27"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 26,
+          "title": "Define Cognitive Programming as a source concept",
+          "updatedAt": "2026-06-02T17:16:08Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/26"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 25,
+          "title": "Specify procedural Cognitive Packets with embedded Inox kernels",
+          "updatedAt": "2026-06-02T09:06:35Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/25"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 24,
+          "title": "Specify fractal trace ledger, local-first propagation, and boundary events",
+          "updatedAt": "2026-06-02T09:05:20Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/24"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 23,
+          "title": "Define Ephemeral: obsolescence, causal decay, and living rules",
+          "updatedAt": "2026-06-02T09:04:04Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/23"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 22,
+          "title": "Specify Cognitive Sets, living documents, and projection composers",
+          "updatedAt": "2026-06-02T09:02:47Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/22"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 21,
+          "title": "Define Corpus, cCorpus, and the SimpliWiki genealogy of living documents",
+          "updatedAt": "2026-06-02T09:01:11Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/21"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 20,
+          "title": "Study and implement `cogentia add-repo` workflow for corpus registry onboarding",
+          "updatedAt": "2026-07-24T06:18:28Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/20"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACln8dsQ",
+              "name": "idea",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACln8dsg",
+              "name": "exploration",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACln8dtg",
+              "name": "method",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORcFCM88AAAACln8dtw",
+              "name": "cogentia",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 18,
+          "title": "[Idea] Exploration Ideas protocol for cross-repository idea capture",
+          "updatedAt": "2026-06-01T20:02:45Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/18"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORcFCM88AAAACle2FAA",
+              "name": "idea-to-explore",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 17,
+          "title": "[Idea to explore] Instillation as complement to distillation",
+          "updatedAt": "2026-05-31T20:51:08Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/17"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 16,
+          "title": "Formalize interfaces as derived products",
+          "updatedAt": "2026-05-31T14:18:12Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/16"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 15,
+          "title": "Formalize Abstract / Implementation Pairing as a Cogentia method rule",
+          "updatedAt": "2026-05-31T14:14:10Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/15"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 11,
+          "title": "MVP mailarch — exploration IMAP locale pour archives Yahoo pré-Gmail",
+          "updatedAt": "2026-05-31T06:41:30Z",
+          "url": "https://github.com/JeanHuguesRobert/cogentia/issues/11"
+        }
+      ]
+    },
+    {
+      "name": "inseme",
+      "fullName": "JeanHuguesRobert/inseme",
+      "openCount": 48,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 58,
+          "title": "COP Packet Closure — storage mobility, causal frontier, and governed effects",
+          "updatedAt": "2026-08-25T09:26:21Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/58"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 57,
+          "title": "Provisional Twins — hosted instance inheritance, shared instance_config and progressive promotion",
+          "updatedAt": "2026-08-24T08:50:50Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/57"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 56,
+          "title": "COP Composition: complete high-level combinators over Continuations",
+          "updatedAt": "2026-08-24T05:33:28Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/56"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 55,
+          "title": "Implement Mandated Agent authority enforcement before consequential effects",
+          "updatedAt": "2026-08-24T02:33:57Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/55"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 54,
+          "title": "COP Reality Test — minimal executable Cognitive Packet round trip",
+          "updatedAt": "2026-08-25T09:26:45Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/54"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 53,
+          "title": "Evaluate dynamic Supabase-Storage-backed serving as an alternative to prebuilt static hosting",
+          "updatedAt": "2026-08-19T14:31:44Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/53"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 52,
+          "title": "Agent JHN as coding-capable twin — claim and grounding (no design yet)",
+          "updatedAt": "2026-08-19T12:18:27Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/52"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 51,
+          "title": "COP: add Exposure to bound experimentation and external effects",
+          "updatedAt": "2026-08-17T10:42:54Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/51"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 50,
+          "title": "Detect cognitive desire paths from COP traces before reinforcing routing",
+          "updatedAt": "2026-08-17T01:37:00Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/50"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 49,
+          "title": "Experiment: portable coding continuation across agents and Fractanet nodes",
+          "updatedAt": "2026-08-25T12:14:54Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/49"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 48,
+          "title": "Olé Olé — desirability sprint: useful before users, compelling on first open",
+          "updatedAt": "2026-08-15T09:22:34Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/48"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 47,
+          "title": "Olé Olé portability spike — decouple runtime, build, hosting and ingress",
+          "updatedAt": "2026-08-19T12:34:20Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/47"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 46,
+          "title": "Olé Olé — invitation, progressive identity and install loop",
+          "updatedAt": "2026-08-13T11:34:39Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/46"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 45,
+          "title": "Strict Accounting / No Unaccounted Effects — adversarial audit and enforcement",
+          "updatedAt": "2026-08-13T09:14:54Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/45"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 44,
+          "title": "Study and extract Buzz agent harness patterns for Cogentia Twins",
+          "updatedAt": "2026-08-12T09:18:28Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/44"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 43,
+          "title": "Explore governed credential management skill for Agent JHN",
+          "updatedAt": "2026-08-11T14:16:58Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/43"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 42,
+          "title": "Olé Olé MVP — implement first vertical slices from crystallized spec",
+          "updatedAt": "2026-08-16T19:18:02Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/42"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 41,
+          "title": "Govern instance configuration caches and periodic Vault hygiene",
+          "updatedAt": "2026-08-11T10:46:58Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/41"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 40,
+          "title": "COP institutional profile: registers, publication, appeal and actor-neutral act provenance",
+          "updatedAt": "2026-08-09T13:28:41Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/40"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 39,
+          "title": "Cogentia accounting architecture — general, statutory, analytical, budgetary, and reconciliation layers",
+          "updatedAt": "2026-08-13T09:14:52Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/39"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 38,
+          "title": "Provider-neutral usage accounting — packet budgets, reconciliation, and external spend safety nets",
+          "updatedAt": "2026-08-13T09:14:49Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/38"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "MDU6TGFiZWwzNTUyOTg2NDQ=",
+              "name": "enhancement",
+              "description": "",
+              "color": "84b6eb"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACmIizzQ",
+              "name": "cross-repo",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1OA",
+              "name": "cop",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1Pg",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACuQQi6Q",
+              "name": "agents",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 37,
+          "title": "Factorize Personal Twin public intelligence core (John ⊇ Guide; OpenAI + MCP + CLI surfaces)",
+          "updatedAt": "2026-08-08T09:00:23Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/37"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "MDU6TGFiZWwzNTUyOTg2NDQ=",
+              "name": "enhancement",
+              "description": "",
+              "color": "84b6eb"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACmIizzQ",
+              "name": "cross-repo",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1Pg",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACuQQi6Q",
+              "name": "agents",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 36,
+          "title": "Interactions Registry + multichannel messaging as Personal Twin service",
+          "updatedAt": "2026-08-08T08:10:25Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/36"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "MDU6TGFiZWwzNTUyOTg2NDQ=",
+              "name": "enhancement",
+              "description": "",
+              "color": "84b6eb"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1OA",
+              "name": "cop",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1Pg",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACuQQi6Q",
+              "name": "agents",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 35,
+          "title": "Personal Twin access policy: visitor classes + conversational agent enforcement (jhn)",
+          "updatedAt": "2026-08-08T08:32:06Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/35"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "MDU6TGFiZWwzNTUyOTg2NDQ=",
+              "name": "enhancement",
+              "description": "",
+              "color": "84b6eb"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1Pg",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACuQQi6Q",
+              "name": "agents",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 34,
+          "title": "User ↔ Personal Twin link on collective instances (email-verified claim)",
+          "updatedAt": "2026-08-08T07:55:32Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/34"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 33,
+          "title": "JHN implementation convergence: primary conversational front door, governed delegation, usability gate, then FixBugsFirst",
+          "updatedAt": "2026-08-13T10:16:27Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/33"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 32,
+          "title": "Git-backed personal Wiki: canonical revisions, Supabase projection and multi-instance Git service",
+          "updatedAt": "2026-08-02T09:09:04Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/32"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1OA",
+              "name": "cop",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACuQQi6Q",
+              "name": "agents",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACuQQi6g",
+              "name": "traceability",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 31,
+          "title": "COP pre-operational clean break: handlers, mandates, and execution identity",
+          "updatedAt": "2026-08-06T16:30:15Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/31"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 30,
+          "title": "Implement Cogentia peer identity, membership, mandate enforcement, and inter-instance COP messaging",
+          "updatedAt": "2026-08-01T11:13:53Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/30"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 27,
+          "title": "COP memory substrate: mneme profile and portable recovery scenarios",
+          "updatedAt": "2026-07-31T05:21:20Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/27"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 26,
+          "title": "Ritornu — créer la brique de retrofit patrimonial (squelette)",
+          "updatedAt": "2026-07-24T08:53:15Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/26"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 25,
+          "title": "Implement the day-one COP/Accounting conformance kernel",
+          "updatedAt": "2026-08-13T09:14:57Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/25"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 24,
+          "title": "Implémenter les primitives COP nécessaires aux pilotes DHITL",
+          "updatedAt": "2026-08-09T13:33:54Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/24"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 22,
+          "title": "Physical Cognitive Packet and latent agent — Casa Mariani Immortelle demonstrator",
+          "updatedAt": "2026-07-20T04:20:49Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/22"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 21,
+          "title": "COP Experimental Packet Kernel — Schemas, generated types and conformance vectors",
+          "updatedAt": "2026-07-20T04:21:10Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/21"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 19,
+          "title": "Explore a sovereign confederation and diplomatic treaty profile for Fractanet",
+          "updatedAt": "2026-07-19T15:58:36Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/19"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 18,
+          "title": "COP reference runtime hardening: make cop-kernel the executable profile",
+          "updatedAt": "2026-07-18T08:34:58Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/18"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 17,
+          "title": "Implement a native JHN Inseme instance with mandated cognitive sub-instances and hibernatable agent memory",
+          "updatedAt": "2026-08-06T16:29:48Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/17"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 16,
+          "title": "Simplify COP Store under Occam's razor",
+          "updatedAt": "2026-07-14T15:32:59Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/16"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 14,
+          "title": "Implement COP/Fractium Live profile: information-gravity routing for Fractanet attractors",
+          "updatedAt": "2026-07-24T06:19:07Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/14"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "MDU6TGFiZWwzNTUyOTg2NDQ=",
+              "name": "enhancement",
+              "description": "",
+              "color": "84b6eb"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1OA",
+              "name": "cop",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1Pg",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACqDaM2Q",
+              "name": "fractanet",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACqDaM2g",
+              "name": "continuation",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 13,
+          "title": "Fractanet Packet Attractor — proto implementation handoff (pause/resume)",
+          "updatedAt": "2026-07-24T06:19:09Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/13"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "MDU6TGFiZWwzNTUyOTg2NDQ=",
+              "name": "enhancement",
+              "description": "",
+              "color": "84b6eb"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1OA",
+              "name": "cop",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1Ow",
+              "name": "copkit",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1PQ",
+              "name": "browser",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACppA1Pg",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 12,
+          "title": "COPKit — Fluidifier le copier/coller mandaté entre l’usager et le service",
+          "updatedAt": "2026-07-01T03:25:16Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/12"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 11,
+          "title": "Préparer la plateforme cible pour Ophélia",
+          "updatedAt": "2026-06-30T09:17:31Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/11"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "MDU6TGFiZWwzNTUyOTg2NDQ=",
+              "name": "enhancement",
+              "description": "",
+              "color": "84b6eb"
+            }
+          ],
+          "number": 10,
+          "title": "Magistral: federated model catalog and OrcaRouter-Lite ideas review",
+          "updatedAt": "2026-06-24T10:10:49Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/10"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOA1QftM8AAAACmIizyQ",
+              "name": "clarification",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACmIizzQ",
+              "name": "cross-repo",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACmIizzg",
+              "name": "doctrine",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOA1QftM8AAAACmIiz0g",
+              "name": "cop-kernel",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 9,
+          "title": "Cross-link: 'Carte et territoire' clarification — artifacts/projections as maps (Cogentigrams) vs. territory (Cogentia / events / acts) in COP kernel and rational exploration",
+          "updatedAt": "2026-06-05T07:56:33Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/9"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 7,
+          "title": "Add replay tests for cop-kernel Task Step Continuation state",
+          "updatedAt": "2026-06-02T17:19:28Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/7"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "MDU6TGFiZWwzNTUyOTg2NDQ=",
+              "name": "enhancement",
+              "description": "",
+              "color": "84b6eb"
+            }
+          ],
+          "number": 6,
+          "title": "Improve Magistral routing with quota-aware fallback and provider error classification",
+          "updatedAt": "2026-06-01T18:56:31Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/6"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 4,
+          "title": "Explore a COP and n8n adapter",
+          "updatedAt": "2026-05-31T14:29:59Z",
+          "url": "https://github.com/JeanHuguesRobert/inseme/issues/4"
+        }
+      ]
+    },
+    {
+      "name": "barons-Mariani",
+      "fullName": "JeanHuguesRobert/barons-Mariani",
+      "openCount": 29,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 37,
+          "title": "Propagate Organization as Capability and coordination-scarcity hypothesis",
+          "updatedAt": "2026-08-22T15:10:08Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/37"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 36,
+          "title": "Integrate RAIX capability-array addenda into Learning Computer and Potentics",
+          "updatedAt": "2026-08-22T13:41:54Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/36"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 35,
+          "title": "Propagate niche construction and desire paths into Learning Computer and Fertile Grounds",
+          "updatedAt": "2026-08-17T01:37:12Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/35"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 34,
+          "title": "Digipees — reconstruct provenance, licensing and naming rights",
+          "updatedAt": "2026-08-13T19:16:12Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/34"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 32,
+          "title": "Hosted repositories — clarify Git autonomy vs institutional incubation",
+          "updatedAt": "2026-08-13T17:24:32Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/32"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 31,
+          "title": "feat(landing): replace legacy survey page on jhn.baronsmariani.org with dedicated personal twin landing page",
+          "updatedAt": "2026-08-09T18:37:13Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/31"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 30,
+          "title": "fix(web): prerender static OpenGraph metadata & title for /john route",
+          "updatedAt": "2026-08-09T17:22:12Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/30"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 29,
+          "title": "Cross-link Invidia, justice divine and computer-assisted rule of law",
+          "updatedAt": "2026-08-09T13:28:11Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/29"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 28,
+          "title": "Décliner Corsica2038 en produits et pilotes d'expérimentation gouvernée",
+          "updatedAt": "2026-07-31T06:50:13Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/28"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOJo4Y388AAAACtOnPow",
+              "name": "parked",
+              "description": "Resumable work",
+              "color": "1b5c74"
+            }
+          ],
+          "number": 27,
+          "title": "Parked: vertu, règle d’or corrigible, doubles numériques et mémoire physique annuelle",
+          "updatedAt": "2026-07-25T14:34:50Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/27"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 26,
+          "title": "Continuation — Accompagnement capacitaire : Serenia, écrivain public moderne et autonomie progressive",
+          "updatedAt": "2026-08-16T12:30:44Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/26"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 25,
+          "title": "Continuation — Énergie d’action : revue, opérationnalisation et démonstrateurs",
+          "updatedAt": "2026-07-25T12:56:11Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/25"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOJo4Y388AAAACl5a34g",
+              "name": "review",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACtOnPow",
+              "name": "parked",
+              "description": "Resumable work",
+              "color": "1b5c74"
+            }
+          ],
+          "number": 24,
+          "title": "Parked: External review of Potentics v1.0-rc1 received — human arbitration pending",
+          "updatedAt": "2026-07-25T09:02:33Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/24"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOJo4Y388AAAACmMfsQA",
+              "name": "corpus",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACtOnPow",
+              "name": "parked",
+              "description": "Resumable work",
+              "color": "1b5c74"
+            }
+          ],
+          "number": 23,
+          "title": "Triage parked à l'échelle des dépôts de recherche",
+          "updatedAt": "2026-07-25T08:30:01Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/23"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOJo4Y388AAAAClc5-kQ",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACl5a34g",
+              "name": "review",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACl5a35A",
+              "name": "adversarial",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACqrxQ5A",
+              "name": "agents-jhn",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACtOnPow",
+              "name": "parked",
+              "description": "Resumable work",
+              "color": "1b5c74"
+            }
+          ],
+          "number": 22,
+          "title": "Fluidification de research/pluralisation_cognitive_sous_mandat.md — revue adverse + réécriture (bloqué, à reprendre)",
+          "updatedAt": "2026-07-25T08:30:22Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/22"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 21,
+          "title": "[Continuation] Du spectacle à la régie — Debord, IA domestiquée et Stabilisateur procédural",
+          "updatedAt": "2026-07-25T07:58:25Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/21"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 20,
+          "title": "Sept règles et leurs incidents : mécanisables ou non ?",
+          "updatedAt": "2026-07-24T06:20:03Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/20"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 19,
+          "title": "Vérifier juridiquement la doctrine de protection des lanceurs d’alerte",
+          "updatedAt": "2026-07-20T04:32:39Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/19"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 18,
+          "title": "Relier la transition possibiliste au noyau doctrinal du corpus",
+          "updatedAt": "2026-07-24T06:19:11Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/18"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 16,
+          "title": "Continuation — Constitution minimale des communs : expérimentations et règlements dérivés",
+          "updatedAt": "2026-07-17T07:45:00Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/16"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 14,
+          "title": "Intégrer CPL, DC-PLC et technologies issues du véhicule électrique dans l’École Mariani de l’Autonomie",
+          "updatedAt": "2026-07-11T07:23:12Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/14"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOJo4Y388AAAACqrxQ5A",
+              "name": "agents-jhn",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACqrxQ6A",
+              "name": "test",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACqrxQ6w",
+              "name": "codex",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 12,
+          "title": "Test 001 — Appliquer les mandats Agents JHN à la logique capacitaire",
+          "updatedAt": "2026-07-08T08:06:47Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/12"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 8,
+          "title": "[Research] Dongles propriétaires et droit à la remise en service",
+          "updatedAt": "2026-06-13T17:15:23Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/8"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 7,
+          "title": "Stabilize a speculative paper on Incremental Transmissible Corpus Models",
+          "updatedAt": "2026-06-13T05:05:03Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/7"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOJo4Y388AAAABS0ll1Q",
+              "name": "documentation",
+              "description": "Improvements or additions to documentation",
+              "color": "0075ca"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACmMfsQA",
+              "name": "corpus",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACmMfsQw",
+              "name": "second-method",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 6,
+          "title": "Link source essays through procedural stabilizers",
+          "updatedAt": "2026-06-05T17:13:01Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/6"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOJo4Y388AAAACl5a31g",
+              "name": "DAO",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACl5a32g",
+              "name": "imputabilité",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACl5a33w",
+              "name": "DHITL",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACl5a34A",
+              "name": "legal",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACl5a34g",
+              "name": "review",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAACl5a35A",
+              "name": "adversarial",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 5,
+          "title": "Revue adversariale — DAO, imputabilité, legal wrappers et DHITL (v0.2)",
+          "updatedAt": "2026-06-03T15:23:14Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/5"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOJo4Y388AAAAClew3YA",
+              "name": "idea-to-explore",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 4,
+          "title": "[Idea to explore] Que veut dire être vivant à l’heure de l’IA ?",
+          "updatedAt": "2026-05-31T19:51:20Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/4"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOJo4Y388AAAAClc5-kQ",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAAClc5-lg",
+              "name": "autonomia",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAAClc6axA",
+              "name": "corte",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAAClc6axg",
+              "name": "housing",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 3,
+          "title": "Documenter A Rinascita, les OPAH et la limite des politiques d'amélioration de l'habitat à Corte",
+          "updatedAt": "2026-05-31T14:32:17Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/3"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOJo4Y388AAAAClc5-kQ",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAAClc5-lg",
+              "name": "autonomia",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOJo4Y388AAAAClc5-mA",
+              "name": "civic",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 2,
+          "title": "Intégrer le logement capacitaire dans le corpus politique/civique",
+          "updatedAt": "2026-05-31T14:31:06Z",
+          "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/2"
+        }
+      ]
+    },
+    {
+      "name": "FractaVolta",
+      "fullName": "JeanHuguesRobert/FractaVolta",
+      "openCount": 21,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 26,
+          "title": "Propagate canonical RAIX definition into Fractanet and generated views",
+          "updatedAt": "2026-08-22T13:41:48Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/26"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 25,
+          "title": "Case 002 — Guide: answer a real visitor question through a Cognitive Packet Odyssey",
+          "updatedAt": "2026-08-20T08:34:21Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/25"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 24,
+          "title": "Mariani Village — extend from housing fleet to distributed autonomy habitat",
+          "updatedAt": "2026-08-16T12:30:58Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/24"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 23,
+          "title": "Monitorer et republier ouvertement le « Signal réseau Corse » d’EDF — premier capteur du Corsica Digital Twin",
+          "updatedAt": "2026-08-19T21:41:21Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/23"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 22,
+          "title": "Offer — configurable visual profiles for Fractanet Digital Twins",
+          "updatedAt": "2026-08-13T18:45:43Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/22"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 21,
+          "title": "Jana — complete the logo-generator retrofit",
+          "updatedAt": "2026-08-13T17:28:08Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/21"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSDMS2c8AAAACv3rMDw",
+              "name": "research",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOSDMS2c8AAAACv3rMEQ",
+              "name": "architecture",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 20,
+          "title": "Energy-flexible compute SLA for ZNI solar, storage and curtailment",
+          "updatedAt": "2026-08-11T14:39:25Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/20"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 19,
+          "title": "FractaLog: formalize registers, ledgers and Official Journal as projections",
+          "updatedAt": "2026-08-09T13:27:53Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/19"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 18,
+          "title": "Benchmark the Accountable Digital Twin differentiation against adjacent AI governance markets",
+          "updatedAt": "2026-08-08T14:57:57Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/18"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 17,
+          "title": "Accountable Digital Twins — commercial differentiation through Archia + COP/Accounting",
+          "updatedAt": "2026-08-08T14:58:14Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/17"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 16,
+          "title": "Potentics of Compute — turn C6 and C7 into measured experiments",
+          "updatedAt": "2026-07-30T10:14:14Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/16"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSDMS2c8AAAACtQpbIQ",
+              "name": "parked",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 15,
+          "title": "Continuation — packetisation, Inox Micro, nœuds vocaux et capacité assurée",
+          "updatedAt": "2026-07-25T14:40:29Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/15"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 14,
+          "title": "CPKT-2026-001 : Hop 3 humain accompli — publication sous condition d'accord",
+          "updatedAt": "2026-07-24T06:19:34Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/14"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSDMS2c8AAAACtQpbIQ",
+              "name": "parked",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 13,
+          "title": "v0.5+ : intégrer les découvertes F1–F5 de CPKT-2026-001 comme résistances (§8)",
+          "updatedAt": "2026-07-25T14:15:47Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/13"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 12,
+          "title": "Case study: reuse legacy copper and DECT handsets as voice nodes",
+          "updatedAt": "2026-07-17T12:58:12Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/12"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 10,
+          "title": "Continue FractaLog integration across FractaNet and COP",
+          "updatedAt": "2026-07-08T17:37:49Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/10"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 9,
+          "title": "[Idea to explore] Domestic relay and smartphone compute node",
+          "updatedAt": "2026-06-26T06:19:34Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/9"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 7,
+          "title": "Suivi — Seconde Vie Logistique",
+          "updatedAt": "2026-06-24T06:54:44Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/7"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSDMS2c8AAAACfa9P8g",
+              "name": "documentation",
+              "description": "Improvements or additions to documentation",
+              "color": "0075ca"
+            },
+            {
+              "id": "LA_kwDOSDMS2c8AAAACls45HQ",
+              "name": "site",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOSDMS2c8AAAACls45Ig",
+              "name": "i18n",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 6,
+          "title": "Track follow-up improvements after EN-first / FR-operational site restructuring",
+          "updatedAt": "2026-06-02T19:45:36Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/6"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSDMS2c8AAAACln9dPw",
+              "name": "idea",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOSDMS2c8AAAACln9dQQ",
+              "name": "exploration",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOSDMS2c8AAAACln9dQg",
+              "name": "product",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOSDMS2c8AAAACln9dQw",
+              "name": "fractanet",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 4,
+          "title": "[Product idea] Memory AirTag / Œuf Trace — opportunistic GNSS trace tag without SIM",
+          "updatedAt": "2026-06-01T19:52:11Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/4"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSDMS2c8AAAAClesZBw",
+              "name": "idea-to-explore",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 3,
+          "title": "[Idea to explore] Circular command center using Wacom input and recycled photo frames",
+          "updatedAt": "2026-05-31T20:04:39Z",
+          "url": "https://github.com/JeanHuguesRobert/FractaVolta/issues/3"
+        }
+      ]
+    },
+    {
+      "name": "ubikia",
+      "fullName": "JeanHuguesRobert/ubikia",
+      "openCount": 17,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 22,
+          "title": "docs(pub): audit & align shipped capabilities vs Christmas 2026 roadmap",
+          "updatedAt": "2026-08-09T17:22:59Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/22"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 21,
+          "title": "Harden TTS orchestration: bounded fallback, explicit control modes, and readable feedback",
+          "updatedAt": "2026-07-19T11:31:05Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/21"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 16,
+          "title": "Epic — Persona-aware multichannel derivation and Ubikial → Ubikia migration",
+          "updatedAt": "2026-07-14T07:51:03Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/16"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 15,
+          "title": "M12 — Add reviewed vertical excerpt foundations after MVP",
+          "updatedAt": "2026-07-12T09:50:26Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/15"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 14,
+          "title": "M11 — Complete the end-to-end Ubikia Media MVP",
+          "updatedAt": "2026-07-12T09:50:12Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/14"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 13,
+          "title": "M10 — Generate manual publication packages",
+          "updatedAt": "2026-07-12T09:50:01Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/13"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 12,
+          "title": "M9 — Add quality control and artifact manifests",
+          "updatedAt": "2026-07-12T09:49:51Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/12"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 11,
+          "title": "M8 — Render the 1080p landscape video",
+          "updatedAt": "2026-07-12T09:49:41Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/11"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 10,
+          "title": "M7 — Plan scenes and render deterministic visual cards",
+          "updatedAt": "2026-07-12T09:49:30Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/10"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 9,
+          "title": "M6 — Generate captions and transcripts",
+          "updatedAt": "2026-07-12T09:49:20Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/9"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 8,
+          "title": "M5 — Assemble and normalize narration audio",
+          "updatedAt": "2026-07-12T09:49:09Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/8"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 7,
+          "title": "M4 — Implement TTS providers and utterance synthesis",
+          "updatedAt": "2026-07-12T09:49:00Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/7"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 6,
+          "title": "M3 — Parse spoken scripts and plan utterances",
+          "updatedAt": "2026-07-12T09:48:51Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/6"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 5,
+          "title": "M2 — Add provenance, state, cache, hashing, and atomic writes",
+          "updatedAt": "2026-07-12T09:48:41Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/5"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 4,
+          "title": "M1 — Load and validate Ubikia Media projects",
+          "updatedAt": "2026-07-12T09:48:30Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/4"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 3,
+          "title": "M0 — Scaffold the Ubikia Media Python package",
+          "updatedAt": "2026-07-12T09:48:19Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/3"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 2,
+          "title": "Ubikia Media MVP — execution tracker",
+          "updatedAt": "2026-07-19T09:18:32Z",
+          "url": "https://github.com/JeanHuguesRobert/ubikia/issues/2"
+        }
+      ]
+    },
+    {
+      "name": "registre-mariani",
+      "fullName": "JeanHuguesRobert/registre-mariani",
+      "openCount": 9,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFUBIQ",
+              "name": "patrimoine",
+              "description": "",
+              "color": "1688fa"
+            }
+          ],
+          "number": 9,
+          "title": "Patrimoine — chaise à porteur, Minesteggio, actifs critiques",
+          "updatedAt": "2026-06-04T21:52:39Z",
+          "url": "https://github.com/JeanHuguesRobert/registre-mariani/issues/9"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFU6aw",
+              "name": "registre",
+              "description": "",
+              "color": "233458"
+            }
+          ],
+          "number": 8,
+          "title": "Registres d’interactions — public, privé, passerelles",
+          "updatedAt": "2026-07-24T06:19:12Z",
+          "url": "https://github.com/JeanHuguesRobert/registre-mariani/issues/8"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFXXWQ",
+              "name": "fractavolta",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 7,
+          "title": "FractaVolta — SAS, Qonto, vélos, Mariani Village",
+          "updatedAt": "2026-06-04T21:57:16Z",
+          "url": "https://github.com/JeanHuguesRobert/registre-mariani/issues/7"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFUsvg",
+              "name": "politique",
+              "description": "",
+              "color": "b55d06"
+            }
+          ],
+          "number": 6,
+          "title": "Politique — Sénatoriales 2026, Autonomie de capacité, #1755",
+          "updatedAt": "2026-06-04T21:36:30Z",
+          "url": "https://github.com/JeanHuguesRobert/registre-mariani/issues/6"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFUljQ",
+              "name": "administratif",
+              "description": "",
+              "color": "f3d96f"
+            }
+          ],
+          "number": 5,
+          "title": "Administratif — RSA, CAF, MSA, CPAM, banques",
+          "updatedAt": "2026-06-04T21:36:13Z",
+          "url": "https://github.com/JeanHuguesRobert/registre-mariani/issues/5"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFUBIQ",
+              "name": "patrimoine",
+              "description": "",
+              "color": "1688fa"
+            }
+          ],
+          "number": 4,
+          "title": "Patrimoine — chaise à porteur, Minesteggio, actifs critiques",
+          "updatedAt": "2026-06-04T21:35:39Z",
+          "url": "https://github.com/JeanHuguesRobert/registre-mariani/issues/4"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFULnA",
+              "name": "casa-mariani",
+              "description": "",
+              "color": "2b20e1"
+            }
+          ],
+          "number": 3,
+          "title": "Casa Mariani — marché, distillation, production",
+          "updatedAt": "2026-06-04T21:40:03Z",
+          "url": "https://github.com/JeanHuguesRobert/registre-mariani/issues/3"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFT6lQ",
+              "name": "priorité-critique",
+              "description": "",
+              "color": "803300"
+            },
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFUzMw",
+              "name": "continuite",
+              "description": "",
+              "color": "f86638"
+            },
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFU6aw",
+              "name": "registre",
+              "description": "",
+              "color": "233458"
+            }
+          ],
+          "number": 2,
+          "title": "Continuité transmissible — testament, fonds, README",
+          "updatedAt": "2026-06-04T21:35:05Z",
+          "url": "https://github.com/JeanHuguesRobert/registre-mariani/issues/2"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFT6lQ",
+              "name": "priorité-critique",
+              "description": "",
+              "color": "803300"
+            },
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFUzMw",
+              "name": "continuite",
+              "description": "",
+              "color": "f86638"
+            },
+            {
+              "id": "LA_kwDOSxbJ3s8AAAACmFU6aw",
+              "name": "registre",
+              "description": "",
+              "color": "233458"
+            }
+          ],
+          "number": 1,
+          "title": "TODO — Registre opérationnel initial",
+          "updatedAt": "2026-06-04T21:30:35Z",
+          "url": "https://github.com/JeanHuguesRobert/registre-mariani/issues/1"
+        }
+      ]
+    },
+    {
+      "name": "Inox",
+      "fullName": "JeanHuguesRobert/Inox",
+      "openCount": 8,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 33,
+          "title": "Restore C++ CLI target opportunistically for Sensoria",
+          "updatedAt": "2026-08-24T05:50:00Z",
+          "url": "https://github.com/JeanHuguesRobert/Inox/issues/33"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 30,
+          "title": "RFC/prototype: packetized Linux–USB–ESP32 edge-device bridge",
+          "updatedAt": "2026-07-17T12:58:27Z",
+          "url": "https://github.com/JeanHuguesRobert/Inox/issues/30"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 27,
+          "title": "M1: robust C++ extraction and standalone Inox Micro core",
+          "updatedAt": "2026-07-17T08:05:35Z",
+          "url": "https://github.com/JeanHuguesRobert/Inox/issues/27"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSkHRnM8AAAACkKeZzQ",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSkHRnM8AAAACmI44JQ",
+              "name": "architecture",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOSkHRnM8AAAACmI44KQ",
+              "name": "Inox",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 23,
+          "title": "Runtime API: reset Inox VM state between processor() runs (embeddable / worker-pool use)",
+          "updatedAt": "2026-07-03T18:05:23Z",
+          "url": "https://github.com/JeanHuguesRobert/Inox/issues/23"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSkHRnM8AAAACmI44Ig",
+              "name": "lineage",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOSkHRnM8AAAACmI44Iw",
+              "name": "historical",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOSkHRnM8AAAACmI44JQ",
+              "name": "architecture",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOSkHRnM8AAAACmI44KQ",
+              "name": "Inox",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOSkHRnM8AAAACmI44Kg",
+              "name": "inseme",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOSkHRnM8AAAACmI44LQ",
+              "name": "cop",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 17,
+          "title": "Destiny of the l8 and side repositories in the corpus",
+          "updatedAt": "2026-06-05T08:49:00Z",
+          "url": "https://github.com/JeanHuguesRobert/Inox/issues/17"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSkHRnM8AAAACltI5Cw",
+              "name": "language-design",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 16,
+          "title": "Control-stack scope cleanup is unbalanced in recursive method dispatch (extend-class{ / Invalid return)",
+          "updatedAt": "2026-06-03T08:59:57Z",
+          "url": "https://github.com/JeanHuguesRobert/Inox/issues/16"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSkHRnM8AAAACltI5Cw",
+              "name": "language-design",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 15,
+          "title": "Consider Smalltalk-style become: for in-place object identity swap",
+          "updatedAt": "2026-06-03T08:44:25Z",
+          "url": "https://github.com/JeanHuguesRobert/Inox/issues/15"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOSkHRnM8AAAACltI5Cw",
+              "name": "language-design",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 5,
+          "title": "Replace the fragile C++/TS dual-source comment trick with a robust, tested mechanism",
+          "updatedAt": "2026-06-02T12:37:31Z",
+          "url": "https://github.com/JeanHuguesRobert/Inox/issues/5"
+        }
+      ]
+    },
+    {
+      "name": "operium",
+      "fullName": "JeanHuguesRobert/operium",
+      "openCount": 8,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 22,
+          "title": "Case 001 — dogfood the next real incident as a Cognitive Packet Odyssey",
+          "updatedAt": "2026-08-20T08:34:10Z",
+          "url": "https://github.com/JeanHuguesRobert/operium/issues/22"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 21,
+          "title": "Semantic Backup — hot/warm/cold storage, Syncthing and semantic distillation",
+          "updatedAt": "2026-08-12T11:41:30Z",
+          "url": "https://github.com/JeanHuguesRobert/operium/issues/21"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOTDkvQs8AAAACosyu0Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYghg",
+              "name": "subsystem:cli",
+              "description": "operium CLI",
+              "color": "c5def5"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYjzw",
+              "name": "fbf",
+              "description": "Fix Bugs First tracked item",
+              "color": "000000"
+            }
+          ],
+          "number": 18,
+          "title": "Concevoir un handoff robuste entre PC, Termux et Fracta au-delà des branches WIP",
+          "updatedAt": "2026-08-07T04:54:40Z",
+          "url": "https://github.com/JeanHuguesRobert/operium/issues/18"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOTDkvQs8AAAACosyu0Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYfNw",
+              "name": "subsystem:mesh",
+              "description": "Fractanet mesh",
+              "color": "006b75"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYjzw",
+              "name": "fbf",
+              "description": "Fix Bugs First tracked item",
+              "color": "000000"
+            }
+          ],
+          "number": 9,
+          "title": "Implement FractaNet observed-state reconciliation",
+          "updatedAt": "2026-07-26T15:36:58Z",
+          "url": "https://github.com/JeanHuguesRobert/operium/issues/9"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOTDkvQs8AAAACosyu0Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACqlvO9g",
+              "name": "fractanet",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACqlvO9w",
+              "name": "ops",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYfNw",
+              "name": "subsystem:mesh",
+              "description": "Fractanet mesh",
+              "color": "006b75"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYjzw",
+              "name": "fbf",
+              "description": "Fix Bugs First tracked item",
+              "color": "000000"
+            }
+          ],
+          "number": 6,
+          "title": "poco-jhr: Termux:Boot install (Android 16) + MIUI autostart fallback",
+          "updatedAt": "2026-07-26T15:37:08Z",
+          "url": "https://github.com/JeanHuguesRobert/operium/issues/6"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOTDkvQs8AAAACosyu0Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYf7A",
+              "name": "subsystem:ona",
+              "description": "Operium Node Agent",
+              "color": "5319e7"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYjzw",
+              "name": "fbf",
+              "description": "Fix Bugs First tracked item",
+              "color": "000000"
+            }
+          ],
+          "number": 3,
+          "title": "Job runner éphémère — gros traitements CPU/RAM à la demande",
+          "updatedAt": "2026-08-06T17:33:52Z",
+          "url": "https://github.com/JeanHuguesRobert/operium/issues/3"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOTDkvQs8AAAACosyu0Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYjRg",
+              "name": "subsystem:replication",
+              "description": "Corpus replication",
+              "color": "bfd4f2"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYjzw",
+              "name": "fbf",
+              "description": "Fix Bugs First tracked item",
+              "color": "000000"
+            }
+          ],
+          "number": 2,
+          "title": "Doctrine opérationnelle — stockage adressé par contenu, buckets et Plakar",
+          "updatedAt": "2026-07-26T15:37:13Z",
+          "url": "https://github.com/JeanHuguesRobert/operium/issues/2"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOTDkvQs8AAAACosyu0Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYhmA",
+              "name": "subsystem:docs",
+              "description": "Docs / research drift",
+              "color": "d4c5f9"
+            },
+            {
+              "id": "LA_kwDOTDkvQs8AAAACtYYjzw",
+              "name": "fbf",
+              "description": "Fix Bugs First tracked item",
+              "color": "000000"
+            }
+          ],
+          "number": 1,
+          "title": "Track vendor-neutral API usage and billing monitoring",
+          "updatedAt": "2026-08-13T09:15:21Z",
+          "url": "https://github.com/JeanHuguesRobert/operium/issues/1"
+        }
+      ]
+    },
+    {
+      "name": "marenostrum",
+      "fullName": "JeanHuguesRobert/marenostrum",
+      "openCount": 4,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 4,
+          "title": "Calibrate and propagate the qualitative compute growth thesis",
+          "updatedAt": "2026-08-07T08:36:25Z",
+          "url": "https://github.com/JeanHuguesRobert/marenostrum/issues/4"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 3,
+          "title": "Clarifier DHITL : infrastructure, ouverture et transition",
+          "updatedAt": "2026-07-20T04:32:37Z",
+          "url": "https://github.com/JeanHuguesRobert/marenostrum/issues/3"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORy7MJM8AAAACdFyqqA",
+              "name": "documentation",
+              "description": "Improvements or additions to documentation",
+              "color": "0075ca"
+            },
+            {
+              "id": "LA_kwDORy7MJM8AAAACosWjuw",
+              "name": "doctrine",
+              "description": "",
+              "color": "ededed"
+            },
+            {
+              "id": "LA_kwDORy7MJM8AAAACosWjvA",
+              "name": "DHITL",
+              "description": "",
+              "color": "ededed"
+            }
+          ],
+          "number": 2,
+          "title": "Link DHITL membership/federation document from DHITL and covenant",
+          "updatedAt": "2026-06-24T04:45:50Z",
+          "url": "https://github.com/JeanHuguesRobert/marenostrum/issues/2"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDORy7MJM8AAAACdFyqsw",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDORy7MJM8AAAACdTffGA",
+              "name": "discussion",
+              "description": "",
+              "color": "0f2f41"
+            }
+          ],
+          "number": 1,
+          "title": "RFC: Pre-submission review — \"Infrastructure Is All You Need\"",
+          "updatedAt": "2026-04-03T07:14:55Z",
+          "url": "https://github.com/JeanHuguesRobert/marenostrum/issues/1"
+        }
+      ]
+    },
+    {
+      "name": "JeanHuguesRobert",
+      "fullName": "JeanHuguesRobert/JeanHuguesRobert",
+      "openCount": 3,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 3,
+          "title": "docs(twin): align AGENT_JOHN_FR.md source with vendor reversibility formulation",
+          "updatedAt": "2026-08-09T17:24:12Z",
+          "url": "https://github.com/JeanHuguesRobert/JeanHuguesRobert/issues/3"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [
+            {
+              "id": "LA_kwDOR0arS88AAAACdTZouA",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            }
+          ],
+          "number": 2,
+          "title": "Interactions Registry: multichannel extension + Personal Twin desk (public traces)",
+          "updatedAt": "2026-08-08T08:10:27Z",
+          "url": "https://github.com/JeanHuguesRobert/JeanHuguesRobert/issues/2"
+        },
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 1,
+          "title": "Registre : cohérence post-envoi 2026-07-21 + copie lisible D3",
+          "updatedAt": "2026-07-24T06:20:15Z",
+          "url": "https://github.com/JeanHuguesRobert/JeanHuguesRobert/issues/1"
+        }
+      ]
+    },
+    {
+      "name": "survey",
+      "fullName": "JeanHuguesRobert/survey",
+      "openCount": 1,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 13,
+          "title": "Stabiliser Ophélia avant migration vers inseme",
+          "updatedAt": "2026-06-30T09:17:13Z",
+          "url": "https://github.com/JeanHuguesRobert/survey/issues/13"
+        }
+      ]
+    },
+    {
+      "name": "StructEnv",
+      "fullName": "JeanHuguesRobert/StructEnv",
+      "openCount": 1,
+      "issues": [
+        {
+          "author": {
+            "id": "MDQ6VXNlcjIyOTU3Mw==",
+            "is_bot": false,
+            "login": "JeanHuguesRobert",
+            "name": "Jean Hugues Noël Robert"
+          },
+          "labels": [],
+          "number": 4,
+          "title": "StructEnv Revival: refactor planned (parallel to SimpliWiki revival)",
+          "updatedAt": "2026-07-23T16:52:11Z",
+          "url": "https://github.com/JeanHuguesRobert/StructEnv/issues/4"
+        }
+      ]
+    },
+    {
+      "name": "serra",
+      "fullName": "JeanHuguesRobert/serra",
+      "openCount": 0,
+      "issues": []
+    },
+    {
+      "name": "privai",
+      "fullName": "acorsica/privai",
+      "openCount": 0,
+      "issues": []
+    },
+    {
+      "name": "gouvernance",
+      "fullName": "acorsica/gouvernance",
+      "openCount": 0,
+      "issues": []
+    },
+    {
+      "name": "marianivillage",
+      "fullName": "acorsica/marianivillage",
+      "openCount": 0,
+      "issues": []
+    },
+    {
+      "name": "institut-mariani",
+      "fullName": "acorsica/institut-mariani",
+      "openCount": 0,
+      "issues": []
+    },
+    {
+      "name": "Kudos",
+      "fullName": "acorsica/Kudos",
+      "openCount": 0,
+      "issues": []
+    },
+    {
+      "name": ".github",
+      "fullName": "acorsica/.github",
+      "openCount": 0,
+      "issues": []
+    },
+    {
+      "name": "acorsica.org",
+      "fullName": "acorsica/acorsica.org",
+      "openCount": 0,
+      "issues": []
+    }
+  ]
+}

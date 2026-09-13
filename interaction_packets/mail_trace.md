@@ -42,6 +42,7 @@ classification_confidence: "strong"
 ### Backlinks
 
 *These documents link to this file:*
+- [Interaction lisible — Candidature sénatoriale Haute-Corse 2026](readable/2026/2026-09-10-candidature-senatoriale-haute-corse.md)
 - [Interaction Packets — Tableau de bord (JHR)](dashboard.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)
 <!-- END_AUTO: backlinks -->

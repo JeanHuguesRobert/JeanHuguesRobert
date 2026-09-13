@@ -339,6 +339,7 @@ La transparence exige aussi la traçabilité des coupes.
 ### Backlinks
 
 *These documents link to this file:*
+- [Interaction lisible — Candidature sénatoriale Haute-Corse 2026](readable/2026/2026-09-10-candidature-senatoriale-haute-corse.md)
 - [Interaction lisible — Clinique du droit / Université de Corse](readable/2026/2026-03-11-clinique-du-droit-cooperation.md)
 - [Interaction Packets — Tableau de bord (JHR)](dashboard.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)

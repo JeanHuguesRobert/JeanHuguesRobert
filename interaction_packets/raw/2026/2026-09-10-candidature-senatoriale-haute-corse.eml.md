@@ -10,6 +10,10 @@ lifecycle_state: "active"
 document_role: "source"
 document_kind: "interaction-trace"
 disclosure: "D3"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "strong"
 ---
 
 # Copie quasi-brute publique des échanges

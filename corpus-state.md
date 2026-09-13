@@ -22,6 +22,11 @@ cross_refs:
   site: null
   local_store: "JeanHuguesRobert/.cogentia/index/corpus.sqlite (cache, not published wholesale)"
   remote_store: Supabase public.retrieval_chunks (serving layer; vectors stay remote)
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Corpus State Report

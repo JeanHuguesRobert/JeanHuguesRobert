@@ -10,6 +10,10 @@ status: "not started — no platform access or publication authority"
 related:
   - "../etude_agent_jhn_instagram.md"
   - "../agent_brief.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Kit de pilotage Instagram — Agent JHN

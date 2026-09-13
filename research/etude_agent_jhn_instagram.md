@@ -20,6 +20,10 @@ tags:
   - provenance
   - contenu organique
 lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Agent JHN sur Instagram : mandat de préparation, limites et test minimal
