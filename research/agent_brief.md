@@ -386,6 +386,14 @@ This is a living brief. Update it when objectives, dates, positions or constrain
 ### Backlinks
 
 *These documents link to this file:*
+- [What is John — Agent John / Agent JHN identity card](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/agent_john_identity.md)
+- [Continuation — packetisation, Inox Micro, nœuds vocaux et capacité assurée](https://github.com/JeanHuguesRobert/FractaVolta/issues/15)
+- [Agent JHN sur Instagram : mandat de préparation, limites et test minimal](etude_agent_jhn_instagram.md)
 - [Corpus Start Here — Carte globale du Corpus](corpus-map.md)
+- [Instagram pilot kit — Agent JHN](instagram-pilot/README.md)
 - [Jean Hugues Noël Robert, baron Mariani](../README.md)
 - [Operational Formulas — Representation Primitives](operational_formulas.md)
+- [Project Context — Jean Hugues Noël Robert, baron Mariani](../CONTEXT.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](index.md)
+- [Un agent prépare ; une personne décide](instagram-pilot/packets/ctn_ig_20260820_01.md)
+<!-- END_AUTO: backlinks -->
