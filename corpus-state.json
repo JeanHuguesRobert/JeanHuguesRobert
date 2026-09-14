@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at": "2026-08-26T04:23:19.306Z",
+  "generated_at": "2026-09-14T21:43:34.082Z",
   "generated_by": "cogentia.js v3.0.0",
   "purpose": "Consolidated current-state of corpus caches/serving layers (no vector or body dumps).",
   "local_sqlite": {
@@ -9,16 +9,16 @@
     "sqlite_available": true,
     "fts5_available": true,
     "schema_version": "0.1",
-    "index_hash": "6945b542489ed9084e576373865b726c66901e082ffafd6205352ed02d138ee8",
+    "index_hash": "990de07644d841f5e6b91391a08350d8800d4a87d3bd17383e9c952537c5d7f5",
     "indexing_policy_version": "markdown-v1",
-    "updated_at": "2026-08-26T04:04:52.706Z",
+    "updated_at": "2026-09-14T10:17:33.564Z",
     "mode": "update",
-    "documents": 1855,
-    "documents_public": 1153,
-    "chunks": 24059,
-    "searchable_public": 23554,
-    "edges": 3205,
-    "continuations": 59,
+    "documents": 2100,
+    "documents_public": 1283,
+    "chunks": 25943,
+    "searchable_public": 25185,
+    "edges": 3327,
+    "continuations": 29,
     "partial": true,
     "vector_cache": {
       "ok": true,
@@ -33,28 +33,33 @@
     "chunks_by_repo": [
       {
         "repo": "barons-Mariani",
-        "chunks": 7022,
-        "searchable_public": 7022
+        "chunks": 7550,
+        "searchable_public": 7550
       },
       {
         "repo": "cogentia",
-        "chunks": 6536,
-        "searchable_public": 6478
+        "chunks": 7240,
+        "searchable_public": 7182
       },
       {
         "repo": "inseme",
-        "chunks": 1757,
-        "searchable_public": 1757
-      },
-      {
-        "repo": "FractaVolta",
-        "chunks": 1600,
-        "searchable_public": 1600
+        "chunks": 1810,
+        "searchable_public": 1810
       },
       {
         "repo": "operium",
-        "chunks": 1571,
-        "searchable_public": 1380
+        "chunks": 1695,
+        "searchable_public": 1674
+      },
+      {
+        "repo": "FractaVolta",
+        "chunks": 1584,
+        "searchable_public": 1584
+      },
+      {
+        "repo": "ubikia",
+        "chunks": 1107,
+        "searchable_public": 1107
       },
       {
         "repo": "survey",
@@ -62,29 +67,24 @@
         "searchable_public": 1103
       },
       {
-        "repo": "ubikia",
-        "chunks": 1076,
-        "searchable_public": 1076
-      },
-      {
         "repo": "marenostrum",
         "chunks": 981,
         "searchable_public": 981
       },
       {
+        "repo": "registre-mariani",
+        "chunks": 679,
+        "searchable_public": 0
+      },
+      {
         "repo": "Inox",
-        "chunks": 644,
-        "searchable_public": 644
+        "chunks": 662,
+        "searchable_public": 662
       },
       {
         "repo": "JeanHuguesRobert",
-        "chunks": 502,
-        "searchable_public": 498
-      },
-      {
-        "repo": "registre-mariani",
-        "chunks": 252,
-        "searchable_public": 0
+        "chunks": 516,
+        "searchable_public": 516
       },
       {
         "repo": "StructEnv",
@@ -108,8 +108,8 @@
       },
       {
         "repo": "gouvernance",
-        "chunks": 99,
-        "searchable_public": 99
+        "chunks": 100,
+        "searchable_public": 100
       },
       {
         "repo": "marianivillage",
@@ -161,7 +161,7 @@
     {
       "level": "ok",
       "code": "index_built",
-      "message": "Index built (24059 chunks)."
+      "message": "Index built (25943 chunks)."
     },
     {
       "level": "warn",
