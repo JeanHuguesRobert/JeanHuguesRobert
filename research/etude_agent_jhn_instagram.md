@@ -1,16 +1,16 @@
 ---
-title: "Agent JHN sur Instagram : mandat de préparation, limites et test minimal"
-subtitle: "Étude opérationnelle pour une présence organique, traçable et humaine dans la campagne sénatoriale"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-08-20"
-document_role: "source"
-document_kind: "technical-study"
-visibility: "public"
-language: "fr"
-target_audience: "Jean Hugues Robert et personnes préparant sa communication publique"
-target_scene: "Instagram, Haute-Corse, campagne sénatoriale 2026"
-document_function: "mandate-proposal"
-status: "proposal — requires human validation before any account, publication, connector, or campaign action"
+title: 'Agent JHN sur Instagram : mandat de préparation, limites et test minimal'
+subtitle: Étude opérationnelle pour une présence organique, traçable et humaine dans la campagne sénatoriale
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-08-20'
+document_role: source
+document_kind: technical-study
+visibility: public
+language: fr
+target_audience: Jean Hugues Robert et personnes préparant sa communication publique
+target_scene: Instagram, Haute-Corse, campagne sénatoriale 2026
+document_function: mandate-proposal
+status: proposal — requires human validation before any account, publication, connector, or campaign action
 tags:
   - Agent JHN
   - Instagram
@@ -19,12 +19,25 @@ tags:
   - communication politique
   - provenance
   - contenu organique
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Agent JHN sur Instagram : mandat de préparation, limites et test minimal
 

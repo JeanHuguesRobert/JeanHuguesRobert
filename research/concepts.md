@@ -15,7 +15,7 @@ classification_version: '1'
 classification_rule: concept-index
 classification_confidence: strong
 author: unknown
-date: unknown
+date: null
 provenance:
   origin_type: unknown
   origin_repository: unknown
@@ -26,7 +26,12 @@ review:
   status: unreviewed
   reviewed_by: []
 update_policy: UP-DEFAULT-REVIEWED
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: en
+status: working-paper
 ---
+
 
 # Concept Index — JeanHuguesRobert
 

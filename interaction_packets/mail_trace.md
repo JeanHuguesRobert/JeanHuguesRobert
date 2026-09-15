@@ -1,22 +1,34 @@
 ---
-title: "Registre des interactions"
-description: "Tabular register of traced interactions — ID, date, subject, correspondent, follow-up, status, disclosure level."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-11"
-status: "journal"
-license: "CC BY 4.0"
+title: Registre des interactions
+description: Tabular register of traced interactions — ID, date, subject, correspondent, follow-up, status, disclosure level.
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-09-11'
+status: journal
+license: CC BY 4.0
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md
-last_stamped_at: 2026-09-11
-document_role: "operational"
-document_kind: "continuation-packet"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "continuation-packet"
-classification_confidence: "strong"
+last_stamped_at: 2026-09-11T00:00:00.000Z
+document_role: operational
+document_kind: continuation-packet
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: continuation-packet
+classification_confidence: strong
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Registre des interactions
 

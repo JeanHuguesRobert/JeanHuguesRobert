@@ -1,12 +1,26 @@
 ---
-title: "JHN Personal Digital Twin — public instance definition"
+title: JHN Personal Digital Twin — public instance definition
 document_role: source
 document_kind: instance-definition
 visibility: public
 lifecycle_state: working
 language: en
 update_policy: UP-DEFAULT-REVIEWED
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-09-15'
+status: working-paper
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # JHN Personal Digital Twin — public instance definition
 

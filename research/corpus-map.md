@@ -1,23 +1,35 @@
 ---
-title: "Corpus Start Here — Carte globale du Corpus"
-description: "Point d'entrée court du Living Corpus Cogentia Commons pour lecteurs humains et agents IA."
+title: Corpus Start Here — Carte globale du Corpus
+description: Point d'entrée court du Living Corpus Cogentia Commons pour lecteurs humains et agents IA.
 layout: default
 nav_order: 0
 document_role: index
-status: "living map"
+status: living map
 license: CC BY 4.0
 affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-date: 2026-06-18
+date: 2026-06-18T00:00:00.000Z
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md
-document_kind: "navigation"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-index"
-classification_confidence: "medium"
+document_kind: navigation
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-index
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Corpus Start Here — Carte globale du Corpus
 

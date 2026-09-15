@@ -1,22 +1,34 @@
 ---
-title: "C.O.R.S.I.C.A., Institut Mariani et corpus personnel"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A."
-date: "2026-06-03"
-license: "CC BY 4.0"
-status: "published"
-corpus_role: "source"
-keywords: "C.O.R.S.I.C.A., Institut Mariani, corpus personnel, acorsica, séparation institutionnelle"
-summary: "Note de clarification globale distinguant l’organisation acorsica, C.O.R.S.I.C.A., l’Institut Mariani et le corpus personnel."
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "stable"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+title: C.O.R.S.I.C.A., Institut Mariani et corpus personnel
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A.
+date: '2026-06-03'
+license: CC BY 4.0
+status: published
+corpus_role: source
+summary: Note de clarification globale distinguant l’organisation acorsica, C.O.R.S.I.C.A., l’Institut Mariani et le corpus personnel.
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: stable
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+tags: C.O.R.S.I.C.A., Institut Mariani, corpus personnel, acorsica, séparation institutionnelle
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 # C.O.R.S.I.C.A., Institut Mariani et corpus personnel
 
 Ce document précise les liens entre l’organisation GitHub `acorsica`, l’association C.O.R.S.I.C.A., l’Institut Mariani et le corpus personnel de Jean Hugues Noël Robert.

@@ -1,8 +1,8 @@
 ---
-title: "Agent JHN — Experimental Notice and Non-Commitment Boundary"
-description: "Public notice defining the identity, experimental status, limits, and non-commitment boundary of Agent JHN."
-date: 2026-07-29
-author: "Jean Hugues Noël Robert, baron Mariani"
+title: Agent JHN — Experimental Notice and Non-Commitment Boundary
+description: Public notice defining the identity, experimental status, limits, and non-commitment boundary of Agent JHN.
+date: 2026-07-29T00:00:00.000Z
+author: Jean Hugues Noël Robert, baron Mariani
 language: en
 document_role: source
 document_kind: public-notice
@@ -14,7 +14,7 @@ provenance:
   origin_type: human-directed-agent-draft
   origin_repository: JeanHuguesRobert/JeanHuguesRobert
   origin_ref: main
-  origin_date: 2026-07-29
+  origin_date: 2026-07-29T00:00:00.000Z
   derived_from:
     - cogentia/research/artificial_representation_and_mandated_voice.md
     - cogentia/research/act_mandate_responsibility.md
@@ -22,11 +22,15 @@ review:
   status: owner-approved-scope
   reviewed_by:
     - Jean Hugues Noël Robert
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+status: working-paper
 ---
+
 
 # Agent JHN — Experimental Notice and Non-Commitment Boundary
 

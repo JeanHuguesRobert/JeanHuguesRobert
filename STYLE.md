@@ -1,9 +1,9 @@
 ---
-title: "STYLE.md — public cognitive & writing style of Jean Hugues Noël Robert"
-subtitle: "Person-level style mandate for Agent John and other representation surfaces"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-08-13"
-version: "0.1"
+title: STYLE.md — public cognitive & writing style of Jean Hugues Noël Robert
+subtitle: Person-level style mandate for Agent John and other representation surfaces
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-08-13'
+version: '0.1'
 document_role: operational
 document_kind: style-mandate
 visibility: public
@@ -16,11 +16,25 @@ related:
   - cogentia/research/agent_john_primary_style.md
   - cogentia/research/cogentigram_jhn_thinking_capsule.md
   - ubikia personas (explicit non-primary appearances)
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+status: working-paper
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # STYLE.md — Jean Hugues Noël Robert
 

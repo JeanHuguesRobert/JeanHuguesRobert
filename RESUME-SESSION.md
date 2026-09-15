@@ -4,7 +4,7 @@ document_kind: continuation-packet
 visibility: public
 lifecycle_state: active
 classification_source: cogentia.js
-classification_version: "1"
+classification_version: '1'
 classification_rule: continuation-resume
 classification_confidence: strong
 packet_id: cop-pkt-20260904-barons-Mariani-55-pause
@@ -35,8 +35,23 @@ causal_refs:
   - commit:acorsica.org:1a303d6
   - commit:StructEnv:5ed3c34
 epistemic_status: paused
-date: 2026-09-04
+date: 2026-09-04T00:00:00.000Z
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+status: working-paper
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Session Pause Checkpoint (2026-09-04) ⏸️✨
 

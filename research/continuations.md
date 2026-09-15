@@ -1,24 +1,36 @@
 ---
-title: "Continuation Triage"
-description: "Operational triage of active Cogentia continuations for the Living Corpus."
+title: Continuation Triage
+description: Operational triage of active Cogentia continuations for the Living Corpus.
 layout: default
 nav_order: 3
 document_role: operational
-status: "living dashboard"
+status: living dashboard
 license: CC BY 4.0
 affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-date: 2026-06-09
+date: 2026-06-09T00:00:00.000Z
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/continuations.md
-last_reviewed_at: 2026-06-16
-document_kind: "dashboard"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "dashboard"
-classification_confidence: "medium"
+last_reviewed_at: 2026-06-16T00:00:00.000Z
+document_kind: dashboard
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: dashboard
+classification_confidence: medium
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Continuation Triage
 

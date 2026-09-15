@@ -1,25 +1,24 @@
 ---
-title: "Agent Brief — Representing Jean Hugues Noël Robert"
-subtitle: "An operating brief for personal AI agents that prepare or draft responses on the author's behalf"
-description: "Reference document equipping any personal AI agent (Claude, Grok, or a model of comparable or slightly lower capability) to answer in line with the author's interests, values, work, proposals and objectives — while preserving the human-in-the-loop boundary."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-05-28"
-status: "working-note — v0.3"
-version: "0.3"
-license: "CC BY 4.0"
-intended_path: "research/agent_brief.md"
+title: Agent Brief — Representing Jean Hugues Noël Robert
+subtitle: An operating brief for personal AI agents that prepare or draft responses on the author's behalf
+description: Reference document equipping any personal AI agent (Claude, Grok, or a model of comparable or slightly lower capability) to answer in line with the author's interests, values, work, proposals and objectives — while preserving the human-in-the-loop boundary.
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-05-28'
+status: working-note — v0.3
+version: '0.3'
+license: CC BY 4.0
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md
-audience: "any personal AI agent, and any collaborator, preparing responses on the author's behalf"
+audience: any personal AI agent, and any collaborator, preparing responses on the author's behalf
 related_language_layer:
-  - "research/operational_formulas.md"
+  - research/operational_formulas.md
 ai_assisted_by:
-  - "Claude (Anthropic) — drafting and synthesis"
-  - "Claude (Anthropic) — v0.3 resume-procedure pass and agent-neutral hardening, 2026-07-25"
+  - Claude (Anthropic) — drafting and synthesis
+  - Claude (Anthropic) — v0.3 resume-procedure pass and agent-neutral hardening, 2026-07-25
 method:
-  - "second method"
-  - "Cogentia pipeline"
-  - "DHITL"
+  - second method
+  - Cogentia pipeline
+  - DHITL
 tags:
   - agent brief
   - persona
@@ -32,16 +31,28 @@ tags:
   - doctrine compression
   - representation primitives
   - resume procedure
-last_stamped_at: 2026-07-25
-document_role: "source"
-document_kind: "working-note"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "working-note"
-classification_confidence: "medium"
+last_stamped_at: 2026-07-25T00:00:00.000Z
+document_role: source
+document_kind: working-note
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: working-note
+classification_confidence: medium
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Agent Brief — Representing Jean Hugues Noël Robert
 

@@ -1,7 +1,7 @@
 ---
-title: "Agent John (JHN) — Présentation et Capacités du Jumeau Numérique Personnel Cogentia"
-author: "Jean-Hugues Robert"
-date: "2026-08-09"
+title: Agent John (JHN) — Présentation et Capacités du Jumeau Numérique Personnel Cogentia
+author: Jean-Hugues Robert
+date: '2026-08-09'
 document_role: source
 document_kind: documentation
 visibility: public
@@ -12,7 +12,16 @@ provenance:
   origin_type: repository
   origin_repository: JeanHuguesRobert/JeanHuguesRobert
   origin_ref: twin/AGENT_JOHN_FR.md
+  origin_date: unknown
+  derived_from: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+status: working-paper
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
+
 
 # Agent John (JHN) — Jumeau Numérique Personnel Cogentia
 

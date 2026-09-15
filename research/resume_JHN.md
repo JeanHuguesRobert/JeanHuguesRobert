@@ -1,13 +1,13 @@
 ---
-title: "Résumé d'Orchestration & Rapport d'Étape (resume_JHN.md)"
-subtitle: "Naissance d'Agent John, Dérivations Ubikia, Modèle de Portée 3-Niveaux et Validation Substack Grandeur Nature"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-09"
-document_role: "source"
-document_kind: "durable-resume"
-visibility: "public"
-language: "fr"
+title: Résumé d'Orchestration & Rapport d'Étape (resume_JHN.md)
+subtitle: Naissance d'Agent John, Dérivations Ubikia, Modèle de Portée 3-Niveaux et Validation Substack Grandeur Nature
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-08-09'
+document_role: source
+document_kind: durable-resume
+visibility: public
+language: fr
 tags:
   - Agent John
   - Ubikia
@@ -16,13 +16,26 @@ tags:
   - Vault Supabase
   - Possibilisme
   - Corsica
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "summary"
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: summary
+license: CC BY-SA 4.0
+update_policy: UP-DEFAULT-REVIEWED
+status: working-paper
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Résumé d'Orchestration & Rapport d'Étape — `resume_JHN.md`
 

@@ -1,18 +1,32 @@
 ---
-title: "Dossier patrimonial — chaise à porteur"
-date: "2026-06-05"
-status: "active"
-disclosure: "D3"
-related_packet: "../../packets/2026/2026-06-05-chaise-porteur.yaml"
-document_role: "operational"
-document_kind: "continuation-packet"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "continuation-packet"
-classification_confidence: "strong"
+title: Dossier patrimonial — chaise à porteur
+date: '2026-06-05'
+status: active
+disclosure: D3
+related_packet: ../../packets/2026/2026-06-05-chaise-porteur.yaml
+document_role: operational
+document_kind: continuation-packet
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: continuation-packet
+classification_confidence: strong
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Dossier patrimonial — chaise à porteur
 

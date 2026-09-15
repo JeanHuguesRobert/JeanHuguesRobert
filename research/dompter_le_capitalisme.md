@@ -1,25 +1,27 @@
 ---
-title: "Dompter le capitalisme"
-subtitle: "Mobiliser le capital et l'intelligence artificielle sans leur abandonner la souveraineté sur les fins"
-description: "Doctrine transversale sur l'usage du marché, du capital et de l'IA comme multiplicateurs de capacité sous gouvernance humaine, avec subvention croisée, traçabilité et mécanismes anti-capture."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-08"
-status: "working source — explicitement validé en conversation"
-license: "CC BY 4.0"
+title: Dompter le capitalisme
+subtitle: Mobiliser le capital et l'intelligence artificielle sans leur abandonner la souveraineté sur les fins
+description: Doctrine transversale sur l'usage du marché, du capital et de l'IA comme multiplicateurs de capacité sous gouvernance humaine, avec subvention croisée, traçabilité et mécanismes anti-capture.
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-08-08'
+status: working source — explicitement validé en conversation
+license: CC BY 4.0
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/dompter_le_capitalisme.md
-document_role: "source"
-document_kind: "concept-note"
-visibility: "public"
-lifecycle_state: "working"
+document_role: source
+document_kind: concept-note
+visibility: public
+lifecycle_state: working
 provenance:
-  origin_type: "conversation-checkpoint"
-  origin_date: "2026-08-08"
+  origin_type: conversation-checkpoint
+  origin_date: '2026-08-08'
   derived_from:
-    - "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md"
-    - "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/operational_formulas.md"
-    - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/docs/for-partners.md"
-    - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia-digital-twin.md"
+    - https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md
+    - https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/operational_formulas.md
+    - https://github.com/JeanHuguesRobert/FractaVolta/blob/main/docs/for-partners.md
+    - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia-digital-twin.md
+  origin_repository: unknown
+  origin_ref: unknown
 tags:
   - possibilisme
   - capital
@@ -33,11 +35,17 @@ tags:
   - subvention croisée
   - souveraineté
   - traçabilité
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
+
 
 # Dompter le capitalisme
 

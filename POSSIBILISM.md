@@ -1,22 +1,34 @@
 ---
-title: "Possibilism"
-description: "The underlying doctrine of the ecosystem: a civilization's worth measured by its capacity to preserve and expand the space of accessible futures."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-05-09"
-status: "published"
-license: "CC BY 4.0"
+title: Possibilism
+description: 'The underlying doctrine of the ecosystem: a civilization''s worth measured by its capacity to preserve and expand the space of accessible futures.'
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-05-09'
+status: published
+license: CC BY 4.0
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md
-last_stamped_at: 2026-06-01
-document_role: "source"
-document_kind: "concept-note"
-visibility: "public"
-lifecycle_state: "stable"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "concept-note"
-classification_confidence: "medium"
+last_stamped_at: 2026-06-01T00:00:00.000Z
+document_role: source
+document_kind: concept-note
+visibility: public
+lifecycle_state: stable
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: concept-note
+classification_confidence: medium
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Possibilism
 

@@ -1,13 +1,13 @@
 ---
-title: "Étude & Stratégie d'Architecture : Démultiplication sur les Réseaux Sociaux (Facebook & X) par Agent John"
-subtitle: "Plan tactique pour la campagne des Sénatoriales sous strict respect du principe DHITL"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-09"
-document_role: "source"
-document_kind: "technical-study"
-visibility: "public"
-language: "fr"
+title: 'Étude & Stratégie d''Architecture : Démultiplication sur les Réseaux Sociaux (Facebook & X) par Agent John'
+subtitle: Plan tactique pour la campagne des Sénatoriales sous strict respect du principe DHITL
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-08-09'
+document_role: source
+document_kind: technical-study
+visibility: public
+language: fr
 tags:
   - Agent John
   - Réseaux Sociaux
@@ -16,12 +16,25 @@ tags:
   - Sénatoriales
   - DHITL
   - Démultiplication
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+license: CC BY-SA 4.0
+update_policy: UP-DEFAULT-REVIEWED
+status: working-paper
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Étude & Stratégie d'Architecture : Démultiplication sur les Réseaux Sociaux (Facebook & X) par Agent John
 

@@ -1,6 +1,6 @@
 ---
-title: "Corpus State Report"
-last_modified_at: 2026-09-14
+title: Corpus State Report
+last_modified_at: 2026-09-14T00:00:00.000Z
 generated_by: cogentia.js
 generated_at: 2026-09-14T21:43:34.082Z
 document_role: operational
@@ -10,19 +10,35 @@ content_type: state_summary
 note: Metadata and counts only — no embedding vectors or chunk bodies.
 cross_refs:
   view_id: corpus-state
-  view_url: "https://cogentia.fractavolta.com/views/corpus-state.md"
+  view_url: https://cogentia.fractavolta.com/views/corpus-state.md
   relation: operational_export
   kind: corpus-state
   repo: null
   github:
     full_name: JeanHuguesRobert/cogentia
     path: docs/views-store.md
-    url: "https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/views-store.md"
+    url: https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/views-store.md
     note: Views Store + corpus-state contract
   site: null
-  local_store: "JeanHuguesRobert/.cogentia/index/corpus.sqlite (cache, not published wholesale)"
+  local_store: JeanHuguesRobert/.cogentia/index/corpus.sqlite (cache, not published wholesale)
   remote_store: Supabase public.retrieval_chunks (serving layer; vectors stay remote)
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: en
+date: '2026-09-15'
+update_policy: UP-DEFAULT-REVIEWED
+status: working-paper
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Corpus State Report
 

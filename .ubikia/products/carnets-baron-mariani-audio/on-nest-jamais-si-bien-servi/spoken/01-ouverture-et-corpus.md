@@ -2,7 +2,7 @@
 title: 01-ouverture-et-corpus
 author: unknown
 date: '2026-07-14'
-document_role: "derived"
+document_role: derived
 derivation_mode: directed
 adaptation_context: first Ubikia audio production for the author's YouTube channel, adapted from a Substack blog post
 publication_target: YouTube
@@ -23,12 +23,17 @@ provenance:
 review:
   status: unreviewed
   reviewed_by: []
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "strong"
-legacy_document_role: "adapted"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: strong
+legacy_document_role: adapted
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+status: working-paper
 ---
+
 
 Vous écoutez Les Carnets du baron Mariani, édition audio.
 

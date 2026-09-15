@@ -2,29 +2,42 @@
 packet_id: CPKT-2026-008
 packet_kind: cognitive-packet/v0.1
 packet_version: 1
-created: "2026-08-20"
-title: "Session handoff — Agent JHN Instagram preparation pilot"
-home_of_record: "JeanHuguesRobert/JeanHuguesRobert"
-carrier: "the human author"
+title: Session handoff — Agent JHN Instagram preparation pilot
+home_of_record: JeanHuguesRobert/JeanHuguesRobert
+carrier: the human author
 transmission_mode: by-copy
-status: "active — human account verification and draft review required"
+status: active — human account verification and draft review required
 visibility: public
 document_role: operational
 document_kind: cognitive-packet-handoff
 lifecycle_state: working
 update_policy: UP-DEFAULT-REVIEWED
 related_documents:
-  - "research/etude_agent_jhn_instagram.md"
-  - "research/instagram-pilot/README.md"
-  - "research/instagram-pilot/publication-register.md"
-  - "research/instagram-pilot/packets/ctn_ig_20260820_01.md"
-  - "research/agent_brief.md"
-  - "research/agent-jhn-experimental-notice.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - research/etude_agent_jhn_instagram.md
+  - research/instagram-pilot/README.md
+  - research/instagram-pilot/publication-register.md
+  - research/instagram-pilot/packets/ctn_ig_20260820_01.md
+  - research/agent_brief.md
+  - research/agent-jhn-experimental-notice.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+date: '2026-08-20'
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: en
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # CPKT-2026-008 — Agent JHN Instagram preparation pilot handoff
 

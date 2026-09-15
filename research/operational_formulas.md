@@ -1,20 +1,19 @@
 ---
-title: "Operational Formulas — Representation Primitives"
-subtitle: "A compact library of formulas for drafting in the author’s operational voice"
-description: "Source document collecting short operational formulas that compress recurring distinctions in the corpus: capacity, traceability, anti-capture, resilience, open source, cognitive safety, transmission and territorial experimentation."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-06-18"
-status: "working-note — v0.1"
-version: "0.1"
-license: "CC BY 4.0"
-intended_path: "research/operational_formulas.md"
+title: Operational Formulas — Representation Primitives
+subtitle: A compact library of formulas for drafting in the author’s operational voice
+description: 'Source document collecting short operational formulas that compress recurring distinctions in the corpus: capacity, traceability, anti-capture, resilience, open source, cognitive safety, transmission and territorial experimentation.'
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-06-18'
+status: working-note — v0.1
+version: '0.1'
+license: CC BY 4.0
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/operational_formulas.md
-audience: "personal AI agents, collaborators, editors, campaign drafters and corpus maintainers"
+audience: personal AI agents, collaborators, editors, campaign drafters and corpus maintainers
 method:
-  - "Cogentia pipeline"
-  - "second method"
-  - "source corpus / derived products distinction"
+  - Cogentia pipeline
+  - second method
+  - source corpus / derived products distinction
 tags:
   - operational formulas
   - representation primitives
@@ -25,15 +24,27 @@ tags:
   - traceability
   - cognitive safety
   - transmission
-document_role: "source"
-document_kind: "working-note"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "working-note"
-classification_confidence: "medium"
+document_role: source
+document_kind: working-note
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: working-note
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Operational Formulas — Representation Primitives
 

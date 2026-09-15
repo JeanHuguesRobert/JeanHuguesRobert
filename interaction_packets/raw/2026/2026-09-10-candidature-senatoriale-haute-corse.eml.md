@@ -1,20 +1,33 @@
 ---
-title: "Copie quasi-brute publique — candidature sénatoriale Haute-Corse 2026"
-description: "Trace publique expurgée des échanges relatifs à la pré-transmission du dossier : premier rejet SMTP, retransmission allégée et accusé de réception électronique de la préfecture."
-author: "Jean Hugues Noël Robert"
-date: "2026-09-10"
-status: "archive"
-license: "CC BY 4.0"
-visibility: "public"
-lifecycle_state: "active"
-document_role: "source"
-document_kind: "interaction-trace"
-disclosure: "D3"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "strong"
+title: Copie quasi-brute publique — candidature sénatoriale Haute-Corse 2026
+description: 'Trace publique expurgée des échanges relatifs à la pré-transmission du dossier : premier rejet SMTP, retransmission allégée et accusé de réception électronique de la préfecture.'
+author: Jean Hugues Noël Robert
+date: '2026-09-10'
+status: archive
+license: CC BY 4.0
+visibility: public
+lifecycle_state: active
+document_role: source
+document_kind: interaction-trace
+disclosure: D3
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: strong
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Copie quasi-brute publique des échanges
 

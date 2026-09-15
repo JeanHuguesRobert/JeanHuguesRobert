@@ -1,14 +1,14 @@
 ---
-title: "La Naissance d'Agent John : Un Jumeau Numérique Souverain pour sortir de la Captation Cognitive"
-description: "Annonce officielle de la naissance d'Agent John, premier jumeau numérique personnel souverain développé à Corte selon la doctrine du Possibilisme."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-09"
-status: "published"
-document_role: "source"
-document_kind: "blog-post"
-visibility: "public"
-language: "fr"
+title: 'La Naissance d''Agent John : Un Jumeau Numérique Souverain pour sortir de la Captation Cognitive'
+description: Annonce officielle de la naissance d'Agent John, premier jumeau numérique personnel souverain développé à Corte selon la doctrine du Possibilisme.
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-08-09'
+status: published
+document_role: source
+document_kind: blog-post
+visibility: public
+language: fr
 tags:
   - Agent John
   - Jumeau Numérique
@@ -16,12 +16,24 @@ tags:
   - Possibilisme
   - DHITL
   - Corsica
-lifecycle_state: "stable"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+lifecycle_state: stable
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+license: CC BY-SA 4.0
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # La Naissance d'Agent John : Un Jumeau Numérique Souverain pour sortir de la Captation Cognitive
 

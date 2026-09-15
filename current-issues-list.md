@@ -1,11 +1,27 @@
 ---
-title: "Current Issues List - JeanHuguesRobert Organization"
-last_modified_at: 2026-08-23
+title: Current Issues List - JeanHuguesRobert Organization
+last_modified_at: 2026-08-23T00:00:00.000Z
 generated_by: cogentia.js
 generated_at: 2026-08-23T10:39:54.280Z
 total_issues: 228
 content_type: list
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: en
+date: '2026-09-15'
+update_policy: UP-DEFAULT-REVIEWED
+status: working-paper
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Current Issues List - JeanHuguesRobert Organization
 

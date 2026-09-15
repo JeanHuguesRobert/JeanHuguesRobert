@@ -1,20 +1,34 @@
 ---
-title: "Public Corpus Navigation"
-description: "Compact public navigation map for the corpus, derived from registry metadata."
+title: Public Corpus Navigation
+description: Compact public navigation map for the corpus, derived from registry metadata.
 layout: default
 nav_order: 2
-date: 2026-07-23
+date: 2026-07-23T00:00:00.000Z
 license: CC BY 4.0
 document_role: index
 document_kind: navigation
 visibility: public
 lifecycle_state: active
-derived_from: ".cogentia.json"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-index"
-classification_confidence: "strong"
+derived_from: .cogentia.json
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-index
+classification_confidence: strong
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+status: working-paper
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Public Corpus Navigation
 

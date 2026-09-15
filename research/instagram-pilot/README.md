@@ -1,20 +1,33 @@
 ---
-title: "Instagram pilot kit — Agent JHN"
-date: "2026-08-20"
-document_role: "operational"
-document_kind: "pilot-protocol"
-visibility: "public"
-language: "fr"
-lifecycle_state: "working"
-status: "not started — no platform access or publication authority"
+title: Instagram pilot kit — Agent JHN
+date: '2026-08-20'
+document_role: operational
+document_kind: pilot-protocol
+visibility: public
+language: fr
+lifecycle_state: working
+status: not started — no platform access or publication authority
 related:
-  - "../etude_agent_jhn_instagram.md"
-  - "../agent_brief.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - ../etude_agent_jhn_instagram.md
+  - ../agent_brief.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Kit de pilotage Instagram — Agent JHN
 
