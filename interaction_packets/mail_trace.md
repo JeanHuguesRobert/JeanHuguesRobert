@@ -7,7 +7,7 @@ date: '2026-09-16'
 status: journal
 license: CC BY 4.0
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md
-last_stamped_at: 2026-09-16T06:39:16.000Z
+last_stamped_at: 2026-09-16T06:47:23.000Z
 document_role: operational
 document_kind: continuation-packet
 visibility: public
@@ -53,6 +53,7 @@ provenance:
 | 2026-09-16-001 | 2026-09-16 | Sénatoriales 2026 — rectification de données publiées dans le fichier national des candidatures | Ministère de l’Intérieur — délégué à la protection des données | 0 | 0 | Courriel envoyé à 08:36:59 CEST, avec Laurence Ceccaldi et Maguy en copie. Demande limitée à la rectification des graphies publiées pour la candidature Haute-Corse n°3 : `Maire-Louise` → `Marie-Louise`, `MARIANI` → `Mariani`, `D'ANGELIS` → `d'Angelis`, conformément aux graphies figurant sur les CERFA et aux usages typographiques invoqués. Le fichier national mis à jour avant cette demande conservait la ligne `MARIANI / Baron / DIV / D'ANGELIS / Maire-Louise`. Réponse et évolution de la publication attendues. | D3 |
 | 2026-09-16-002 | 2026-09-16 | TA Bastia — dossiers n°2601714-1 et 2601715-1 : demande de communication et vérifications matérielles | Tribunal administratif de Bastia — greffe | 0 | 0 | Courriel envoyé à 08:38:28 CEST, avec Laurence Ceccaldi et Maguy en copie. Demande strictement matérielle portant notamment sur la communication des décisions, leurs date et heure de mise à disposition, l'enregistrement de la note en délibéré envoyée le 14/09 à 15:48 et l'état chronologique des pièces versées aux deux dossiers ; réponse attendue. | D3 |
 | 2026-09-16-003 | 2026-09-16 | Sénatoriales 2026 — relance sur la transmission au TA du courriel vidéo du 11 septembre à 17:57 | Préfecture de la Haute-Corse ; Bureau des élections | 1 | 0 | Relance envoyée à 08:39:16 CEST dans le fil du 15/09, avec Laurence Ceccaldi et Maguy en copie. Trois vérifications factuelles demandées : réception avant 18:00 du courriel de 17:57 ; présence de cet élément dans la saisine du TA enregistrée à 18:16 ; à défaut, éventuelle transmission ultérieure au TA avant qu'il statue. Une réponse brève oui/non a été explicitement proposée ; réponse attendue. | D3 |
+| 2026-09-16-004 | 2026-09-16 | Sénatoriales 2026 — commission de propagande : modalités de remise des documents | Préfecture de la Haute-Corse — Bureau des élections | 0 | 0 | Courriel envoyé à 08:47:23 CEST, avec Laurence Ceccaldi et Maguy en copie. Demande de communication de l'arrêté instituant la commission de propagande, de la date et de l'heure limites de remise, du lieu et des modalités pratiques, des quantités de circulaires et bulletins à fournir, ainsi que des modalités éventuelles de participation du candidat ou de son mandataire aux travaux de la commission. Message volontairement distinct du contentieux en cours ; réponse attendue. | D3 |
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
