@@ -3,9 +3,10 @@ id: "2026-09-10-001"
 type: "interaction_packet"
 status: "active"
 created: "2026-09-10"
-last_updated: "2026-09-10"
+last_updated: "2026-09-17"
 disclosure: "D3"
 visibility: "public"
+statut: "Dépôt physique prévu/effectué le 11/09 après objection CERFA du 10/09 20:05 ; suites contentieuses et institutionnelles suivies dans des paquets/rows liés (2026-09-16-*)"
 
 date_envoi: "2026-09-10"
 heure_premiere_tentative: "17:01"
@@ -105,6 +106,52 @@ timeline:
       expressément que cette réception ne préjuge pas de la complétude ni de la recevabilité et que
       des informations ou pièces complémentaires seront demandées si l'instruction les nécessite.
     status: "received_and_acknowledged"
+  - date: "2026-09-10"
+    time: "20:05"
+    direction: "inbound"
+    channel: "email (Gmail)"
+    event: "Réponse nominative du bureau des élections sur le CERFA de la remplaçante"
+    summary: >
+      Le bureau indique que le CERFA de la remplaçante n'est pas considéré recevable par voie
+      dématérialisée pour le dépôt ; il invoque les art. L.298 et L.299, le mémento et la notice
+      CERFA, demande la mention de consentement et une « signature manuscrite originale », et
+      indique qu'à défaut la candidature peut être déférée au TA dans les 24 h. L'objection est
+      formulée avant le déplacement, ce qui permet une discussion contradictoire.
+    source: "interaction_packets/mail_trace.md (mise à jour 2026-09-11)"
+    status: "received"
+  - date: "2026-09-10"
+    direction: "inbound"
+    channel: "email (copie)"
+    event: "Accusé informel de Laurence (remplaçante) sur la démarche électronique"
+    summary: >
+      Laurence, destinataire en copie, répond « Tu as bien fait de leur écrire » — trace de sa
+      connaissance et de son approbation de la démarche électronique.
+    source: "interaction_packets/mail_trace.md"
+    status: "received"
+  - date: "2026-09-11"
+    time: "08:14"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Annonce du déplacement Corte–Bastia pour présentation à la préfecture"
+    summary: >
+      Réponse du candidat dans le même fil, avec Laurence et Marguerite Ghionga en copie :
+      départ de Corte en train à 09:45, arrivée Bastia 11:39, présentation à la préfecture peu
+      après l'arrivée — plusieurs heures avant l'échéance de 18:00. Le point litigieux restant
+      est l'exigence d'original matériel concernant le consentement de la remplaçante.
+    source: "interaction_packets/mail_trace.md"
+    status: "sent"
+  - date: "2026-09-17"
+    direction: "internal"
+    channel: "Agent JHN interaction desk (SQL projection)"
+    event: "Dogfood Reality check — réconciliation YAML ↔ mail_trace"
+    summary: >
+      Le desk SQL (Inseme #77) montrait encore next_watch « Confirmation du rendez-vous le 11
+      septembre ». Inspection de mail_trace : la chronologie 10/09 20:05 → 11/09 08:14 était déjà
+      enregistrée dans le registre Markdown mais absente de ce paquet YAML. Mise à jour du paquet
+      sans prétendre clôturer les suites contentieuses (voir linked_cases 2026-09-16-*).
+    status: "observed"
+    act_ref: "act:inseme-77-dogfood-followup"
 
 retransmission:
   sent_at: "2026-09-10T17:54:50+02:00"
@@ -199,21 +246,42 @@ process_observation:
     La transparence recherchée est probatoire : faits datés, sources identifiables, interprétations séparées.
 
 current_status:
-  label: "Retransmission allégée reçue — accusé électronique de la préfecture à 17:56:53"
+  label: "Objection CERFA du 10/09 20:05 puis déplacement Bastia annoncé le 11/09 08:14 — suites dans 2026-09-16-*"
   interpretation: >
-    Le premier envoi a échoué pour une limite technique de taille ; le second, allégé, a été transmis à
-    17:54:50 et sa réception a été explicitement accusée par le bureau des élections à 17:56:53. Cela ne
-    préjuge pas encore de la complétude ni de la recevabilité. Les originaux sont archivés sur Drive privé ;
-    une projection publique expurgée reste préparée mais non ouverte en lecture anonyme.
+    Après l'accusé électronique automatique, le bureau a objecté le même soir à la recevabilité
+    dématérialisée du CERFA de la remplaçante et a annoncé un risque de déféré TA. Le candidat a
+    répondu le 11/09 matin en annonçant son arrivée à Bastia avant 18:00. Le registre mail_trace
+    (mis à jour le 11/09 puis le 16/09) est en avance sur ce paquet YAML : des interactions
+    ultérieures (rectification fichier national, TA Bastia, relance vidéo 17:57, commission de
+    propagande) portent des IDs 2026-09-16-* encore sans paquet YAML dédié. Ce paquet documente
+    la phase pré-transmission + bascule vers le dépôt physique ; il ne clôt pas le contentieux.
 
 next_watch:
-  - "Confirmation du rendez-vous le 11 septembre 2026 dans la matinée"
-  - "Examen de complétude et de recevabilité du dossier"
-  - "Toute demande de pièce ou formalité supplémentaire, avec délai indiqué"
-  - "Activation éventuelle du partage public du dossier Drive expurgé, puis vérification depuis un accès non authentifié"
-  - "Toute objection relative au support dématérialisé, aux signatures ou aux appellations électorales"
+  - "Suivre 2026-09-16-001 (rectification graphies fichier national des candidatures)"
+  - "Suivre 2026-09-16-002 (TA Bastia — communication dossiers 2601714-1 / 2601715-1)"
+  - "Suivre 2026-09-16-003 (relance transmission au TA du courriel vidéo du 11/09 17:57)"
+  - "Suivre 2026-09-16-004 (commission de propagande — modalités de remise)"
+  - "Créer des paquets YAML dédiés pour les rows 2026-09-16-* encore mail_trace-only"
+  - "Toute décision TA ou notification préfectorale nouvelle sur la candidature Haute-Corse n°3"
+
+linked_cases:
+  - "2026-09-16-001"
+  - "2026-09-16-002"
+  - "2026-09-16-003"
+  - "2026-09-16-004"
 
 linked_documents:
   readable: "interaction_packets/readable/2026/2026-09-10-candidature-senatoriale-haute-corse.md"
   raw_mail: "interaction_packets/raw/2026/2026-09-10-candidature-senatoriale-haute-corse.eml.md"
   register: "interaction_packets/mail_trace.md"
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  dogfood_act: "act:inseme-77-dogfood-followup"
+  note: >
+    Mise à jour 2026-09-17 : réconciliation assistée depuis le desk SQL Agent JHN (Inseme #77)
+    et mail_trace.md déjà publié. Aucun nouvel envoi externe. Les faits postérieurs au 10/09
+    soir repris ici étaient déjà dans le registre Markdown ; le paquet YAML et sa projection
+    SQL étaient en retard.
