@@ -79,6 +79,19 @@ Politique d’archivage :
 
 - [archive_policy.md](./archive_policy.md)
 
+## Projection opérationnelle (Agent JHN)
+
+En plus de ce registre Git/Markdown, Agent JHN maintient une **projection SQL**
+Packet-Backed des paquets YAML publics (Inseme #77) :
+
+- tables / vue : `interaction_cases`, `interaction_case_revisions`, `interaction_cases_desk`
+- instance : Supabase JHN (`twin:jhn`)
+- rafraîchir depuis les YAML : `node scripts/refresh-interaction-cases-jhn.js` (dépôt `inseme`)
+- consulter : `node scripts/query-interaction-cases-jhn.js list|get` ou `cogentia.js interactions …`
+
+La projection est un état courant opérationnel ; elle ne remplace pas les paquets YAML
+ni `mail_trace.md` comme traces documentaires.
+
 ## Cas actuellement tracés
 
 | ID | Date | Sujet | Interlocuteur | Statut | Divulgation | Paquet | Copie lisible | Copie brute |
