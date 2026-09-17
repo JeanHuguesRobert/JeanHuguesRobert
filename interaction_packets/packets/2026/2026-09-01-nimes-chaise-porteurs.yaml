@@ -1,0 +1,88 @@
+# Paquet interactionnel — métadonnées structurées
+# Source initiale : interaction_packets/mail_trace.md (row 2026-09-01-001)
+
+id: "2026-09-01-001"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-01"
+last_updated: "2026-09-17"
+disclosure: "D2"
+visibility: "public"
+
+date_envoi: "2026-09-01"
+canal: "email"
+interlocuteur: "Étude de commissaires de justice — huissiersgard.fr"
+sujet: "Adjudication Nîmes — préservation d’une chaise à porteurs XVIIIe destinée au Musée Mariani des Possibles ; demande sur le solde de la vente"
+niveau_divulgation: "D2"
+verifie_le: "2026-09-01"
+
+title: "Chaise à porteurs Nîmes — préservation et solde d'adjudication"
+short_title: "Nîmes — chaise à porteurs"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "Porteur du projet Musée Mariani des Possibles / Institut Mariani"
+
+institution:
+  name: "Étude de commissaires de justice"
+  body: "huissiersgard.fr (Nîmes)"
+
+subject_tags:
+  - "Chaise à porteurs"
+  - "Musée Mariani des Possibles"
+  - "Adjudication"
+  - "Nîmes"
+
+contexte: >
+  Objet patrimonial : chaise à porteurs du XVIIIe destinée au Musée Mariani des Possibles.
+  Un signalement antérieur du 21/04/2026 est rappelé. Dossier patrimonial plus large aussi
+  évoqué dans readable/2026/2026-06-05-chaise-porteur.md.
+
+demande: >
+  Rappel du signalement du 21/04/2026 ; demande de préservation/récupération du bien meuble ;
+  correction d'adresse ; demande de procédure pour connaître et obtenir l'éventuel solde
+  d'adjudication.
+
+timeline:
+  - date: "2026-04-21"
+    direction: "outbound"
+    channel: "email / signalement"
+    event: "Signalement initial (référence)"
+    summary: "Signalement du 21/04/2026 rappelé dans le courriel du 01/09 (mail_trace)."
+    status: "referenced"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-01"
+    direction: "outbound"
+    channel: "email"
+    event: "Courriel de relance / demande de préservation et solde"
+    summary: >
+      Courriel envoyé : rappel du signalement, préservation/récupération, correction d'adresse,
+      procédure pour le solde d'adjudication. Relance = 1 dans mail_trace.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+
+current_status:
+  label: "Courriel envoyé — réponse attendue"
+  interpretation: >
+    Demande de préservation et d'information sur le solde. Aucune réponse enregistrée
+    dans le registre public.
+
+next_watch:
+  - "Réponse de l'étude (huissiersgard.fr)"
+  - "Statut de préservation / récupération de la chaise"
+  - "Information sur le solde d'adjudication et procédure associée"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+  readable_dossier: "interaction_packets/readable/2026/2026-06-05-chaise-porteur.md"
+
+resume_public: >
+  Le 1er septembre 2026, courriel à l'étude de commissaires de justice (huissiersgard.fr)
+  pour la préservation d'une chaise à porteurs XVIIIe (Musée Mariani des Possibles) et
+  la procédure relative au solde d'adjudication. Réponse attendue.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: "Créé le 2026-09-17 depuis mail_trace.md (Inseme #77)."

@@ -1,0 +1,85 @@
+# Paquet interactionnel — métadonnées structurées
+# Source initiale : interaction_packets/mail_trace.md (row 2026-09-07-003)
+
+id: "2026-09-07-003"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-07"
+last_updated: "2026-09-17"
+disclosure: "D2"
+visibility: "public"
+
+date_envoi: "2026-09-07"
+heure_envoi: "18:04"
+timezone: "Europe/Paris"
+canal: "email"
+interlocuteur: "Archives de Corse — Cismonte"
+sujet: "16 avenue Jean-Nicoli — demande du permis de construire initial de la résidence Pasquale Paoli (parcelle AE 208)"
+niveau_divulgation: "D2"
+verifie_le: "2026-09-07"
+
+title: "Archives Cismonte — permis de construire initial Pasquale Paoli"
+short_title: "Archives Cismonte — PC Pasquale Paoli"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "Demandeur"
+
+institution:
+  name: "Archives de Corse — Cismonte"
+  email: "archivii.cismonte@isula.corsica"
+
+subject_tags:
+  - "Archives"
+  - "Permis de construire"
+  - "Résidence Pasquale Paoli"
+  - "Parcelle AE 208"
+
+contexte: >
+  Suite à l'orientation de la Ville de Corte (2026-09-07-001) vers les Archives
+  départementales. Demande minimale, sans mention de la demande préalable à la Ville
+  afin de préserver l'indépendance de cette observation.
+
+demande: >
+  Communication / localisation du permis de construire initial de la résidence
+  Pasquale Paoli (parcelle AE 208).
+
+timeline:
+  - date: "2026-09-07"
+    time: "18:04"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email"
+    event: "Demande minimale envoyée aux Archives Cismonte"
+    summary: >
+      Courriel à archivii.cismonte@isula.corsica ; aucune mention de la demande préalable
+      à la Ville de Corte.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+
+current_status:
+  label: "Demande envoyée aux Archives — réponse attendue"
+  interpretation: >
+    Demande indépendante de celle adressée à la Ville. Aucune réponse encore enregistrée.
+
+next_watch:
+  - "Réponse des Archives de Corse — Cismonte"
+  - "Localisation / communication éventuelle du permis"
+
+linked_cases:
+  - "2026-09-07-001"
+  - "2026-09-07-002"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+
+resume_public: >
+  Le 7 septembre 2026 à 18:04, demande minimale adressée aux Archives de Corse (Cismonte)
+  pour le permis de construire initial de la résidence Pasquale Paoli (AE 208), sans
+  mentionner la demande préalable à la Ville de Corte. Réponse attendue.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: "Créé le 2026-09-17 depuis mail_trace.md (Inseme #77)."

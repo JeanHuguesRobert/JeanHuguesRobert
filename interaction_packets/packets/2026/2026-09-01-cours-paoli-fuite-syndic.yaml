@@ -1,0 +1,86 @@
+# Paquet interactionnel — métadonnées structurées
+# Source initiale : interaction_packets/mail_trace.md (row 2026-09-01-002)
+
+id: "2026-09-01-002"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-01"
+last_updated: "2026-09-17"
+disclosure: "D2"
+visibility: "public"
+
+date_envoi: "2026-09-01"
+canal: "email"
+interlocuteur: "U Renosu ; M. Jennepin"
+sujet: "1 cours Paoli — fuite en cage d’escalier : absence de réponse du syndic et routage vers un copropriétaire concerné"
+niveau_divulgation: "D2"
+verifie_le: "2026-09-01"
+
+title: "1 cours Paoli — fuite cage d'escalier / syndic"
+short_title: "Cours Paoli — fuite / U Renosu"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "Commodat / association C.O.R.S.I.C.A. (appartement assuré par l'association)"
+
+institution:
+  name: "U Renosu"
+  body: "Syndic ; copropriétaire M. Jennepin en copie/transfert"
+
+subject_tags:
+  - "1 cours Paoli"
+  - "Syndic"
+  - "Copropriété"
+  - "C.O.R.S.I.C.A."
+
+contexte: >
+  Appartement prêté par commodat à l'association C.O.R.S.I.C.A., qui l'assure.
+  Fuite en cage d'escalier. Un courriel du 06/07/2026 au syndic, envoyé en réponse à un
+  appel de fonds (canal comptable effectivement utilisé par le syndic), est resté sans réponse.
+
+demande: >
+  Informer M. Jennepin (transfert du 01/09/2026) et observer les suites face au silence du syndic.
+
+timeline:
+  - date: "2026-07-06"
+    direction: "outbound"
+    channel: "email"
+    event: "Courriel au syndic U Renosu (réponse à appel de fonds)"
+    summary: >
+      Courriel du 06/07/2026 au syndic via le canal comptable utilisé pour l'appel de fonds ;
+      resté sans réponse selon mail_trace.
+    status: "sent_no_reply"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-01"
+    direction: "outbound"
+    channel: "email"
+    event: "Transfert à M. Jennepin"
+    summary: >
+      Transfert du courriel à M. Jennepin pour l'informer et observer les suites. Relance = 1.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+
+current_status:
+  label: "Silence du syndic ; information transmise à M. Jennepin — suites à observer"
+  interpretation: >
+    Deux actes documentés : demande au syndic sans réponse, puis routage vers un
+    copropriétaire concerné. Pas de résolution enregistrée.
+
+next_watch:
+  - "Réponse éventuelle d'U Renosu"
+  - "Suites côté M. Jennepin"
+  - "Toute intervention technique sur la fuite"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+
+resume_public: >
+  Fuite en cage d'escalier au 1 cours Paoli. Courriel au syndic U Renosu du 6 juillet 2026
+  resté sans réponse ; transfert le 1er septembre 2026 à M. Jennepin. Mandat : appartement
+  en commodat à C.O.R.S.I.C.A.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: "Créé le 2026-09-17 depuis mail_trace.md (Inseme #77)."

@@ -1,0 +1,92 @@
+# Paquet interactionnel — métadonnées structurées
+# Source initiale : interaction_packets/mail_trace.md (row 2026-09-07-001)
+
+id: "2026-09-07-001"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-07"
+last_updated: "2026-09-17"
+disclosure: "D2"
+visibility: "public"
+
+date_envoi: "2026-09-07"
+heure_envoi: "12:19"
+timezone: "Europe/Paris"
+canal: "email"
+interlocuteur: "Ville de Corte — Pôle Urbanisme"
+sujet: "16 avenue Jean-Nicoli — demande du permis de construire initial de la résidence Pasquale Paoli (parcelle AE 208)"
+niveau_divulgation: "D2"
+verifie_le: "2026-09-07"
+
+title: "CRPA — permis de construire initial Pasquale Paoli (Ville de Corte)"
+short_title: "Corte Urbanisme — PC Pasquale Paoli"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "Demandeur CRPA"
+
+institution:
+  name: "Ville de Corte"
+  body: "Pôle Urbanisme"
+
+subject_tags:
+  - "CRPA L. 311-1"
+  - "Permis de construire"
+  - "Résidence Pasquale Paoli"
+  - "Parcelle AE 208"
+  - "Corte"
+
+contexte: >
+  Demande d'accès aux documents administratifs portant sur le permis de construire initial
+  de la résidence Pasquale Paoli, 16 avenue Jean-Nicoli, parcelle AE 208.
+
+demande: >
+  Communication du permis de construire initial (CRPA L. 311-1).
+
+timeline:
+  - date: "2026-09-07"
+    time: "12:19"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email"
+    event: "Demande CRPA L. 311-1 envoyée"
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-07"
+    time: "14:57"
+    timezone: "Europe/Paris"
+    direction: "inbound"
+    channel: "email"
+    event: "Réponse de la Ville de Corte"
+    summary: >
+      Compte tenu de l'ancienneté, la Ville indique ne plus détenir de pièces communicables
+      et oriente vers le Service départemental des Archives.
+    status: "received"
+    source: "interaction_packets/mail_trace.md"
+
+current_status:
+  label: "Réponse Ville : plus de pièces communicables — orientation Archives départementales"
+  interpretation: >
+    Demande close côté Ville ; poursuite possible via Archives (voir 2026-09-07-003).
+
+next_watch:
+  - "Suivre 2026-09-07-003 (Archives de Corse — Cismonte)"
+  - "Toute pièce ultérieurement retrouvée côté Ville"
+
+linked_cases:
+  - "2026-09-07-003"
+  - "2026-09-07-002"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+
+resume_public: >
+  Le 7 septembre 2026, demande CRPA à la Ville de Corte (Pôle Urbanisme) pour le permis
+  de construire initial de la résidence Pasquale Paoli (AE 208). Réponse à 14:57 : plus de
+  pièces communicables ; orientation vers les Archives départementales.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: "Créé le 2026-09-17 depuis mail_trace.md (Inseme #77)."

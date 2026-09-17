@@ -1,0 +1,87 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Source initiale : interaction_packets/mail_trace.md (row 2024-06-21-001)
+
+id: "2024-06-21-001"
+type: "interaction_packet"
+status: "active"
+created: "2024-06-21"
+last_updated: "2026-09-17"
+disclosure: "D2"
+visibility: "public"
+
+date_envoi: "2024-06-21"
+canal: "alerte ARCOM / médiation"
+interlocuteur: "ARCOM — alerte n°807989 concernant France 3 Corse"
+sujet: "Législatives 2024 — égalité de traitement médiatique / exclusion du débat de la 2e circonscription"
+niveau_divulgation: "D2"
+verifie_le: "2026-08-07"
+
+title: "Alerte ARCOM n°807989 — France 3 Corse / débat 2e circonscription"
+short_title: "ARCOM 807989 — France 3 Corse"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "candidat / plaignant (législatives 2024)"
+
+institution:
+  name: "ARCOM"
+  body: "Alerte n°807989 — France 3 Corse"
+
+subject_tags:
+  - "Législatives 2024"
+  - "ARCOM"
+  - "Égalité de traitement médiatique"
+  - "France 3 Corse"
+
+contexte: >
+  Alerte relative à l'égalité de traitement médiatique et à l'exclusion du débat
+  de la 2e circonscription, concernant France 3 Corse.
+
+demande: >
+  Traitement de l'alerte ARCOM n°807989.
+
+timeline:
+  - date: "2024-06-21"
+    direction: "outbound"
+    channel: "ARCOM"
+    event: "Alerte déposée / reçue et validée par l'ARCOM"
+    summary: >
+      Alerte n°807989 concernant France 3 Corse — reçue et validée par l'ARCOM
+      le 2024-06-21 selon mail_trace.
+    status: "received_and_validated"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-08-07"
+    direction: "internal"
+    channel: "registre"
+    event: "Vérification d'absence de réponse finale"
+    summary: >
+      Aucune réponse finale retrouvée au 2026-08-07 (777 jours écoulés selon mail_trace).
+    status: "observed"
+    source: "interaction_packets/mail_trace.md"
+
+current_status:
+  label: "Alerte reçue et validée le 2024-06-21 ; aucune réponse finale retrouvée au 2026-08-07"
+  interpretation: >
+    L'alerte a été validée. L'issue finale n'est pas documentée dans le registre public
+    à la date de vérification 2026-08-07.
+
+next_watch:
+  - "Toute réponse finale ARCOM ultérieurement retrouvée"
+  - "Clôture ou correction du statut si une décision existe hors registre actuel"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+
+resume_public: >
+  Alerte ARCOM n°807989 (France 3 Corse / égalité de traitement médiatique,
+  législatives 2024) reçue et validée le 21 juin 2024. Aucune réponse finale
+  retrouvée au 7 août 2026.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: >
+    Paquet créé le 2026-09-17 depuis mail_trace.md (Inseme #77). Faits limités au
+    registre public ; pas d'invention de pièces ou de décision finale.

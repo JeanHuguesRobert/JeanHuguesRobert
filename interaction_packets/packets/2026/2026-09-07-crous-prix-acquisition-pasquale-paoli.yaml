@@ -1,0 +1,101 @@
+# Paquet interactionnel — métadonnées structurées
+# Source initiale : interaction_packets/mail_trace.md (row 2026-09-07-002)
+
+id: "2026-09-07-002"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-07"
+last_updated: "2026-09-17"
+disclosure: "D2"
+visibility: "public"
+
+date_envoi: "2026-09-07"
+heure_envoi: "12:07"
+timezone: "Europe/Paris"
+canal: "email"
+interlocuteur: "CROUS de Corse"
+sujet: "16 avenue Jean-Nicoli — document indiquant le prix définitif payé pour l’acquisition 2026 de la résidence"
+niveau_divulgation: "D2"
+verifie_le: "2026-09-07"
+
+title: "CRPA — prix définitif acquisition résidence Pasquale Paoli (CROUS)"
+short_title: "CROUS — prix acquisition Pasquale Paoli"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "Demandeur CRPA"
+
+institution:
+  name: "CROUS de Corse"
+
+subject_tags:
+  - "CRPA L. 311-1"
+  - "CROUS de Corse"
+  - "Résidence Pasquale Paoli"
+  - "Prix d'acquisition"
+
+contexte: >
+  Demande d'accès à tout document détenu indiquant le prix définitif effectivement payé
+  pour l'acquisition 2026 de la résidence située 16 avenue Jean-Nicoli.
+
+demande: >
+  Communication (CRPA L. 311-1) de tout document indiquant le prix définitif effectivement payé.
+
+timeline:
+  - date: "2026-09-07"
+    time: "12:07"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email"
+    event: "Demande CRPA L. 311-1 envoyée"
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-07"
+    time: "16:32"
+    timezone: "Europe/Paris"
+    direction: "inbound"
+    channel: "email"
+    event: "Réponse CROUS — demande de précision"
+    summary: >
+      Le CROUS demande de préciser la nature exacte du document recherché.
+    status: "received"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-07"
+    time: "17:59"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email"
+    event: "Clarification dans le même fil"
+    summary: >
+      Clarification : demande maintenue sur tout document détenu indiquant le prix définitif
+      effectivement payé ; réponse attendue.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+
+current_status:
+  label: "Clarification envoyée — réponse CROUS attendue"
+  interpretation: >
+    Échange en cours après demande de précision. Pas de document encore communiqué
+    dans le registre public.
+
+next_watch:
+  - "Réponse CROUS après clarification"
+  - "Communication éventuelle d'un document de prix"
+
+linked_cases:
+  - "2026-09-07-001"
+  - "2026-09-07-003"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+
+resume_public: >
+  Le 7 septembre 2026, demande CRPA au CROUS de Corse sur le prix définitif d'acquisition
+  2026 de la résidence Pasquale Paoli. Réponse à 16:32 demandant une précision ; clarification
+  envoyée à 17:59. Réponse attendue.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: "Créé le 2026-09-17 depuis mail_trace.md (Inseme #77)."

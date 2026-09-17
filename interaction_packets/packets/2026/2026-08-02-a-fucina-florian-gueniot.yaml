@@ -1,0 +1,72 @@
+# Paquet interactionnel — métadonnées structurées
+# Source initiale : interaction_packets/mail_trace.md (row 2026-08-02-001)
+
+id: "2026-08-02-001"
+type: "interaction_packet"
+status: "active"
+created: "2026-08-02"
+last_updated: "2026-09-17"
+disclosure: "D2"
+visibility: "public"
+
+date_envoi: "2026-08-02"
+canal: "whatsapp"
+interlocuteur: "Florian Guéniot / UMR LISA"
+sujet: "A Fucina — exploration d’un premier cercle d’informaticiens hackers corses"
+niveau_divulgation: "D2"
+verifie_le: "2026-08-02"
+
+title: "A Fucina — premier cercle informaticiens hackers corses"
+short_title: "A Fucina / Florian Guéniot"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  role: "Président de l'association C.O.R.S.I.C.A. / Institut Mariani"
+
+institution:
+  name: "UMR LISA"
+  body: "Contact via Florian Guéniot"
+
+subject_tags:
+  - "A Fucina"
+  - "WhatsApp"
+  - "Hackers corses"
+  - "UMR LISA"
+
+contexte: >
+  Exploration d'un premier cercle d'informaticiens hackers corses sous le label A Fucina.
+
+demande: >
+  Avis et réponse de Florian Guéniot suite au message WhatsApp.
+
+timeline:
+  - date: "2026-08-02"
+    direction: "outbound"
+    channel: "whatsapp"
+    event: "Message WhatsApp envoyé"
+    summary: >
+      Message WhatsApp envoyé ; avis et réponse attendus (mail_trace).
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+
+current_status:
+  label: "Message WhatsApp envoyé ; avis et réponse attendus"
+  interpretation: >
+    Premier contact documenté. Aucune réponse enregistrée dans le registre public.
+
+next_watch:
+  - "Réponse ou avis de Florian Guéniot"
+  - "Éventuelle structuration d'un cercle A Fucina"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+
+resume_public: >
+  Le 2 août 2026, message WhatsApp adressé à Florian Guéniot (UMR LISA) pour explorer
+  un premier cercle d'informaticiens hackers corses (A Fucina). Réponse attendue.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: "Créé le 2026-09-17 depuis mail_trace.md (Inseme #77). Pas de numéro WhatsApp publié."
