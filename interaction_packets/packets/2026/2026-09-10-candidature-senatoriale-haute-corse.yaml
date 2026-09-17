@@ -257,11 +257,11 @@ current_status:
     la phase pré-transmission + bascule vers le dépôt physique ; il ne clôt pas le contentieux.
 
 next_watch:
-  - "Suivre 2026-09-16-001 (rectification graphies fichier national des candidatures)"
-  - "Suivre 2026-09-16-002 (TA Bastia — communication dossiers 2601714-1 / 2601715-1)"
-  - "Suivre 2026-09-16-003 (relance transmission au TA du courriel vidéo du 11/09 17:57)"
-  - "Suivre 2026-09-16-004 (commission de propagande — modalités de remise)"
-  - "Créer des paquets YAML dédiés pour les rows 2026-09-16-* encore mail_trace-only"
+  - "Suivre 2026-09-16-001 (rectification graphies fichier national des candidatures) — paquet YAML créé"
+  - "Suivre 2026-09-16-002 (TA Bastia — communication dossiers 2601714-1 / 2601715-1) — paquet YAML créé"
+  - "Suivre 2026-09-16-003 (relance transmission au TA du courriel vidéo du 11/09 17:57) — paquet YAML créé"
+  - "Suivre 2026-09-16-004 (commission de propagande — modalités de remise) — paquet YAML créé"
+  - "Réponses attendues sur les quatre interactions du 16/09"
   - "Toute décision TA ou notification préfectorale nouvelle sur la candidature Haute-Corse n°3"
 
 linked_cases:

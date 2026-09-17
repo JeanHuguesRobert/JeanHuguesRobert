@@ -1,0 +1,97 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Schéma de référence : interaction_packets/archive_policy.md
+# Source initiale : interaction_packets/mail_trace.md (row 2026-09-16-004)
+
+id: "2026-09-16-004"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-16"
+last_updated: "2026-09-17"
+disclosure: "D3"
+visibility: "public"
+
+date_envoi: "2026-09-16"
+heure_envoi: "08:47:23"
+timezone: "Europe/Paris"
+canal: "email (Gmail)"
+interlocuteur: "Préfecture de la Haute-Corse — Bureau des élections"
+sujet: "Sénatoriales 2026 — commission de propagande : modalités de remise des documents"
+niveau_divulgation: "D3"
+verifie_le: "2026-09-16"
+
+title: "Commission de propagande — modalités de remise des documents"
+short_title: "Commission de propagande — modalités"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  ballot_name: "Baron Mariani"
+  role: "candidat à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse"
+
+institution:
+  name: "Préfecture de la Haute-Corse"
+  body: "Bureau des élections"
+  email: "pref-elections@haute-corse.gouv.fr"
+
+cc_public_labels:
+  - "Laurence Ceccaldi"
+  - "Maguy"
+
+subject_tags:
+  - "Élections sénatoriales 2026"
+  - "Commission de propagande"
+  - "Circulaires et bulletins"
+  - "Préfecture de la Haute-Corse"
+
+contexte: >
+  Message volontairement distinct du contentieux en cours (selon mail_trace). Porte sur
+  l'organisation pratique de la commission de propagande pour la campagne sénatoriale.
+
+demande: >
+  Communication de : l'arrêté instituant la commission de propagande ; la date et l'heure
+  limites de remise ; le lieu et les modalités pratiques ; les quantités de circulaires et
+  bulletins à fournir ; les modalités éventuelles de participation du candidat ou de son
+  mandataire aux travaux de la commission.
+
+timeline:
+  - date: "2026-09-16"
+    time: "08:47:23"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Demande de modalités — commission de propagande"
+    summary: >
+      Courriel envoyé avec Laurence Ceccaldi et Maguy en copie. Explicitement séparé du
+      contentieux en cours.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+
+current_status:
+  label: "Demande de modalités envoyée — réponse attendue"
+  interpretation: >
+    Demande opérationnelle distincte du contentieux. Aucune réponse préfectorale n'est
+    encore enregistrée dans le registre public.
+
+next_watch:
+  - "Réponse du bureau des élections (arrêté, délais, lieu, quantités)"
+  - "Modalités de participation du candidat ou du mandataire"
+  - "Échéance concrète de remise des circulaires / bulletins"
+
+linked_cases:
+  - "2026-09-10-001"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+  parent_packet: "interaction_packets/packets/2026/2026-09-10-candidature-senatoriale-haute-corse.yaml"
+
+resume_public: >
+  Le 16 septembre 2026 à 08:47:23 CEST, demande adressée au bureau des élections de la
+  Préfecture de la Haute-Corse sur les modalités de la commission de propagande (arrêté,
+  délais, lieu, quantités, participation). Message distinct du contentieux ; réponse attendue.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: >
+    Paquet créé le 2026-09-17 à partir de mail_trace.md (Inseme #77). Aucun nouvel envoi.

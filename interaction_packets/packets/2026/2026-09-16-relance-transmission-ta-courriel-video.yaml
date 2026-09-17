@@ -1,0 +1,133 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Schéma de référence : interaction_packets/archive_policy.md
+# Source initiale : interaction_packets/mail_trace.md (row 2026-09-16-003)
+
+id: "2026-09-16-003"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-16"
+last_updated: "2026-09-17"
+disclosure: "D3"
+visibility: "public"
+
+date_envoi: "2026-09-16"
+heure_envoi: "08:39:16"
+timezone: "Europe/Paris"
+canal: "email (Gmail)"
+interlocuteur: "Préfecture de la Haute-Corse ; Bureau des élections"
+sujet: "Sénatoriales 2026 — relance sur la transmission au TA du courriel vidéo du 11 septembre à 17:57"
+niveau_divulgation: "D3"
+verifie_le: "2026-09-16"
+
+title: "Relance — transmission au TA du courriel vidéo du 11/09 17:57"
+short_title: "Relance transmission TA — courriel vidéo 11/09"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  ballot_name: "Baron Mariani"
+  role: "candidat à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse"
+
+institution:
+  name: "Préfecture de la Haute-Corse"
+  body: "Bureau des élections"
+  email: "pref-elections@haute-corse.gouv.fr"
+
+cc_public_labels:
+  - "Laurence Ceccaldi"
+  - "Maguy"
+
+subject_tags:
+  - "Élections sénatoriales 2026"
+  - "Préfecture de la Haute-Corse"
+  - "Tribunal administratif"
+  - "Transmission de pièce"
+  - "Courriel vidéo"
+
+contexte: >
+  Le 11 septembre 2026 à 17:57, un courriel vidéo a été adressé dans le cadre du dossier
+  de candidature / contentieux. Une saisine du TA est mentionnée comme enregistrée à 18:16
+  le même jour (selon mail_trace). Un fil du 15/09 existe déjà ; la présente interaction
+  est une relance (Relance = 1 dans le registre).
+
+demande: >
+  Trois vérifications factuelles, avec proposition explicite d'une réponse brève oui/non :
+  (1) réception avant 18:00 du courriel de 17:57 ;
+  (2) présence de cet élément dans la saisine du TA enregistrée à 18:16 ;
+  (3) à défaut, éventuelle transmission ultérieure au TA avant qu'il statue.
+
+timeline:
+  - date: "2026-09-11"
+    time: "17:57"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email"
+    event: "Courriel vidéo du 11 septembre (référence)"
+    summary: >
+      Fait antérieur mentionné dans mail_trace : courriel vidéo à 17:57, dont la réception
+      et la transmission au TA font l'objet de la relance.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-11"
+    time: "18:16"
+    timezone: "Europe/Paris"
+    direction: "internal"
+    channel: "TA / préfecture (référence mail_trace)"
+    event: "Saisine du TA enregistrée à 18:16 (fait allégué dans la relance)"
+    summary: >
+      Horodatage de saisine TA mentionné dans le statut mail_trace de la relance du 16/09.
+    status: "referenced"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-15"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Fil du 15/09 (préalable à la relance)"
+    summary: >
+      La relance du 16/09 est envoyée « dans le fil du 15/09 » selon mail_trace.
+    status: "referenced"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-16"
+    time: "08:39:16"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Relance — trois vérifications factuelles oui/non"
+    summary: >
+      Relance envoyée avec Laurence Ceccaldi et Maguy en copie. Réponse brève oui/non
+      explicitement proposée.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+
+current_status:
+  label: "Relance envoyée — réponse préfectorale attendue (oui/non sur trois points)"
+  interpretation: >
+    L'acte documenté est une relance factuelle ciblée. Aucune réponse n'est encore
+    enregistrée dans le registre public.
+
+next_watch:
+  - "Réponse du bureau des élections (idéalement oui/non sur les trois points)"
+  - "Confirmation de réception avant 18:00 du courriel vidéo du 11/09 17:57"
+  - "Confirmation d'inclusion dans la saisine TA enregistrée à 18:16"
+  - "À défaut : transmission ultérieure au TA avant décision"
+
+linked_cases:
+  - "2026-09-10-001"
+  - "2026-09-16-002"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+  parent_packet: "interaction_packets/packets/2026/2026-09-10-candidature-senatoriale-haute-corse.yaml"
+
+resume_public: >
+  Le 16 septembre 2026 à 08:39:16 CEST, relance adressée à la Préfecture de la Haute-Corse
+  (bureau des élections) sur la transmission au TA du courriel vidéo du 11 septembre à 17:57 :
+  réception avant 18:00, présence dans la saisine enregistrée à 18:16, ou transmission
+  ultérieure. Réponse brève oui/non proposée ; réponse attendue.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: >
+    Paquet créé le 2026-09-17 à partir de mail_trace.md (Inseme #77). Aucun nouvel
+    envoi. Les horodatages 17:57 / 18:16 / fil du 15/09 sont repris tels quels du registre.

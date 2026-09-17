@@ -1,0 +1,115 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Schéma de référence : interaction_packets/archive_policy.md
+# Source initiale : interaction_packets/mail_trace.md (row 2026-09-16-002)
+
+id: "2026-09-16-002"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-16"
+last_updated: "2026-09-17"
+disclosure: "D3"
+visibility: "public"
+
+date_envoi: "2026-09-16"
+heure_envoi: "08:38:28"
+timezone: "Europe/Paris"
+canal: "email (Gmail)"
+interlocuteur: "Tribunal administratif de Bastia — greffe"
+sujet: "TA Bastia — dossiers n°2601714-1 et 2601715-1 : demande de communication et vérifications matérielles"
+niveau_divulgation: "D3"
+verifie_le: "2026-09-16"
+
+title: "TA Bastia — communication dossiers 2601714-1 et 2601715-1"
+short_title: "TA Bastia — communication dossiers"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  ballot_name: "Baron Mariani"
+  role: "candidat à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse"
+
+institution:
+  name: "Tribunal administratif de Bastia"
+  body: "Greffe"
+
+cc_public_labels:
+  - "Laurence Ceccaldi"
+  - "Maguy"
+
+subject_tags:
+  - "Élections sénatoriales 2026"
+  - "Tribunal administratif de Bastia"
+  - "Contentieux électoral"
+  - "Communication de pièces"
+
+dossiers:
+  - "2601714-1"
+  - "2601715-1"
+
+contexte: >
+  Deux dossiers sont ouverts au Tribunal administratif de Bastia sous les numéros
+  2601714-1 et 2601715-1, en lien avec la candidature sénatoriale. Une note en délibéré
+  a été envoyée le 14 septembre 2026 à 15:48 (fait déjà mentionné dans mail_trace).
+
+demande: >
+  Demande strictement matérielle portant notamment sur : la communication des décisions ;
+  leurs date et heure de mise à disposition ; l'enregistrement de la note en délibéré
+  envoyée le 14/09 à 15:48 ; l'état chronologique des pièces versées aux deux dossiers.
+
+timeline:
+  - date: "2026-09-14"
+    time: "15:48"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email"
+    event: "Note en délibéré envoyée (référence dans mail_trace)"
+    summary: >
+      Fait antérieur mentionné dans le statut mail_trace de la demande du 16/09 :
+      note en délibéré envoyée le 14/09 à 15:48.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-16"
+    time: "08:38:28"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Demande de communication et vérifications matérielles au greffe"
+    summary: >
+      Courriel envoyé avec Laurence Ceccaldi et Maguy en copie. Périmètre limité aux
+      vérifications matérielles sur les deux dossiers.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+
+current_status:
+  label: "Demande de communication envoyée au greffe — réponse attendue"
+  interpretation: >
+    L'acte documenté est une demande matérielle de communication / chronologie des pièces.
+    Aucune réponse du greffe n'est encore enregistrée dans le registre public.
+
+next_watch:
+  - "Réponse du greffe du TA de Bastia"
+  - "Communication des décisions et horodatage de mise à disposition"
+  - "Confirmation d'enregistrement de la note en délibéré du 14/09 15:48"
+  - "État chronologique des pièces versées aux dossiers 2601714-1 et 2601715-1"
+
+linked_cases:
+  - "2026-09-10-001"
+  - "2026-09-16-003"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+  parent_packet: "interaction_packets/packets/2026/2026-09-10-candidature-senatoriale-haute-corse.yaml"
+
+resume_public: >
+  Le 16 septembre 2026 à 08:38:28 CEST, demande adressée au greffe du Tribunal
+  administratif de Bastia concernant les dossiers n°2601714-1 et 2601715-1 :
+  communication des décisions, horodatage, enregistrement de la note en délibéré du
+  14/09 15:48 et chronologie des pièces. Réponse attendue.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: >
+    Paquet créé le 2026-09-17 à partir de mail_trace.md (Inseme #77). Aucun nouvel
+    envoi. Pas d'adresse de greffe ni d'identifiant de message inventés.

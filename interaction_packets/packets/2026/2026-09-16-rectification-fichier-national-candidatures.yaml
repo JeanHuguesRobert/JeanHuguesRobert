@@ -1,0 +1,103 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Schéma de référence : interaction_packets/archive_policy.md
+# Source initiale : interaction_packets/mail_trace.md (row 2026-09-16-001)
+
+id: "2026-09-16-001"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-16"
+last_updated: "2026-09-17"
+disclosure: "D3"
+visibility: "public"
+
+date_envoi: "2026-09-16"
+heure_envoi: "08:36:59"
+timezone: "Europe/Paris"
+canal: "email (Gmail)"
+interlocuteur: "Ministère de l’Intérieur — délégué à la protection des données"
+sujet: "Sénatoriales 2026 — rectification de données publiées dans le fichier national des candidatures"
+niveau_divulgation: "D3"
+verifie_le: "2026-09-16"
+
+title: "Rectification graphies — fichier national des candidatures (Haute-Corse n°3)"
+short_title: "Rectification fichier national candidatures"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  ballot_name: "Baron Mariani"
+  role: "candidat à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse"
+
+institution:
+  name: "Ministère de l’Intérieur"
+  body: "Délégué à la protection des données"
+
+cc_public_labels:
+  - "Laurence Ceccaldi"
+  - "Maguy"
+
+subject_tags:
+  - "Élections sénatoriales 2026"
+  - "Haute-Corse"
+  - "Fichier national des candidatures"
+  - "Rectification de données"
+  - "Protection des données"
+
+contexte: >
+  La candidature Haute-Corse n°3 figure au fichier national des candidatures. Avant la
+  demande de rectification, la ligne publiée conservait les graphies
+  `MARIANI / Baron / DIV / D'ANGELIS / Maire-Louise`. Ces graphies divergent des CERFA
+  et des usages typographiques invoqués par le candidat (notamment `Marie-Louise`,
+  `Mariani`, `d'Angelis`).
+
+demande: >
+  Rectification limitée des graphies publiées pour la candidature Haute-Corse n°3 :
+  `Maire-Louise` → `Marie-Louise` ; `MARIANI` → `Mariani` ; `D'ANGELIS` → `d'Angelis`,
+  conformément aux graphies figurant sur les CERFA et aux usages typographiques invoqués.
+
+timeline:
+  - date: "2026-09-16"
+    time: "08:36:59"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Envoi de la demande de rectification au délégué à la protection des données"
+    summary: >
+      Courriel envoyé avec Laurence Ceccaldi et Maguy en copie. Périmètre limité aux
+      graphies publiées ; pas d'autre demande formulée dans ce message selon mail_trace.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+
+current_status:
+  label: "Demande de rectification envoyée — réponse et évolution de la publication attendues"
+  interpretation: >
+    L'acte enregistré est l'envoi d'une demande de rectification ciblée. Aucune réponse
+    ni modification constatée du fichier national n'est encore documentée dans le registre
+    public au moment de la création de ce paquet.
+
+next_watch:
+  - "Réponse du délégué à la protection des données"
+  - "Évolution / republication du fichier national des candidatures (graphies)"
+  - "Toute confirmation que la ligne Haute-Corse n°3 affiche Marie-Louise / Mariani / d'Angelis"
+
+linked_cases:
+  - "2026-09-10-001"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+  parent_packet: "interaction_packets/packets/2026/2026-09-10-candidature-senatoriale-haute-corse.yaml"
+
+resume_public: >
+  Le 16 septembre 2026 à 08:36:59 CEST, demande adressée au délégué à la protection des
+  données du Ministère de l’Intérieur pour rectifier les graphies publiées de la candidature
+  Haute-Corse n°3 (`Maire-Louise` → `Marie-Louise`, `MARIANI` → `Mariani`,
+  `D'ANGELIS` → `d'Angelis`). Réponse et mise à jour du fichier national attendues.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: >
+    Paquet créé le 2026-09-17 à partir de la row déjà publiée dans mail_trace.md
+    (Inseme #77 dogfood : combler le trou YAML → SQL). Aucun nouvel envoi. Aucune
+    adresse électronique ni identifiant de message inventés.
