@@ -7,7 +7,7 @@ id: "2026-09-16-002"
 type: "interaction_packet"
 status: "active"
 created: "2026-09-16"
-last_updated: "2026-09-17"
+last_updated: "2026-09-18"
 disclosure: "D3"
 visibility: "public"
 
@@ -18,7 +18,7 @@ canal: "email (Gmail)"
 interlocuteur: "Tribunal administratif de Bastia — greffe"
 sujet: "TA Bastia — dossiers n°2601714-1 et 2601715-1 : demande de communication et vérifications matérielles"
 niveau_divulgation: "D3"
-verifie_le: "2026-09-16"
+verifie_le: "2026-09-18"
 
 title: "TA Bastia — communication dossiers 2601714-1 et 2601715-1"
 short_title: "TA Bastia — communication dossiers"
@@ -58,14 +58,14 @@ demande: >
 
 timeline:
   - date: "2026-09-14"
-    time: "15:48"
+    time: "15:48:32"
     timezone: "Europe/Paris"
     direction: "outbound"
     channel: "email"
     event: "Note en délibéré envoyée (référence dans mail_trace)"
     summary: >
       Fait antérieur mentionné dans le statut mail_trace de la demande du 16/09 :
-      note en délibéré envoyée le 14/09 à 15:48.
+      note en délibéré envoyée le 14/09 à 15:48:32.
     status: "sent"
     source: "interaction_packets/mail_trace.md"
   - date: "2026-09-16"
@@ -79,18 +79,61 @@ timeline:
       vérifications matérielles sur les deux dossiers.
     status: "sent"
     source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-16"
+    direction: "inbound"
+    channel: "email (Gmail)"
+    event: "Réponse du greffe"
+    summary: >
+      Le greffe indique que les décisions ont été rendues et notifiées le 14/09, confirme
+      que la formation de jugement avait pris connaissance de la note en délibéré avant de
+      statuer et oriente vers Sagace pour la chronologie. Cette réponse ne fournit pas toutes
+      les informations matérielles demandées.
+    status: "received_partial"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-17"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Demande complémentaire après consultation de Sagace"
+    summary: >
+      Cinq informations matérielles restant non accessibles dans Sagace sont demandées au greffe.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-18"
+    time: "12:05:46"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Relance courte sur les cinq informations"
+    summary: >
+      Demande de préciser si les informations peuvent être communiquées ou, à défaut, si elles
+      ne sont pas disponibles.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-18"
+    time: "22:00:01"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Demande distincte sur la trace d'audience, le greffier et la minute"
+    summary: >
+      Demande atomique sur l'existence d'une trace matérielle de l'audience, l'identité du
+      greffier d'audience et les modalités de communication ou consultation de la minute signée.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
 
 current_status:
-  label: "Demande de communication envoyée au greffe — réponse attendue"
+  label: "Réponse partielle reçue ; résidus documentaires et trace d'audience demandés — réponse complémentaire attendue"
   interpretation: >
-    L'acte documenté est une demande matérielle de communication / chronologie des pièces.
-    Aucune réponse du greffe n'est encore enregistrée dans le registre public.
+    Le greffe a répondu sur la date des décisions et sur la prise de connaissance de la note
+    en délibéré avant décision, puis a renvoyé à Sagace pour la chronologie. Après consultation
+    de Sagace, plusieurs informations matérielles sont restées ouvertes et ont fait l'objet de
+    demandes complémentaires les 17 et 18 septembre.
 
 next_watch:
-  - "Réponse du greffe du TA de Bastia"
-  - "Communication des décisions et horodatage de mise à disposition"
-  - "Confirmation d'enregistrement de la note en délibéré du 14/09 15:48"
-  - "État chronologique des pièces versées aux dossiers 2601714-1 et 2601715-1"
+  - "Réponse aux cinq informations matérielles restant non accessibles dans Sagace"
+  - "Identification de l'entrée « Réception d'une lettre » et de son heure"
+  - "Heure exacte de la décision / mise à disposition si disponible"
+  - "Réponse sur trace d'audience, identité du greffier d'audience et accès à la minute"
 
 linked_cases:
   - "2026-09-10-001"
@@ -101,10 +144,12 @@ linked_documents:
   parent_packet: "interaction_packets/packets/2026/2026-09-10-candidature-senatoriale-haute-corse.yaml"
 
 resume_public: >
-  Le 16 septembre 2026 à 08:38:28 CEST, demande adressée au greffe du Tribunal
-  administratif de Bastia concernant les dossiers n°2601714-1 et 2601715-1 :
-  communication des décisions, horodatage, enregistrement de la note en délibéré du
-  14/09 15:48 et chronologie des pièces. Réponse attendue.
+  Demande initiale envoyée le 16 septembre 2026 à 08:38:28 CEST. Le greffe a répondu le
+  même jour : décisions rendues et notifiées le 14/09, et confirmation que la formation
+  avait pris connaissance de la note en délibéré avant de statuer. Après consultation de
+  Sagace, cinq résidus matériels ont été demandés le 17/09 puis relancés le 18/09 à
+  12:05:46. Une demande distincte a été envoyée le 18/09 à 22:00:01 sur la trace
+  d'audience, le greffier d'audience et la minute. Réponses complémentaires attendues.
 
 methodological_note:
   ai_assistance: true
