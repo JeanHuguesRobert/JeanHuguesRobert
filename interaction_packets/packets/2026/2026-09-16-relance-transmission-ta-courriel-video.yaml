@@ -7,7 +7,7 @@ id: "2026-09-16-003"
 type: "interaction_packet"
 status: "active"
 created: "2026-09-16"
-last_updated: "2026-09-17"
+last_updated: "2026-09-18"
 disclosure: "D3"
 visibility: "public"
 
@@ -16,11 +16,11 @@ heure_envoi: "08:39:16"
 timezone: "Europe/Paris"
 canal: "email (Gmail)"
 interlocuteur: "Préfecture de la Haute-Corse ; Bureau des élections"
-sujet: "Sénatoriales 2026 — relance sur la transmission au TA du courriel vidéo du 11 septembre à 17:57"
+sujet: "Sénatoriales 2026 — relance sur la transmission au TA du courriel vidéo du 11 septembre à 17:57:55"
 niveau_divulgation: "D3"
-verifie_le: "2026-09-16"
+verifie_le: "2026-09-18"
 
-title: "Relance — transmission au TA du courriel vidéo du 11/09 17:57"
+title: "Relance — transmission au TA du courriel vidéo du 11/09 17:57:55"
 short_title: "Relance transmission TA — courriel vidéo 11/09"
 
 actor:
@@ -45,26 +45,26 @@ subject_tags:
   - "Courriel vidéo"
 
 contexte: >
-  Le 11 septembre 2026 à 17:57, un courriel vidéo a été adressé dans le cadre du dossier
+  Le 11 septembre 2026 à 17:57:55, un courriel vidéo a été adressé dans le cadre du dossier
   de candidature / contentieux. Une saisine du TA est mentionnée comme enregistrée à 18:16
   le même jour (selon mail_trace). Un fil du 15/09 existe déjà ; la présente interaction
   est une relance (Relance = 1 dans le registre).
 
 demande: >
   Trois vérifications factuelles, avec proposition explicite d'une réponse brève oui/non :
-  (1) réception avant 18:00 du courriel de 17:57 ;
+  (1) réception avant 18:00 du courriel de 17:57:55 ;
   (2) présence de cet élément dans la saisine du TA enregistrée à 18:16 ;
   (3) à défaut, éventuelle transmission ultérieure au TA avant qu'il statue.
 
 timeline:
   - date: "2026-09-11"
-    time: "17:57"
+    time: "17:57:55"
     timezone: "Europe/Paris"
     direction: "outbound"
     channel: "email"
     event: "Courriel vidéo du 11 septembre (référence)"
     summary: >
-      Fait antérieur mentionné dans mail_trace : courriel vidéo à 17:57, dont la réception
+      Fait antérieur mentionné dans mail_trace : courriel vidéo à 17:57:55, dont la réception
       et la transmission au TA font l'objet de la relance.
     status: "sent"
     source: "interaction_packets/mail_trace.md"
@@ -97,18 +97,61 @@ timeline:
       explicitement proposée.
     status: "sent"
     source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-16"
+    direction: "inbound"
+    channel: "email (Gmail)"
+    event: "Réponse d'Adrien Vidal"
+    summary: >
+      La réponse renvoie au jugement du TA et indique que la préfecture ne peut commenter
+      une décision de justice. Elle ne répond à aucune des trois vérifications factuelles
+      sur la réception ou la transmission du courriel vidéo.
+    status: "received_non_resolutive"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-17"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Nouvelle demande limitée aux opérations des services préfectoraux"
+    summary: >
+      Les trois questions sont reformulées comme questions factuelles sur les opérations des
+      services, avec possibilité de répondre « oui », « non » ou « information non disponible ».
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-18"
+    time: "14:59:59"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Relance sur les trois questions factuelles"
+    summary: >
+      Constat que les questions restent sans réponse ; demande de préciser si l'information
+      est communicable ou indisponible.
+    status: "sent"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-18"
+    time: "15:00:21"
+    timezone: "Europe/Paris"
+    direction: "inbound"
+    channel: "email automatique — Préfecture de la Haute-Corse"
+    event: "Accusé automatique de la relance"
+    summary: >
+      Accusé automatique reçu 22 secondes après la relance ; aucune réponse substantielle
+      supplémentaire enregistrée à ce stade.
+    status: "received_and_acknowledged"
+    source: "interaction_packets/mail_trace.md"
 
 current_status:
-  label: "Relance envoyée — réponse préfectorale attendue (oui/non sur trois points)"
+  label: "Réponse non résolutive reçue ; trois questions factuelles relancées — réponse substantielle attendue"
   interpretation: >
-    L'acte documenté est une relance factuelle ciblée. Aucune réponse n'est encore
-    enregistrée dans le registre public.
+    Une réponse préfectorale a été reçue le 16/09 mais porte sur le jugement et ne résout
+    aucune des trois questions factuelles. Les demandes des 17 et 18 septembre recentrent
+    explicitement le probe sur les opérations des services préfectoraux. Les trois questions
+    restent ouvertes.
 
 next_watch:
-  - "Réponse du bureau des élections (idéalement oui/non sur les trois points)"
-  - "Confirmation de réception avant 18:00 du courriel vidéo du 11/09 17:57"
-  - "Confirmation d'inclusion dans la saisine TA enregistrée à 18:16"
-  - "À défaut : transmission ultérieure au TA avant décision"
+  - "Réponse factuelle sur la réception avant 18:00 du courriel vidéo du 11/09 17:57:55"
+  - "Confirmation de son inclusion ou non dans la saisine TA enregistrée à 18:16"
+  - "À défaut d'inclusion initiale : éventuelle transmission ultérieure au TA avant décision"
+  - "Si l'information n'est pas disponible : confirmation explicite de cette indisponibilité"
 
 linked_cases:
   - "2026-09-10-001"
@@ -119,10 +162,11 @@ linked_documents:
   parent_packet: "interaction_packets/packets/2026/2026-09-10-candidature-senatoriale-haute-corse.yaml"
 
 resume_public: >
-  Le 16 septembre 2026 à 08:39:16 CEST, relance adressée à la Préfecture de la Haute-Corse
-  (bureau des élections) sur la transmission au TA du courriel vidéo du 11 septembre à 17:57 :
-  réception avant 18:00, présence dans la saisine enregistrée à 18:16, ou transmission
-  ultérieure. Réponse brève oui/non proposée ; réponse attendue.
+  Relance envoyée le 16 septembre 2026 à 08:39:16 CEST sur trois vérifications factuelles :
+  réception avant 18:00 du courriel vidéo envoyé à 17:57:55, présence dans la saisine TA
+  enregistrée à 18:16, ou transmission ultérieure avant décision. La réponse préfectorale
+  du 16/09 renvoie au jugement sans résoudre ces trois points. Nouvelles demandes les 17
+  et 18/09 ; accusé automatique reçu le 18/09 à 15:00:21. Réponse substantielle attendue.
 
 methodological_note:
   ai_assistance: true
@@ -130,4 +174,4 @@ methodological_note:
   responsibility: "exclusive human responsibility"
   note: >
     Paquet créé le 2026-09-17 à partir de mail_trace.md (Inseme #77). Aucun nouvel
-    envoi. Les horodatages 17:57 / 18:16 / fil du 15/09 sont repris tels quels du registre.
+    envoi. Les horodatages 17:57:55 / 18:16 / fil du 15/09 sont repris tels quels du registre.
