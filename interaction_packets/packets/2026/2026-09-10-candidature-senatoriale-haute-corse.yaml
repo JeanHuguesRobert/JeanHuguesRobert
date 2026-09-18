@@ -3,7 +3,7 @@ id: "2026-09-10-001"
 type: "interaction_packet"
 status: "active"
 created: "2026-09-10"
-last_updated: "2026-09-17"
+last_updated: "2026-09-18"
 disclosure: "D3"
 visibility: "public"
 statut: "Dépôt physique prévu/effectué le 11/09 après objection CERFA du 10/09 20:05 ; suites contentieuses et institutionnelles suivies dans des paquets/rows liés (2026-09-16-*)"
@@ -250,18 +250,18 @@ current_status:
   interpretation: >
     Après l'accusé électronique automatique, le bureau a objecté le même soir à la recevabilité
     dématérialisée du CERFA de la remplaçante et a annoncé un risque de déféré TA. Le candidat a
-    répondu le 11/09 matin en annonçant son arrivée à Bastia avant 18:00. Le registre mail_trace
-    (mis à jour le 11/09 puis le 16/09) est en avance sur ce paquet YAML : des interactions
-    ultérieures (rectification fichier national, TA Bastia, relance vidéo 17:57, commission de
-    propagande) portent des IDs 2026-09-16-* encore sans paquet YAML dédié. Ce paquet documente
-    la phase pré-transmission + bascule vers le dépôt physique ; il ne clôt pas le contentieux.
+    répondu le 11/09 matin en annonçant son arrivée à Bastia avant 18:00. Les suites sont désormais
+    suivies dans les paquets liés 2026-09-16-*. Le registre mail_trace reste la vue transactionnelle
+    transversale la plus à jour ; les paquets liés doivent être synchronisés avec lui lorsqu'une
+    réponse ou une relance nouvelle est enregistrée. Ce paquet documente la phase pré-transmission
+    + bascule vers le dépôt physique ; il ne clôt pas le contentieux.
 
 next_watch:
   - "Suivre 2026-09-16-001 (rectification graphies fichier national des candidatures) — paquet YAML créé"
   - "Suivre 2026-09-16-002 (TA Bastia — communication dossiers 2601714-1 / 2601715-1) — paquet YAML créé"
   - "Suivre 2026-09-16-003 (relance transmission au TA du courriel vidéo du 11/09 17:57) — paquet YAML créé"
   - "Suivre 2026-09-16-004 (commission de propagande — modalités de remise) — paquet YAML créé"
-  - "Réponses attendues sur les quatre interactions du 16/09"
+  - "Synchroniser les paquets liés avec mail_trace lors de toute nouvelle réponse ou relance"
   - "Toute décision TA ou notification préfectorale nouvelle sur la candidature Haute-Corse n°3"
 
 linked_cases:
