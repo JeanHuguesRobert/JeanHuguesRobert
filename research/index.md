@@ -129,3 +129,44 @@ A collaborator arriving here should read, in order: [`research/corpus-map.md`](c
 - [Jean Hugues Noël Robert, baron Mariani](../README.md)
 - [Public Corpus Navigation](public-navigation.md)
 <!-- END_AUTO: backlinks -->
+<!-- BEGIN_AUTO: index_catalog -->
+## Corpus catalog
+
+*Generated navigation. Editorial sections above remain human-maintained.*
+
+| Document | Role | Updated |
+|---|---|---|
+| [01-ouverture-et-corpus](../.ubikia/products/carnets-baron-mariani-audio/on-nest-jamais-si-bien-servi/spoken/01-ouverture-et-corpus.md) | derived | 2026-08-11 |
+| [Agent JHN — Experimental Notice and Non-Commitment Boundary](agent-jhn-experimental-notice.md) | source | 2026-08-13 |
+| [Agent JHN sur Instagram : mandat de préparation, limites et test minimal](etude_agent_jhn_instagram.md) | source | 2026-08-21 |
+| [Agent John — Apprentissages & Règles Souveraines de Protection](../twin/AGENT_JOHN_LEARNINGS_FR.md) | source | 2026-08-09 |
+| [Agent John (JHN) — Présentation et Capacités du Jumeau Numérique Personnel Cogentia](../twin/AGENT_JOHN_FR.md) | source | 2026-08-28 |
+| [Alive Continuations List](../continuations-list.md) | unknown | 2026-08-25 |
+| [Appearance log](../appearance-log/README.md) | operational | 2026-09-06 |
+| [Copie quasi-brute publique — candidature sénatoriale Haute-Corse 2026](../interaction_packets/raw/2026/2026-09-10-candidature-senatoriale-haute-corse.eml.md) | source | 2026-09-10 |
+| [Corpus State Report](../corpus-state.md) | operational | 2026-08-28 |
+| [Current Issues List - JeanHuguesRobert Organization](../current-issues-list.md) | unknown | 2026-09-15 |
+| [docs(twin): align AGENT_JOHN_FR.md source with vendor reversibility formulation](../.cogentia/issues/jeanhuguesrobert-jeanhuguesrobert/issue-00003.md) | source | 2026-09-13 |
+| [Dompter le capitalisme](dompter_le_capitalisme.md) | source | 2026-08-14 |
+| [Étude & Stratégie d'Architecture : Démultiplication sur les Réseaux Sociaux (Facebook & X) par Agent John](etude_demultiplication_reseaux_sociaux_senatoriales.md) | source | 2026-08-09 |
+| [Fix Bugs First Work Dashboard](../fix-bugs-first-dashboard.md) | operational | 2026-08-11 |
+| [Instagram pilot kit — Agent JHN](instagram-pilot/README.md) | operational | 2026-08-21 |
+| [Instagram pilot publication register — Agent JHN](instagram-pilot/publication-register.md) | operational | 2026-08-21 |
+| [Interaction lisible — Candidature sénatoriale Haute-Corse 2026](../interaction_packets/readable/2026/2026-09-10-candidature-senatoriale-haute-corse.md) | operational | 2026-09-10 |
+| [Interaction lisible — Clinique du droit / Université de Corse](../interaction_packets/readable/2026/2026-03-11-clinique-du-droit-cooperation.md) | operational | 2026-07-27 |
+| [Interactions Registry: multichannel extension + Personal Twin desk (public traces)](../.cogentia/issues/jeanhuguesrobert-jeanhuguesrobert/issue-00002.md) | source | 2026-09-13 |
+| [JeanHuguesRobert agent mandate](../AGENTS.md) | operational | 2026-08-13 |
+| [JHN Personal Digital Twin — public instance definition](../twin/README.md) | source | 2026-08-09 |
+| [La Naissance d'Agent John : Un Jumeau Numérique Souverain pour sortir de la Captation Cognitive](annonce_naissance_agent_john.md) | source | 2026-08-13 |
+| [Public Twin assets](../twin/assets/README.md) | operational | 2026-08-13 |
+| [Registre : cohérence post-envoi 2026-07-21 + copie lisible D3](../.cogentia/issues/jeanhuguesrobert-jeanhuguesrobert/issue-00001.md) | source | 2026-09-13 |
+| [Résumé d'Orchestration & Rapport d'Étape (resume_JHN.md)](resume_JHN.md) | source | 2026-08-14 |
+| [Session handoff — Agent JHN Instagram preparation pilot](CPKT-2026-008_agent_jhn_instagram_pilot_handoff.md) | operational | 2026-08-21 |
+| [Session Pause Checkpoint (2026-09-04) ⏸️✨](../RESUME-SESSION.md) | operational | 2026-09-04 |
+| [spoken.draft](../.ubikia/products/carnets-baron-mariani-audio/on-nest-jamais-si-bien-servi/spoken.draft.md) | derived | 2026-08-11 |
+| [spoken.reviewed](../.ubikia/products/carnets-baron-mariani-audio/on-nest-jamais-si-bien-servi/spoken.reviewed.md) | derived | 2026-08-11 |
+| [STYLE.md — public cognitive & writing style of Jean Hugues Noël Robert](../STYLE.md) | operational | 2026-08-22 |
+| [Ubikia instructions — Jean Hugues Noël Robert](../.ubikia/instructions.md) | source | 2026-07-17 |
+| [Un agent prépare ; une personne décide](instagram-pilot/packets/ctn_ig_20260820_01.md) | source | 2026-08-21 |
+
+<!-- END_AUTO: index_catalog -->
