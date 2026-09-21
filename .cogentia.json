@@ -126,6 +126,35 @@
       }
     },
     {
+      "name": "suicide-corse",
+      "path": "../suicide-corse",
+      "branch": "main",
+      "added": "2026-09-21T00:00:00.000Z",
+      "kind": "publication",
+      "navigation": {
+        "public_role": "rendered_publication_artifact",
+        "reader_primary": "human",
+        "read_priority": 9,
+        "start_here": "README.md",
+        "public_index": "index.html",
+        "site_home": "https://suicidecorse.baronsmariani.org/",
+        "canonical_reading_path": [
+          "README.md",
+          "index.html"
+        ]
+      },
+      "relations": {
+        "cites": [
+          "barons-Mariani"
+        ],
+        "derived_from": [
+          "barons-Mariani"
+        ],
+        "public_view_of": null,
+        "contains_private_registry": false
+      }
+    },
+    {
       "name": "inseme",
       "path": "../inseme",
       "branch": "main",
