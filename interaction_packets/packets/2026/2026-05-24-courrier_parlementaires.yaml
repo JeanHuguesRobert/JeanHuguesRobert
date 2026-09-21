@@ -5,7 +5,7 @@
 id: "2026-05-24-001"
 date_envoi: "2026-05-24"
 date_reponse: null
-verifie_le: "2026-05-28"
+verifie_le: "2026-09-21"
 canal: "email (adresses officielles)"
 interlocuteurs:
   - "Michel Castellani (député)"
@@ -26,13 +26,13 @@ demande: >
 pieces_jointes:
   - "courrier_public_six_parlementaires_corse.pdf"
   - "note_synthetique_autonomie_capacite_corse.pdf"
-statut: "aucune réponse détectée à ce stade"
-niveau_divulgation: "D3"
+statut: "aucune réponse des six parlementaires détectée au 2026-09-21"
+niveau_divulgation: "D4"
 resume_public: >
-  Courrier public adressé le 2026-05-24 aux six parlementaires corses (4 députés,
-  2 sénateurs), avec courrier + note synthétique en pièces jointes. À ce stade,
-  aucune réponse détectée (vérifié 2026-05-28). Le texte source a vocation à être
-  publié dans un dépôt ouvert.
+  Courrier explicitement public adressé le 2026-05-24 aux six parlementaires corses
+  (4 députés, 2 sénateurs), avec courrier et note synthétique en pièces jointes.
+  Recherche Gmail effectuée le 2026-09-21 : aucune réponse des six destinataires détectée.
+  L'envoi, ses destinataires, son contenu et le suivi de la réponse sont publics.
 copies:
   lisible: "../../readable/2026/2026-05-24-courrier_parlementaires.md"
-  brute_masquee: "../../raw/2026/2026-05-24-courrier_parlementaires_redacted.eml.md"
+  brute: "../../raw/2026/2026-05-24-courrier_parlementaires_redacted.eml.md"
