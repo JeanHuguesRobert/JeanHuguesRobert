@@ -1,0 +1,44 @@
+# Paquet interactionnel — métadonnées structurées
+id: "2026-05-29-001"
+type: "interaction_packet"
+status: "active"
+created: "2026-05-29"
+last_updated: "2026-09-21"
+disclosure: "D4"
+date_envoi: "2026-05-29"
+date_reponse: null
+verifie_le: "2026-09-21"
+canal: "email (adresses officielles)"
+interlocuteurs:
+  - "Michel Castellani (député)"
+  - "François-Xavier Ceccoli (député)"
+  - "Paul-André Colombani (député)"
+  - "Laurent Marcangeli (député)"
+  - "Jean-Jacques Panunzi (sénateur)"
+  - "Paul-Toussaint Parigi (sénateur)"
+sujet: "Contribution transmise à la commission des Lois – Autonomie de capacité de la Corse"
+contexte: >
+  Information adressée directement aux six parlementaires corses après transmission
+  d'une contribution écrite à la commission des Lois de l'Assemblée nationale.
+demande: >
+  Informer les représentants parlementaires corses de la contribution publique
+  « Autonomie de capacité de la Corse » et de son point central : distinguer
+  autonomie juridique et capacité effective d'agir.
+statut: "aucune réponse des six parlementaires détectée au 2026-09-21"
+niveau_divulgation: "D4"
+relation:
+  parent_case: "2026-05-25-001"
+  note: >
+    Cet envoi avait initialement été conservé comme follow-up du dossier Commission
+    des Lois. Il reçoit ici une trace autonome afin que l'envoi aux six parlementaires
+    et son absence de réponse puissent être suivis explicitement.
+resume_public: >
+  Courriel envoyé le 2026-05-29 à 06:32 aux six parlementaires corses, les informant
+  de la contribution publique transmise à la commission des Lois. Recherche Gmail
+  effectuée le 2026-09-21 : aucune réponse des six destinataires détectée.
+documents:
+  contribution:
+    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md"
+copies:
+  lisible: "../../readable/2026/2026-05-29-information_parlementaires_autonomie_capacite.md"
+  brute: "../../raw/2026/2026-05-29-information_parlementaires_autonomie_capacite.eml.md"
