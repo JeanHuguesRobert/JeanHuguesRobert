@@ -1,0 +1,66 @@
+id: "2026-09-22-001"
+date: "2026-09-22"
+time: "09:23:58"
+timezone: "Europe/Paris"
+status: "sent — response requested"
+current_status:
+  label: "Courriel public envoyé — réponse attendue"
+channel: "email"
+direction: "outbound"
+disclosure: "D4"
+visibility: "public"
+subject: "Statut de résident — proposition d’un test d’effectivité"
+principal:
+  name: "Jean Hugues Noël Robert"
+  roles:
+    - "Président de C.O.R.S.I.C.A."
+    - "Institut Mariani"
+correspondents:
+  - name: "Alain Nebbia"
+    role: "coprésident de l’association consacrée au statut de résident ; maire de Lopigna"
+    address: "mairie.lopigna@orange.fr"
+  - name: "Marcel Torracinta"
+    role: "coprésident de l’association consacrée au statut de résident ; maire de Santa-Reparata-di-Balagna"
+    address: "mairie.santareparata@wanadoo.fr"
+purpose: >
+  Soumettre au collectif travaillant sur un futur statut de résident une application
+  pratique de l’amendement d’effectivité proposé pour le futur article 72-5,
+  et obtenir une réponse explicite sur l’évaluation des effets recherchés.
+public_question: >
+  Êtes-vous favorables à ce que le futur statut de résident définisse explicitement
+  les effets qu’il cherche à produire, les indicateurs permettant de les évaluer,
+  ainsi qu’un mécanisme de réexamen si la réalité ne confirme pas les effets attendus ?
+summary: >
+  Courriel public adressé conjointement aux deux coprésidents. Il présente
+  l’amendement d’effectivité, renvoie vers la note d’application au statut de résident,
+  sollicite les objections éventuelles et annonce explicitement l’inscription de
+  l’échange au registre public d’interactions.
+evidence:
+  gmail:
+    message_id: "1a0c80048a470820"
+    thread_id: "1a0c7ff25e45a9f2"
+    label: "SENT"
+    verified_at: "2026-09-22"
+    sent_at: "2026-09-22T09:23:58+02:00"
+    attachments: false
+linked_documents:
+  source_amendment: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md"
+  practical_note: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/note_campagne_statut_resident_effectivite.md"
+  readable: "../readable/2026/2026-09-22-statut-resident-effectivite.md"
+  register: "../../mail_trace.md"
+publicity:
+  declared_in_message: true
+  note: >
+    Le courriel indique explicitement qu’il a vocation à être référencé dans le
+    registre public d’interactions et que toute réponse publique pourra y être reliée.
+follow_up: []
+next_watch:
+  - "Réponse de l’un ou des deux coprésidents"
+  - "Publication éventuelle de statuts, délibération-type ou pré-projet de loi par l’association"
+methodological_note:
+  fact_interpretation_boundary: >
+    L’envoi et son contenu sont des faits vérifiés dans Gmail. Aucune position
+    favorable ou défavorable des destinataires n’est inférée avant réponse.
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
