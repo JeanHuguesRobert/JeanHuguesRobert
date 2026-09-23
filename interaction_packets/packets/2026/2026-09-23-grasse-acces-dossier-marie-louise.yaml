@@ -1,0 +1,90 @@
+id: "2026-09-23-001"
+date: "2026-09-23"
+time: "10:47:11"
+timezone: "Europe/Paris"
+status: "identity verification supplied — magistrate review pending"
+current_status:
+  label: "Justificatif demandé transmis — suite du traitement attendue"
+channel: "email"
+direction: "bidirectional"
+disclosure: "D3"
+visibility: "public"
+subject: "Accès au dossier relatif au décès de Marie-Louise — cheminement de la demande"
+principal:
+  name: "Jean Hugues Noël Robert"
+  role: "père de Marie-Louise Robert"
+correspondents:
+  - name: "Tribunal judiciaire de Grasse"
+    role: "service d'accueil puis service compétent"
+purpose: >
+  Connaître l'état procédural du dossier relatif au décès de Marie-Louise,
+  identifier le service qui en a la charge et connaître la voie permettant
+  de demander communication des éléments légalement accessibles.
+summary: >
+  Une demande initiale datée du 10 septembre a été relancée le 18 septembre.
+  Le service d'accueil a accusé réception et transmis la demande au service
+  compétent. Celui-ci a confirmé la prise en charge, communiqué une référence
+  interne non publiée et indiqué que la demande serait soumise au magistrat
+  compétent après vérification d'identité. Le justificatif demandé a été
+  transmis le 23 septembre à 10:47 CEST. La décision ou réponse du magistrat
+  est désormais attendue.
+timeline:
+  - date: "2026-09-10"
+    event: "Demande initiale datée du 10 septembre"
+    public_summary: >
+      Demande sur l'état procédural, le service détenteur et les modalités
+      d'accès aux éléments communicables.
+    verification_note: >
+      La relance du 18 septembre se réfère explicitement à cette demande initiale.
+  - date: "2026-09-18"
+    time: "04:19:21"
+    event: "Relance envoyée"
+    gmail_message_id: "1a0b24fb0fc809a8"
+    status: "sent"
+  - date: "2026-09-18"
+    event: "Accueil du tribunal : accusé et transfert au service compétent"
+    gmail_message_id: "1a0b3d98efad2308"
+    status: "received"
+  - date: "2026-09-22"
+    event: "Réponse du service compétent"
+    gmail_message_id: "1a0c955ec868c30d"
+    public_summary: >
+      Prise en charge confirmée ; référence interne communiquée mais non publiée ;
+      vérification d'identité demandée avant soumission au magistrat compétent.
+    status: "received"
+  - date: "2026-09-23"
+    time: "10:47:11"
+    event: "Justificatif d'identité transmis"
+    gmail_message_id: "1a0cd72db407cba0"
+    public_summary: >
+      Le document demandé a été transmis dans le même fil afin de permettre
+      la poursuite du traitement. Le document lui-même reste strictement privé.
+    status: "sent"
+evidence:
+  gmail:
+    thread_id: "1a05eef4e2944290"
+    last_verified_at: "2026-09-23"
+redactions:
+  - "Références internes de procédure"
+  - "Document d'identité et toute donnée qu'il contient"
+  - "Pièces judiciaires ou personnelles non nécessaires à la compréhension publique"
+linked_documents:
+  readable: "../readable/2026/2026-09-23-grasse-acces-dossier-marie-louise.md"
+  register: "../../mail_trace.md"
+  archive_policy: "../../archive_policy.md"
+follow_up: []
+next_watch:
+  - "Accusé de réception du justificatif transmis"
+  - "Transmission effective au magistrat compétent"
+  - "Décision sur la communicabilité des éléments demandés"
+methodological_note:
+  fact_interpretation_boundary: >
+    La chronologie publique décrit uniquement les messages vérifiés et le
+    cheminement administratif annoncé. Elle n'infère ni le statut final du dossier,
+    ni la décision future du magistrat, ni la communicabilité des pièces.
+  disclosure_rationale: >
+    D3 retenu pour rendre le processus intelligible et auditable tout en protégeant
+    les identifiants internes et les documents personnels.
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
