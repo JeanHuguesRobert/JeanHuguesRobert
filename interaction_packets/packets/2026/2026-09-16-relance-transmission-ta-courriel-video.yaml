@@ -7,7 +7,7 @@ id: "2026-09-16-003"
 type: "interaction_packet"
 status: "active"
 created: "2026-09-16"
-last_updated: "2026-09-18"
+last_updated: "2026-09-25"
 disclosure: "D3"
 visibility: "public"
 
@@ -18,7 +18,7 @@ canal: "email (Gmail)"
 interlocuteur: "Préfecture de la Haute-Corse ; Bureau des élections"
 sujet: "Sénatoriales 2026 — relance sur la transmission au TA du courriel vidéo du 11 septembre à 17:57:55"
 niveau_divulgation: "D3"
-verifie_le: "2026-09-18"
+verifie_le: "2026-09-25"
 
 title: "Relance — transmission au TA du courriel vidéo du 11/09 17:57:55"
 short_title: "Relance transmission TA — courriel vidéo 11/09"
@@ -138,20 +138,41 @@ timeline:
       supplémentaire enregistrée à ce stade.
     status: "received_and_acknowledged"
     source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-25"
+    time: "16:59:13"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Demande formelle de documents, données et conservation des traces"
+    summary: >
+      Courriel adressé à la préfète, avec le Bureau des élections, Adrien Vidal, Laurence
+      Ceccaldi et Maguy en copie. La demande vise les traces de réception et traitement du
+      message du 11/09 à 17:57:55, les traces des demandes d'originaux visées au point 5 du
+      jugement, les inventaires ou bordereaux de transmission au TA et les traces d'une
+      éventuelle transmission ultérieure. Elle distingue CRPA (documents administratifs) et
+      article 15 RGPD (données personnelles techniques), demande la conservation des journaux
+      encore existants et mentionne avec diplomatie la CADA et la CNIL comme voies éventuelles.
+    status: "sent"
+    disclosure: "D4-outbound"
+    source: "interaction_packets/mail_trace.md"
 
 current_status:
-  label: "Réponse non résolutive reçue ; trois questions factuelles relancées — réponse substantielle attendue"
+  label: "Questions non résolues ; demande formelle CRPA/RGPD envoyée le 25/09 — réponse et conservation des traces attendues"
   interpretation: >
-    Une réponse préfectorale a été reçue le 16/09 mais porte sur le jugement et ne résout
-    aucune des trois questions factuelles. Les demandes des 17 et 18 septembre recentrent
-    explicitement le probe sur les opérations des services préfectoraux. Les trois questions
-    restent ouvertes.
+    La réponse préfectorale du 16/09 ne résout aucune des trois vérifications factuelles.
+    Après les reformulations des 17 et 18 septembre, une demande formelle a été envoyée le
+    25/09 afin d'obtenir les documents et données existants plutôt qu'une nouvelle appréciation.
+    La démarche distingue CRPA et RGPD, demande la conservation des journaux techniques encore
+    disponibles et explicite sans caractère comminatoire les voies CADA/CNIL susceptibles de
+    devenir pertinentes en cas de difficulté persistante.
 
 next_watch:
-  - "Réponse factuelle sur la réception avant 18:00 du courriel vidéo du 11/09 17:57:55"
-  - "Confirmation de son inclusion ou non dans la saisine TA enregistrée à 18:16"
-  - "À défaut d'inclusion initiale : éventuelle transmission ultérieure au TA avant décision"
-  - "Si l'information n'est pas disponible : confirmation explicite de cette indisponibilité"
+  - "Accusé ou réponse à la demande formelle du 25/09"
+  - "Traces de réception/acceptation/remise/transfert/rejet du courriel du 11/09 17:57:55"
+  - "Traces des demandes d'originaux auxquelles se réfère le point 5 du jugement"
+  - "Inventaire ou bordereau des éléments transmis au TA initialement puis ultérieurement"
+  - "Confirmation de la conservation ou de l'absence des journaux techniques pertinents"
+  - "À défaut de réponse dans les délais applicables : réévaluer séparément les voies CADA et CNIL"
 
 linked_cases:
   - "2026-09-10-001"
@@ -162,11 +183,14 @@ linked_documents:
   parent_packet: "interaction_packets/packets/2026/2026-09-10-candidature-senatoriale-haute-corse.yaml"
 
 resume_public: >
-  Relance envoyée le 16 septembre 2026 à 08:39:16 CEST sur trois vérifications factuelles :
-  réception avant 18:00 du courriel vidéo envoyé à 17:57:55, présence dans la saisine TA
-  enregistrée à 18:16, ou transmission ultérieure avant décision. La réponse préfectorale
-  du 16/09 renvoie au jugement sans résoudre ces trois points. Nouvelles demandes les 17
-  et 18/09 ; accusé automatique reçu le 18/09 à 15:00:21. Réponse substantielle attendue.
+  Les trois vérifications factuelles relatives au courriel du 11/09 à 17:57:55 restent
+  sans réponse substantielle. Le 25/09 à 16:59:13 CEST, une demande formelle publique dans
+  sa substance a été adressée à la préfète, avec le Bureau des élections, Adrien Vidal,
+  Laurence Ceccaldi et Maguy en copie. Elle vise les documents et données existants, distingue
+  le régime CRPA du droit d'accès de l'article 15 RGPD, demande la conservation des journaux
+  techniques encore disponibles et mentionne sobrement la CADA et la CNIL comme voies
+  éventuelles si l'accès restait impossible. Les données techniques ou personnelles qui
+  seraient communiquées feront l'objet d'une minimisation avant publication.
 
 methodological_note:
   ai_assistance: true
