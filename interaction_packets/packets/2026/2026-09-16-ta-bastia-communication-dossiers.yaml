@@ -7,7 +7,7 @@ id: "2026-09-16-002"
 type: "interaction_packet"
 status: "active"
 created: "2026-09-16"
-last_updated: "2026-09-18"
+last_updated: "2026-09-25"
 disclosure: "D3"
 visibility: "public"
 
@@ -18,7 +18,7 @@ canal: "email (Gmail)"
 interlocuteur: "Tribunal administratif de Bastia — greffe"
 sujet: "TA Bastia — dossiers n°2601714-1 et 2601715-1 : demande de communication et vérifications matérielles"
 niveau_divulgation: "D3"
-verifie_le: "2026-09-18"
+verifie_le: "2026-09-25"
 
 title: "TA Bastia — communication dossiers 2601714-1 et 2601715-1"
 short_title: "TA Bastia — communication dossiers"
@@ -120,20 +120,60 @@ timeline:
       greffier d'audience et les modalités de communication ou consultation de la minute signée.
     status: "sent"
     source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-21"
+    time: "18:04:28"
+    timezone: "Europe/Paris"
+    direction: "inbound"
+    channel: "email (Gmail)"
+    event: "Réponse du greffe — invitation à retirer le jugement"
+    summary: >
+      Le greffe invite à retirer le pli postal, indique que le jugement transmis répond aux
+      interrogations et précise rester disponible si des questions subsistent à sa lecture.
+    status: "received_partial"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-25"
+    direction: "external"
+    channel: "notification postale / lecture"
+    event: "Retrait et lecture du jugement"
+    summary: >
+      Le pli recommandé est retiré et le jugement intégralement lu. Le jugement fixe notamment
+      l'enregistrement de la note en délibéré à 15:49, mais ne répond pas à plusieurs questions
+      matérielles déjà adressées au greffe.
+    status: "received_and_reviewed"
+    source: "interaction_packets/mail_trace.md"
+  - date: "2026-09-25"
+    time: "16:50:46"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Relance après lecture du jugement, dans le fil existant"
+    summary: >
+      Relance envoyée dans le fil du 18/09 avec Laurence Ceccaldi et Maguy en copie. Six points
+      restent demandés : identification et heure de la « Réception d'une lettre », heure de
+      mise à disposition du jugement, inventaire des pièces préfectorales, trace d'audience,
+      identité du greffier d'audience et accès à la minute. Le message explique avec retenue
+      que l'état documentaire exact est utile à l'exercice éclairé des voies de l'article L.303
+      du code électoral.
+    status: "sent"
+    disclosure: "D4-outbound"
+    source: "interaction_packets/mail_trace.md"
 
 current_status:
-  label: "Réponse partielle reçue ; résidus documentaires et trace d'audience demandés — réponse complémentaire attendue"
+  label: "Jugement reçu et lu ; six points matériels relancés le 25/09 dans le fil existant — réponse attendue"
   interpretation: >
-    Le greffe a répondu sur la date des décisions et sur la prise de connaissance de la note
-    en délibéré avant décision, puis a renvoyé à Sagace pour la chronologie. Après consultation
-    de Sagace, plusieurs informations matérielles sont restées ouvertes et ont fait l'objet de
-    demandes complémentaires les 17 et 18 septembre.
+    Le greffe a fourni plusieurs éléments utiles, dont la confirmation que la note en délibéré
+    avait été prise en compte avant décision. Le jugement reçu le 25/09 fixe son enregistrement
+    à 15:49 mais ne résout pas six questions documentaires. Une relance ciblée a donc été envoyée
+    le 25/09 dans le fil existant, sans demande d'appréciation du jugement et avec référence
+    mesurée à l'article L.303 du code électoral pour expliquer l'intérêt de la clarification.
 
 next_watch:
-  - "Réponse aux cinq informations matérielles restant non accessibles dans Sagace"
-  - "Identification de l'entrée « Réception d'une lettre » et de son heure"
+  - "Identification de l'entrée « Réception d'une lettre » du 14/09 et de son heure"
   - "Heure exacte de la décision / mise à disposition si disponible"
-  - "Réponse sur trace d'audience, identité du greffier d'audience et accès à la minute"
+  - "Inventaire des pièces accompagnant les saisines préfectorales et des productions ultérieures"
+  - "Existence et modalités d'accès à une trace d'audience"
+  - "Confirmation de l'identité du greffier d'audience"
+  - "Accès à la minute signée ou fondement d'une impossibilité"
 
 linked_cases:
   - "2026-09-10-001"
@@ -144,12 +184,13 @@ linked_documents:
   parent_packet: "interaction_packets/packets/2026/2026-09-10-candidature-senatoriale-haute-corse.yaml"
 
 resume_public: >
-  Demande initiale envoyée le 16 septembre 2026 à 08:38:28 CEST. Le greffe a répondu le
-  même jour : décisions rendues et notifiées le 14/09, et confirmation que la formation
-  avait pris connaissance de la note en délibéré avant de statuer. Après consultation de
-  Sagace, cinq résidus matériels ont été demandés le 17/09 puis relancés le 18/09 à
-  12:05:46. Une demande distincte a été envoyée le 18/09 à 22:00:01 sur la trace
-  d'audience, le greffier d'audience et la minute. Réponses complémentaires attendues.
+  Après les demandes des 16, 17 et 18 septembre, le greffe a invité le 21/09 à retirer le
+  jugement et à revenir vers lui si des questions subsistaient. Le jugement a été retiré et
+  lu le 25/09 : il fixe notamment à 15:49 l'enregistrement de la note en délibéré mais laisse
+  six points matériels ouverts. Une relance publique dans sa substance a été envoyée le
+  25/09 à 16:50:46 CEST, dans le fil existant et avec Laurence Ceccaldi et Maguy en copie.
+  Elle vise uniquement l'état documentaire du dossier et mentionne l'article L.303 du code
+  électoral pour expliquer, sans mise en demeure, l'intérêt de cette clarification.
 
 methodological_note:
   ai_assistance: true
