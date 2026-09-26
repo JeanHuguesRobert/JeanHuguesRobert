@@ -1,0 +1,112 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Schéma de référence : interaction_packets/archive_policy.md
+
+id: "2026-09-26-002"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-26"
+last_updated: "2026-09-26"
+disclosure: "D4"
+visibility: "public"
+
+date_envoi: "2026-09-26"
+heure_envoi: "10:58:26"
+timezone: "Europe/Paris"
+canal: "email (Gmail)"
+interlocuteur: "Préfecture de la Haute-Corse — Bureau des élections"
+sujet: "Scrutin sénatorial du 27 septembre — lieu du collège électoral et proclamation des résultats"
+niveau_divulgation: "D4"
+verifie_le: "2026-09-26"
+
+title: "Sénatoriales 2026 — lieu du collège électoral et proclamation des résultats"
+short_title: "Lieu et proclamation — scrutin du 27/09"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  ballot_name: "Baron Mariani"
+
+institution:
+  name: "Préfecture de la Haute-Corse"
+  body: "Bureau des élections"
+  email: "pref-elections@haute-corse.gouv.fr"
+
+cc_public_labels:
+  - "Laurence Ceccaldi"
+  - "Maguy"
+  - "Adrien Vidal"
+
+subject_tags:
+  - "Élections sénatoriales 2026"
+  - "Collège électoral"
+  - "Proclamation des résultats"
+  - "Horodatage"
+  - "Accès public / presse"
+  - "Canal officiel"
+
+contexte: >
+  À la veille du scrutin sénatorial du 27 septembre 2026, les sources publiques consultées
+  permettaient d'établir le mécanisme général de dépouillement et de proclamation, mais pas
+  le lieu précis du collège électoral de Haute-Corse, les conditions d'accès à la proclamation
+  ni le canal institutionnel exact permettant d'observer au plus près l'heure de proclamation.
+
+demande: >
+  Demande pratique portant sur quatre points : lieu exact du bureau du collège électoral ;
+  confirmation que la proclamation des résultats est faite dans cette même salle ; accès
+  éventuel du public ou de la presse, ou existence d'un point d'information distinct après
+  dépouillement ; canal officiel de publication immédiate après proclamation. Le message
+  précise que l'objectif est de distinguer l'heure de la proclamation officielle de celle
+  d'une publication ultérieure en ligne.
+
+timeline:
+  - date: "2026-09-26"
+    time: "10:58:26"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Demande de précisions pratiques sur le scrutin et la proclamation"
+    summary: >
+      Courriel envoyé au Bureau des élections, avec Laurence Ceccaldi, Maguy et Adrien Vidal
+      en copie. Demande du lieu exact du collège électoral, du lieu de proclamation, des
+      conditions d'accès public/presse et du canal officiel de publication immédiate.
+    status: "sent"
+    disclosure: "D4-outbound"
+    source: "Gmail — message envoyé vérifié le 2026-09-26"
+
+current_status:
+  label: "Demande envoyée ; réponse pratique attendue avant le scrutin"
+  interpretation: >
+    L'objectif est de pouvoir horodater demain séparément la proclamation officielle et
+    sa publication institutionnelle, sans déduire l'une de l'autre en l'absence de trace.
+
+next_watch:
+  - "Lieu exact du bureau du collège électoral"
+  - "Lieu et mode de proclamation"
+  - "Conditions d'accès du public ou de la presse"
+  - "Point d'information éventuel après dépouillement"
+  - "Canal officiel de publication immédiate"
+  - "Heure effectivement observable de proclamation"
+
+linked_cases:
+  - "2026-09-26-001"
+  - "2026-09-10-001"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+  cc_specification: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md"
+  post_scrutin_kit: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/media/kit_presse_post_scrutin_2026-09-27.md"
+
+resume_public: >
+  Le 26 septembre 2026 à 10:58:26 CEST, Jean Hugues Noël Robert a demandé au Bureau des
+  élections de la préfecture de Haute-Corse de préciser le lieu exact du collège électoral,
+  le lieu de proclamation des résultats, les conditions d'accès du public ou de la presse
+  et le canal officiel de publication immédiate. Laurence Ceccaldi, Maguy et Adrien Vidal
+  étaient en copie. La demande vise à pouvoir distinguer et horodater correctement demain
+  l'acte de proclamation et sa publication ultérieure.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: >
+    Enregistrement créé après vérification du message effectivement envoyé dans Gmail.
