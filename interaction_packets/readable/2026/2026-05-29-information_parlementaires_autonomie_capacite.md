@@ -36,3 +36,14 @@ Ce constat porte uniquement sur l’état observable de la correspondance et ne 
 - [Paquet YAML](../../packets/2026/2026-05-29-information_parlementaires_autonomie_capacite.yaml)
 - [Copie publique intégrale](../../raw/2026/2026-05-29-information_parlementaires_autonomie_capacite.eml.md)
 - [Contribution publique](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md)
+
+
+---
+
+## Continuation — amendement d’effectivité publié le 26 septembre 2026
+
+La proposition générale d’**Autonomie de Capacité** diffusée aux parlementaires le 29 mai dispose désormais d’une projection constitutionnelle plus étroite : [l’amendement d’effectivité relatif au futur article 72-5](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`.
+
+Cette publication ultérieure reformule le mécanisme déjà consacré à la loi organique et à l’évaluation afin de rendre observables les conditions de mise en œuvre effective des facultés, leur évaluation périodique et leurs effets au regard de Liberté, Égalité, Fraternité.
+
+Elle constitue une continuation documentaire de la contribution de mai ; elle ne doit pas être présentée comme ayant été contenue dans le courriel historique, ni comme soutenue, déposée ou adoptée par l’un de ses destinataires sans trace ultérieure spécifique.
