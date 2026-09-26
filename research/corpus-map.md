@@ -209,6 +209,14 @@ Priorité de digestion :
 - Ne pas produire un dérivé sans citer ses sources.
 - Ne pas fermer une continuation sans dire ce qui a été fait ou pourquoi elle devient caduque.
 
+## Jalon public — 26 septembre 2026
+
+Le corpus territorial `barons-Mariani` publie désormais l’[**Amendement d’effectivité — article 72-5**](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`.
+
+Ce document est un bon point d’entrée pour observer le Corpus en fonctionnement : une doctrine générale (**Autonomie de Capacité**) est confrontée au texte juridique existant, revue de manière adverse par plusieurs modèles, resserrée en une forme parlementaire candidate, publiée avec son historique puis propagée dans les documents qui en dépendent.
+
+Le choix de ne pas sur-fermer la rédaction est lui-même documenté : le texte doit rester suffisamment précis pour circuler et suffisamment ouvert pour être repris, corrigé ou approprié par un acteur institutionnel légitime.
+
 ## État au 2026-06-18
 
 Le corpus est techniquement synchronisé sur GitHub. Les principaux dépôts publics et le registre privé sont intégrés dans la registry Cogentia. Les vues générées, backlinks, gaps, trails, privacy checks et continuations actives sont propres au dernier passage de consolidation.
