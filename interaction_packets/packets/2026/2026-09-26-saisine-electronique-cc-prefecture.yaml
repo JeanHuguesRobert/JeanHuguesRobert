@@ -1,0 +1,145 @@
+# Paquet interactionnel — métadonnées structurées
+# Méthode générique : https://github.com/JeanHuguesRobert/cogentia/tree/main/interaction_packets
+# Schéma de référence : interaction_packets/archive_policy.md
+
+id: "2026-09-26-001"
+type: "interaction_packet"
+status: "active"
+created: "2026-09-26"
+last_updated: "2026-09-26"
+disclosure: "D4"
+visibility: "public"
+
+date_envoi: "2026-09-26"
+heure_envoi: "10:44:22"
+timezone: "Europe/Paris"
+canal: "email (Gmail)"
+interlocuteur: "Préfecture de la Haute-Corse — Bureau des élections"
+sujet: "Modalité de saisine du représentant de l’État — article 34 ordonnance n° 58-1067 — scrutin sénatorial du 27 septembre 2026"
+niveau_divulgation: "D4"
+verifie_le: "2026-09-26"
+
+title: "Sénatoriales 2026 — probe préventif sur la saisine électronique du représentant de l’État"
+short_title: "Probe saisine électronique CC / Préfecture"
+
+actor:
+  name: "Jean Hugues Noël Robert"
+  ballot_name: "Baron Mariani"
+  role: "auteur de la demande ; ancien déclarant à la candidature sénatoriale 2026 en Haute-Corse"
+
+institution:
+  name: "Préfecture de la Haute-Corse"
+  body: "Bureau des élections"
+  email: "pref-elections@haute-corse.gouv.fr"
+
+cc_public_labels:
+  - "Laurence Ceccaldi"
+  - "Maguy"
+  - "Adrien Vidal"
+
+subject_tags:
+  - "Élections sénatoriales 2026"
+  - "Conseil constitutionnel"
+  - "Article 34 — ordonnance n° 58-1067"
+  - "Saisine électronique"
+  - "Traçabilité"
+  - "Reality Probe"
+
+contexte: >
+  Le 25 septembre 2026, la préfecture et le Bureau des élections ont chacun accusé réception
+  d'une précédente démarche en employant explicitement la formule de « saisine par voie
+  électronique ». La présente interaction cherche, avant le scrutin du 27 septembre, à
+  clarifier la modalité matérielle d'une éventuelle requête postérieure au scrutin adressée
+  au représentant de l'État sur le fondement de l'article 34 de l'ordonnance n° 58-1067.
+
+demande: >
+  Confirmation qu'une requête écrite et signée, transmise en PDF à l'adresse électronique
+  officielle du Bureau des élections, pourra être reçue, horodatée et transmise par voie
+  électronique au secrétaire général du Conseil constitutionnel. À défaut, demande de la
+  modalité exacte à utiliser le dimanche 27 septembre afin d'éviter une rupture inutile
+  de la chaîne électronique.
+
+timeline:
+  - date: "2026-09-25"
+    time: "16:59:31"
+    timezone: "Europe/Paris"
+    direction: "inbound"
+    channel: "email automatique — Préfecture de la Haute-Corse"
+    event: "Accusé de réception d'une saisine électronique antérieure"
+    summary: >
+      La préfecture accuse réception de la démarche du 25/09 et indique explicitement :
+      « vous avez saisi par voie électronique, la préfecture de la Haute-Corse ».
+    status: "received_and_acknowledged"
+    source: "Gmail — trace privée ; substance publique"
+  - date: "2026-09-25"
+    time: "16:59:36"
+    timezone: "Europe/Paris"
+    direction: "inbound"
+    channel: "email automatique — Bureau des élections"
+    event: "Second accusé de réception d'une saisine électronique"
+    summary: >
+      Le Bureau des élections accuse réception de la même démarche et indique explicitement :
+      « Vous avez saisi par voie électronique, ce jour, le bureau des élections de la
+      préfecture de la Haute-Corse. »
+    status: "received_and_acknowledged"
+    source: "Gmail — trace privée ; substance publique"
+  - date: "2026-09-26"
+    time: "10:44:22"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Demande préventive sur la modalité de saisine électronique"
+    summary: >
+      Courriel envoyé au Bureau des élections, avec Laurence Ceccaldi, Maguy et Adrien Vidal
+      en copie. Le message demande confirmation qu'une requête écrite et signée transmise
+      en PDF pourra être reçue, horodatée puis transmise électroniquement au secrétaire
+      général du Conseil constitutionnel ; à défaut, il demande la modalité exacte à utiliser
+      dimanche afin d'éviter toute rupture inutile de la chaîne électronique.
+    status: "sent"
+    disclosure: "D4-outbound"
+    source: "Gmail — message envoyé vérifié le 2026-09-26"
+
+current_status:
+  label: "Demande préventive envoyée ; réponse opérationnelle attendue avant le scrutin"
+  interpretation: >
+    Le probe cherche à prévenir un éventuel conflit de support avant qu'il ne devienne
+    bloquant. Les accusés du 25/09 établissent que la préfecture qualifie déjà certaines
+    démarches reçues par courriel de « saisine par voie électronique ». La présente demande
+    ne présume pas que cette qualification suffise juridiquement au titre de l'article 34 ;
+    elle sollicite précisément une confirmation ou, à défaut, une instruction matérielle
+    explicite pour le dimanche 27 septembre.
+
+next_watch:
+  - "Réponse du Bureau des élections ou d'Adrien Vidal avant le scrutin"
+  - "Confirmation explicite de la recevabilité opérationnelle d'un PDF signé par courriel"
+  - "Modalité alternative exacte si l'email seul n'est pas accepté"
+  - "Existence d'un accusé horodaté ou d'un récépissé utilisable le 27 septembre"
+  - "Canal de transmission effectivement utilisé vers le secrétaire général du Conseil constitutionnel"
+
+linked_cases:
+  - "2026-09-10-001"
+  - "2026-09-16-003"
+
+linked_documents:
+  register: "interaction_packets/mail_trace.md"
+  cc_specification: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md"
+  ubu_kafka_grid: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md"
+
+resume_public: >
+  Le 26 septembre 2026 à 10:44:22 CEST, Jean Hugues Noël Robert a demandé au Bureau des
+  élections de la préfecture de Haute-Corse de confirmer qu'une éventuelle requête écrite
+  et signée au titre de l'article 34 de l'ordonnance n° 58-1067, transmise en PDF, pourrait
+  être reçue, horodatée puis transmise électroniquement au secrétaire général du Conseil
+  constitutionnel. Laurence Ceccaldi, Maguy et Adrien Vidal étaient en copie. La démarche
+  se place explicitement dans le prolongement de deux accusés du 25 septembre qualifiant
+  une précédente démarche de « saisine par voie électronique ». Elle vise à clarifier le
+  canal avant le scrutin et à éviter une rupture inutile de la chaîne électronique.
+
+methodological_note:
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
+  note: >
+    Enregistrement créé après vérification du message effectivement envoyé dans Gmail.
+    Le contenu est déclaré principalement public ; les identifiants techniques Gmail ne
+    sont pas publiés.
