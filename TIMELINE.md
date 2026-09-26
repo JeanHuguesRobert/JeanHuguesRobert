@@ -7,7 +7,7 @@ date: '2026-05-09'
 status: working-note
 license: CC BY 4.0
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/TIMELINE.md
-last_stamped_at: 2026-06-01T00:00:00.000Z
+last_stamped_at: 2026-09-26T00:00:00.000Z
 document_role: source
 document_kind: timeline
 visibility: public
@@ -197,6 +197,12 @@ The ecosystem increasingly converges toward:
 - and preservation of humanity’s exploratory capacity.
 
 ---
+
+## 26 September 2026 — Public effectiveness amendment
+
+Publication in `barons-Mariani` of [**Amendement d’effectivité — article 72-5**](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
+
+Documentary status at publication: public parliamentary-form proposal; no official filing or adoption is documented at this stage.
 
 # Ongoing Direction
 
