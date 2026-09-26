@@ -7,7 +7,7 @@ date: '2026-05-09'
 status: working-note
 license: CC BY 4.0
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/PROJECTS.md
-last_stamped_at: 2026-06-01T00:00:00.000Z
+last_stamped_at: 2026-09-26T00:00:00.000Z
 document_role: source
 document_kind: project-map
 visibility: public
@@ -92,6 +92,7 @@ The projects below are different attacks against that problem.
 | Constellia | Fractal renewable energy infrastructure |
 | Invidia | Concentration and social instability |
 | Protection responsable | Institutional failure during transitions |
+| [Amendement d’effectivité — article 72-5](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md) | Public parliamentary-form proposal derived from the Autonomie de Capacité work; status: published, not documented as filed or adopted |
 
 ---
 
