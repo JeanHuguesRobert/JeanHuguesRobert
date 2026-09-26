@@ -31,3 +31,23 @@ La mention officielle établit la réception et l'intégration documentaire de l
 - [Contribution publique](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md)
 - [Copie publique intégrale du fil source](../../raw/2026/2026-05-25-demande_audience_boudie_redacted.eml.md)
 - [Rapport officiel n° 2865](https://www.assemblee-nationale.fr/dyn/docs/RAPPANR5L17B2865.raw)
+
+
+---
+
+## Continuation documentaire — 26 septembre 2026
+
+La contribution écrite issue de cette séquence a connu une continuation publique distincte : [**Amendement d’effectivité — version parlementaire et note de justification**](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, publiée le 26 septembre 2026.
+
+La continuité documentée est :
+
+```text
+demande d’audience
+→ proposition officielle d’une contribution écrite
+→ contribution C.O.R.S.I.C.A.
+→ mention dans les travaux préparatoires
+→ élaboration ultérieure d’une proposition d’amendement d’effectivité
+→ publication publique en forme parlementaire candidate
+```
+
+Cette note de continuation ne modifie pas rétroactivement l’interaction de mai et ne présume aucun soutien de Florent Boudié, de son équipe ou de la commission des Lois à la proposition publiée en septembre. Elle conserve seulement la filiation documentaire entre les deux actes.
