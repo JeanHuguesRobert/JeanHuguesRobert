@@ -7,7 +7,7 @@ date: '2026-05-26'
 status: working-note
 license: CC BY 4.0
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/CONTEXT.md
-last_stamped_at: 2026-06-01T00:00:00.000Z
+last_stamped_at: 2026-09-26T00:00:00.000Z
 document_role: source
 document_kind: context-note
 visibility: public
@@ -284,6 +284,12 @@ Key reality anchors include:
 The purpose is not to build an abstract utopia.
 
 The purpose is to explore viable anti-capture infrastructures under real-world conditions.
+
+## Targeted update — 26 September 2026
+
+The territorial corpus now contains a public parliamentary-form proposal: [**Amendement d’effectivité — article 72-5**](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
+
+Status: public and versioned; no official parliamentary filing or adoption is documented at this stage. Later reuse, rewriting, filing, debate and adoption/rejection must be tracked as separate acts.
 
 ---
 
