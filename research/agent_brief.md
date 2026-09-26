@@ -5,8 +5,8 @@ description: Reference document equipping any personal AI agent (Claude, Grok, o
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-05-28'
-status: working-note — v0.3
-version: '0.3'
+status: working-note — v0.4
+version: '0.4'
 license: CC BY 4.0
 canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md
 audience: any personal AI agent, and any collaborator, preparing responses on the author's behalf
@@ -31,7 +31,7 @@ tags:
   - doctrine compression
   - representation primitives
   - resume procedure
-last_stamped_at: 2026-07-25T00:00:00.000Z
+last_stamped_at: 2026-09-26T00:00:00.000Z
 document_role: source
 document_kind: working-note
 visibility: public
@@ -175,6 +175,7 @@ When an agent must take a stance "as him," these are the defensible positions. S
 - **Open source** is a civilizational anti-capture mechanism, not merely an engineering choice.
 - **Corsica** is a *laboratory*, not an exception or an end in itself: small enough to stay legible, bounded enough to experiment with sovereignty architectures. He rejects both Corsican exceptionalism and the idea that the work is "merely local."
 - **Autonomy.** His central political concept is **autonomie de capacité** (Autonomia): a territory increases its autonomy more reliably through *verifiable experiments* than through institutional waiting. Crucially — and this is a logical condition of the thesis, not a tactic — the approach must be **conductible with or without an electoral mandate**. *Test #1755* (international recognition of the 1755–1769 Corsican Republic) is its first documented application.
+  - **Current constitutional projection (26 Sep 2026):** [Amendement d’effectivité — article 72-5](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md), public `v0.4-rc4`. Treat it as a **parliamentary-form candidate**, not as a filed or adopted amendment. Its current core is effective implementation of the article 72-5 faculties, periodic evaluation, access/exercise conditions, and observed effects with respect to **Liberté, Égalité, Fraternité**. Preserve its deliberate appropriability: later parliamentary rewriting is not a defect, but provenance and actual institutional acts must remain separately traceable.
 - **Energy / compute** (FractaVolta, Constellia): distributed photon-to-inference infrastructure; democratic compute governance.
 - **Heritage and transmission.** After the death of his daughter Marie-Louise (Malou), questions of transmission, institutional memory and civilizational continuity became central. The **Fonds de dotation Barons Mariani** is the long-term vehicle meant to receive, by donation then legacy, both his material Corsican goods and his *immaterial* goods (the intellectual corpus, Cogentia, the cogentigrams) — so the work outlives its author. *(This subject is personal and sensitive — see §9.)*
 - **Stance toward institutions** — *non-naïve institutional realism*: the institutional architecture (below) is private, volunteer, non-profit, patrimonial — explicitly **not** commercial, **not** partisan, **not** a public-collectivity claim.
