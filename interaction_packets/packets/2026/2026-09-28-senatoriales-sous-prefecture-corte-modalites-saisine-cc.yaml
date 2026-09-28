@@ -1,0 +1,59 @@
+id: "2026-09-28-002"
+date: "2026-09-28"
+time: "13:31:35"
+timezone: "Europe/Paris"
+status: "sent — response requested"
+current_status:
+  label: "Courriel public envoyé — réponse attendue"
+channel: "email"
+direction: "outbound"
+disclosure: "D4"
+visibility: "public"
+subject: "Saisine du Conseil constitutionnel — demande préalable de confirmation des modalités de remise"
+principal:
+  name: "Jean Hugues Noël Robert"
+correspondents:
+  - name: "Sous-Préfecture de Corte"
+    address: "sp-corte@haute-corse.gouv.fr"
+purpose: >
+  Vérifier si la Sous-Préfecture de Corte peut recevoir, pour le compte du
+  représentant de l'État, une requête écrite en contestation de l'élection
+  sénatoriale et en assurer la prise en charge en vue de la transmission
+  prévue par l'article 34 de l'ordonnance n° 58-1067.
+summary: >
+  Reality Test procédural : demande explicite de confirmation de la compétence
+  pratique du canal local, des modalités de transmission, de la possibilité
+  d'obtenir une attestation ou un récépissé horodaté et, en cas
+  d'incompétence, du canal que l'administration considère compétent.
+legal_basis_as_sent:
+  - "Ordonnance n° 58-1067 du 7 novembre 1958, article 33"
+  - "Ordonnance n° 58-1067 du 7 novembre 1958, article 34"
+  - "Décret n° 2004-374 du 29 avril 2004, article 14"
+evidence:
+  gmail:
+    message_id: "1a0e7c8da5ef2262"
+    thread_id: "1a0e7c8da5ef2262"
+    label: "SENT"
+    verified_at: "2026-09-28"
+    sent_at: "2026-09-28T13:31:35+02:00"
+    attachments: false
+    cc: false
+    thread_message_count_at_verification: 1
+    reply_found_at_verification: false
+linked_documents:
+  readable: "../../readable/2026/2026-09-28-senatoriales-sous-prefecture-corte-modalites-saisine-cc.md"
+  register: "../../mail_trace.md"
+  source: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/demande_information_sous_prefecture_corte_2026-09-28.md"
+follow_up:
+  - "Réponse sur la possibilité de recevoir la requête pour le compte du représentant de l'État"
+  - "Modalités pratiques et canal électronique"
+  - "Possibilité d'une attestation ou d'un récépissé horodaté"
+  - "À défaut, indication explicite du canal considéré compétent"
+methodological_note:
+  fact_interpretation_boundary: >
+    L'envoi, l'horodatage, le destinataire et l'état du fil sont vérifiés dans
+    Gmail. La démarche ne présume pas la compétence de la sous-préfecture :
+    elle cherche précisément à la tester avant l'échéance contentieuse.
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
