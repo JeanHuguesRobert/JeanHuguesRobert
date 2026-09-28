@@ -2,9 +2,9 @@ id: "2026-09-27-001"
 date: "2026-09-27"
 time: "13:38:54"
 timezone: "Europe/Paris"
-status: "sent — response requested"
+status: "sent — supplemented 2026-09-28 — response requested"
 current_status:
-  label: "Courriel public envoyé — réponse attendue"
+  label: "Courriel public envoyé puis complété — réponse attendue"
 channel: "email"
 direction: "outbound"
 disclosure: "D4"
@@ -23,6 +23,8 @@ summary: >
   Demande publique de communication du procès-verbal et de ses annexes,
   avec une attention particulière portée aux 36 bulletins blancs et aux
   40 bulletins nuls constatés pour 606 votants et 530 suffrages exprimés.
+  Aucun accusé automatique n'a été retrouvé pour cet envoi. Un complément
+  juridiquement précisé a été envoyé le 28 septembre 2026.
 reported_results:
   registered: 616
   voters: 606
@@ -39,22 +41,28 @@ evidence:
     message_id: "1a0e2a9480a91dfa"
     thread_id: "1a0e2a819180dfef"
     label: "SENT"
-    verified_at: "2026-09-27"
+    verified_at: "2026-09-28"
     sent_at: "2026-09-27T13:38:54+02:00"
     attachments: false
+    automatic_ack_found: false
 linked_documents:
   readable: "../../readable/2026/2026-09-27-senatoriales-haute-corse-demande-pv.md"
+  supplement: "../../readable/2026/2026-09-28-senatoriales-haute-corse-complement-demande-pv.md"
   register: "../../mail_trace.md"
   candidature: "../../readable/2026/2026-09-10-candidature-senatoriale-haute-corse.md"
+  legal_request: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
 follow_up:
+  - "Complément envoyé le 2026-09-28 à 09:50:16 CEST"
+  - "Accusé de réception demandé explicitement"
   - "Réception du procès-verbal complet et de ses annexes"
-  - "Identification éventuelle des catégories de nullité des 40 bulletins nuls"
-  - "Fondement juridique d'une éventuelle non-communication"
+  - "Identification des catégories de nullité des 40 bulletins nuls à partir des pièces, sans présumer leur signification"
+  - "Fondement juridique d'une éventuelle non-communication ou impossibilité de transmission dématérialisée"
 methodological_note:
   fact_interpretation_boundary: >
     L'envoi, le destinataire et l'horodatage sont vérifiés dans Gmail.
-    La nature volontaire ou accidentelle des bulletins nuls n'est pas présumée
-    et doit être instruite à partir du procès-verbal et de ses annexes.
+    L'absence d'accusé automatique est un constat technique et ne permet pas
+    d'inférer à elle seule la non-réception par la préfecture. La nature
+    volontaire ou accidentelle des bulletins nuls n'est pas présumée.
   ai_assistance: true
   human_arbitration: "Jean Hugues Noël Robert"
   responsibility: "exclusive human responsibility"
