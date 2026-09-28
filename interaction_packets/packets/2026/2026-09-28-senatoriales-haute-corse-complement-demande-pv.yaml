@@ -1,0 +1,78 @@
+id: "2026-09-28-001"
+date: "2026-09-28"
+time: "09:50:16"
+timezone: "Europe/Paris"
+status: "sent — acknowledgement and response requested"
+current_status:
+  label: "Courriel public envoyé — accusé et réponse attendus"
+channel: "email"
+direction: "outbound"
+disclosure: "D4"
+visibility: "public"
+subject: "Élections sénatoriales 2026 — complément à ma demande du 27 septembre — procès-verbal et annexes"
+principal:
+  name: "Jean Hugues Noël Robert"
+correspondents:
+  - name: "Préfecture de la Haute-Corse — Bureau des élections"
+    address: "pref-elections@haute-corse.gouv.fr"
+  - name: "Préfecture de la Haute-Corse"
+    address: "prefecture@haute-corse.gouv.fr"
+copies:
+  - name: "Maguy"
+    address_visibility: "private — intentionally omitted"
+  - name: "Laurence"
+    address_visibility: "private — intentionally omitted"
+purpose: >
+  Compléter la demande du 27 septembre 2026 relative au procès-verbal du scrutin
+  sénatorial de Haute-Corse, préciser le fondement juridique et le périmètre
+  des pièces demandées, privilégier une transmission dématérialisée et demander
+  explicitement un accusé de réception.
+summary: >
+  Courriel public complétant la demande du 27 septembre. Il vise le procès-verbal,
+  les 40 bulletins nuls annexés et leurs mentions, les pièces correspondant aux
+  36 votes blancs, les feuilles de dépouillement, réclamations et observations,
+  ainsi que toute référence directe ou indirecte à Jean Hugues Noël Robert
+  et/ou Laurence Vernerey. Transmission dématérialisée privilégiée pour
+  l'automatisation, la sobriété matérielle, l'absence de déplacement et la
+  traçabilité.
+legal_basis_as_sent:
+  - "Code électoral, article LO 325"
+  - "Code électoral, article LO 179"
+  - "Ordonnance n° 58-1067 du 7 novembre 1958, article 32"
+  - "Code électoral, article L. 65"
+  - "Code électoral, article L. 66"
+evidence:
+  gmail:
+    message_id: "1a0e6fe59ed9e8f1"
+    thread_id: "1a0e6e6f9908ab4e"
+    label: "SENT"
+    verified_at: "2026-09-28"
+    sent_at: "2026-09-28T09:50:16+02:00"
+    attachments: false
+    thread_message_count_at_verification: 1
+    automatic_ack_found_at_verification: false
+privacy:
+  public_substance: true
+  omitted_from_public_projection:
+    - "personal email address of Maguy"
+    - "personal email address of Laurence"
+linked_documents:
+  readable: "../../readable/2026/2026-09-28-senatoriales-haute-corse-complement-demande-pv.md"
+  previous_interaction: "../../readable/2026/2026-09-27-senatoriales-haute-corse-demande-pv.md"
+  register: "../../mail_trace.md"
+  legal_request: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
+follow_up:
+  - "Accusé de réception demandé explicitement"
+  - "Communication totale ou partielle des pièces"
+  - "Motivation d'une éventuelle impossibilité de transmission dématérialisée"
+  - "Préservation de l'intégrité des pièces"
+methodological_note:
+  fact_interpretation_boundary: >
+    L'envoi, les destinataires institutionnels, l'horodatage et l'absence
+    d'accusé automatique dans le fil au moment de la vérification sont des
+    constats Gmail. L'absence d'accusé ne permet pas d'inférer la non-réception.
+    Aucune intention des électeurs n'est inférée des bulletins nuls avant
+    examen des pièces.
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
