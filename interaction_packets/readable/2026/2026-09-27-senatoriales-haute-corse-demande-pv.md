@@ -30,6 +30,10 @@ Le courriel a été envoyé le **27 septembre 2026 à 13:38:54 CEST** au Bureau 
 
 L'envoi a été vérifié dans Gmail avec le label `SENT`. Il ne comportait aucune pièce jointe.
 
+Aucun accusé de réception automatique n'a été retrouvé pour cet envoi, alors que plusieurs échanges récents avec le même service en avaient généré. Ce constat est enregistré sans inférence sur sa cause.
+
+Le **28 septembre 2026 à 09:50:16 CEST**, un courriel complémentaire a été envoyé au Bureau des élections et à l'adresse générale de la préfecture. Il précise le fondement juridique, affine la liste des pièces demandées, privilégie une transmission dématérialisée et demande expressément un accusé de réception. Voir l'[interaction complémentaire du 28 septembre](./2026-09-28-senatoriales-haute-corse-complement-demande-pv.md).
+
 ## Objet de l'interaction
 
 La demande porte sur le **procès-verbal complet des opérations électorales de l'élection sénatoriale organisée en Haute-Corse le 27 septembre 2026**, ainsi que sur ses annexes communicables.
@@ -44,7 +48,7 @@ Les résultats publiés au moment de l'envoi faisaient état de :
 - 442 suffrages pour Paulu Santu Parigi ;
 - 88 suffrages pour Nicolas Battini.
 
-La demande vise en particulier à documenter la nature des **40 bulletins nuls**, afin de distinguer, si les documents le permettent, les nullités matérielles des éventuels gestes électoraux volontaires de refus des deux candidatures.
+La demande vise en particulier à documenter la nature des **40 bulletins nuls**, sans présumer leur signification ni l'intention des électeurs.
 
 ## Courriel envoyé
 
@@ -77,12 +81,14 @@ La demande vise en particulier à documenter la nature des **40 bulletins nuls**
 
 ## État courant
 
-**Courriel envoyé ; réponse attendue.**
+**Courriel initial envoyé le 27 septembre ; complété le 28 septembre ; réponse attendue.**
 
-La réponse administrative sera elle-même utile à l'étude de la traçabilité du scrutin : communication complète, communication partielle, absence de détail sur les nullités, refus motivé ou transmission à une autre autorité.
+La réponse administrative sera elle-même utile à l'étude de la traçabilité du scrutin : communication complète, communication partielle, réponse motivée, routage vers une autre autorité ou absence de réponse.
 
 ## Documents liés
 
+- [Interaction complémentaire du 28 septembre](./2026-09-28-senatoriales-haute-corse-complement-demande-pv.md)
 - [Paquet YAML](../../packets/2026/2026-09-27-senatoriales-haute-corse-demande-pv.yaml)
 - [Registre public des interactions](../../mail_trace.md)
 - [Candidature sénatoriale Haute-Corse 2026](./2026-09-10-candidature-senatoriale-haute-corse.md)
+- [Demande juridique consolidée dans barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md)
