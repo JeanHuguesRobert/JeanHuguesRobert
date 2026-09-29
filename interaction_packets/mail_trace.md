@@ -34,6 +34,12 @@ provenance:
 
 | ID | Date | Sujet | Interlocuteur | Relance | Jours écoulés | Statut | Divulgation |
 |---|---:|---|---|---:|---:|---|---|
+| 2016-12-07-001 | 2016-12-07 | Régularisation fiscale / SCI Aubépine — contestation d'imposition et recouvrement | DGFiP — SIP/PCRP/PRS Alpes-Maritimes | 0 | 0 | Échanges directs et coopératifs avec plusieurs agents. Après instruction, annonce le 19/12 d'un dégrèvement total de 246 719 € (avec remise des 10 %) et décision de mainlevée d'un ATD bancaire à hauteur de 83 494,83 €. Copie de la mainlevée transmise par courriel le 20/12 afin d'accélérer la restitution des fonds. Cas historique de référence : l'administration corrige une imposition contestée, coordonne plusieurs services et cherche explicitement à accélérer l'effet pratique de la correction. | D3 |
+| 2017-05-18-001 | 2017-05-18 | Législatives 2017 — dépôt et organisation matérielle de candidature | Préfecture de la Haute-Corse — Bureau des élections | 0 | 0 | Séquence opérationnelle suivie : transmission d'un formulaire de rattachement « comme convenu », envoi du récépissé définitif le 23/05, échanges sur les maquettes PDF, la commission de propagande, les bulletins, les assesseurs et délégués. Les courriels montrent une relation administrative fonctionnelle, personnalisée et orientée vers la résolution pratique des formalités. | D3 |
+| 2020-09-08-001 | 2020-09-08 | Sénatoriales 2020 — candidature et contrôle d'éligibilité de la remplaçante | Préfecture de la Haute-Corse — Bureau des élections | 0 | 0 | Avant le dépôt, le service signale les mentions manquantes du CERFA, propose un rendez-vous et, le 09/09, expose l'analyse confirmée par le bureau des élections du ministère de l'Intérieur selon laquelle la candidature sera rejetée en l'état en raison des conditions d'éligibilité ; il se déclare disponible pour tout renseignement complémentaire. Le refus d'enregistrement est ensuite notifié le 10/09 et l'original annoncé par LRAR. Cas de référence important : décision défavorable mais information préalable, motivation explicite et continuité du dialogue. | D3 |
+| 2024-06-12-001 | 2024-06-12 | Législatives 2024 — candidature « Barons Mariani » / pièces d'identité et dépôt | Préfecture de la Haute-Corse — Bureau des élections | 0 | 0 | Le service rappelle sa neutralité et refuse d'intervenir auprès de la mairie de Nîmes ou de la préfecture du Gard, mais fournit une solution pratique : une pièce d'identité périmée peut être présentée si l'identité, la nationalité et l'inscription électorale ne font pas de doute. Le 16/06, il signale que le CERFA n'est pas rempli avant le déplacement ; le récépissé définitif est transmis le 17/06. Séquence globalement coopérative malgré une stricte séparation des compétences. | D3 |
+| 2024-10-02-001 | 2024-10-02 | Décès de Marie-Louise Robert — permis d'inhumer, analyses toxicologiques et crémation | Gendarmerie nationale — BTA Vence / parquet compétent | 0 | 0 | La BTA transmet le permis d'inhumer le 02/10 et annonce qu'elle rappellera lorsque l'enquête évoluera. En novembre, l'adjudante Canivet répond à plusieurs relances, explique être liée par les instructions du magistrat et l'attente des résultats toxicologiques, et décrit les suites possibles. Le 06/01/2025, elle transmet le PV autorisant la crémation. Relation difficile par les délais et le cadre procédural, mais réponses humaines substantielles et explicatives demeurent présentes. | D3 |
+| 2024-03-20-001 | 2024-03-20 | Domaine Mariani — instruction d'une protection au titre des monuments historiques | DRAC de Corse / services de l'État en Corse | 0 | 0 | Relation suivie et coopérative sur 2024-2025 : visite sur site annoncée en mars 2024, information sur l'avancement de l'instruction, demandes documentaires ciblées, échanges téléphoniques, invitation au conseil des sites du 06/06/2025, formalisation de l'accord en juin et relance proactive de la DRAC en décembre 2025 pour finaliser l'arrêté. Contre-exemple durable à toute hypothèse d'un retrait général de l'appareil d'État. | D3 |
 | 2024-06-21-001 | 2024-06-21 | Législatives 2024 — égalité de traitement médiatique / exclusion du débat de la 2e circonscription | ARCOM — alerte n°807989 concernant France 3 Corse | 0 | 777 | Alerte reçue et validée par l’ARCOM le 2024-06-21 ; aucune réponse finale retrouvée au 2026-08-07 | D2 |
 | 2026-05-04-001 | 2026-05-04 | Session MareNostrum | Université de Corse | 0 | 1 | Réponse reçue : négative | D3 |
 | 2026-05-24-001 | 2026-05-24 | Courrier public — projet de loi constitutionnelle sur la Corse | Six parlementaires corses | 0 | 120 | Courriel public envoyé ; aucune réponse des six destinataires détectée au 2026-09-21 | D4 |\n| 2026-05-25-001 | 2026-05-25 | Autonomie de capacité — contribution Commission des Lois | Florent Boudié / Commission des Lois | 1 | 0 | Contribution transmise le 28/05 à 23:44 puis officiellement mentionnée sous « Contributions écrites » dans le rapport n° 2865 du 03/06/2026 | D4 |\n| 2026-05-29-001 | 2026-05-29 | Information des parlementaires corses — contribution Autonomie de capacité | Six parlementaires corses | 0 | 115 | Courriel public envoyé ; aucune réponse des six destinataires détectée au 2026-09-21 | D4 |
@@ -62,6 +68,54 @@ provenance:
 | 2026-09-27-001 | 2026-09-27 | [Sénatoriales 2026 — demande du procès-verbal du scrutin de Haute-Corse](readable/2026/2026-09-27-senatoriales-haute-corse-demande-pv.md) | Préfecture de la Haute-Corse — Bureau des élections | 1 | 1 | Courriel public envoyé le 27/09/2026 à 13:38:54 CEST. Aucun accusé automatique retrouvé, contrairement à plusieurs échanges récents avec le service ; ce constat ne permet pas d'inférer la non-réception. Demande du procès-verbal, de ses annexes et des éléments relatifs aux 40 bulletins nuls. Demande complétée le 28/09/2026 à 09:50:16 CEST par une saisine juridiquement précisée, adressée au Bureau des élections et à la préfecture. Aucun accusé automatique ni réponse retrouvé dans Gmail au 29/09/2026. | D4 |
 | 2026-09-28-001 | 2026-09-28 | [Sénatoriales 2026 — complément à la demande du procès-verbal](readable/2026/2026-09-28-senatoriales-haute-corse-complement-demande-pv.md) | Préfecture de la Haute-Corse — Bureau des élections et adresse générale | 0 | 0 | Courriel public envoyé le 28/09/2026 à 09:50:16 CEST, avec Maguy et Laurence en copie (adresses personnelles non publiées). Complète la demande du 27/09 : fondement LO 325 / LO 179 / art. 32 de l'ordonnance de 1958, précision des 40 bulletins nuls et 36 votes blancs, demande de toute référence directe ou indirecte à Jean Hugues Noël Robert et/ou Laurence Vernerey, préférence pour une transmission dématérialisée dans un format ouvert ou aisément exploitable automatiquement, et demande expresse d'accusé de réception. Au 29/09/2026, le fil ne contient que le message envoyé : aucun accusé automatique ni réponse. Cette absence est notable car les mêmes deux boîtes fonctionnelles avaient chacune émis un accusé automatique le 25/09 à quelques secondes d'intervalle ; elle ne suffit toutefois pas à établir une non-réception ni une décision humaine, les mécanismes d'auto-réponse pouvant être temporisés, filtrés ou dédupliqués. | D4 |
 | 2026-09-28-002 | 2026-09-28 | [Sénatoriales 2026 — Sous-préfecture de Corte : modalités de remise d’une requête au Conseil constitutionnel](readable/2026/2026-09-28-senatoriales-sous-prefecture-corte-modalites-saisine-cc.md) | Sous-Préfecture de Corte | 0 | 0 | Courriel public envoyé le 28/09/2026 à 13:31:35 CEST à `sp-corte@haute-corse.gouv.fr`, sans copie ni pièce jointe. Reality Test procédural : demande si la sous-préfecture peut recevoir, pour le compte du représentant de l’État, une requête relevant de l’article 34 de l’ordonnance n° 58-1067, en assurer la prise en charge, préciser les modalités pratiques et délivrer une attestation ou un récépissé horodaté ; en cas d’incompétence, demande d’indiquer le canal considéré compétent. Au 29/09/2026, le fil ne contient que le message envoyé : aucune réponse ni accusé automatique retrouvé. | D4 |
+
+## Baselines historiques — 2016 à 2025
+
+La remontée dans Gmail fournit plusieurs **baselines historiques** qui changent l'interprétation du signal observé en septembre 2026.
+
+### 2016 — DGFiP : correction substantielle et recherche d'effectivité
+
+Dans le dossier fiscal de la SCI Aubépine, les échanges montrent une administration capable de réexaminer rapidement une situation lourde, de coordonner plusieurs agents et services et de corriger matériellement ses propres actes. Après discussion des pièces et du fondement fiscal, une inspectrice annonce un dégrèvement total ; le service de recouvrement annonce parallèlement la mainlevée d'un ATD puis transmet la mainlevée par courriel afin que l'usager puisse la remettre directement à sa banque pour accélérer la restitution.
+
+Ce cas constitue une baseline forte : la contestation d'une décision administrative, même financièrement importante, n'entraîne pas en soi une fermeture du dialogue.
+
+### 2017 — Bureau des élections : assistance opérationnelle personnalisée
+
+La candidature législative de 2017 produit de nombreux échanges fonctionnels : formulaires transmis « comme convenu », maquettes vérifiées, demandes de PDF, informations sur la commission de propagande, récépissé définitif et indications relatives aux assesseurs et délégués.
+
+Le service ne se contente pas d'enregistrer passivement : il aide à faire aboutir les formalités dans le cadre légal.
+
+### 2020 — décision défavorable sans rupture du contradictoire administratif
+
+La candidature sénatoriale de 2020 est un contrôle particulièrement utile parce que l'issue est défavorable. Le Bureau des élections signale avant le dépôt les éléments problématiques, consulte le ministère de l'Intérieur, communique l'analyse juridique le 09/09 et indique que la candidature sera rejetée en l'état, tout en se disant disponible pour des renseignements complémentaires. Le refus est ensuite formellement notifié le 10/09.
+
+Ainsi, **une décision défavorable ou un conflit juridique ne suffit pas historiquement à expliquer la raréfaction des réponses**.
+
+### 2024 — candidature législative : coopération encore présente
+
+En juin 2024, le même Bureau des élections refuse à juste titre de se substituer à d'autres administrations, mais cherche une solution praticable pour la pièce d'identité de Marie-Louise, signale avant le déplacement qu'un CERFA n'est pas rempli, puis transmet le récépissé définitif.
+
+La relation reste donc, à cette date, opérationnelle et relativement individualisée.
+
+### 2024-2025 — deux trajectoires divergentes
+
+- **Gendarmerie / décès de Marie-Louise** : les délais et contraintes sont lourds, mais l'adjudante Canivet répond, explique l'attente toxicologique et le rôle du magistrat, puis transmet finalement l'autorisation de crémation. Il existe de la friction, mais pas de silence systématique.
+- **DRAC / Domaine Mariani** : trajectoire au contraire durablement coopérative, avec visites, demandes de pièces, informations d'avancement, conseil des sites, formalisation de l'accord et relance proactive de l'administration en décembre 2025.
+
+### Conséquence analytique
+
+Ces baselines affaiblissent fortement l'hypothèse d'une hostilité ancienne, générale ou attachée à la seule personne de Jean Hugues Robert.
+
+L'hypothèse plus étroite qui résiste actuellement est temporelle et fonctionnelle : **le changement observable se concentre surtout lorsque, en 2026, certaines démarches deviennent des demandes de traçabilité opposable sur la conduite propre des services, notamment dans le contentieux électoral**.
+
+Il faut donc distinguer au moins quatre variables :
+
+1. issue favorable ou défavorable ;
+2. demande ordinaire ou demande d'audit ;
+3. service concerné ;
+4. période et contexte contentieux.
+
+Les archives 2016, 2017, 2020, 2024 et 2025 montrent qu'une décision défavorable, une contestation ou une situation sensible peuvent parfaitement coexister avec des réponses rapides et substantielles. Le facteur « demande susceptible de documenter la responsabilité ou la chaîne de traitement du service lui-même » devient donc un candidat explicatif plus intéressant, sans être encore démontré comme causal.
 
 ## Observation longitudinale — réponses de l'appareil d'État (septembre 2026)
 
