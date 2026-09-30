@@ -431,3 +431,25 @@ methodological_note:
     et mail_trace.md déjà publié. Aucun nouvel envoi externe. Les faits postérieurs au 10/09
     soir repris ici étaient déjà dans le registre Markdown ; le paquet YAML et sa projection
     SQL étaient en retard.
+
+
+photo_evidence_2026_09_11:
+  timestamp_semantics: "Le timestamp du nom de fichier correspond étroitement à l ingestion en bibliothèque ; ne pas l assimiler automatiquement à l heure de prise de vue sans confirmation contextuelle."
+  items:
+    - {time: "10:15:13", file: "image-1789114513233.jpg", description: "Colis photographié à Corte", evidentiary_role: "contextual"}
+    - {time: "10:19:51", file: "image-1789114791701.jpg", description: "Extérieur à Corte, bâtiment de l Université de Corse", evidentiary_role: "contextual_location"}
+    - {time: "10:20:57", file: "image-1789114857207.jpg", description: "Rue et mur peint à Corte", evidentiary_role: "contextual_location"}
+    - {time: "11:33:22", file: "image-1789119202995.jpg", description: "Titre CFC émis à 11:25, libellé Bastia -> Casamozza, 4 euros", evidentiary_role: "transport_context_needs_interpretation"}
+    - {time: "11:51:22", file: "image-1789120282936.jpg", description: "Passage à Lupino depuis le train, identifié dans la conversation", evidentiary_role: "strong_location_time"}
+    - {time: "11:55:39", file: "image-1789120539616.jpg", description: "Gara di Bastia", evidentiary_role: "strong_location_time"}
+    - {time: "11:57:45", file: "image-1789120665088.jpg", description: "Entrée/panneau de la préfecture de Haute-Corse", evidentiary_role: "strong_location_time"}
+    - {time: "12:02:31", file: "image-1789120951677.jpg", description: "Façade/accueil de la préfecture", evidentiary_role: "strong_location_time"}
+    - {time: "12:27:40", file: "image-1789122460210.jpg", description: "Bureau préfectoral, écran affichant le formulaire de mandataire financier", evidentiary_role: "strong_process_evidence"}
+    - {time: "12:32:23", file: "image-1789122743280.jpg", description: "Écran : déclaration de mandataire personne physique - accord du mandataire", evidentiary_role: "strong_process_evidence"}
+    - {time: "12:32:44", file: "image-1789122764636.jpg", description: "Second cliché du formulaire de mandataire affiché", evidentiary_role: "strong_process_evidence"}
+    - {time: "12:37:14", file: "image-1789123034607.jpg", description: "Récépissé provisoire photographié, document daté de 12H20", evidentiary_role: "strong_document_evidence"}
+    - {time: "12:41:31", file: "image-1789123291814.jpg", description: "Extérieur de la préfecture en fin de séquence physique", evidentiary_role: "strong_context"}
+    - {time: "14:14:07", file: "image-1789128847412.jpg", description: "Panneau Ajaccio/Aiacciu, Venaco/Venacu, Aleria lors du passage à Corte", evidentiary_role: "strong_route_time"}
+    - {time: "16:53:45", file: "image-1789138425876.jpg", description: "Ânes, lieu/heure de prise non établis par image seule", evidentiary_role: "contextual_only"}
+    - {time: "16:53:54", file: "image-1789138434244.jpg", description: "Ânes, lieu/heure de prise non établis par image seule", evidentiary_role: "contextual_only"}
+    - {time: "16:54:02", file: "image-1789138442368.jpg", description: "Ânes, lieu/heure de prise non établis par image seule", evidentiary_role: "contextual_only"}
