@@ -81,9 +81,9 @@ La demande vise en particulier à documenter la nature des **40 bulletins nuls**
 
 ## État courant
 
-**Courriel initial envoyé le 27 septembre ; complété le 28 septembre ; réponse attendue.**
+**Courriel initial envoyé le 27 septembre ; complété le 28 septembre ; réponse reçue le 30 septembre.**
 
-La réponse administrative sera elle-même utile à l'étude de la traçabilité du scrutin : communication complète, communication partielle, réponse motivée, routage vers une autre autorité ou absence de réponse.
+Le **30 septembre 2026 à 08:16:30 CEST**, Adrien Vidal, chef du Bureau des élections, a répondu dans le fil du complément du 28 septembre. Il confirme la possibilité de consulter les pièces et propose une consultation en préfecture le **1er octobre à 14 h 00**, en citant notamment procès-verbaux, listes d'émargement, bulletins nuls, annexes et feuilles de dépouillement. La préférence pour une transmission dématérialisée n'est pas traitée explicitement dans cette réponse.
 
 ## Documents liés
 
