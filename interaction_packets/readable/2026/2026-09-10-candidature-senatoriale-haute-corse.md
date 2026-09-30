@@ -79,6 +79,34 @@ L'accusé précise correctement que cette réception **ne préjuge pas de la com
 
 Ce second événement est enregistré comme un **élément favorable au fonctionnement administratif** : après adaptation à la limite de taille, le canal électronique a fourni rapidement une preuve institutionnelle explicite de réception et a distingué proprement réception, instruction et recevabilité.
 
+## Chronologie détaillée du vendredi 11 septembre 2026
+
+Cette chronologie croise les courriels horodatés, les documents administratifs, les métadonnées de la vidéo et les traces contemporaines de conversation/photos. Les heures sont en **CEST (UTC+2)**. Lorsqu'une heure provient d'une trace de conversation ou d'une photographie et non d'un document administratif, cela est indiqué.
+
+- **08:14:11** — Courriel au Bureau des élections, Laurence Marie Vernerey et Marguerite Ghionga en copie. Le candidat annonce qu'il prendra le train de **09:45** à Corte, dont l'arrivée théorique à Bastia est **11:39**, puis se présentera à la préfecture peu après son arrivée.
+- **08:42:59** — Laurence répond « Parfait » au message annonçant le déplacement.
+- **09:45** — heure prévue de départ du train Corte–Bastia. La trace disponible confirme l'intention et l'horaire annoncé ; l'heure exacte de mise en mouvement du train n'est pas encore documentée séparément.
+- **11:51–11:52 environ** — le train est signalé en retard lors du passage à **Lupino**. Une trace conversationnelle horodatée à 11:51:32 permet de fixer ce jalon. À ce moment, l'arrivée à Bastia est estimée autour de 11:56–12:00.
+- **11:55 environ** — arrivée à la **gare de Bastia** documentée par photographie dans la conversation. La trace technique correspondante est à 09:55:45 UTC, soit **11:55:45 CEST**.
+- **11:57 environ** — présence devant / à proximité immédiate de la **préfecture de Haute-Corse**, documentée par photographie ; trace technique à 09:57:49 UTC, soit **11:57:49 CEST**.
+- **12:02 environ** — arrivée au **nouvel accueil de la préfecture**, documentée dans la conversation ; trace technique à 10:02:38 UTC, soit **12:02:38 CEST**.
+- **12:20** — le récépissé provisoire de déclaration de candidature est daté de cette heure. Il matérialise la comparution physique et la prise en charge du dossier, sans préjuger de sa conformité finale.
+- **vers 12:41** — fin de l'entretien / sortie de la préfecture, d'après la trace conversationnelle horodatée à 10:41:44 UTC, soit **12:41:44 CEST**.
+- **14:14:39** — depuis Corte, envoi électronique au Bureau des élections des deux formulaires exacts demandés concernant le mandataire financier : déclaration de désignation et accord du mandataire. Le message rappelle le récépissé de 12:20, précise que les informations substantielles avaient déjà été fournies le 10/09 et indique rester disponible jusqu'à 18:00 pour toute demande complémentaire précise.
+- **16:14:05** — Jean-Pierre Cavaillé, Bureau des élections, répond : « J'accuse réception des documents. »
+- **17:45:55** — métadonnée de création de la vidéo VID_20260911_174455.mp4 : enregistrement de la déclaration vidéo commune avec Laurence Marie Vernerey. Le fichier dure environ 58,14 s et son empreinte SHA-256 est documentée dans la fiche d'intégrité dédiée.
+- **17:57:55** — courriel « Élections sénatoriales 2026 – déclaration vidéo complémentaire » envoyé au Bureau des élections, Laurence et Maguy en copie. Il transmet le lien vers la vidéo et précise qu'elle ne prétend pas se substituer aux formalités du code électoral mais vise à documenter identités, volonté commune et consentement.
+- **18:00** — échéance annoncée par la préfecture pour le dépôt des candidatures.
+- **18:16** — horodatage visible du dépôt Télérecours préfectoral dans le dossier n°2601715. À ce stade, la question de savoir si le courriel vidéo de 17:57:55 avait été reçu et intégré avant cette transmission reste distincte et fait l'objet d'une demande de traçabilité ultérieure.
+- **18:25:49** — Laurence adresse un courriel intitulé « Porte-parole » désignant Jean Hugues comme porte-parole pour la campagne sénatoriale.
+- **18:45:53** — France Transfert notifie l'envoi par le Tribunal administratif de Bastia de deux requêtes relatives aux élections sénatoriales, dossiers **2601714** et **2601715**, avec audience annoncée pour le lundi 14 septembre à 15:00. Le pli contient notamment les deux requêtes et les deux dossiers PDF transmis par la préfecture.
+
+### Lecture temporelle
+
+Le trajet prévu **09:45 → 11:39** a donc connu, ce 11 septembre, un retard observable d'environ **16 à 17 minutes** à l'arrivée à Bastia. Malgré ce retard, la présence à la préfecture est documentée vers **11:57**, l'accès à l'accueil vers **12:02** et la remise du récépissé à **12:20**, soit près de six heures avant l'échéance de 18:00.
+
+Cette chronologie doit rester ouverte : tout billet, photographie originale, métadonnée EXIF, historique de localisation, message de covoiturage, appel téléphonique ou document préfectoral retrouvé ultérieurement pourra raffiner les intervalles encore approximatifs.
+
 ## Archivage Drive et privacy
 
 Deux espaces distincts ont été créés dans Google Drive :
