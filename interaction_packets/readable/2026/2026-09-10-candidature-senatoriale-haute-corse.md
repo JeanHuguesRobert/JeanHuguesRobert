@@ -104,6 +104,16 @@ Cette chronologie croise les courriels horodatés, les documents administratifs,
 - **16:14:05** — Jean-Pierre Cavaillé, Bureau des élections, répond : « J'accuse réception des documents. »
 - **16:13 environ** — arrivée dans le secteur d'Ajaccio que Google Maps agrège au **Camping Les Mimosas** ; Jean Hugues précise que le lieu réel est le **jardin d'une sympathisante de J.-F. Baccarelli**.
 - **vers 17:30** — préparation avec Laurence de la déclaration vidéo commune dans ce jardin : organisation de la prise et lecture d'un texte préparé en **trois séquences (Jean Hugues → Laurence → Jean Hugues)**.
+### Pièce vidéo du 11 septembre
+
+La vidéo `VID_20260911_174455.mp4`, créée à **17:45:55 CEST**, contient trois prises de parole successives : **Jean Hugues Noël Robert → Laurence Marie Vernerey → Jean Hugues Noël Robert**.
+
+La transcription intégrale doit être insérée manuellement ici :
+
+<!-- BEGIN VIDEO TRANSCRIPT 2026-09-11 -->
+[À COMPLÉTER]
+<!-- END VIDEO TRANSCRIPT 2026-09-11 -->
+
 - **17:45:55** — métadonnée de création de la vidéo VID_20260911_174455.mp4 : enregistrement de la déclaration vidéo commune avec Laurence Marie Vernerey, **filmée par un militant présent, dont l'identité est volontairement anonymisée dans la projection publique**, dans le jardin de la sympathisante de J.-F. Baccarelli. Le fichier dure environ 58,14 s et son empreinte SHA-256 est documentée dans la fiche d'intégrité dédiée.
 - **17:57:55** — courriel « Élections sénatoriales 2026 – déclaration vidéo complémentaire » envoyé au Bureau des élections, Laurence et Maguy en copie. Il transmet le lien vers la vidéo et précise qu'elle ne prétend pas se substituer aux formalités du code électoral mais vise à documenter identités, volonté commune et consentement. **Aucun accusé automatique ni réponse humaine à ce message n'a été retrouvé le 11 septembre ; son fil Gmail ne contient que le message envoyé.**
 - **18:00** — échéance annoncée par la préfecture pour le dépôt des candidatures.
