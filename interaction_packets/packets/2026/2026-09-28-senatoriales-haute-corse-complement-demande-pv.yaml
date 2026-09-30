@@ -2,9 +2,9 @@ id: "2026-09-28-001"
 date: "2026-09-28"
 time: "09:50:16"
 timezone: "Europe/Paris"
-status: "sent — acknowledgement and response requested"
+status: "response received — consultation proposed"
 current_status:
-  label: "Courriel public envoyé — accusé et réponse attendus"
+  label: "Réponse reçue — consultation proposée le 2026-10-01 à 14:00"
 channel: "email"
 direction: "outbound"
 disclosure: "D4"
@@ -51,6 +51,20 @@ evidence:
     attachments: false
     thread_message_count_at_verification: 1
     automatic_ack_found_at_verification: false
+  reply:
+    message_id: "1a0f0f52e3f74c2b"
+    received_at: "2026-09-30T08:16:30+02:00"
+    sender: "Adrien Vidal — Bureau des élections et de la démocratie locale"
+    attachments: false
+    consultation_proposed_at: "2026-10-01T14:00:00+02:00"
+    documents_named:
+      - "procès-verbaux de chaque bureau"
+      - "procès-verbal du bureau centralisateur"
+      - "listes d'émargement"
+      - "bulletins nuls"
+      - "annexes"
+      - "feuilles de dépouillement"
+    dematerialized_transmission_addressed_explicitly: false
 privacy:
   public_substance: true
   omitted_from_public_projection:
@@ -62,10 +76,10 @@ linked_documents:
   register: "../../mail_trace.md"
   legal_request: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
 follow_up:
-  - "Accusé de réception demandé explicitement"
-  - "Communication totale ou partielle des pièces"
-  - "Motivation d'une éventuelle impossibilité de transmission dématérialisée"
-  - "Préservation de l'intégrité des pièces"
+  - "Décider de la suite à donner à la proposition de consultation du 2026-10-01 à 14:00"
+  - "Clarifier, si utile, la demande de transmission dématérialisée restée sans réponse explicite"
+  - "Examiner les pièces, notamment les 40 bulletins nuls et leurs mentions"
+  - "Préserver la traçabilité des documents effectivement accessibles"
 methodological_note:
   fact_interpretation_boundary: >
     L'envoi, les destinataires institutionnels, l'horodatage et l'absence
