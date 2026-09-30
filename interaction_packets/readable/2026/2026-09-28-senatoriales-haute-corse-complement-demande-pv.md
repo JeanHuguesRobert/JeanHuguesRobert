@@ -34,7 +34,9 @@ Le courriel a été envoyé le **28 septembre 2026 à 09:50:16 CEST** :
 
 L'envoi a été vérifié dans Gmail avec le label `SENT`. Il ne comportait aucune pièce jointe.
 
-Au moment de la vérification suivant l'envoi, le fil ne contenait qu'un seul message : le courriel envoyé. **Aucun accusé de réception automatique ni aucune réponse n'étaient encore présents.**
+Au moment de la vérification suivant l'envoi, le fil ne contenait qu'un seul message : le courriel envoyé. **Aucun accusé de réception automatique ni aucune réponse n'étaient alors présents.**
+
+Le **30 septembre 2026 à 08:16:30 CEST**, Adrien Vidal, chef du Bureau des élections et de la démocratie locale, a répondu dans ce même fil. Il confirme que les pièces peuvent être consultées et propose une consultation en préfecture le **jeudi 1er octobre à 14 h 00**. Il indique que, compte tenu du nombre important de documents, la consultation serait organisée en préfecture et cite notamment les procès-verbaux de chaque bureau, le procès-verbal du bureau centralisateur, les listes d'émargement, les bulletins nuls, les annexes et les feuilles de dépouillement.
 
 ## Relation avec la demande du 27 septembre
 
@@ -101,11 +103,32 @@ La préférence pour la transmission dématérialisée est motivée par l'effect
 > 1 cours Paoli  
 > F-20250 Corte
 
+## Réponse du 30 septembre 2026
+
+**Expéditeur :** Adrien Vidal — chef du Bureau des élections et de la démocratie locale  
+**Heure :** 30 septembre 2026 à 08:16:30 CEST  
+**Gmail :** `1a0f0f52e3f74c2b`
+
+La réponse indique que les pièces demandées **peuvent être consultées** et énumère notamment :
+
+- les procès-verbaux de chaque bureau ;
+- le procès-verbal du bureau centralisateur ;
+- les listes d'émargement ;
+- les bulletins nuls ;
+- les annexes ;
+- les feuilles de dépouillement.
+
+Pour des raisons d'organisation de service liées au volume des documents, le Bureau des élections propose une consultation en préfecture le **jeudi 1er octobre à 14 h 00**.
+
+### Limite factuelle de la réponse
+
+Le courriel ne répond pas explicitement à la préférence exprimée pour une **transmission dématérialisée**, ni à la demande subsidiaire d'indiquer le fondement d'une impossibilité de communication sous forme dématérialisée. Il organise une consultation physique sans qualifier cette modalité de refus de transmission numérique.
+
 ## État courant
 
-**Courriel envoyé ; accusé de réception et réponse attendus.**
+**Réponse substantielle reçue ; consultation en préfecture proposée pour le 1er octobre 2026 à 14 h 00.**
 
-L'absence d'accusé automatique au moment de cette vérification est un constat technique, pas une preuve de non-réception.
+L'absence antérieure d'accusé automatique n'empêchait donc pas, dans ce cas, la réception et le traitement du message.
 
 ## Documents liés
 
