@@ -103,6 +103,30 @@ Cette chronologie croise les courriels horodatés, les documents administratifs,
 - **18:25:49** — Laurence adresse un courriel intitulé « Porte-parole » désignant Jean Hugues comme porte-parole pour la campagne sénatoriale.
 - **18:45:53** — France Transfert adresse **deux courriels simultanés** au nom du Tribunal administratif de Bastia : (1) la notification du pli contenant les deux requêtes relatives aux élections sénatoriales, dossiers **2601714** et **2601715**, ainsi que les deux dossiers PDF transmis par la préfecture ; (2) un courriel séparé contenant le mot de passe d'accès au pli. L'audience est annoncée pour le lundi 14 septembre à 15:00. Le mot de passe lui-même reste une donnée technique privée et n'est pas reproduit dans le corpus public.
 
+### Inventaire photographique du 11 septembre
+
+Les fichiers ci-dessous sont présents dans la bibliothèque. Pour les noms `image-<timestamp>.jpg`, le nombre correspond à un horodatage Unix en millisecondes qui coïncide étroitement avec l'heure d'ingestion dans la bibliothèque. Il constitue une bonne trace de **mise à disposition de l'image**, mais n'est assimilé à l'heure de prise de vue que lorsque le contexte contemporain le confirme.
+
+- **10:15:13** — `image-1789114513233.jpg` : photographie d'un colis à Corte. Trace contextuelle de début de journée, sans portée électorale directe.
+- **10:19:51** — `image-1789114791701.jpg` : photographie extérieure à Corte, devant un bâtiment de l'Université de Corse.
+- **10:20:57** — `image-1789114857207.jpg` : rue/mur peint à Corte ; autre jalon contextuel avant le départ.
+- **11:33:22** — `image-1789119202995.jpg` : photographie d'un titre de transport des Chemins de fer de la Corse, émis le 11/09/2026 à **11:25**, affichant « BASTIA -> CASAMOZZ » et 4,00 €. La relation exacte de ce titre avec le trajet Corte–Bastia reste à expliciter ; la photo n'est pas utilisée seule pour reconstruire l'itinéraire.
+- **11:51:22** — `image-1789120282936.jpg` : vue prise depuis le train lors du **passage à Lupino**, identifié comme tel dans la conversation contemporaine ; le retard du train est signalé à ce moment.
+- **11:55:39** — `image-1789120539616.jpg` : façade portant l'inscription **GARA DI BASTIA**, documentant l'arrivée à la gare de Bastia.
+- **11:57:45** — `image-1789120665088.jpg` : grille/panneau à l'entrée de la **préfecture de Haute-Corse**, documentant l'arrivée sur place.
+- **12:02:31** — `image-1789120951677.jpg` : façade/entrée du bâtiment préfectoral, correspondant au nouvel accueil mentionné dans la conversation.
+- **12:27:40** — `image-1789122460210.jpg` : photographie prise à l'intérieur d'un bureau de la préfecture ; un écran affiche le formulaire de déclaration/désignation de mandataire financier. Elle documente matériellement que l'examen/régularisation du dossier est alors en cours.
+- **12:32:23** — `image-1789122743280.jpg` : gros plan sur l'écran affichant la page « Déclaration de mandataire personne physique – accord du mandataire » du mémento sénatorial.
+- **12:32:44** — `image-1789122764636.jpg` : seconde photographie de l'écran sur le même formulaire/document de mandataire.
+- **12:37:14** — `image-1789123034607.jpg` : photographie du **récépissé provisoire** de déclaration de candidature. Le document lui-même porte « Fait à Bastia, le 11 septembre 2026 à 12H20 heure locale ».
+- **12:41:31** — `image-1789123291814.jpg` : photographie extérieure dans l'enceinte/aux abords immédiats de la préfecture, cohérente avec la fin de la séquence physique.
+- **14:14:07** — `image-1789128847412.jpg` : panneau routier indiquant **Ajaccio/Aiacciu**, **Venaco/Venacu** et **Aleria**, utilisé comme jalon du passage à Corte sur le trajet Bastia → Ajaccio. La concordance nom de fichier / ingestion est particulièrement serrée.
+- **16:53:45** — `image-1789138425876.jpg` : photographie de plusieurs ânes.
+- **16:53:54** — `image-1789138434244.jpg` : seconde photographie d'ânes.
+- **16:54:02** — `image-1789138442368.jpg` : troisième photographie d'ânes. Pour ces trois derniers clichés, le lieu et l'heure de prise de vue ne sont pas établis par l'image seule ; ils sont donc conservés comme traces contextuelles sans servir à déduire l'itinéraire.
+
+Cette série photographique renforce particulièrement la séquence **11:51 Lupino → 11:55 gare de Bastia → 11:57 préfecture → 12:02 accueil → 12:27–12:32 examen/régularisation au bureau → 12:37 photographie du récépissé → 12:41 sortie**, puis le **passage à Corte vers 14:14**.
+
 ### Lecture temporelle
 
 Le trajet prévu **09:45 → 11:39** a donc connu, ce 11 septembre, un retard observable d'environ **16 à 17 minutes** à l'arrivée à Bastia. Malgré ce retard, la présence à la préfecture est documentée vers **11:57**, l'accès à l'accueil vers **12:02** et la remise du récépissé à **12:20**, soit près de six heures avant l'échéance de 18:00.
