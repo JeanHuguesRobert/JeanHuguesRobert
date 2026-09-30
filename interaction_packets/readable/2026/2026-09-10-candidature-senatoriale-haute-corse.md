@@ -138,7 +138,7 @@ La transcription intégrale doit être insérée manuellement ici :
 Trois captures d'écran de **Google Maps > Vos trajets**, consultées le 30 septembre 2026 pour la journée du **vendredi 11 septembre 2026**, apportent une reconstruction complémentaire. Les heures et lieux ci-dessous sont ceux affichés par Google Maps. Les modes de déplacement (« en voiture », « à pied ») sont conservés comme **classification Google** et non comme constat indépendant : en particulier, le segment du matin doit être lu avec le témoignage direct de Jean Hugues sur le stop puis le train.
 
 - **10:29** — départ affiché de **Domicile (1 Cr Paoli), Corte**.
-- **10:29–11:53** — Google Maps classe le déplacement comme **« En voiture »**, 44 km, 1 h 24. Ce mode ne suffit pas à contredire le récit direct du **stop près de L'Oriente puis train depuis une gare proche de Bastia** ; il est traité comme une inférence de Timeline à confronter aux autres traces.
+- **10:29–11:53** — Google Maps classe le déplacement comme **« En voiture »**, 44 km, 1 h 24. Ce mode ne suffit pas à contredire le récit direct du **stop près de L'Oriente puis train, très probablement depuis Lucciana L’Alivella** ; il est traité comme une inférence de Timeline à confronter aux autres traces.
 - **11:53–12:42** — présence affichée à la **Préfecture de Haute-Corse**, Bastia.
 - **12:42–12:48** — déplacement **à pied**, 350 m, 6 min.
 - **12:48–13:13** — présence affichée **Place Saint-Nicolas, Bastia**. La capture mentionne aussi l'Office de Tourisme Intercommunal de Bastia comme lieu associé.
