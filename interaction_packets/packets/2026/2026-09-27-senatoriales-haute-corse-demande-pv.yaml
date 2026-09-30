@@ -2,9 +2,9 @@ id: "2026-09-27-001"
 date: "2026-09-27"
 time: "13:38:54"
 timezone: "Europe/Paris"
-status: "sent — supplemented 2026-09-28 — response requested"
+status: "sent — supplemented 2026-09-28 — response received 2026-09-30"
 current_status:
-  label: "Courriel public envoyé puis complété — réponse attendue"
+  label: "Réponse reçue le 2026-09-30 — consultation proposée"
 channel: "email"
 direction: "outbound"
 disclosure: "D4"
@@ -45,6 +45,10 @@ evidence:
     sent_at: "2026-09-27T13:38:54+02:00"
     attachments: false
     automatic_ack_found: false
+  reply_via_supplement_thread:
+    message_id: "1a0f0f52e3f74c2b"
+    received_at: "2026-09-30T08:16:30+02:00"
+    consultation_proposed_at: "2026-10-01T14:00:00+02:00"
 linked_documents:
   readable: "../../readable/2026/2026-09-27-senatoriales-haute-corse-demande-pv.md"
   supplement: "../../readable/2026/2026-09-28-senatoriales-haute-corse-complement-demande-pv.md"
