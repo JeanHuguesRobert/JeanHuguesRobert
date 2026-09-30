@@ -81,6 +81,8 @@ Ce second événement est enregistré comme un **élément favorable au fonction
 
 ## Chronologie détaillée du vendredi 11 septembre 2026
 
+Voir également la [Chronologie probatoire canonique — vendredi 11 septembre 2026](./2026-09-11-chronologie-probatoire-senatoriale.md), qui sépare faits établis, recoupements, témoignages et inconnues ouvertes.
+
 Cette chronologie croise les courriels horodatés, les documents administratifs, les métadonnées de la vidéo et les traces contemporaines de conversation/photos. Les heures sont en **CEST (UTC+2)**. Lorsqu'une heure provient d'une trace de conversation ou d'une photographie et non d'un document administratif, cela est indiqué.
 
 - **08:14:11** — Courriel au Bureau des élections, Laurence Marie Vernerey et Marguerite Ghionga en copie. Le candidat annonce qu'il prendra le train de **09:45** à Corte, dont l'arrivée théorique à Bastia est **11:39**, puis se présentera à la préfecture peu après son arrivée.
