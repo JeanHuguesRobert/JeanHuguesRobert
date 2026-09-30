@@ -2,9 +2,9 @@ id: "2026-09-28-001"
 date: "2026-09-28"
 time: "09:50:16"
 timezone: "Europe/Paris"
-status: "response received — consultation proposed"
+status: "appointment accepted — targeted follow-up sent"
 current_status:
-  label: "Réponse reçue — consultation proposée le 2026-10-01 à 14:00"
+  label: "Rendez-vous accepté — demande ciblée envoyée le 2026-09-30 à 10:37:16"
 channel: "email"
 direction: "outbound"
 disclosure: "D4"
@@ -65,6 +65,30 @@ evidence:
       - "annexes"
       - "feuilles de dépouillement"
     dematerialized_transmission_addressed_explicitly: false
+  outbound_follow_up:
+    message_id: "1a0f17603e016b22"
+    sent_at: "2026-09-30T10:37:16+02:00"
+    recipient: "Adrien Vidal — Bureau des élections et de la démocratie locale"
+    cc_public:
+      - "Bureau des élections"
+      - "Maguy"
+      - "Laurence"
+    cc_private_addresses_omitted: true
+    attachments: false
+    appointment_accepted: "2026-10-01T14:00:00+02:00"
+    scope_restricted: true
+    asks_new_digitization: false
+    asks_existing_dematerialized_documents_only: true
+    asks_reasons_if_existing_digital_documents_cannot_be_sent: true
+    targeted_invalid_ballot_check:
+      count: 40
+      search_terms:
+        - "Baron Mariani"
+        - "Mariani"
+        - "Jean Hugues Robert"
+        - "approximate spelling or formulation reasonably attributable to the candidacy"
+      reported_media_statement_status: "reported statement, not independently treated as proof"
+      secret_ballot_preserved: true
 privacy:
   public_substance: true
   omitted_from_public_projection:
@@ -76,9 +100,11 @@ linked_documents:
   register: "../../mail_trace.md"
   legal_request: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
 follow_up:
-  - "Décider de la suite à donner à la proposition de consultation du 2026-10-01 à 14:00"
-  - "Clarifier, si utile, la demande de transmission dématérialisée restée sans réponse explicite"
-  - "Examiner les pièces, notamment les 40 bulletins nuls et leurs mentions"
+  - "Rendez-vous accepté pour le 2026-10-01 à 14:00"
+  - "Observer si les documents déjà détenus sous forme dématérialisée sont transmis avant le rendez-vous"
+  - "À défaut de transmission, relever les raisons indiquées"
+  - "Vérifier si un ou plusieurs des 40 bulletins nuls portent Baron Mariani / Mariani / Jean Hugues Robert ou une graphie approchante"
+  - "Examiner sur place de manière sélective les pièces utiles"
   - "Préserver la traçabilité des documents effectivement accessibles"
 methodological_note:
   fact_interpretation_boundary: >
