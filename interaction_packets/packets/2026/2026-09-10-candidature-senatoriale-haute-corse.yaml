@@ -255,7 +255,7 @@ timeline:
     direction: "internal"
     channel: "in-person preparation"
     event: "Préparation de la déclaration vidéo à Ajaccio"
-    summary: "Jean Hugues et Laurence organisent vers 17:30 l enregistrement commun destiné à être transmis avant 18:00."
+    summary: "Jean Hugues et Laurence organisent vers 17:30 l enregistrement commun dans le jardin d une sympathisante de J.-F. Baccarelli ; la vidéo sera filmée par William et destinée à être transmise avant 18:00."
     status: "user_reported"
   - date: "2026-09-11"
     time: "17:45:55"
@@ -263,7 +263,7 @@ timeline:
     direction: "internal"
     channel: "video"
     event: "Enregistrement de la déclaration vidéo"
-    summary: "Métadonnée de création de VID_20260911_174455.mp4 ; déclaration commune avec Laurence sur identités, volonté et consentement."
+    summary: "Métadonnée de création de VID_20260911_174455.mp4 ; déclaration commune avec Laurence sur identités, volonté et consentement, filmée par William dans le jardin d une sympathisante de J.-F. Baccarelli."
     status: "documented_metadata"
   - date: "2026-09-11"
     time: "17:57:55"
@@ -487,6 +487,6 @@ google_maps_timeline_2026_09_11:
     - {start: "12:42", end: "12:48", mode_google: "walk", distance_m: 350, duration: "6min"}
     - {start: "12:48", end: "13:13", place: "Place Saint-Nicolas, Bastia", type: "visit"}
     - {start: "13:13", end: "16:13", mode_google: "car", distance_km: 122, duration: "3h", note: "Correspond au covoiturage rapporté avec militants du parti de J.-F. Baccarelli ; William au volant"}
-    - {start: "16:13", end: "20:02", place: "Camping Les Mimosas, Ajaccio", type: "visit", note: "Plage englobant préparation, enregistrement et envoi de la vidéo"}
+    - {start: "16:13", end: "20:02", place_google: "Camping Les Mimosas, Ajaccio", actual_place_reported: "Jardin d une sympathisante de J.-F. Baccarelli", type: "visit", note: "Google Timeline agrège la présence au secteur du camping ; le lieu réel rapporté est le jardin de la sympathisante. Plage englobant préparation, enregistrement et envoi de la vidéo."}
     - {start: "20:02", end: "21:48", mode_google: "car", distance_km: 57, duration: "1h46"}
     - {start: "21:48", end: null, place: "Le Cyrnéa, Corte", type: "arrival"}
