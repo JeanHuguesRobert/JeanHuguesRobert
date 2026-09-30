@@ -124,11 +124,56 @@ Pour des raisons d'organisation de service liées au volume des documents, le Bu
 
 Le courriel ne répond pas explicitement à la préférence exprimée pour une **transmission dématérialisée**, ni à la demande subsidiaire d'indiquer le fondement d'une impossibilité de communication sous forme dématérialisée. Il organise une consultation physique sans qualifier cette modalité de refus de transmission numérique.
 
+## Réponse envoyée le 30 septembre 2026 à 10:37:16 CEST
+
+Jean Hugues Noël Robert a répondu dans le même fil à Adrien Vidal, avec le Bureau des élections ainsi que **Maguy et Laurence en copie**. Les adresses personnelles de Maguy et Laurence sont volontairement exclues de la projection publique.
+
+Cette réponse :
+
+- **accepte le rendez-vous** du jeudi 1er octobre à 14 h 00 ;
+- **réduit volontairement la portée de la demande initiale**, afin de limiter la charge pour les services ;
+- ne demande **aucune nouvelle opération de numérisation** ;
+- sollicite seulement, avant le rendez-vous si possible, les documents que les services détiennent **déjà sous forme dématérialisée**, notamment le procès-verbal du bureau centralisateur, les tableaux de récapitulation et autres documents de synthèse existant déjà sous cette forme ;
+- demande, si la transmission de documents déjà dématérialisés n'est pas possible, d'en connaître les raisons ;
+- cible la recherche sur les **40 bulletins nuls** : existence éventuelle d'un ou plusieurs bulletins portant « Baron Mariani », « Mariani », « Jean Hugues Robert » ou une formulation / graphie approchante ;
+- précise qu'une information selon laquelle un grand électeur aurait déclaré publiquement, sur un média de service public, avoir voté « Baron Mariani » est traitée comme une **déclaration rapportée**, et non comme une preuve permettant d'identifier le bulletin de cet électeur ou de lever le secret du vote.
+
+Le message expose que l'existence matérielle éventuelle d'au moins un bulletin ainsi libellé constituerait un élément factuel utile à l'appréciation du caractère substantiel de la candidature, **sans préjuger à lui seul de la portée juridique ou électorale à en tirer**.
+
+### Texte effectivement envoyé le 30 septembre
+
+> Bonjour Monsieur Vidal,
+>
+> Merci pour votre réponse.
+>
+> Je vous confirme ma disponibilité pour la consultation proposée ce jeudi 1er octobre à 14 h 00 en préfecture.
+>
+> Afin de limiter autant que possible la charge pour vos services et de rendre cette consultation plus ciblée, je souhaite également restreindre ma demande initiale.
+>
+> Sans vous demander aucune opération nouvelle de numérisation, pourriez-vous, si cela est possible, me transmettre avant le rendez-vous les seules pièces que vos services détiennent déjà sous forme dématérialisée, notamment le procès-verbal du bureau centralisateur, les tableaux de récapitulation ou autres documents de synthèse, dans la mesure où ils existent déjà sous cette forme ?
+>
+> Si la transmission de tout ou partie de documents déjà détenus sous forme dématérialisée n'était pas possible, je souhaiterais simplement connaître les raisons de cette impossibilité.
+>
+> S'agissant des quarante bulletins nuls, mon besoin peut lui aussi être très fortement ciblé. Il m'a été rapporté qu'un grand électeur aurait déclaré publiquement, sur un média du service public, avoir voté « Baron Mariani ». Je traite naturellement cette information comme une déclaration rapportée, et non comme une preuve permettant d'identifier le bulletin de cet électeur ni de lever le secret du vote.
+>
+> Dans ce contexte, pourriez-vous simplement m'indiquer si, parmi les quarante bulletins déclarés nuls, un ou plusieurs portent une mention telle que « Baron Mariani », « Mariani », « Jean Hugues Robert », ou une formulation ou graphie approchante permettant raisonnablement de rattacher le bulletin à ma candidature ?
+>
+> Si tel est le cas, l'examen de ce ou ces seuls bulletins constitue pour moi une priorité particulière. Il permettrait d'établir matériellement l'existence éventuelle d'au moins un suffrage exprimé en faveur de cette candidature malgré son absence du scrutin enregistré, ce qui constitue un élément factuel utile à l'appréciation de son caractère substantiel, sans préjuger à lui seul de la portée juridique ou électorale à en tirer.
+>
+> Pour le reste, je pourrai procéder sur place de manière sélective à partir des pièces que vous m'indiquerez.
+>
+> Bien cordialement,
+>
+> Jean Hugues Noël Robert  
+> Baron Mariani  
+> 1 cours Paoli  
+> F-20250 Corte
+
 ## État courant
 
-**Réponse substantielle reçue ; consultation en préfecture proposée pour le 1er octobre 2026 à 14 h 00.**
+**Rendez-vous du 1er octobre à 14 h 00 accepté ; demande restreinte et ciblée transmise le 30 septembre à 10:37:16 CEST.**
 
-L'absence antérieure d'accusé automatique n'empêchait donc pas, dans ce cas, la réception et le traitement du message.
+Restent à observer : éventuelle transmission préalable de documents déjà dématérialisés, raisons d'une éventuelle impossibilité de transmission, résultat de la vérification ciblée parmi les 40 bulletins nuls, puis contenu effectivement accessible lors de la consultation.
 
 ## Documents liés
 
