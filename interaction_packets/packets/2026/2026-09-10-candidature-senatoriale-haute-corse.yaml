@@ -471,3 +471,22 @@ photo_evidence_2026_09_11:
     - {time: "16:53:45", file: "image-1789138425876.jpg", description: "Ânes, lieu/heure de prise non établis par image seule", evidentiary_role: "contextual_only"}
     - {time: "16:53:54", file: "image-1789138434244.jpg", description: "Ânes, lieu/heure de prise non établis par image seule", evidentiary_role: "contextual_only"}
     - {time: "16:54:02", file: "image-1789138442368.jpg", description: "Ânes, lieu/heure de prise non établis par image seule", evidentiary_role: "contextual_only"}
+
+
+google_maps_timeline_2026_09_11:
+  source: "Trois captures Google Maps > Vos trajets prises le 30 septembre 2026 pour ven. 11 sept. 2026"
+  methodological_note: "Les heures et lieux sont lus à l écran. Les modes de transport sont des classifications Google et ne sont pas traités comme preuve autonome lorsqu ils contredisent ou simplifient d autres traces."
+  screenshots:
+    - "1000016742.jpg"
+    - "1000016743.jpg"
+    - "1000016744.jpg"
+  events:
+    - {start: "10:29", end: null, place: "Domicile, 1 cours Paoli, Corte", type: "departure"}
+    - {start: "10:29", end: "11:53", mode_google: "car", distance_km: 44, duration: "1h24", note: "À confronter au récit stop + train du matin"}
+    - {start: "11:53", end: "12:42", place: "Préfecture de Haute-Corse, Bastia", type: "visit"}
+    - {start: "12:42", end: "12:48", mode_google: "walk", distance_m: 350, duration: "6min"}
+    - {start: "12:48", end: "13:13", place: "Place Saint-Nicolas, Bastia", type: "visit"}
+    - {start: "13:13", end: "16:13", mode_google: "car", distance_km: 122, duration: "3h", note: "Correspond au covoiturage rapporté avec militants du parti de J.-F. Baccarelli ; William au volant"}
+    - {start: "16:13", end: "20:02", place: "Camping Les Mimosas, Ajaccio", type: "visit", note: "Plage englobant préparation, enregistrement et envoi de la vidéo"}
+    - {start: "20:02", end: "21:48", mode_google: "car", distance_km: 57, duration: "1h46"}
+    - {start: "21:48", end: null, place: "Le Cyrnéa, Corte", type: "arrival"}
