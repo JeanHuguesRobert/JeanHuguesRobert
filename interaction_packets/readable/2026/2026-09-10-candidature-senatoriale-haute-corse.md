@@ -111,7 +111,17 @@ La vidéo `VID_20260911_174455.mp4`, créée à **17:45:55 CEST**, contient troi
 La transcription intégrale doit être insérée manuellement ici :
 
 <!-- BEGIN VIDEO TRANSCRIPT 2026-09-11 -->
-[À COMPLÉTER]
+1. **Jean Hugues Noël Robert**
+
+« Nous sommes le 11 septembre 2026. Je suis Jean Hugues Noël Robert, candidat à l'élection sénatoriale du 27 septembre en Haute-Corse, sous le nom de Baron Mariani. Laurence est ici avec moi. »
+
+2. **Laurence Marie Vernerey**
+
+« Je suis Laurence Marie Vernerey. Je confirme librement et sans ambiguïté avoir accepté d'être la remplaçante de Jean Hugues Noël Robert pour cette élection, sous le nom de Marie-Louise d'Angelis. Je confirme également les documents et le consentement que j'ai transmis pour cette candidature. »
+
+3. **Jean Hugues Noël Robert**
+
+« Cette vidéo est adressée aujourd'hui au bureau des élections de la préfecture de Haute-Corse afin qu'il ne puisse subsister aucune ambiguïté sur notre identité, notre volonté et notre consentement. »
 <!-- END VIDEO TRANSCRIPT 2026-09-11 -->
 
 - **17:45:55** — métadonnée de création de la vidéo VID_20260911_174455.mp4 : enregistrement de la déclaration vidéo commune avec Laurence Marie Vernerey, **filmée par un militant présent, dont l'identité est volontairement anonymisée dans la projection publique**, dans le jardin de la sympathisante de J.-F. Baccarelli. Le fichier dure environ 58,14 s et son empreinte SHA-256 est documentée dans la fiche d'intégrité dédiée.
