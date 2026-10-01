@@ -244,9 +244,26 @@ La **réception électronique est désormais établie** et la projection Drive e
 - toute demande de pièce ou formalité complémentaire et le délai associé ;
 - toute objection éventuelle relative au support dématérialisé, aux signatures ou aux appellations électorales.
 
+## 1er octobre 2026 — courriel de consolidation factuelle avant consultation
+
+À **09:30:33 CEST**, avant la consultation des pièces prévue en préfecture à 14:00, Jean Hugues Noël Robert a envoyé à Adrien Vidal, chef du Bureau des élections et de la démocratie locale, un courriel de consolidation factuelle avec copies pour information aux interlocuteurs administratifs, juridictionnels et au Défenseur des droits déjà impliqués dans la séquence.
+
+Le message :
+- rappelle la coopération du candidat à chaque étape et l'invitation constante faite aux interlocuteurs de corriger toute erreur factuelle ;
+- identifie comme inconnue centrale l'inventaire exact des pièces effectivement transmises par la préfecture au Tribunal administratif, notamment le sort du courriel et de la vidéo envoyés le 11 septembre à 17:57:55 ;
+- formule cinq questions fermées portant sur réception, transmission, éventuelle transmission complémentaire, inventaire/bordereau et traçabilité de l'accès à la vidéo ;
+- confirme la consultation du 1er octobre à 14:00 et le protocole de compte rendu contradictoire après consultation ;
+- explicite la contrainte du délai contentieux expirant le 7 octobre 2026 à 18:00 et sollicite, sans prétendre créer un délai légal, une réponse pratique avant le 2 octobre à 18:00 sur les points encore ouverts ;
+- précise que les copies adressées au Tribunal administratif sont exclusivement informatives et ne constituent ni requête, ni mémoire, ni production dans les dossiers concernés.
+
+La [copie publique expurgée du courriel effectivement envoyé](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/sources/courriel-consolidation-prefecture-ta-2026-10-01.md) conserve l'intégralité du corps du message et de la citation du fil antérieur, sous réserve des coordonnées personnelles explicitement `REDACTED`.
+
+Statut au moment de l'envoi : **aucune conclusion n'est tirée de l'absence de réponse ou de pièce ; les inconnues restent ouvertes et chaque destinataire est invité à corriger la chronologie.**
+
 ## Documents liés
 
 - [Paquet structuré](../../packets/2026/2026-09-10-candidature-senatoriale-haute-corse.yaml)
 - [Copie quasi-brute expurgée des échanges](../../raw/2026/2026-09-10-candidature-senatoriale-haute-corse.eml.md)
+- [Courriel de consolidation factuelle du 1er octobre 2026 — copie publique expurgée](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/sources/courriel-consolidation-prefecture-ta-2026-10-01.md)
 - [Registre des interactions](../../mail_trace.md)
 - [Politique d'archivage](../../archive_policy.md)
