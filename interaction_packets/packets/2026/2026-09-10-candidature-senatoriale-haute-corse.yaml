@@ -413,6 +413,25 @@ timeline:
     privacy: "projection publique expurgée ; coordonnées personnelles redacted"
     status: "sent"
 
+  - date: "2026-10-01"
+    time: "15:13:26"
+    timezone: "Europe/Paris"
+    direction: "inbound"
+    channel: "email (Gmail)"
+    event: "Réponse du greffe du TA refusant de donner suite aux questions matérielles résiduelles"
+    summary: >
+      Hülya Celik, greffière en chef, indique que les questions du 25 septembre portent sur
+      des éléments se rapportant à la procédure et au jugement rendu et notifié, que le greffe
+      n'a pas vocation après décision à fournir des explications ou commentaires complémentaires,
+      et qu'il n'est pas en mesure de donner suite. Le message renvoie au jugement et aux voies
+      de recours et mentionne l'article L.292 du code électoral pour une saisine du Conseil
+      constitutionnel. Les six informations matérielles demandées restent non communiquées :
+      entrée Sagace "Réception d'une lettre", heure de mise à disposition du jugement, inventaire
+      des pièces préfectorales, trace d'audience, identité du greffier d'audience, accès à la minute.
+      Le refus de répondre n'est pas enregistré comme preuve de l'inexistence de ces informations.
+    gmail_message_id: "1a0f799394da9a39"
+    status: "received_non_resolutive_explicit_refusal"
+
 retransmission:
   sent_at: "2026-09-10T17:54:50+02:00"
   attachment_count: 8
