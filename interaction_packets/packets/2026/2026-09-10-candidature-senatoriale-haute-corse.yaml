@@ -3,7 +3,7 @@ id: "2026-09-10-001"
 type: "interaction_packet"
 status: "active"
 created: "2026-09-10"
-last_updated: "2026-09-30"
+last_updated: "2026-10-01"
 disclosure: "D3"
 visibility: "public"
 statut: "Dépôt physique prévu/effectué le 11/09 après objection CERFA du 10/09 20:05 ; suites contentieuses et institutionnelles suivies dans des paquets/rows liés (2026-09-16-*)"
@@ -394,6 +394,24 @@ timeline:
       sans prétendre clôturer les suites contentieuses (voir linked_cases 2026-09-16-*).
     status: "observed"
     act_ref: "act:inseme-77-dogfood-followup"
+
+  - date: "2026-10-01"
+    time: "09:30:33"
+    timezone: "Europe/Paris"
+    direction: "outbound"
+    channel: "email (Gmail)"
+    event: "Courriel de consolidation factuelle avant consultation du 1er octobre"
+    summary: >
+      Courriel envoyé à Adrien Vidal, chef du Bureau des élections et de la démocratie locale,
+      avec copies pour information aux interlocuteurs administratifs, juridictionnels et au
+      Défenseur des droits déjà impliqués. Le message réunit la chronologie, rappelle la possibilité
+      permanente de corriger toute erreur factuelle, identifie comme inconnue centrale l'inventaire
+      exact des pièces transmises au TA et le sort du courriel/vidéo de 17:57:55, formule cinq
+      questions factuelles fermées, confirme la consultation à 14:00 et explicite la contrainte
+      contentieuse du 7 octobre 18:00. Aucune absence de réponse n'est transformée en conclusion.
+    source_public: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/sources/courriel-consolidation-prefecture-ta-2026-10-01.md"
+    privacy: "projection publique expurgée ; coordonnées personnelles redacted"
+    status: "sent"
 
 retransmission:
   sent_at: "2026-09-10T17:54:50+02:00"
