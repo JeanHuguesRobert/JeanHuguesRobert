@@ -244,6 +244,32 @@ La **réception électronique est désormais établie** et la projection Drive e
 - toute demande de pièce ou formalité complémentaire et le délai associé ;
 - toute objection éventuelle relative au support dématérialisé, aux signatures ou aux appellations électorales.
 
+## 1er octobre 2026 — réponse du greffe du TA sur les questions matérielles
+
+À **15:13:26 CEST**, le greffe du Tribunal administratif de Bastia, sous la signature de **Hülya Celik, greffière en chef**, répond au courriel du 25 septembre relatif aux dossiers n° 2601714 et 2601715.
+
+Le greffe indique que les questions posées « portent sur des éléments se rapportant à la procédure et au jugement rendu et notifié », qu'il « n'a pas vocation, après le prononcé d'une décision, à apporter des explications ou commentaires complémentaires » et qu'il n'est « pas en mesure de donner suite » aux demandes.
+
+Il invite à se reporter au jugement et aux voies et délais de recours, puis indique que, pour contester les jugements ou faire valoir des moyens à leur encontre, il appartient de saisir le Conseil constitutionnel. Le courriel cite à ce titre **l'article L.292 du code électoral**. Cette référence est enregistrée ici comme le contenu matériel du message reçu, sans lui attribuer dans le présent registre une qualification juridique supplémentaire.
+
+Cette réponse ne fournit pas les six informations matérielles demandées le 25 septembre :
+1. identification et heure de la mention Sagace « Réception d'une lettre » ;
+2. heure de mise à disposition du jugement ;
+3. inventaire des pièces préfectorales initiales et postérieures ;
+4. existence et modalités d'accès à une trace d'audience ;
+5. identité du greffier d'audience ;
+6. modalités d'accès à la minute signée ou fondement d'un refus.
+
+Le statut de ces six éléments ne devient donc pas `FALSE` ou `inexistant` : ils demeurent **non établis / non communiqués**, avec désormais un **refus explicite du greffe de donner suite** à cette demande après jugement.
+
+Cette réponse intervient après une séquence où le greffe avait successivement :
+- confirmé le 16 septembre que la formation de jugement avait pris connaissance de la note en délibéré avant décision et orienté vers Sagace/Télérecours ;
+- orienté le 18 septembre vers Télérecours Citoyens pour davantage de précisions ;
+- indiqué le 21 septembre que le jugement répondait aux interrogations tout en ajoutant : « Si des questions subsistent à la lecture de cette décision, je reste à votre disposition » ;
+- reçu le 25 septembre une demande précisément réduite aux seules questions subsistant après lecture intégrale du jugement.
+
+**Source Gmail :** message `1a0f799394da9a39`.
+
 ## 1er octobre 2026 — courriel de consolidation factuelle avant consultation
 
 À **09:30:33 CEST**, avant la consultation des pièces prévue en préfecture à 14:00, Jean Hugues Noël Robert a envoyé à Adrien Vidal, chef du Bureau des élections et de la démocratie locale, un courriel de consolidation factuelle avec copies pour information aux interlocuteurs administratifs, juridictionnels et au Défenseur des droits déjà impliqués dans la séquence.
