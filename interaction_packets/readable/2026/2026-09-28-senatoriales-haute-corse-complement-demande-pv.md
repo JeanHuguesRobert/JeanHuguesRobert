@@ -169,11 +169,17 @@ Le message expose que l'existence matérielle éventuelle d'au moins un bulletin
 > 1 cours Paoli  
 > F-20250 Corte
 
+## Point d'état du 1er octobre 2026 au matin
+
+Une nouvelle vérification du fil Gmail effectuée le **1er octobre 2026 au matin** ne retrouve, après le message envoyé le 30 septembre à 10:37:16 CEST, **aucune nouvelle réponse ni transmission de document** de la préfecture dans ce fil.
+
+Ce constat est enregistré comme un simple état de la boîte au moment de la vérification. Il ne préjuge ni de la disponibilité des pièces sur place, ni de l'existence de documents déjà dématérialisés, ni des raisons d'une éventuelle absence de transmission préalable.
+
 ## État courant
 
-**Rendez-vous du 1er octobre à 14 h 00 accepté ; demande restreinte et ciblée transmise le 30 septembre à 10:37:16 CEST.**
+**Rendez-vous du 1er octobre à 14 h 00 maintenu ; demande restreinte et ciblée déjà transmise ; aucune transmission préalable retrouvée au matin du 1er octobre.**
 
-Restent à observer : éventuelle transmission préalable de documents déjà dématérialisés, raisons d'une éventuelle impossibilité de transmission, résultat de la vérification ciblée parmi les 40 bulletins nuls, puis contenu effectivement accessible lors de la consultation.
+Restent à observer : raisons éventuellement données sur place pour l'absence de transmission préalable, résultat de la vérification ciblée parmi les 40 bulletins nuls, puis contenu effectivement accessible lors de la consultation.
 
 ## Documents liés
 
