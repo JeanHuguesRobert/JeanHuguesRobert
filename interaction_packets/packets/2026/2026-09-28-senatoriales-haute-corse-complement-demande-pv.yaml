@@ -2,9 +2,9 @@ id: "2026-09-28-001"
 date: "2026-09-28"
 time: "09:50:16"
 timezone: "Europe/Paris"
-status: "appointment accepted — targeted follow-up sent"
+status: "appointment accepted — no further reply found morning 2026-10-01"
 current_status:
-  label: "Rendez-vous accepté — demande ciblée envoyée le 2026-09-30 à 10:37:16"
+  label: "Rendez-vous maintenu — aucune nouvelle réponse ni pièce retrouvée au matin du 2026-10-01"
 channel: "email"
 direction: "outbound"
 disclosure: "D4"
@@ -65,6 +65,12 @@ evidence:
       - "annexes"
       - "feuilles de dépouillement"
     dematerialized_transmission_addressed_explicitly: false
+  morning_check_2026_10_01:
+    checked_at_period: "morning"
+    thread_id: "1a0e6e6f9908ab4e"
+    newer_reply_found: false
+    newer_attachment_found: false
+    interpretation: "mailbox state only; no inference about on-site availability or reasons"
   outbound_follow_up:
     message_id: "1a0f17603e016b22"
     sent_at: "2026-09-30T10:37:16+02:00"
