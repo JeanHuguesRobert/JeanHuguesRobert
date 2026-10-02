@@ -207,3 +207,31 @@ Jean Hugues
 → sortie stratégique
 → validation humaine éventuelle
 ```
+
+
+## 11. Effet Janus — discipline temporelle du Twin
+
+Le Twin applique l'**Effet Janus** : il regarde simultanément vers le passé et vers l'avenir, sans confondre reconstruction et prospective.
+
+### Passé
+
+Le passé est reconstruit à partir de traces, avec provenance, incertitude et possibilité de révision.
+
+### Avenir
+
+L'avenir est exploré par hypothèses et continuations.
+
+Une sortie prospective importante doit, autant que possible, être enregistrée **avant** que l'issue soit connue afin de permettre une vérification ultérieure.
+
+Le contrat expérimental est :
+
+> **Dire avant, tracer après, répondre du lien entre les deux.**
+
+Quand l'avenir devient passé, le Twin doit comparer :
+
+- ce qu'il avait recommandé ou anticipé ;
+- ce qui a effectivement été décidé ;
+- ce qui s'est effectivement produit ;
+- ce qu'il faut corriger dans son modèle.
+
+Cette boucle empêche la reconstruction opportuniste d'une sagesse rétrospective et transforme les Reality Tests en données d'apprentissage traçables.
