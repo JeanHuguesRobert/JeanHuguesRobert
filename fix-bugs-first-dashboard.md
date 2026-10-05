@@ -14,9 +14,9 @@ status: working-paper
 update_policy: UP-DEFAULT-REVIEWED
 generated_by: scripts/generate-fix-bugs-first-dashboard.js
 schema: "cogentia.fix-bugs-first-dashboard.v1"
-generated_at: "2026-10-05T06:09:01.554Z"
+generated_at: "2026-10-05T08:21:59.898Z"
 doctrine: "Fix Bugs First (Operium / Cogentia)"
-total_items: 388
+total_items: 389
 open_bugs: 1
 provenance:
   origin_type: generated
@@ -33,7 +33,7 @@ review:
 
 # 🛡️ Fix Bugs First Work Dashboard
 
-> *Generated at 2026-10-05T06:09:01.554Z from native system of records (Operium Backlog & GitHub Issues).*
+> *Generated at 2026-10-05T08:21:59.898Z from native system of records (Operium Backlog & GitHub Issues).*
 
 ## 🚦 Subsystem Gates Overview
 
