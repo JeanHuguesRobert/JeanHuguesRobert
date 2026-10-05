@@ -1,39 +1,39 @@
 ---
-title: Fix Bugs First Work Dashboard
-schema: cogentia.fix-bugs-first-dashboard.v1
-generated_at: '2026-08-22T07:38:51.852Z'
-doctrine: Fix Bugs First (Operium / Cogentia)
-total_items: 15
-open_bugs: 0
+title: "Fix Bugs First Work Dashboard"
+author: unknown
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-10-05'
+license: CC BY-SA 4.0
+language: en
 document_role: operational
 document_kind: dashboard
 visibility: public
 lifecycle_state: active
-classification_source: cogentia.js
-classification_version: '1'
-classification_rule: dashboard
-classification_confidence: medium
-license: CC BY-SA 4.0
-affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-language: en
-date: '2026-09-15'
-update_policy: UP-DEFAULT-REVIEWED
+canonical_url: https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/fix-bugs-first-dashboard.md
 status: working-paper
+update_policy: UP-DEFAULT-REVIEWED
+generated_by: scripts/generate-fix-bugs-first-dashboard.js
+schema: "cogentia.fix-bugs-first-dashboard.v1"
+generated_at: "2026-10-05T06:09:01.554Z"
+doctrine: "Fix Bugs First (Operium / Cogentia)"
+total_items: 388
+open_bugs: 1
+provenance:
+  origin_type: generated
+  origin_repository: JeanHuguesRobert/cogentia
+  origin_ref: unknown
+  origin_date: '2026-10-05'
+  derived_from:
+    - https://github.com/JeanHuguesRobert/operium/blob/fd1e111fec0d9dbfa78aee6c4d63d5e03b3a3801/backlog/items.yaml
+    - https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/current-issues-list.md
 review:
   status: unreviewed
   reviewed_by: []
-provenance:
-  origin_type: unknown
-  origin_repository: unknown
-  origin_ref: unknown
-  origin_date: unknown
-  derived_from: []
 ---
-
 
 # 🛡️ Fix Bugs First Work Dashboard
 
-> *Generated at 2026-08-22T07:38:51.852Z from native system of records (Operium Backlog & GitHub Issues).*
+> *Generated at 2026-10-05T06:09:01.554Z from native system of records (Operium Backlog & GitHub Issues).*
 
 ## 🚦 Subsystem Gates Overview
 
@@ -43,17 +43,20 @@ provenance:
 | `cli` | ✅ **OK** | 0 | None | None |
 | `cogentia-context` | ✅ **OK** | 0 | None | None |
 | `docs` | ✅ **OK** | 0 | None | OP-FEAT-007 |
+| `general` | ✅ **OK** | 1 | None | None |
 | `magistral-routing` | ✅ **OK** | 0 | None | None |
 | `mesh` | ✅ **OK** | 0 | None | OP-FEAT-002, OP-FEAT-004 |
 | `meta` | ✅ **OK** | 0 | None | None |
-| `ona` | ✅ **OK** | 0 | None | OP-FEAT-005 |
+| `ona` | ✅ **OK** | 0 | None | OP-FEAT-005, OP-FEAT-009 |
 | `replication` | ✅ **OK** | 0 | None | OP-FEAT-006 |
 | `secrets` | ✅ **OK** | 0 | None | None |
 | `tooling` | ✅ **OK** | 0 | None | None |
 
 ## 🐛 Open Bugs (Fix First)
 
-*No open bugs reported! Clear path for feature development.*
+### [cogentia#78] Frontmatter: fix one malformation, reconcile two conflicting "required" definitions, add four missing invariants, expose one CI-able command [#78](https://github.com/JeanHuguesRobert/cogentia/issues/78)
+- **Subsystem:** `general` | **Severity:** `normal` | **Urgency:** `planned` | **Status:** `open`
+
 ## 🚀 Gated Features & Planned Work
 
 ### [OP-FEAT-002] FractaNet observed-state reconciliation [#9](https://github.com/JeanHuguesRobert/operium/issues/9)
@@ -76,6 +79,10 @@ provenance:
 - **Subsystem:** `docs` | **Gate:** 🟢 READY | **Status:** `open`
 - **Next Action:** Low priority observability feature
 
+### [OP-FEAT-009] Trusted-node La Nasa projection with observer-relative views [#26](https://github.com/JeanHuguesRobert/operium/issues/26)
+- **Subsystem:** `ona` | **Gate:** 🟢 READY | **Status:** `open`
+- **Next Action:** Complete the observer/view contract, then validate an unattended trusted Pi display with local La Nasa fallback (issue #26).
+
 ## 📜 Completed Items
 
 - [x] **[OP-BUG-001]** Agent CLI Gateway Tailscale reachability intermittent from fracta (`agent-gateway` - bug)
@@ -85,6 +92,9 @@ provenance:
 - [x] **[OP-BUG-005]** Secrets research notes drift from operational secrets-management.md (`docs` - bug)
 - [x] **[OP-BUG-006]** Termux shell profile trusts an inherited sentinel with an incomplete environment (`tooling` - bug)
 - [x] **[OP-BUG-007]** Gateway semantic search called AI-router embeddings inline (IoC violation) (`cogentia-context` - bug)
+- [x] **[OP-BUG-008]** Pi hosted La Nasa viewer survives a tunnel restart without a live VNC session (`mesh` - bug)
+- [x] **[OP-BUG-009]** Public Cogentia Guide and aggregator reachability is broken (`magistral-routing` - bug)
 - [x] **[OP-FEAT-001]** Automate Magistral coding-agent map apply + verify on fracta (`magistral-routing` - feature)
 - [x] **[OP-FEAT-003]** Cross-device WIP handoff/resume polish (`cli` - feature)
 - [x] **[OP-FEAT-008]** Bounded Termux tmux handoff helper (`cli` - feature)
+- [x] **[OP-FEAT-011]** Accept calendar wakes by packet_ref (by reference) (`ona` - feature)
