@@ -81,6 +81,19 @@ provenance:
 Ces deux accusés sont donc des traces positives de réception avant 18 h, sans préjuger de la complétude, de la recevabilité ni de la transmission ultérieure au Conseil constitutionnel. Le message au greffe du Conseil constitutionnel a, de son côté, atteint la passerelle Mailinblack à **17:49:24 CEST** (Gmail `1a1170e45a56a47c`), qui a demandé à l’expéditeur une confirmation humaine avant délivrance au greffe ; cela établit l’arrivée à la passerelle, pas encore la remise au greffe. Les autres messages sont qualifiés comme envoyés à ce stade, sans inférence sur leur réception tant qu’aucun retour spécifique n’est disponible. | D4 |
 | 2026-10-07-002 | 2026-10-07 | Sénatoriales 2026 — « dernière chance » contradictoire avant gel de la requête | Préfecture de la Haute-Corse ; Tribunal administratif de Bastia ; France 3 Corse ViaStella / Dominique Moret | 0 | 0 | Trois courriels de vérification factuelle ont été envoyés entre 17:49:32 et 17:49:40 CEST afin d’offrir, avant gel, une ultime possibilité de signaler une erreur factuelle, une omission significative ou de produire une trace pertinente. Préfecture : envoyé à Adrien Vidal avec Bureau des élections, Préfecture, Sous-Préfecture de Corte et Marie-Françoise Raffalli en copie à 17:49:32. TA Bastia : envoyé au greffe avec Anne Baux, Hülya Celik et Romain Longinotti en copie à 17:49:35 ; le message précise qu’il ne s’agit ni d’une nouvelle requête ni d’une demande de réouverture. France 3 : envoi initial à `france3.corse@francetv.fr` et `relations.telespectateurs@francetv.fr` à 17:49:40 ; les deux adresses ont immédiatement rejeté le message avec erreur SMTP 550 « Invalid Recipient ». La même demande a alors été renvoyée directement à Dominique Moret, `dominique.moret@francetv.fr`, dans le fil de son message du 17 septembre, avec statut Gmail SENT. L’absence de réponse avant gel ne sera pas interprétée comme approbation. | D4 |
 
+
+### Clarification probatoire — existence de la requête avant 18 h ≠ disponibilité du résolveur public
+
+La chronologie doit rester décomposée en quatre faits distincts :
+
+1. **Existence matérielle du document avant 18 h.** Le PDF de la requête avait déjà été produit et publié dans GitHub avant l'échéance. Un snapshot REVIEW était matérialisé dans le dépôt avant les envois institutionnels.
+2. **Envoi avant 18 h.** Les messages de saisine / transmission ont été envoyés entre 17:48:42 et 17:49:25 CEST.
+3. **Réception institutionnelle avant 18 h.** Deux accusés automatiques distincts, Préfecture de la Haute-Corse et Bureau des élections, ont été reçus à 17:49:24 CEST et indiquent explicitement que « le présent accusé de réception atteste de la réception de votre saisine ».
+4. **Disponibilité du chemin HTTP public.** L'URL `https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf` a été testée entre 17:58:20 et 18:01:21 CEST : elle répondait alors HTTP 200 mais servait encore le HTML du SPA. Après réactivation des builds Netlify et nouveau déploiement, le même chemin a été vérifié à **18:05:05 CEST** comme servant effectivement un PDF valide (HTTP 200, `Content-Type: application/pdf`, signature `%PDF-`, 200935 octets, SHA-256 `2968cbe0a5de0f5e279e70d28c0769d4a8dbf8ca8f6f7e4571864333ecaa02a0`).
+
+**Qualification à conserver :** la défaillance temporaire du résolveur public n'établit pas une inexistence de la requête avant 18 h. Elle affecte un chemin d'accès communiqué à une requête déjà matérialisée. Les faits « existence du document », « envoi », « réception de la saisine » et « disponibilité HTTP du résolveur » doivent rester distincts et horodatés séparément.
+
+
 ## Baselines historiques — 2016 à 2025
 
 La remontée dans Gmail fournit plusieurs **baselines historiques** qui changent l'interprétation du signal observé en septembre 2026.
