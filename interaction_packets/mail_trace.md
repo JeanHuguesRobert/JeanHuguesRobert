@@ -173,6 +173,17 @@ Un point de rupture possible apparaît autour du **15 septembre 2026**, lorsque 
 
 Pour chaque nouvelle réponse ou absence durable de réponse, relever séparément : acteur, nature de la demande (opérationnelle, orientation, communication documentaire, audit de sa propre action, contentieux), délai, accusé automatique, réponse humaine, degré de complétude et éventuel routage. L'hypothèse ne devra être renforcée que si le contraste persiste sur plusieurs acteurs et plusieurs dossiers comparables.
 
+
+## 2026-10-14 — Commission des lois du Sénat : contribution au format Word
+
+**Mandat :** Jean Hugues Noël Robert, président de l'association C.O.R.S.I.C.A. ; Institut Mariani. **Objet :** projet de loi constitutionnelle n° 782, autonomie corse, proposition citoyenne d'effectivité du futur article 72-5.
+
+**Faits établis par le fil Gmail (14 octobre 2026) :** premier message à `secretaires.lois@senat.fr` à 08:10 (heure française) ; adresse en copie `secretariat.com-lois@senat.fr` rejetée (`550 User unknown`), sans préjuger de la bonne distribution à l'adresse principale. Réponse humaine du secrétariat de la commission à 10:50 demandant un fichier Word. **Réponse envoyée à 12:22** à `secretaires.lois@senat.fr`, avec un seul fichier joint effectivement vérifié : `contribution_CORSICA_Senat_2026-10-14_integrale.docx` (21 899 octets, MIME Word). Dans ce second message, l'expéditeur rappelle la contribution du 28 mai à l'Assemblée nationale et la proposition d'amendement 72-5. Le fil comporte également un brouillon distinct, non expédié, avec Word, PDF et Markdown ; **ne pas confondre ce brouillon avec l'envoi effectif**.
+
+**État probatoire :** courriel présent dans `SENT` ; absence de retour de livraison définitif vérifié à cette lecture ; réception, diffusion à la rapporteure et prise en compte parlementaire non encore établies. La proposition d'amendement demeure citoyenne, non déposée par un parlementaire à notre connaissance. Source documentaire : [dossier Sénat et transcription ASR](https://github.com/JeanHuguesRobert/barons-Mariani/issues/120) et [amendement publié](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md).
+
+**Suivi :** conserver la distinction publication / envoi / livraison / réception / instruction / éventuel dépôt parlementaire. La transcription de l'audition ministérielle du 13 octobre est automatique, non validée comme verbatim.
+
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
