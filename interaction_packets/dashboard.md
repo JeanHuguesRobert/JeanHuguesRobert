@@ -275,3 +275,7 @@ Les corrections doivent rester visibles lorsqu’elles sont importantes.
 - [Interaction lisible — Session MareNostrum / Université de Corse](readable/2026/2026-05-04-session_marenostrum.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)
 <!-- END_AUTO: backlinks -->
+
+## Actualité vérifiée du 14 octobre 2026 — Commission des lois du Sénat
+
+Une demande du secrétariat de la commission des lois sollicitait la transmission en format Word d'une contribution C.O.R.S.I.C.A. relative au projet constitutionnel n° 782. Réponse envoyée à 12 h 22 avec **une seule pièce Word**. Les PDF et Markdown ont été conservés dans un brouillon distinct non envoyé. La réception définitive, l'exploitation parlementaire et tout dépôt de l'amendement citoyen sont **non établis**. Voir le [registre chronologique public](mail_trace.md) et les [sources documentaires du dossier sénatorial](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/dossier_rapporteur_senat_2026-10-09.md).
