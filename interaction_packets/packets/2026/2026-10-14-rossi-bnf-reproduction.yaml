@@ -1,0 +1,61 @@
+id: "2026-10-14-001"
+date: "2026-10-14"
+time: "06:00:40"
+timezone: "Europe/Paris"
+status: "sent — response pending"
+current_status:
+  label: "Demande documentaire envoyée — réponse attendue"
+channel: "email"
+direction: "outbound"
+disclosure: "D3"
+visibility: "public"
+subject: "Recherche documentaire — Rossi, Osservazioni storiche, livre X (1900), p. 136–141"
+principal:
+  name: "Jean Hugues Noël Robert"
+  roles:
+    - "Institut Mariani / C.O.R.S.I.C.A."
+correspondents:
+  - name: "Bibliothèque nationale de France — service reproduction"
+    address: "reproduction@bnf.fr"
+copy_to:
+  - name: "Institut Mariani"
+    address: "institutmariani@gmail.com"
+purpose: >-
+  Identifier un accès numérique ou demander les modalités de consultation / reproduction
+  des pages 136 à 141 du livre X des Osservazioni storiche sopra la Corsica
+  d'Ambrogio Rossi, édité par Letteron en 1900 dans le Bulletin de la Société
+  des sciences historiques et naturelles de la Corse, fascicules 237 à 240.
+summary: >-
+  Courriel envoyé au service reproduction de la BnF demandant (1) si ces six pages
+  sont déjà numérisées et leur URL ; (2) à défaut, la possibilité de consultation ou
+  reproduction avec conditions pratiques et tarifaires ; (3) une réorientation vers
+  le service compétent si nécessaire. Consultation scientifique et collation
+  demandées ; la réutilisation éventuelle pour publication reste distincte.
+evidence:
+  gmail:
+    message_id: "1a13891c70551263"
+    thread_id: "1a1388e4981d06ba"
+    label: "SENT"
+    sent_at: "2026-10-14T06:00:40+02:00"
+    attachments: false
+    to: "reproduction@bnf.fr"
+    cc: "institutmariani@gmail.com"
+    message_url: "https://mail.google.com/mail/u/?authuser=jeanhuguesrobert%40gmail.com#all/1a13891c70551263"
+linked_documents:
+  catalogue_bnf: "https://catalogue.bnf.fr/ark:/12148/cb31248785r"
+  chantier_a: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/1755/sources/chantier-a-transmission-editions.md"
+  readable: "../../readable/2026/2026-10-14-rossi-bnf-reproduction.md"
+  register: "../../mail_trace.md"
+follow_up: []
+next_watch:
+  - "Réponse de la BnF sur la numérisation des pages 136–141"
+  - "Modalités éventuelles de reproduction et coûts"
+  - "Service compétent en cas de réorientation"
+methodological_note:
+  fact_interpretation_boundary: >-
+    Le label SENT prouve la présence du message dans les envoyés ; il ne prouve
+    ni sa réception ni l'instruction de la demande par la BnF. Aucune réponse
+    n'est attribuée au correspondant à cette étape.
+  ai_assistance: true
+  human_arbitration: "Jean Hugues Noël Robert"
+  responsibility: "exclusive human responsibility"
