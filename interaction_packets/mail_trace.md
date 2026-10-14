@@ -174,15 +174,22 @@ Un point de rupture possible apparaît autour du **15 septembre 2026**, lorsque 
 Pour chaque nouvelle réponse ou absence durable de réponse, relever séparément : acteur, nature de la demande (opérationnelle, orientation, communication documentaire, audit de sa propre action, contentieux), délai, accusé automatique, réponse humaine, degré de complétude et éventuel routage. L'hypothèse ne devra être renforcée que si le contraste persiste sur plusieurs acteurs et plusieurs dossiers comparables.
 
 
-## 2026-10-14 — Commission des lois du Sénat : contribution au format Word
+## 2026-10-14 — Commission des lois du Sénat : envoi et réception confirmée
 
 **Mandat :** Jean Hugues Noël Robert, président de l'association C.O.R.S.I.C.A. ; Institut Mariani. **Objet :** projet de loi constitutionnelle n° 782, autonomie corse, proposition citoyenne d'effectivité du futur article 72-5.
 
-**Faits établis par le fil Gmail (14 octobre 2026) :** premier message à `secretaires.lois@senat.fr` à 08:10 (heure française) ; adresse en copie `secretariat.com-lois@senat.fr` rejetée (`550 User unknown`), sans préjuger de la bonne distribution à l'adresse principale. Réponse humaine du secrétariat de la commission à 10:50 demandant un fichier Word. **Réponse envoyée à 12:22** à `secretaires.lois@senat.fr`, avec un seul fichier joint effectivement vérifié : `contribution_CORSICA_Senat_2026-10-14_integrale.docx` (21 899 octets, MIME Word). Dans ce second message, l'expéditeur rappelle la contribution du 28 mai à l'Assemblée nationale et la proposition d'amendement 72-5. Le fil comporte également un brouillon distinct, non expédié, avec Word, PDF et Markdown ; **ne pas confondre ce brouillon avec l'envoi effectif**.
+**Chronologie vérifiée dans Gmail (heure de Paris) :**
+- **08 h 10** : premier courriel envoyé à `secretaires.lois@senat.fr`. La copie à `secretariat.com-lois@senat.fr` produit une erreur de livraison 550 User unknown ; cela ne concerne pas l'adresse principale.
+- **10 h 50** : le secrétariat de la commission demande la contribution au format Word.
+- **14 h 22** : premier envoi de réponse, avec le document Word `contribution_CORSICA_Senat_2026-10-14_integrale.docx` (21 899 octets).
+- **15 h 19** : second envoi, dans le même fil, avec **trois pièces jointes effectivement vérifiées** : `contribution_CORSICA_Senat_2026-10-14_integrale.docx` (21 899 octets), `contribution_CORSICA_Senat_2026-10-14_integrale.pdf` (150 295 octets), et `contribution_CORSICA_Senat_2026-10-14_source.md` (25 203 octets).
+- **17 h 31** : réponse du secrétariat à ce second envoi : « Nous vous remercions pour votre contribution écrite et en accusons bonne réception. »
 
-**État probatoire :** courriel présent dans `SENT` ; absence de retour de livraison définitif vérifié à cette lecture ; réception, diffusion à la rapporteure et prise en compte parlementaire non encore établies. La proposition d'amendement demeure citoyenne, non déposée par un parlementaire à notre connaissance. Source documentaire : [dossier Sénat et transcription ASR](https://github.com/JeanHuguesRobert/barons-Mariani/issues/120) et [amendement publié](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md).
+**État probatoire :** émission puis **réception de la contribution explicitement confirmée par le secrétariat**. Il n'en résulte pas de preuve de transmission à la rapporteure, d'instruction substantielle de la contribution, ni de dépôt ou adoption d'un amendement parlementaire. Ce dossier constitue une étape d'interaction institutionnelle, et non une validation de l'amendement proposé.
 
-**Suivi :** conserver la distinction publication / envoi / livraison / réception / instruction / éventuel dépôt parlementaire. La transcription de l'audition ministérielle du 13 octobre est automatique, non validée comme verbatim.
+**Sources :** fil Gmail `1a1390810ff34625`, reçu `1a13b0a12fa0d96f` ; [Cognitive Packet transcription/documentation](https://github.com/JeanHuguesRobert/barons-Mariani/issues/120) ; [amendement associatif publié](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md).
+
+**Suivi :** conserver la distinction envoi / réception / transmission interne / examen / dépôt parlementaire. La transcription ASR de l'audition du 13 octobre n'est ni corrigée ni assimilable à un compte rendu officiel.
 
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
