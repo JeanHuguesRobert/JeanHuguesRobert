@@ -174,6 +174,14 @@ Un point de rupture possible apparaît autour du **15 septembre 2026**, lorsque 
 Pour chaque nouvelle réponse ou absence durable de réponse, relever séparément : acteur, nature de la demande (opérationnelle, orientation, communication documentaire, audit de sa propre action, contentieux), délai, accusé automatique, réponse humaine, degré de complétude et éventuel routage. L'hypothèse ne devra être renforcée que si le contraste persiste sur plusieurs acteurs et plusieurs dossiers comparables.
 
 
+## 2026-10-15 — Commission des lois du Sénat : réponses au questionnaire (public, D4)
+
+Le 15 octobre 2026 à 17:42:46 (heure de Corse), un courriel a été envoyé au secrétariat de la commission des lois du Sénat, dans le fil du 14 octobre, avec copies à l'Institut Mariani et aux deux collaborateurs parlementaires initialement destinataires. Vérifié dans Gmail « Envoyés » : message `1a1403af703f0561`. Les deux pièces jointes sont `reponses_questionnaire_Jourda_CORSICA_2026-10-15.md` (18 988 octets) et `reponses_questionnaire_Jourda_CORSICA_2026-10-15.pdf` (62 951 octets). Ce complément répond aux 14 questions de Mme Jourda et reprend l'Autonomie de Capacité et l'amendement d'effectivité à l'article 72-5.
+
+**Source publique :** [Réponses au questionnaire sur GitHub](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/reponses_questionnaire_Jourda_CORSICA_2026-10-15.md), commit [81f1740](https://github.com/JeanHuguesRobert/barons-Mariani/commit/81f1740f1f14a26ba41a283d08a5af03eb44d64e).
+
+**Différence vérifiée :** le corps du courriel envoyé ne contient pas l'URL GitHub, bien que le document soit publié et les pièces jointes présentes. La réception du complément du 15 octobre n'a pas encore été confirmée ; l'accusé de réception du 14 octobre concerne la contribution antérieure. Ni lecture par la rapporteure ni dépôt parlementaire de l'amendement ne sont établis. Un brouillon obsolète créé pendant la préparation a été mis à la corbeille après vérification ; un autre brouillon préexistant subsiste dans le fil.
+
 ## 2026-10-14 — Commission des lois du Sénat : envoi et réception confirmée
 
 **Mandat :** Jean Hugues Noël Robert, président de l'association C.O.R.S.I.C.A. ; Institut Mariani. **Objet :** projet de loi constitutionnelle n° 782, autonomie corse, proposition citoyenne d'effectivité du futur article 72-5.
