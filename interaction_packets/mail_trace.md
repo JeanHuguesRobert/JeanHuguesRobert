@@ -34,6 +34,7 @@ provenance:
 
 | ID | Date | Sujet | Interlocuteur | Relance | Jours écoulés | Statut | Divulgation |
 |---|---:|---|---|---:|---:|---|---|
+| 2026-10-18-001 | 2026-10-18 | Corte — requalification du centre ancien : financement et transparence du marché BOAMP 26-95869 | Ville de Corte — Monsieur le Maire, via service des marchés publics | 0 | 0 | Courriel « Corte, son avenir et quelques millions d'euros » envoyé le 18/10/2026 à 10:45:58 (Europe/Paris), vérifié dans Gmail « Envoyés ». Questions sur la différence entre financement européen annoncé publiquement et avis d'attribution, demandes des études, décisions municipales et engagements financiers. Aucune pièce jointe ; réponse attendue. L'envoi ne prouve ni réception ni instruction. [Avis BOAMP](https://www.boamp.fr/pages/avis/?q=idweb:26-95869). | D4 |
 | 2026-10-17-001 | 2026-10-17 | Musée Mariani des Possibles — recherche de provenance des archives Mariani à partir du tableau généalogique p. 169 du catalogue Osenat du 9 juillet 2023 | Jean-Christophe Chataignier — Osenat (copie : Institut Mariani) | 0 | 0 | Courriel envoyé le 17/10/2026 à 21:48:08 (Europe/Paris), vérifié dans Gmail « Envoyés » (message `1a14b686b189755a`). Demande d'identification des lots liés au tableau, des sources généalogiques, d'éventuelles archives concernant Antoine et Joseph Mariani et de références publiques ou mise en relation consentie. Aucune pièce jointe. Réponse attendue ; réception et examen non établis. [Catalogue Osenat](https://www.osenat.com/catalogue/135722). | D3 |
 | [2026-10-14-001](./readable/2026/2026-10-14-rossi-bnf-reproduction.md) | 2026-10-14 | Rossi, *Osservazioni storiche*, livre X (1900), p. 136–141 — recherche d'accès ou reproduction | BnF — service reproduction (copie : Institut Mariani) | 0 | 0 | Courriel envoyé le 14/10/2026 à 06:00:40 (Europe/Paris), vérifié dans Gmail « Envoyés ». Demande de numérisation, de modalités de consultation/reproduction et de réorientation si nécessaire ; aucune pièce jointe. Réponse attendue ; réception/traitement non démontrés. [Packet](./packets/2026/2026-10-14-rossi-bnf-reproduction.yaml). | D3 |
 | 2026-09-14-001 | 2026-09-14 | Vallée du Fango, Bastia — recherche du dossier d’expropriation familial du début des années 1970 | Archives de Corse — Cismonte / Archives de la Haute-Corse | 0 | 7 | Courriel envoyé le 14/09/2026 à 16:44 demandant le dossier administratif d’expropriation, la DUP et les documents parcellaires, les références et matrices cadastrales, la décision fixant l’indemnité, l’éventuelle décision d’appel et, à défaut de conservation locale, l’indication du service producteur ou dépositaire. Réponse reçue le 21/09 (réf. 2026-430) : le service indique ne pas avoir retrouvé le jugement demandé et précise ne pas conserver de jugements d’expropriation dans ses fonds. Réponse partielle : elle ne traite pas explicitement les autres composantes de la demande ni l’orientation vers le service susceptible de détenir les pièces. Un complément ciblé peut donc utilement être demandé, notamment si un rendez-vous sur place est regroupé avec le déplacement du 01/10 à Bastia. | D3 |
@@ -199,6 +200,17 @@ Le 15 octobre 2026 à 17:42:46 (heure de Corse), un courriel a été envoyé au 
 **Sources :** fil Gmail `1a1390810ff34625`, reçu `1a13b0a12fa0d96f` ; [Cognitive Packet transcription/documentation](https://github.com/JeanHuguesRobert/barons-Mariani/issues/120) ; [amendement associatif publié](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md).
 
 **Suivi :** conserver la distinction envoi / réception / transmission interne / examen / dépôt parlementaire. La transcription ASR de l'audition du 13 octobre n'est ni corrigée ni assimilable à un compte rendu officiel.
+
+
+## 2026-10-18 — Corte : interrogation publique sur le financement du centre ancien
+
+**Interaction :** courrier adressé au maire de Corte via le service des marchés publics (`marchespublics@ville-corte.fr`), objet « Corte, son avenir et quelques millions d'euros ».
+
+**Fait vérifié :** envoi le **18 octobre 2026 à 10 h 45 min 58 s (Europe/Paris)** ; message présent dans le dossier Gmail « Envoyés ». Aucune pièce jointe, aucun destinataire en copie. Le message s'interroge, sans accusation, sur le coût proche de huit millions d'euros, la présentation publique d'une participation européenne et l'indication contraire apparente de l'avis d'attribution ; il sollicite les documents éclairant les décisions du conseil municipal, les engagements des financeurs et les études utiles aux habitants.
+
+**Référence publique :** [BOAMP 26-95869](https://www.boamp.fr/pages/avis/?q=idweb:26-95869). La preuve de l'envoi et le texte intégral restent dans la messagerie source ; ne pas publier d'identifiants techniques de fournisseur.
+
+**État :** envoyé et vérifié côté expéditeur ; **réception, lecture, instruction et réponse non établies**. Suivi : rechercher une réponse de la commune et, si nécessaire, formaliser la demande de communication de documents administratifs.
 
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
