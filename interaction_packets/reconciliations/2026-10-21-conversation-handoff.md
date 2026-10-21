@@ -9,3 +9,7 @@ L'audit ciblé est clos ; reprendre les travaux restants par leurs sources, sans
 - [Cognitive Packet Cogentia #271](https://github.com/JeanHuguesRobert/cogentia/issues/271) : amélioration future du Sleep Cycle, toujours différée et sans mutation automatique.
 
 Périmètres non clos : sources privées sous autorisation distincte, réception/intégrité des fichiers transmis par plateformes externes, canal WhatsApp et découverte d'autres interactions non enregistrées. Réouvrir seulement en présence de preuve, anomalie reproductible ou mandat ciblé.
+
+## Règle opérationnelle de publication — optimistic locking
+
+Pour une écriture GitHub explicitement mandatée et normalement autorisée : (1) lire la cible et son SHA courant, (2) produire un patch minimal et conserver la provenance, (3) écrire avec ce SHA comme précondition, (4) relire pour vérifier le résultat. En cas de conflit de version, rafraîchir puis réconcilier les différences avant une nouvelle tentative ; ne jamais écraser à l'aveugle. En cas de refus de sécurité ou de permission, enregistrer l'échec comme tel, sans le déguiser en conflit de version ni chercher à neutraliser les protections. L'existence de contrôles préventifs ne dispense pas de tenter les écritures ordinaires que le mandat et les permissions rendent légitimes.
