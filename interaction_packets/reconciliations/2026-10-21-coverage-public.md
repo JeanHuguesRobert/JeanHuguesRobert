@@ -28,7 +28,7 @@ Inventaire des 51 identifiants inscrits dans le registre public. **Rapprochement
 | 2026-08-08-001 | rapprochement ciblé |
 | 2026-08-12-001 | partiel |
 | 2026-08-12-002 | rapprochement ciblé |
-| 2026-09-01-001 | à instruire |
+| 2026-09-01-001 | partiel |
 | 2026-09-01-002 | rapprochement ciblé |
 | 2026-09-07-001 | rapprochement ciblé |
 | 2026-09-07-002 | rapprochement ciblé |
@@ -42,8 +42,8 @@ Inventaire des 51 identifiants inscrits dans le registre public. **Rapprochement
 | 2026-09-22-002 | partiel |
 | 2026-09-22-003 | partiel |
 | 2026-09-23-001 | rapprochement ciblé |
-| 2026-09-26-001 | à instruire |
-| 2026-09-26-002 | à instruire |
+| 2026-09-26-001 | partiel |
+| 2026-09-26-002 | partiel |
 | 2026-09-26-003 | rapprochement ciblé |
 | 2026-09-27-001 | partiel |
 | 2026-09-28-001 | partiel |
@@ -54,6 +54,6 @@ Inventaire des 51 identifiants inscrits dans le registre public. **Rapprochement
 | 2026-10-07-002 | partiel |
 | 2026-10-07-003 | partiel |
 | 2026-10-07-004 | partiel |
-| 2026-10-07-005 | à instruire |
+| 2026-10-07-005 | partiel |
 
-Bilan : 22 rapprochements ciblés, 23 partiels, 6 à instruire. Les classifications sont **provisoires et conservatrices** ; elles ne constituent pas une attestation d'exhaustivité. Prochain traitement : examiner d'abord les 6 à instruire, puis les 23 partiels et, enfin, rechercher d'autres canaux et correspondants pour les 22 déjà rapprochés. Ne publier aucune donnée privée ou extrait d'un correspondant sans arbitrage distinct.
+Bilan : 22 rapprochements ciblés, 27 partiels, 2 à instruire. Les classifications sont **provisoires et conservatrices** ; elles ne constituent pas une attestation d'exhaustivité. Prochain traitement : examiner d'abord les 6 à instruire, puis les 23 partiels et, enfin, rechercher d'autres canaux et correspondants pour les 22 déjà rapprochés. Ne publier aucune donnée privée ou extrait d'un correspondant sans arbitrage distinct.
