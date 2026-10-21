@@ -1,6 +1,6 @@
 ---
 title: Interaction lisible — Information des parlementaires corses sur l’Autonomie de Capacité
-description: Public trace (D4) of the 2026-05-29 email to the six Corsican parliamentarians; no reply detected as of 2026-09-21.
+description: Public trace (D4) of the 2026-05-29 email to the six Corsican parliamentarians; no individual reply found in Gmail as of 2026-10-21.
 author: Jean Hugues Noël Robert, baron Mariani
 date: '2026-05-29'
 status: journal
@@ -27,7 +27,7 @@ Informer directement les six parlementaires corses que la contribution « Autono
 
 ## Suivi vérifié
 
-Le 2026-09-21, une recherche Gmail sur les six adresses officielles n’a retrouvé **aucune réponse** à cet envoi.
+Le 2026-10-21, une recherche complémentaire Gmail sur les six adresses officielles n’a retrouvé **aucune réponse** à cet envoi.
 
 Ce constat porte uniquement sur l’état observable de la correspondance et ne préjuge d’aucun motif.
 
