@@ -2,9 +2,9 @@ id: "2026-10-14-001"
 date: "2026-10-14"
 time: "06:00:40"
 timezone: "Europe/Paris"
-status: "sent — response pending"
+status: "human response received — consultation available"
 current_status:
-  label: "Demande documentaire envoyée — réponse attendue"
+  label: "Réponse reçue le 20 octobre ; consultation Gallica indiquée"
 channel: "email"
 direction: "outbound"
 disclosure: "D3"
@@ -46,16 +46,22 @@ linked_documents:
   chantier_a: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/1755/sources/chantier-a-transmission-editions.md"
   readable: "../../readable/2026/2026-10-14-rossi-bnf-reproduction.md"
   register: "../../mail_trace.md"
+reply_evidence:
+  gmail_message_id: "1a158c43165fd878"
+  received_at: "2026-10-20T12:03:34+02:00"
+  outcome: "Gallica link and reproduction terms communicated"
+  time_to_first_human_reply: "6 days 6 hours 2 minutes 54 seconds"
+  reviewed_at: "2026-10-21"
 follow_up: []
 next_watch:
-  - "Réponse de la BnF sur la numérisation des pages 136–141"
+  - "Vérifier les six pages précises sur Gallica avant toute collation"
   - "Modalités éventuelles de reproduction et coûts"
   - "Service compétent en cas de réorientation"
 methodological_note:
   fact_interpretation_boundary: >-
     Le label SENT prouve la présence du message dans les envoyés ; il ne prouve
     ni sa réception ni l'instruction de la demande par la BnF. Aucune réponse
-    n'est attribuée au correspondant à cette étape.
+    n'était attribuée au correspondant à l'étape initiale ; la réponse du 20/10 est désormais documentée.
   ai_assistance: true
   human_arbitration: "Jean Hugues Noël Robert"
   responsibility: "exclusive human responsibility"
