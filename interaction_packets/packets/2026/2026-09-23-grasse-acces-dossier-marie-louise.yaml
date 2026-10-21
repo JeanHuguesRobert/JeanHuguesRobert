@@ -2,9 +2,9 @@ id: "2026-09-23-001"
 date: "2026-09-23"
 time: "10:47:11"
 timezone: "Europe/Paris"
-status: "identity verification supplied — magistrate review pending"
+status: "magistrate approved — transfer dispatched per registry"
 current_status:
-  label: "Justificatif demandé transmis — suite du traitement attendue"
+  label: "Accord du magistrat ; envoi de la procédure annoncé le 06/10"
 channel: "email"
 direction: "bidirectional"
 disclosure: "D3"
@@ -26,8 +26,10 @@ summary: >
   compétent. Celui-ci a confirmé la prise en charge, communiqué une référence
   interne non publiée et indiqué que la demande serait soumise au magistrat
   compétent après vérification d'identité. Le justificatif demandé a été
-  transmis le 23 septembre à 10:47 CEST. La décision ou réponse du magistrat
-  est désormais attendue.
+  transmis le 23 septembre à 10:47 CEST. Le greffe a confirmé la transmission
+  au magistrat le 30 septembre et indiqué le 6 octobre que la procédure était
+  envoyée via France Transfert après accord favorable du magistrat.
+  Réception et téléchargement effectifs non vérifiés.
 timeline:
   - date: "2026-09-10"
     event: "Demande initiale datée du 10 septembre"
@@ -60,10 +62,18 @@ timeline:
       Le document demandé a été transmis dans le même fil afin de permettre
       la poursuite du traitement. Le document lui-même reste strictement privé.
     status: "sent"
+  - date: "2026-09-30"
+    event: "Greffe : transmission au magistrat confirmée"
+    gmail_message_id: "1a0f21098d69ca6e"
+    status: "received"
+  - date: "2026-10-06"
+    event: "Greffe : accord favorable et transfert annoncé"
+    gmail_message_id: "1a110b84da1fea69"
+    status: "received"
 evidence:
   gmail:
     thread_id: "1a05eef4e2944290"
-    last_verified_at: "2026-09-23"
+    last_verified_at: "2026-10-21"
 redactions:
   - "Références internes de procédure"
   - "Document d'identité et toute donnée qu'il contient"
@@ -75,8 +85,8 @@ linked_documents:
 follow_up: []
 next_watch:
   - "Accusé de réception du justificatif transmis"
-  - "Transmission effective au magistrat compétent"
-  - "Décision sur la communicabilité des éléments demandés"
+  - "Vérifier la disponibilité, réception, téléchargement et intégrité du transfert annoncé"
+  - "Ne pas présumer du contenu effectivement transmis"
 methodological_note:
   fact_interpretation_boundary: >
     La chronologie publique décrit uniquement les messages vérifiés et le
