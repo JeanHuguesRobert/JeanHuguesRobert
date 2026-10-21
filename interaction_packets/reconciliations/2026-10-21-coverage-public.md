@@ -14,7 +14,7 @@ Inventaire des 51 identifiants inscrits dans le registre public. **Rapprochement
 | 2017-05-18-001 | rapprochement ciblé |
 | 2020-09-08-001 | rapprochement ciblé |
 | 2024-06-12-001 | rapprochement ciblé |
-| 2024-10-02-001 | à instruire |
+| 2024-10-02-001 | rapprochement ciblé |
 | 2024-03-20-001 | rapprochement ciblé |
 | 2024-06-21-001 | rapprochement ciblé |
 | 2026-05-04-001 | rapprochement ciblé |
@@ -56,4 +56,4 @@ Inventaire des 51 identifiants inscrits dans le registre public. **Rapprochement
 | 2026-10-07-004 | partiel |
 | 2026-10-07-005 | partiel |
 
-Bilan : 22 rapprochements ciblés, 27 partiels, 2 à instruire. Les classifications sont **provisoires et conservatrices** ; elles ne constituent pas une attestation d'exhaustivité. Prochain traitement : examiner d'abord les 6 à instruire, puis les 23 partiels et, enfin, rechercher d'autres canaux et correspondants pour les 22 déjà rapprochés. Ne publier aucune donnée privée ou extrait d'un correspondant sans arbitrage distinct.
+Bilan : 23 rapprochements ciblés, 27 partiels, 1 à instruire. Les classifications sont **provisoires et conservatrices** ; elles ne constituent pas une attestation d'exhaustivité. Prochain traitement : examiner d'abord le dossier WhatsApp A Fucina encore à instruire, puis les 27 partiels et, enfin, rechercher d'autres canaux et correspondants pour les 22 déjà rapprochés. Ne publier aucune donnée privée ou extrait d'un correspondant sans arbitrage distinct.
