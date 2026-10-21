@@ -32,6 +32,12 @@ provenance:
 
 # Registre des interactions
 
+## Mesure des délais (FBF, 21 octobre 2026)
+
+La colonne `Délai historique*` conserve des valeurs anciennes et hétérogènes. Zéro n'indique pas une réponse immédiate. Ne pas utiliser cette colonne pour des statistiques.
+
+À mesurer séparément : date d'envoi prouvée, accusé automatique, première réponse humaine, réponse au fond, dernière vérification, canal contrôlé et issue effective. Un délai de réponse est calculable seulement si l'envoi et la réponse sont tous deux horodatés. Une demande sans réponse retrouvée possède une ancienneté au jour du contrôle, non un délai de réponse. Aucun silence sur Gmail ne prouve la non-lecture ni l'absence de réponse par un autre canal.
+
 | ID | Date | Sujet | Interlocuteur | Relance | Délai historique* | Statut | Divulgation |
 |---|---:|---|---|---:|---:|---|---|
 | 2026-10-21-001 | 2026-10-21 | Article 72-5 — proposition d'amendement sur l'effectivité de Liberté, Égalité, Fraternité ; invitation à une revue juridique et à une éventuelle orientation parlementaire | Wanda Mastor — Université de Corse (copie : Institut Mariani) | 0 | 0 | Courriel envoyé le 21/10/2026 à **13:32:20 (Europe/Paris)**, vérifié dans Gmail « Envoyés ». Suite à une rencontre à Corte le 20/10, transmission de la proposition v0.7 ([source Markdown](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md)) avec **PDF joint** `amendement_72-5_v0.7.pdf` (71 019 octets ; [PDF public](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_72-5_v0.7.pdf)). Sollicitation non contraignante d'observations et, si jugé utile, d'une orientation vers un parlementaire habilité à examiner une reprise du texte. Mention distincte du dossier de requête au Conseil constitutionnel, à communiquer après consolidation des pièces. **Message envoyé attesté ; réception, examen, réponse et dépôt d'amendement non établis.** [Cognitive Packet #145](https://github.com/JeanHuguesRobert/barons-Mariani/issues/145). | D4 |
