@@ -3,11 +3,11 @@ id: "2026-05-29-001"
 type: "interaction_packet"
 status: "active"
 created: "2026-05-29"
-last_updated: "2026-09-21"
+last_updated: "2026-10-21"
 disclosure: "D4"
 date_envoi: "2026-05-29"
 date_reponse: null
-verifie_le: "2026-09-21"
+verifie_le: "2026-10-21"
 canal: "email (adresses officielles)"
 interlocuteurs:
   - "Michel Castellani (député)"
@@ -24,7 +24,7 @@ demande: >
   Informer les représentants parlementaires corses de la contribution publique
   « Autonomie de capacité de la Corse » et de son point central : distinguer
   autonomie juridique et capacité effective d'agir.
-statut: "aucune réponse des six parlementaires détectée au 2026-09-21"
+statut: "aucune réponse des six parlementaires détectée au 2026-10-21"
 niveau_divulgation: "D4"
 relation:
   parent_case: "2026-05-25-001"
@@ -35,10 +35,13 @@ relation:
 resume_public: >
   Courriel envoyé le 2026-05-29 à 06:32 aux six parlementaires corses, les informant
   de la contribution publique transmise à la commission des Lois. Recherche Gmail
-  effectuée le 2026-09-21 : aucune réponse des six destinataires détectée.
+  effectuée le 2026-10-21 : aucune réponse des six destinataires détectée.
 documents:
   contribution:
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md"
 copies:
   lisible: "../../readable/2026/2026-05-29-information_parlementaires_autonomie_capacite.md"
   brute: "../../raw/2026/2026-05-29-information_parlementaires_autonomie_capacite.eml.md"
+
+# Verification scope: Gmail inbound parliamentary-domain search through 2026-10-21.
+# No individual reply found; other channels and read status remain unknown.
