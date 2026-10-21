@@ -70,6 +70,10 @@ Le justificatif d'identité demandé est transmis par retour de courriel à **10
 
 Le message demande également un accusé de réception et la poursuite du traitement de la demande.
 
+### 30 septembre et 6 octobre 2026 — décision et transmission annoncée
+
+Le 30 septembre, le greffe confirme avoir saisi le magistrat. Le 6 octobre, il indique qu'un accord favorable a été donné et que la procédure a été transmise par France Transfert. Cette annonce **ne démontre pas à elle seule** la réception du lien, son téléchargement ou l'intégrité et le contenu des fichiers.
+
 ## État courant
 
 Le cheminement est désormais le suivant :
@@ -87,9 +91,11 @@ vérification d'identité demandée
     ↓
 justificatif transmis
     ↓
-transmission au magistrat compétent annoncée
+transmission au magistrat confirmée
     ↓
-décision / réponse attendue
+accord favorable et envoi déclaré par le greffe
+    ↓
+réception et intégrité du transfert à contrôler
 ```
 
 À ce stade, aucune conclusion n'est tirée sur le fond du dossier ni sur les éléments qui seront effectivement communicables. La trace documente uniquement les démarches accomplies et les réponses institutionnelles reçues.
