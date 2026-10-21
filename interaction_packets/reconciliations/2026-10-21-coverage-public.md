@@ -36,7 +36,7 @@ Inventaire des 51 identifiants inscrits dans le registre public. **Rapprochement
 | 2026-09-10-001 | partiel |
 | 2026-09-16-001 | rapprochement ciblé |
 | 2026-09-16-002 | rapprochement ciblé |
-| 2026-09-16-003 | partiel |
+| 2026-09-16-003 | rapprochement ciblé |
 | 2026-09-16-004 | rapprochement ciblé |
 | 2026-09-22-001 | partiel |
 | 2026-09-22-002 | partiel |
@@ -47,13 +47,13 @@ Inventaire des 51 identifiants inscrits dans le registre public. **Rapprochement
 | 2026-09-26-003 | rapprochement ciblé |
 | 2026-09-27-001 | partiel |
 | 2026-09-28-001 | rapprochement ciblé |
-| 2026-09-28-002 | partiel |
+| 2026-09-28-002 | rapprochement ciblé |
 | 2026-10-01-001 | partiel |
 | 2026-10-02-001 | partiel |
-| 2026-10-07-001 | partiel |
+| 2026-10-07-001 | rapprochement ciblé |
 | 2026-10-07-002 | partiel |
 | 2026-10-07-003 | partiel |
 | 2026-10-07-004 | rapprochement ciblé |
 | 2026-10-07-005 | partiel |
 
-Bilan : 28 rapprochements ciblés, 22 partiels, 1 à instruire. Les classifications sont **provisoires et conservatrices** ; elles ne constituent pas une attestation d'exhaustivité. Prochain traitement : examiner d'abord le dossier WhatsApp A Fucina encore à instruire, puis les 27 partiels et, enfin, rechercher d'autres canaux et correspondants pour les 22 déjà rapprochés. Ne publier aucune donnée privée ou extrait d'un correspondant sans arbitrage distinct.
+Bilan : 31 rapprochements ciblés, 19 partiels, 1 à instruire. Les classifications sont **provisoires et conservatrices** ; elles ne constituent pas une attestation d'exhaustivité. Prochain traitement : examiner d'abord le dossier WhatsApp A Fucina encore à instruire, puis les 27 partiels et, enfin, rechercher d'autres canaux et correspondants pour les 22 déjà rapprochés. Ne publier aucune donnée privée ou extrait d'un correspondant sans arbitrage distinct.
