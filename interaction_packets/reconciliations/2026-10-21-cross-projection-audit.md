@@ -35,3 +35,11 @@ Recherche GitHub de `linked_documents:` : 21 paquets repérés et examinés par 
 **Projection dashboard** : tableau de bord explicitement sélectif (`Cas actuellement tracés`) ; ne pas exiger une ligne pour chaque entrée du registre sans changer son contrat. Contrôler plutôt les liens et la fraîcheur des cas effectivement listés.
 
 **Pattern candidat** : confusion entre chemin relatif au fichier et chemin canonique depuis la racine du dépôt. Mieux vaut un validateur typé distinguant les deux conventions qu'une substitution globale. Réutiliser `Pattern Mining` et les principes FBF/Occam ; aucun changement de schéma sans test de contre-exemple.
+
+## Vérification effective des cibles — 21 octobre, passe complémentaire
+
+Contrôle GitHub `fetch_file` sur les cibles **internes** identifiées dans un échantillon de 19 paquets YAML, en normalisant les liens relatifs et les références enracinées dans le dépôt : les références locales rencontrées et testées résolvent vers des fichiers existants. L'examen initial de 21 sections `linked_documents` ne doit pas être confondu avec un test exhaustif des cibles de chaque champ de chaque YAML : certains paquets emploient des références hors de `linked_documents`, des URLs ou des listes structurées. Aucun autre défaut de présence n'a été confirmé lors de ces tests.
+
+Tableau de bord `interaction_packets/dashboard.md` : **8 lignes de cas** ; **18 liens locaux distincts** vers `packets/`, `readable/` ou `raw/` extraits du Markdown et chacun vérifié par lecture GitHub (18/18 existants). Cela valide leur existence, **pas** leur synchronisation sémantique, leur fraîcheur ni le contenu des pièces jointes. Le dashboard étant une sélection, il n'est pas nécessairement une projection de toutes les 51 entrées du registre.
+
+Restent ouverts : vérification globale des URLs inter-dépôts et externes, analyse des références imbriquées non reconnues par l'extraction ciblée, cohérence des statuts YAML/readable/dashboard, pièces livrées par plateformes de transfert, et revue des canaux non-Gmail. Prochain FBF : détecter par un validateur reproductible les chemins rompus, puis comparer les statuts en utilisant l'interaction ID, sans inférer qu'un fichier existant est à jour.
