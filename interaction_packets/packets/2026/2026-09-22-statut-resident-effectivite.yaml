@@ -46,7 +46,7 @@ evidence:
 linked_documents:
   source_amendment: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md"
   practical_note: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/note_campagne_statut_resident_effectivite.md"
-  readable: "../readable/2026/2026-09-22-statut-resident-effectivite.md"
+  readable: "../../readable/2026/2026-09-22-statut-resident-effectivite.md"
   register: "../../mail_trace.md"
 publicity:
   declared_in_message: true
