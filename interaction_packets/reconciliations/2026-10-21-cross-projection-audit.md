@@ -43,3 +43,11 @@ Contrôle GitHub `fetch_file` sur les cibles **internes** identifiées dans un �
 Tableau de bord `interaction_packets/dashboard.md` : **8 lignes de cas** ; **18 liens locaux distincts** vers `packets/`, `readable/` ou `raw/` extraits du Markdown et chacun vérifié par lecture GitHub (18/18 existants). Cela valide leur existence, **pas** leur synchronisation sémantique, leur fraîcheur ni le contenu des pièces jointes. Le dashboard étant une sélection, il n'est pas nécessairement une projection de toutes les 51 entrées du registre.
 
 Restent ouverts : vérification globale des URLs inter-dépôts et externes, analyse des références imbriquées non reconnues par l'extraction ciblée, cohérence des statuts YAML/readable/dashboard, pièces livrées par plateformes de transfert, et revue des canaux non-Gmail. Prochain FBF : détecter par un validateur reproductible les chemins rompus, puis comparer les statuts en utilisant l'interaction ID, sans inférer qu'un fichier existant est à jour.
+
+## Arrêt volontaire de la passe sémantique (21 octobre 2026)
+
+Contrôle final borné des statuts : quatre lignes canoniques (Urbanisme Corte, CROUS, candidature sénatoriale du 10 septembre, PV du 27 septembre), leurs paquets YAML, et les huit lignes sélectives du dashboard. Aucune contradiction de statut matériellement établie dans ces quatre croisements ; en particulier `status: active` dans les YAML désigne le cycle de vie du paquet et **non** l'absence de réponse. Ne pas traiter mécaniquement ce champ comme `awaiting`.
+
+**Correction FBF effective :** ligne `2026-03-11-001` du dashboard (clinique du droit), dont la mention de contrôle Gmail au 27 juillet était devenue historiquement datée ; remplacée par la formulation bornée « aucune réponse écrite retrouvée lors du contrôle Gmail ciblé du 2026-10-21 », sans transformer une recherche négative en certitude générale.
+
+**Critère d'arrêt :** aucun nouveau lien interne cassé détecté après les deux réparations ; huit lignes dashboard examinées, 18/18 liens locaux du dashboard présents, premiers statuts croisés ; demandes hors registre et preuves de transferts explicitement **non closes**. Ne pas prolonger cet audit exploratoire sans événement nouveau, défaut reproductible ou mandat ciblé. Le reliquat demeure dans les sections précédentes et la liste des candidats hors registre.
