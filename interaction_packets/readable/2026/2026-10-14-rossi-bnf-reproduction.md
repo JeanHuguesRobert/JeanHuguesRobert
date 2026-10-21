@@ -18,7 +18,7 @@ provenance:
 
 # Rossi 1900 — Demande documentaire à la BnF
 
-**ID :** `2026-10-14-001` — **Statut :** demande envoyée, réponse attendue.
+**ID :** `2026-10-14-001` — **Statut :** réponse reçue le 20 octobre 2026.
 
 Le **14 octobre 2026 à 06:00:40 (Europe/Paris)**, un courriel de recherche documentaire a été envoyé depuis Gmail à **reproduction@bnf.fr**, avec **institutmariani@gmail.com** en copie. L'envoi a été vérifié par la présence du label `SENT`. Aucune pièce jointe.
 
@@ -34,7 +34,7 @@ La [notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31248785r) permet d'identi
 
 ## Constat probatoire et suite
 
-Le **message envoyé** est vérifié dans Gmail ; **sa réception ou son traitement par la BnF n'est pas établi** et aucune réponse n'est constatée dans cette entrée. La copie à l'Institut est vérifiée dans le champ `Cc`.
+Le **message envoyé** est vérifié dans Gmail ; **une réponse humaine est vérifiée le 20 octobre 2026** : consultation Gallica et conditions de reproduction indiquées. Le contrôle exact des six pages reste à effectuer. La copie à l'Institut est vérifiée dans le champ `Cc`.
 
 Cette démarche débloquerait, si elle aboutit, le témoin **R1900** du [chantier A — Transmission des éditions](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/1755/sources/chantier-a-transmission-editions.md), déjà doté du témoin Fontana 1907 contrôlé sur fac-similé.
 
