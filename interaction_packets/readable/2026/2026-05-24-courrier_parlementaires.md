@@ -1,6 +1,6 @@
 ---
 title: Interaction lisible — Courrier public aux parlementaires corses (projet de loi constitutionnelle)
-description: Human-readable public trace (D4) of the 2026-05-24 email to the six Corsican parliamentarians; no reply detected as of 2026-09-21.
+description: Human-readable public trace (D4) of the 2026-05-24 email to the six Corsican parliamentarians; no individual reply found in Gmail as of 2026-10-21.
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani — émanation R&D de C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-05-24'
@@ -29,7 +29,7 @@ Transmission aux six parlementaires corses d'un courrier public et d'une note sy
 
 ## Suivi vérifié
 
-Le 2026-09-21, une recherche Gmail a été effectuée sur les six adresses officielles. **Aucune réponse des six parlementaires n'a été détectée.**
+Le 2026-10-21, une recherche complémentaire Gmail a été effectuée sur les six adresses officielles. **Aucune réponse des six parlementaires n'a été détectée.**
 
 Ce constat documente seulement l'état observable de la correspondance ; il n'attribue aucun motif au silence.
 
