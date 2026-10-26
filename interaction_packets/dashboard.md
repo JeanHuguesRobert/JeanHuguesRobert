@@ -96,6 +96,8 @@ ni `mail_trace.md` comme traces documentaires.
 
 | ID | Date | Sujet | Interlocuteur | Statut | Divulgation | Paquet | Copie lisible | Copie brute |
 |---|---:|---|---|---|---|---|---|---|
+| 2026-10-22-001 | 2026-10-22 | CADA — avis demandé sur les traces du courriel vidéo du 11 septembre | CADA — secrétariat général | Accusé de réception du 22/10 ; échec limité à une adresse en copie ; avis sur le fond non retrouvé au 26/10 | D2 | [YAML](./packets/2026/2026-10-22-cada-avis-courriel-video.yaml) | [Lisible (métadonnées)](./readable/2026/2026-10-22-cada-avis-courriel-video.md) | — |
+| 2026-10-21-001 | 2026-10-21 | Article 72-5 — transmission de l'amendement d'effectivité | Wanda Mastor — Université de Corse | Courriel et PDF envoyés le 21/10 ; aucune réponse retrouvée dans Gmail du 21 au 26/10 | D4 | — | — | — |
 | 2026-10-14-001 | 2026-10-14 | Rossi 1900 — demande de reproduction des pages 136–141 | BnF reproduction (Institut Mariani en copie) | Réponse reçue le 20 octobre : accès Gallica et modalités de reproduction communiqués | D3 | [YAML](./packets/2026/2026-10-14-rossi-bnf-reproduction.yaml) | [Lisible](./readable/2026/2026-10-14-rossi-bnf-reproduction.md) | — |
 | 2026-10-14-002 | 2026-10-14 | Contribution et questionnaire — autonomie de la Corse | Commission des lois du Sénat | Quatre réponses administratives reçues du 14 au 16/10 ; examen de fond inconnu | D3 | — | — | — |
 | 2026-09-22-001 | 2026-09-22 | Statut de résident — proposition d’un test d’effectivité | Alain Nebbia / Marcel Torracinta | Courriel public envoyé ; réponse attendue | D4 | [YAML](./packets/2026/2026-09-22-statut-resident-effectivite.yaml) | [lisible](./readable/2026/2026-09-22-statut-resident-effectivite.md) | — |
