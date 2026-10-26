@@ -56,7 +56,7 @@ Inventaire des 51 identifiants inscrits dans le registre public. **Rapprochement
 | 2026-10-07-004 | rapprochement ciblé |
 | 2026-10-07-005 | rapprochement ciblé |
 
-Bilan : 50 rapprochements ciblés, 0 partiel, 1 à instruire. Les classifications sont **provisoires et conservatrices** ; elles ne constituent pas une attestation d'exhaustivité. Prochain traitement : examiner d'abord le dossier WhatsApp A Fucina encore à instruire, puis les 27 partiels et, enfin, rechercher d'autres canaux et correspondants pour les 22 déjà rapprochés. Ne publier aucune donnée privée ou extrait d'un correspondant sans arbitrage distinct.
+Bilan : 50 rapprochements ciblés, 0 partiel, 1 à instruire. Les classifications sont **provisoires et conservatrices** ; elles ne constituent pas une attestation d'exhaustivité. Prochain traitement : examiner le dossier WhatsApp A Fucina encore à instruire, puis contrôler ponctuellement les pièces et canaux non couverts des 50 rapprochements ciblés. Les anciens nombres « 27 partiels / 22 rapprochés » décrivaient un état intermédiaire et ne sont plus des catégories courantes. Ne publier aucune donnée privée ou extrait d'un correspondant sans arbitrage distinct.
 
 ## Clôture de la passe ciblée du 21 octobre 2026
 
