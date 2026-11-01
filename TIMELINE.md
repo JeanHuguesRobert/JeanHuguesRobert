@@ -85,6 +85,18 @@ coordination without centralized capture.
 
 ---
 
+# 2006–2008 — D2Lab / Differently Different
+
+Co-founder of D2Lab S.A. in Luxembourg (incorporated on June 2, 2006), alongside Jean-François Catz, Thierry Parmentelat, Rodolphe Briet and Yvan Balsamo. The first three had already worked together across Perform and Odisei/8x8.
+
+**First-person recollection, November 1, 2026:** I recruited Jean-François Catz at Perform, then again at Odisei/8x8, and Thierry Parmentelat at Odisei. These are personal recollections, separate from the independent [D2Lab incorporation record](https://memorialc.public.lu/memorial/2006/C/Pdf/c1696129.pdf).
+
+D2Lab explored durable shared knowledge and distributed/mutualized storage, wiki software and social P2P media sharing (Circle2). Distinguish plans and deployed prototypes from completed distributed-storage infrastructure. [Historical research and contemporary correspondence](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/d2lab_wikis_are_here_to_stay.md).
+
+Earlier at Perform, I conceived SAGE: initially *Système Autonome de Gestion d'Équipements*, deliberately renamed *Système d'Aide à la Gestion d'Équipements* when autonomous management proved too ambitious. This recollection is dated November 1, 2026, not a claim that the current Cogentia autonomy model was already formulated then.
+
+---
+
 # 2000s — Distributed Systems and Political Reflection
 
 Progressive convergence between:
