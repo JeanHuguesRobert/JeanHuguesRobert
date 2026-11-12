@@ -2,6 +2,7 @@
 title: Jean Hugues Noël Robert, baron Mariani
 author: unknown
 date: '2026-07-23'
+last_modified_at: '2026-11-13'
 document_role: source
 document_kind: documentation
 visibility: public
@@ -130,7 +131,7 @@ beginning to function as one system:
 - **MareNostrum and DHITL** describe the energy, compute and democratic-governance architecture.
 - **FractaVolta, FractaNet and Inox** explore the photon-to-inference and distributed-computing substrate.
 - **Cogentia** maintains the governed corpus, its indexes, continuations and agent-resumable workflows.
-- **[Views Store](https://cogentia.fractavolta.com/)** is the public, browsable surface of **generated corpus views** (issues, continuations, indexes, concepts, package samples, operational state) — the live window over what Cogentia publishes.
+- **[Cogentia Public Guide](https://cogentia.fractavolta.com/guide)** is the public corpus navigation and Q&A interface. Some generated views and API surfaces have distinct routes and availability; their operational status must be checked independently.
 - **Operium** records operational reality: nodes, intended evolutions, health, risks, incidents and decisions.
 - **Inseme and Auxilia** turn store-and-forward and digital hospitality into concrete edge artefacts.
 - **Serra** is a tested but non-production experimental interface for reactive, AI-assisted coordination.
@@ -146,8 +147,10 @@ contestable and progressively testable.
 
 | Surface | Role |
 |---------|------|
-| **[Views Store](https://cogentia.fractavolta.com/)** | **Public live browser** of generated views (tag filter, open issues, continuations, repo indexes). Prefer this for “what is published right now.” |
-| [API /docs](https://cogentia.fractavolta.com/docs) | Machine-readable contract of the Views Store |
+| **[Cogentia Public Guide](https://cogentia.fractavolta.com/guide)** | Public corpus navigation and question-answering entry point; check individual generated views separately. |
+| Guide API documentation | **Not available at the former `/docs` URL** (HTTP 404 verified 13 November 2026); tracked in [cogentia #40](https://github.com/JeanHuguesRobert/cogentia/issues/40). |
+| [Living Books directory](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/README.md#livres-vivants--acc%C3%A8s-public) | Public reading links and source directories for the 11 Living Books verified on 13 November 2026. |
+| [John](https://jhn.baronsmariani.org/) | Public agent landing page; some functions may require authentication. |
 | [Corpus map](./research/corpus-map.md) | Top-level multi-repo map (humans + agents) |
 | [Public navigation](./research/public-navigation.md) | Short ranked entry map |
 
