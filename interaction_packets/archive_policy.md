@@ -351,8 +351,10 @@ La transparence exige aussi la traçabilité des coupes.
 ### Backlinks
 
 *These documents link to this file:*
+- [Interaction lisible — Accès au dossier relatif au décès de Marie-Louise](readable/2026/2026-09-23-grasse-acces-dossier-marie-louise.md)
 - [Interaction lisible — Candidature sénatoriale Haute-Corse 2026](readable/2026/2026-09-10-candidature-senatoriale-haute-corse.md)
 - [Interaction lisible — Clinique du droit / Université de Corse](readable/2026/2026-03-11-clinique-du-droit-cooperation.md)
+- [Interaction lisible — Statut de résident / test d’effectivité](readable/2026/2026-09-22-statut-resident-effectivite.md)
 - [Interaction Packets — Tableau de bord (JHR)](dashboard.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)
 <!-- END_AUTO: backlinks -->

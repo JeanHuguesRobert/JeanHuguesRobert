@@ -249,12 +249,40 @@ Les entrées **2026-05-24-001** et **2026-05-29-001** documentent les envois col
 **Appréciation de l'auteur, distincte des faits :** cette absence de réponse est ressentie comme un manquement de courtoisie et comme un indice de dysfonctionnement de la communication représentative ; elle nourrit une critique politique articulée autour des notions de « Médiocratie » et de « Spectacle ». Cette appréciation ne démontre ni les intentions ni les motivations personnelles des destinataires.
 
 **Suivi :** [Cognitive Packet #145](https://github.com/JeanHuguesRobert/barons-Mariani/issues/145).
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
 *These documents link to this file:*
+- [Autonomia](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md)
+- [Capable — édition en préparation](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/editions/2026-10-09-en-preparation.md)
+- [Capable — Registre des proclamations publiques](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/public-claims.md)
+- [Corte — requalification du centre ancien : enquête OSINT sur les décisions, coûts et financements](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/corte/requalification-centre-ancien-osint-2026.md)
+- [Dossier de lecture parlementaire — Corse, article 72-5](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/dossier_rapporteur_senat_2026-10-09.md)
+- [Du spectacle à la régie](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/debord_stabilisateur_procedural.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/histoire_devise_double_lecture_atelier.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_1.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_2.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_4.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/histoire_devise_effectivite_autonomie.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/histoire_devise_effectivite_autonomie_review_draft_2026-10-21.md)
+- [Observatoire public du processus d’autonomie de la Corse](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md)
+- [Projet #1755](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md)
+- [Projet #1755 — Tableau de bord public du test de capacité](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md)
+- [Sénatoriales 2026 — courriel de consolidation factuelle avant consultation du 1er octobre](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/sources/courriel-consolidation-prefecture-ta-2026-10-01.md)
+- [Sénatoriales 2026 — dossier presse et page d’aiguillage](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/dossier_presse_2026-09.md)
+- [Sénatoriales 2026 — kit presse post-scrutin du 27 septembre](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/media/kit_presse_post_scrutin_2026-09-27.md)
+- [Une loi ne vaut que par ses effets](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/03-effectivite.md)
+- [[Reality Test] FractaCognition récursive — transmettre puis vérifier une leçon entre handlers](https://github.com/JeanHuguesRobert/cogentia/issues/261)
+- [Interaction evidence in the Corpus Sleep Cycle](https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/interaction-evidence-sleep-cycle.md)
+- [CADA — avis demandé sur la traçabilité du courriel vidéo du 11 septembre](readable/2026/2026-10-22-cada-avis-courriel-video.md)
+- [Interaction lisible — Accès au dossier relatif au décès de Marie-Louise](readable/2026/2026-09-23-grasse-acces-dossier-marie-louise.md)
 - [Interaction lisible — Candidature sénatoriale Haute-Corse 2026](readable/2026/2026-09-10-candidature-senatoriale-haute-corse.md)
+- [Interaction lisible — Complément à la demande du procès-verbal du scrutin sénatorial de Haute-Corse](readable/2026/2026-09-28-senatoriales-haute-corse-complement-demande-pv.md)
+- [Interaction lisible — Demande de reproduction Rossi 1900 à la BnF](readable/2026/2026-10-14-rossi-bnf-reproduction.md)
+- [Interaction lisible — Demande du procès-verbal du scrutin sénatorial de Haute-Corse du 27 septembre 2026](readable/2026/2026-09-27-senatoriales-haute-corse-demande-pv.md)
+- [Interaction lisible — Sous-préfecture de Corte : modalités de remise d'une requête au Conseil constitutionnel](readable/2026/2026-09-28-senatoriales-sous-prefecture-corte-modalites-saisine-cc.md)
+- [Interaction lisible — Statut de résident / test d’effectivité](readable/2026/2026-09-22-statut-resident-effectivite.md)
 - [Interaction Packets — Tableau de bord (JHR)](dashboard.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)
 <!-- END_AUTO: backlinks -->

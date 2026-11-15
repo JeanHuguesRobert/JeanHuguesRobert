@@ -276,11 +276,10 @@ Les corrections doivent rester visibles lorsqu’elles sont importantes.
 - [Individual and Collective Digital Twins](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/individual_and_collective_digital_twins.md)
 - [Interaction lisible — Clinique du droit / Université de Corse](readable/2026/2026-03-11-clinique-du-droit-cooperation.md)
 - [Interaction lisible — Courrier public aux parlementaires corses (projet de loi constitutionnelle)](readable/2026/2026-05-24-courrier_parlementaires.md)
-- [Interaction lisible — Demande d'audience / processus constitutionnel Corse (Florent Boudié)](readable/2026/2026-05-25-demande_audience_boudie.md)
+- [Interaction lisible — Demande de reproduction Rossi 1900 à la BnF](readable/2026/2026-10-14-rossi-bnf-reproduction.md)
 - [Interaction lisible — Session MareNostrum / Université de Corse](readable/2026/2026-05-04-session_marenostrum.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](../research/index.md)
 <!-- END_AUTO: backlinks -->
-
 ## Actualité vérifiée du 14 octobre 2026 — Commission des lois du Sénat
 
 Une demande du secrétariat de la commission des lois sollicitait la transmission en format Word d'une contribution C.O.R.S.I.C.A. relative au projet constitutionnel n° 782. Réponse envoyée à 12 h 22 avec **une seule pièce Word**. Les PDF et Markdown ont été conservés dans un brouillon distinct non envoyé. La réception définitive, l'exploitation parlementaire et tout dépôt de l'amendement citoyen sont **non établis**. Voir le [registre chronologique public](mail_trace.md) et les [sources documentaires du dossier sénatorial](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/dossier_rapporteur_senat_2026-10-09.md).

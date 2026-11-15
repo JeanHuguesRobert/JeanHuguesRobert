@@ -298,6 +298,7 @@ Status: public and versioned; no official parliamentary filing or adoption is do
 ### Backlinks
 
 *These documents link to this file:*
+- [Couvent des Capucins de Corte — foncier et emprises](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/lieux/couvent-des-capucins/foncier.md)
 - [Agent Brief — Representing Jean Hugues Noël Robert](research/agent_brief.md)
 - [Corpus Start Here — Carte globale du Corpus](research/corpus-map.md)
 - [Jean Hugues Noël Robert, baron Mariani](README.md)
