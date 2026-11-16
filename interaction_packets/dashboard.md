@@ -96,6 +96,7 @@ ni `mail_trace.md` comme traces documentaires.
 
 | ID | Date | Sujet | Interlocuteur | Statut | Divulgation | Paquet | Copie lisible | Copie brute |
 |---|---:|---|---|---|---|---|---|---|
+| 2026-11-16-001 | 2026-11-16 | Inria–Hivenet — demande documentaire Alvearium et CUPSELI | Inria — PRADA (Mme Amandine Deniau) | Envoi vérifié le 16/11 à 17:24:56 CET ; réponse documentaire attendue, réception non établie | D3 | [YAML](./packets/2026/2026-11-16-inria-hivenet-demande-documentaire.yaml) | [Lisible](./readable/2026/2026-11-16-inria-hivenet-demande-documentaire.md) | — |
 | 2026-10-22-001 | 2026-10-22 | CADA — avis demandé sur les traces du courriel vidéo du 11 septembre | CADA — secrétariat général | Accusé de réception du 22/10 ; échec limité à une adresse en copie ; avis sur le fond non retrouvé au 26/10 | D2 | [YAML](./packets/2026/2026-10-22-cada-avis-courriel-video.yaml) | [Lisible (métadonnées)](./readable/2026/2026-10-22-cada-avis-courriel-video.md) | — |
 | 2026-10-21-001 | 2026-10-21 | Article 72-5 — transmission de l'amendement d'effectivité | Wanda Mastor — Université de Corse | Courriel et PDF envoyés le 21/10 ; aucune réponse retrouvée dans Gmail du 21 au 26/10 | D4 | — | — | — |
 | 2026-10-14-001 | 2026-10-14 | Rossi 1900 — demande de reproduction des pages 136–141 | BnF reproduction (Institut Mariani en copie) | Réponse reçue le 20 octobre : accès Gallica et modalités de reproduction communiqués | D3 | [YAML](./packets/2026/2026-10-14-rossi-bnf-reproduction.yaml) | [Lisible](./readable/2026/2026-10-14-rossi-bnf-reproduction.md) | — |
