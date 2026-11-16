@@ -7,9 +7,9 @@ correspondent: "Témoin privé — identité conservée hors registre public"
 principal: "Jean Hugues Noël Robert"
 disclosure: "D2"
 visibility: "public"
-status: "reports received — field verification not established"
+status: "field visit reported — animal in good condition on 2026-11-16"
 current_status:
-  label: "Deux signalements avec photographies reçus les 1er et 14 novembre 2026"
+  label: "Visite du 16 novembre : Rossignol en pleine forme selon son responsable, retour au terrain Casteli Pochon"
 timeline:
   - event: "report_received"
     at: "2026-11-01T16:16:22+01:00"
@@ -17,12 +17,29 @@ timeline:
   - event: "report_received"
     at: "2026-11-14T14:00:16+01:00"
     detail: "Message intitulé « Rossignol est coincé », accompagné de deux photographies."
+follow_up:
+  - date: "2026-11-16"
+    event: "field_visit"
+    source_type: "témoignage direct du responsable de Rossignol"
+    detail: >-
+      Jean Hugues Noël Robert rapporte une visite à Rossignol, une sortie
+      avec lui jusqu'au pont de Baliri, puis son réattachement au terrain
+      Casteli Pochon. Il décrit Rossignol comme « en pleine forme ».
+    bridge_context: >-
+      Selon le même témoignage, le pont de Baliri a été endommagé
+      par une crue récente du Tavignanu ; état de l'ouvrage non
+      vérifié indépendamment dans ce suivi.
+    evidentiary_scope: >-
+      Observation de terrain rapportée directement par le responsable,
+      non constat vétérinaire et non preuve de l'état de l'animal
+      aux dates des signalements antérieurs.
 checked_at: "2026-11-16"
-source_provenance: "Gmail ; trois images reçues et consultées, non publiées"
+source_provenance: "Gmail : trois images reçues et consultées, non publiées ; complément de terrain communiqué par le responsable le 16 novembre 2026"
 observation_boundary: >-
   Les photographies montrent l'animal debout à des instants distincts ; elles
   ne permettent pas, à elles seules, de déterminer la durée ou la gravité
-  d'une éventuelle entrave ni son état actuel.
+  d'une éventuelle entrave. La visite rapportée le 16 novembre renseigne
+  sur l'état observé ce jour-là, sans invalider rétroactivement ces alertes.
 privacy_boundary: >-
   Ne pas publier l'identité ni l'adresse personnelle de l'expéditeur, ni les
   photographies jointes, sans décision spécifique.
@@ -30,5 +47,5 @@ linked_interactions:
   - "2026-10-07-005"
 register: "../../mail_trace.md"
 next_watch:
-  - "Vérifier sur place l'état actuel de Rossignol, sa longe et la disponibilité d'eau et de nourriture"
-  - "Documenter toute intervention effective distinctement du simple signalement"
+  - "Surveiller les conditions d'attache après le retour au terrain Casteli Pochon"
+  - "Documenter séparément d'éventuels incidents ultérieurs et leur résolution"
