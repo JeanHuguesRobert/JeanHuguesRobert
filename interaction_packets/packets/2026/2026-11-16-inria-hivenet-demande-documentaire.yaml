@@ -1,0 +1,64 @@
+id: "2026-11-16-001"
+date: "2026-11-16"
+time: "17:24:56"
+timezone: "Europe/Paris"
+channel: "email"
+direction: "outbound"
+subject: "Collaborations Inria–Hivenet — Alvearium et CUPSELI — demande documentaire"
+correspondent: "Inria — personne responsable de l'accès aux documents administratifs (PRADA)"
+principal: "Jean Hugues Noël Robert"
+mandate: "personal"
+disclosure: "D3"
+visibility: "public"
+source_register: "public"
+status: "sent — documentary response pending"
+current_status:
+  label: "Demande envoyée le 16 novembre 2026 ; réponse documentaire attendue"
+  evidence_boundary: "Le libellé Gmail SENT atteste l'expédition depuis le compte, pas la remise au destinataire ni l'instruction par Inria."
+purpose: >-
+  Comprendre à partir de pièces existantes les contributions, financements, droits
+  d'exploitation, modalités de publication et résultats scientifiques des collaborations
+  Inria–Hivenet, notamment Alvearium et CUPSELI.
+request_documents:
+  - "Conventions de collaboration, annexes et avenants"
+  - "Documents de financement et de moyens humains, techniques et matériels"
+  - "Accords de propriété intellectuelle, droits d'utilisation et valorisation"
+  - "Inventaires de logiciels, prototypes et livrables, références et licences"
+  - "Rapports scientifiques et techniques achevés et bilans d'étape"
+legal_basis:
+  - "CRPA L.300-2"
+  - "CRPA L.311-1 et suivants"
+priority: "Conventions et annexes relatives à la diffusion et à l'exploitation des résultats"
+timeline:
+  - event: "sent"
+    at: "2026-11-16T17:24:56+01:00"
+    channel: "email"
+    recipient: "prada@inria.fr"
+    attachments: false
+    source: "Gmail : message trouvé dans Envoyés, label SENT, contrôlé le 16/11/2026"
+checked_at: "2026-11-16"
+observation_scope: "Gmail : vérification de l'envoi et recherche de messages provenant de prada@inria.fr depuis le 15/11/2026"
+reply_detected: false
+reply_status_note: "Aucune réponse provenant de prada@inria.fr trouvée dans la recherche ciblée lors du contrôle ; autres expéditeurs et canaux non exclus."
+message_identifiers: "Conservés dans Gmail, non publiés"
+public_summary: >-
+  Demande de communication électronique adressée à la PRADA d'Inria sur les
+  collaborations scientifiques avec Hivenet (Alvearium, CUPSELI). Objet :
+  conventions, financements et ressources, propriété intellectuelle,
+  licences, inventaires de codes et rapports d'exécution. Envoi confirmé
+  par Gmail ; réception, instruction et réponse au fond non établies.
+linked_interactions:
+  - "2026-07-21-001"
+related_context: "Enquête documentaire sur le transfert de résultats scientifiques vers l'industrie ; sans préjuger du régime de valorisation effectivement convenu."
+readable: "../../readable/2026/2026-11-16-inria-hivenet-demande-documentaire.md"
+register: "../../mail_trace.md"
+next_watch:
+  - "Accusé de réception, éventuelle demande de précision ou orientation vers un service compétent"
+  - "Communication des conventions, annexes, inventaires de logiciels et autres documents sollicités"
+  - "À défaut de réponse, réexamen du suivi à l'expiration du délai réglementaire d'un mois"
+methodological_note:
+  fact_interpretation_boundary: >-
+    Ne pas assimiler une absence de réponse trouvée dans une recherche Gmail
+    à un silence institutionnel établi. Ne pas assimiler l'existence d'une
+    coopération scientifique à une irrégularité dans sa valorisation.
+  raw_message_publication: "non ; conservation dans Gmail"
