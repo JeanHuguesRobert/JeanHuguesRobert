@@ -20,8 +20,8 @@ timeline:
   - event: "secretariat_acknowledgement"
     at: "2026-10-22T09:48:55+02:00"
     detail: "Le secrétariat général confirme la réception du courriel et indique qu'aucun double postal n'est utile."
-checked_at: "2026-10-26"
-observation_scope: "Recherche Gmail ciblée depuis le 20 octobre 2026 ; aucun avis sur le fond retrouvé."
+checked_at: "2026-11-16"
+observation_scope: "Recherche Gmail ciblée le 16 novembre 2026 : aucun avis ultérieur du domaine cada.fr retrouvé depuis l’accusé du 22 octobre ; autres canaux non exclus."
 evidence_boundary: "L'accusé de réception ne vaut ni avis rendu, ni preuve d'enregistrement formel du dossier."
 linked_interactions:
   - "2026-09-16-003"
