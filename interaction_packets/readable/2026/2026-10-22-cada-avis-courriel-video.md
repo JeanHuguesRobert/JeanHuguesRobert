@@ -25,6 +25,6 @@ Le 22 octobre 2026 à **09:48:17 CEST**, une demande d'avis a été envoyée à 
 
 Une notification d'échec à **09:48:31 CEST** concerne **uniquement l'adresse secondaire en copie** `cada@mail.cada.fr` (résolution DNS), et ne doit pas être interprétée comme un échec de la saisine principale à `cada@cada.fr`. L'accusé du secrétariat atteste la réception du courriel, **pas** l'émission d'un avis, la recevabilité de la saisine ou son enregistrement sous une référence.
 
-Contrôle Gmail ciblé du **26 octobre 2026** : aucun avis sur le fond ni référence de dossier supplémentaire retrouvés. Les canaux hors Gmail ne sont pas couverts. Aucun délai de réponse substantielle n'est calculable à ce stade.
+Contrôles Gmail ciblés des **26 octobre et 16 novembre 2026** : aucun avis sur le fond ni référence de dossier supplémentaire retrouvés depuis l'accusé du 22 octobre. Les canaux hors Gmail ne sont pas couverts. Aucun délai de réponse substantielle n'est calculable à ce stade.
 
 Voir [le paquet YAML](../../packets/2026/2026-10-22-cada-avis-courriel-video.yaml) et [le registre](../../mail_trace.md).
