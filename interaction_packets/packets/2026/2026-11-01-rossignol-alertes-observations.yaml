@@ -1,0 +1,34 @@
+id: "2026-11-01-001"
+date: "2026-11-01"
+channel: "email"
+direction: "inbound"
+subject: "Rossignol — signalements illustrés d'une possible entrave"
+correspondent: "Témoin privé — identité conservée hors registre public"
+principal: "Jean Hugues Noël Robert"
+disclosure: "D2"
+visibility: "public"
+status: "reports received — field verification not established"
+current_status:
+  label: "Deux signalements avec photographies reçus les 1er et 14 novembre 2026"
+timeline:
+  - event: "report_received"
+    at: "2026-11-01T16:16:22+01:00"
+    detail: "Message intitulé « Âne entravé », accompagné d'une photographie."
+  - event: "report_received"
+    at: "2026-11-14T14:00:16+01:00"
+    detail: "Message intitulé « Rossignol est coincé », accompagné de deux photographies."
+checked_at: "2026-11-16"
+source_provenance: "Gmail ; trois images reçues et consultées, non publiées"
+observation_boundary: >-
+  Les photographies montrent l'animal debout à des instants distincts ; elles
+  ne permettent pas, à elles seules, de déterminer la durée ou la gravité
+  d'une éventuelle entrave ni son état actuel.
+privacy_boundary: >-
+  Ne pas publier l'identité ni l'adresse personnelle de l'expéditeur, ni les
+  photographies jointes, sans décision spécifique.
+linked_interactions:
+  - "2026-10-07-005"
+register: "../../mail_trace.md"
+next_watch:
+  - "Vérifier sur place l'état actuel de Rossignol, sa longe et la disponibilité d'eau et de nourriture"
+  - "Documenter toute intervention effective distinctement du simple signalement"
