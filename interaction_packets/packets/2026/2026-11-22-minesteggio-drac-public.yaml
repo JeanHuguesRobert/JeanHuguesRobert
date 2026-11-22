@@ -1,0 +1,44 @@
+id: "2026-11-22-001"
+date: "2026-11-22"
+time: "11:04:25"
+timezone: "Europe/Paris"
+channel: "email"
+direction: "outbound"
+subject: "Minesteggio — inscription MH publiée et relation avec la DRAC Corse"
+correspondent: "DRAC Corse — conservation régionale des monuments historiques"
+principal: "Jean Hugues Noël Robert"
+mandate: "personal"
+disclosure: "D3"
+visibility: "public"
+source_register: "public"
+status: "sent — no reply verified at record creation"
+current_status:
+  label: "Arrêté publié, prise de contact de suivi envoyée"
+  evidence_boundary: "L'envoi est vérifié dans Gmail ; la réception, la lecture et une réponse à ce courriel ne sont pas établies."
+legal_status:
+  instrument: "Arrêté d'inscription au titre des monuments historiques R20-2026-09-21-00003"
+  signed_at: "2026-09-21"
+  published_at: "2026-09-24"
+  publication: "Recueil des actes administratifs de Corse R20-2026-080"
+  source: "https://politique.pappers.fr/commune/document/3c1b99a6fc76eb7aedbe9f3597d44e92"
+public_summary: >-
+  Le 22 novembre 2026, Jean Hugues Noël Robert remercie son interlocutrice
+  de la DRAC Corse pour l'accompagnement de la protection de Minesteggio
+  et confirme avoir retrouvé la publication de l'arrêté d'inscription
+  du 21 septembre 2026 au recueil du 24 septembre 2026.
+  Cette notice ne reproduit pas les autres sujets privés du courriel mixte.
+timeline:
+  - event: "sent"
+    at: "2026-11-22T11:04:25+01:00"
+    channel: "email"
+    recipient: "DRAC Corse — CRMH"
+    source: "Gmail SENT, contrôle du 22 novembre 2026"
+checked_at: "2026-11-22"
+source_message: "Gmail, identifiant exact conservé exclusivement dans le registre privé"
+redaction:
+  source_is_mixed: true
+  withheld: "Autre sujet patrimonial, informations de parenté, identité et mise en copie d'un tiers, démarches et sollicitation associées."
+  private_counterpart: "Registre privé — interaction du 22 novembre 2026 relative au dossier funéraire"
+next_watch:
+  - "Réponse de la DRAC sur le suivi de Minesteggio, si elle comporte un élément nouveau"
+  - "Ne pas publier les éléments privés de la correspondance mixte"
