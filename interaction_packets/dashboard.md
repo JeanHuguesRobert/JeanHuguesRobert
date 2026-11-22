@@ -96,6 +96,7 @@ ni `mail_trace.md` comme traces documentaires.
 
 | ID | Date | Sujet | Interlocuteur | Statut | Divulgation | Paquet | Copie lisible | Copie brute |
 |---|---:|---|---|---|---|---|---|---|
+| 2026-11-22-001 | 2026-11-22 | Minesteggio — inscription MH publiée, suivi DRAC | DRAC Corse — CRMH | Envoi du 22/11 à 11:04:25 CET vérifié ; volet privé du courriel mixte exclu de cette projection | D3 | [YAML](./packets/2026/2026-11-22-minesteggio-drac-public.yaml) | — | — |
 | 2026-11-16-001 | 2026-11-16 | Inria–Hivenet — demande documentaire Alvearium et CUPSELI | Inria — PRADA (Mme Amandine Deniau) | Envoi vérifié le 16/11 à 17:24:56 CET ; réponse documentaire attendue, réception non établie | D3 | [YAML](./packets/2026/2026-11-16-inria-hivenet-demande-documentaire.yaml) | [Lisible](./readable/2026/2026-11-16-inria-hivenet-demande-documentaire.md) | — |
 | 2026-11-13-001 | 2026-11-13 | ADEME Bénéfriches — retour sur trois évaluations | ADEME — programme Bénéfriches | Sollicitation reçue le 13/11, réponse souhaitée avant le 19/11 ; réponse non retrouvée au 16/11 | D3 | [YAML](./packets/2026/2026-11-13-ademe-benefriches-retour.yaml) | [Lisible](./readable/2026/2026-11-13-ademe-benefriches-retour.md) | — |
 | 2026-11-01-001 | 2026-11-01 | Rossignol — alertes reçues en novembre | Témoin privé (anonymisé) | Alertes illustrées des 01/11 et 14/11 ; visite du 16/11 : Rossignol décrit « en pleine forme » et rattaché à Casteli Pochon ; photos non publiées | D2 | [YAML](./packets/2026/2026-11-01-rossignol-alertes-observations.yaml) | — | — |
