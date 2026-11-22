@@ -1,0 +1,49 @@
+id: "2026-11-22-002"
+date: "2026-11-22"
+time: "12:43:18"
+timezone: "Europe/Paris"
+channel: "email"
+direction: "outbound"
+subject: "ORELI — conditions réglementaires applicables à la rénovation du château Mariani (Corte)"
+correspondent: "Agence d'urbanisme et d'énergie de la Corse (AUE)"
+principal: "Jean Hugues Noël Robert"
+mandate: "personal — project of general patrimonial interest"
+disclosure: "D3"
+visibility: "public"
+source_register: "public"
+status: "sent — response not yet verified"
+current_status:
+  label: "Demande écrite des règles ORELI envoyée à l'AUE"
+  evidence_boundary: "L'envoi est vérifié dans Gmail (SENT). Ni réception effective par l'AUE, ni examen, ni réponse au fond établis."
+public_summary: >-
+  Le 22 novembre 2026, demande à l'AUE des conditions d'éligibilité,
+  justificatifs immobiliers et techniques, règlements, annexes,
+  cahiers des charges et instructions applicables au dispositif ORELI
+  pour la rénovation énergétique du seul deuxième étage du château Mariani
+  à Minesteggio (Corte), destiné à devenir la résidence principale du demandeur.
+  Le bâtiment est partiellement inscrit MH (façades et toitures, non les intérieurs).
+  L'étage comporte environ 80 m² au total, dont 70 m² habitables, peu isolés.
+  Demande explicite de communication électronique de documents administratifs
+  au titre des articles L. 311-1 et suivants du CRPA, sans mention d'un
+  différend avec un opérateur local.
+context:
+  - "Château Mariani — domaine de Minesteggio, Corte"
+  - "Arrêté MH R20-2026-09-21-00003 signé le 21 septembre 2026"
+  - "Projet du Musée Mariani des Possibles : rez-de-chaussée et premier étage destinés à l'accueil muséal, distincts du logement envisagé au deuxième étage"
+timeline:
+  - event: "sent"
+    at: "2026-11-22T12:43:18+01:00"
+    channel: "email"
+    recipient: "aue@isula.corsica"
+    source: "Gmail SENT, message 1a203116057f71d0"
+checked_at: "2026-11-22"
+source_message: "Gmail SENT — 1a203116057f71d0"
+source_thread: "1a2030eaa85caeab"
+source_url: "https://mail.google.com/mail/u/?authuser=jeanhuguesrobert%40gmail.com#all/1a203116057f71d0"
+next_watch:
+  - "Réponse de l'AUE sur les règles et pièces applicables à un seul étage dans un bâtiment partiellement MH"
+  - "Communication des textes ou liens directs des documents administratifs demandés"
+  - "En cas de silence ou refus sur les documents, étudier seulement alors l'étape CADA"
+related:
+  - "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/musee/manuscript/n1/01-minesteggio-et-patrimoine.md"
+  - "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/packets/2026/2026-11-22-minesteggio-drac-public.yaml"
